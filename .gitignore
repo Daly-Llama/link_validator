@@ -1,0 +1,13 @@
+# --- Python basics ---
+__pycache__/
+*.pyc
+
+# --- Virtual environment ---
+.venv/
+
+# --- PyCharm project files ---
+.idea/
+
+# --- Restricted data (DO NOT COMMIT) ---
+raw_data/html/
+raw_data/json/

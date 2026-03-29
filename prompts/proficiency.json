@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "name": "proficiency",
+  "items": {
+    "1": { "name": "novice", "value": "has limited technical understanding", "weight": 0.40 },
+    "2": { "name": "intermediate", "value": "has moderate technical familiarity", "weight": 0.35 },
+    "3": { "name": "power_user", "value": "has strong technical proficiency", "weight": 0.15 },
+    "4": { "name": "overconfident_user", "value": "overestimates their technical ability", "weight": 0.10 }
+  }
+}

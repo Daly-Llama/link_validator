@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "formal", "value": "formal and professional", "weight": 0.15 },
+    "2": { "name": "casual", "value": "casual conversational", "weight": 0.15 },
+    "3": { "name": "terse", "value": "short and minimal", "weight": 0.15 },
+    "4": { "name": "verbose", "value": "overly detailed", "weight": 0.10 },
+    "5": { "name": "emotional", "value": "noticeably emotional", "weight": 0.10 },
+    "6": { "name": "neutral", "value": "even and factual", "weight": 0.15 },
+    "7": { "name": "friendly", "value": "warm and approachable", "weight": 0.10 },
+    "8": { "name": "curt", "value": "short and minimally polite", "weight": 0.10 }
+  }
+}

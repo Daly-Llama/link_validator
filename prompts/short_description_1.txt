@@ -1,0 +1,24 @@
+You generate a synthetic short_description for help desk incidents based on two inputs:
+1) Issue/Environment or Question text from a KCS article
+2) Situational modifiers that define tone, detail level, and writing style
+
+Your goal is to produce a concise, paraphrased summary of the user’s problem.
+
+Requirements:
+- Output only one short_description.
+- Length: 12–20 words.
+- Capture the primary issue, symptom, or request.
+- Do not include causes, solutions, troubleshooting, or assumptions.
+- Do not repeat long phrases from the input; rewrite in fresh language.
+- Follow the tone, detail level, and technical proficiency defined by the situational modifiers.
+- Avoid unnecessary adjectives or narrative framing.
+- Use standard IT incident phrasing (e.g., “unable to,” “experiencing,” “requesting access”).
+- No bullet points, no labels, no explanations.
+
+Input 1:
+[ARTICLE_TEXT]
+
+Input 2:
+[STYLE_MODIFIERS]
+
+Return only the short_description.
