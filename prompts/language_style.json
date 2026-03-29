@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "items": {
-    "1": { "name": "native_english", "value": "natural fluent English", "weight": 0.60 },
-    "2": { "name": "non_native_english", "value": "non-native English phrasing", "weight": 0.15 },
-    "3": { "name": "light_typos", "value": "a few minor typos", "weight": 0.15 },
-    "4": { "name": "moderate_typos", "value": "noticeable spelling mistakes", "weight": 0.10 }
-  }
-}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "irrelevant_details", "value": "irrelevant details included", "weight": 0.20 },
+    "2": { "name": "repeated_phrases", "value": "repeated wording or phrases", "weight": 0.20 },
+    "3": { "name": "contradictory_sequencing", "value": "contradictory ordering", "weight": 0.15 },
+    "4": { "name": "uncertain_terminology", "value": "uncertain technical terminology", "weight": 0.25 },
+    "5": { "name": "redundant_information", "value": "redundant repeated information", "weight": 0.20 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "formal", "value": "a formal and professional", "weight": 0.25 },
+    "2": { "name": "casual", "value": "a casual conversational", "weight": 0.20 },
+    "3": { "name": "terse", "value": "a short and minimal", "weight": 0.20 },
+    "4": { "name": "neutral", "value": "an even and factual", "weight": 0.15 },
+    "5": { "name": "friendly", "value": "a warm and approachable", "weight": 0.10 },
+    "6": { "name": "curt", "value": "a short and minimally polite", "weight": 0.10 }
+  }
+}

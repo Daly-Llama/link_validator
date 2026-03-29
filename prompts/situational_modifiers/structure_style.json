@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "mostly_chronological", "value": "bullet points", "weight": 0.25 },
+    "2": { "name": "symptom_first", "value": "symptom-first manner", "weight": 0.25 },
+    "3": { "name": "fragmented", "value": "short fragmented statements", "weight": 0.20 },
+    "4": { "name": "narrative", "value": "a narrative style", "weight": 0.20 },
+    "5": { "name": "mixed_structure", "value": "a mixed and uneven structure", "weight": 0.10 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "english", "value": "English", "weight": 0.75 },
+    "2": { "name": "spanish", "value": "Spanish", "weight": 0.15 },
+    "3": { "name": "non_english", "value": "non-English", "weight": 0.10 }
+  }
+}

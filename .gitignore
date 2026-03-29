@@ -11,3 +11,6 @@ __pycache__/
 # --- Restricted data (DO NOT COMMIT) ---
 raw_data/html/
 raw_data/json/
+
+# --- API Keys
+OPENAI.json

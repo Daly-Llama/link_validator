@@ -1,0 +1,28 @@
+You generate a synthetic ServiceNow incident description using two inputs:
+1) Issue/Environment or Question text from a KCS article
+2) Situational modifiers that define tone, detail level, and writing style
+
+Your task is to produce a realistic, paraphrased narrative describing what the user is experiencing.
+
+Requirements:
+- Output 2–4 sentences, each clear and factual.
+- Summarize what the user was trying to do, what went wrong, and any observable symptoms.
+- Include optional contextual details (timing, frequency, environment) only if implied by the input.
+- Do not include solutions, troubleshooting steps, causes, or recommendations.
+- Do not invent specific product names, system versions, or internal tools not present in the input.
+- Paraphrase the content; avoid repeating long phrases from the source text.
+- Follow the tone, detail level, and technical proficiency defined by the situational modifiers.
+- Keep the style aligned with typical ServiceNow incident descriptions.
+- Multiline output is allowed.
+- No bullet points, no labels, no explanations, no meta‑comments.
+
+---
+Input 1:
+[ARTICLE_TEXT]
+
+---
+Input 2:
+[SITUATIONAL_MODIFIERS]
+
+---
+Return only the incident description.

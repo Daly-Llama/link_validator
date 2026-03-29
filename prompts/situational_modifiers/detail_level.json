@@ -3,6 +3,6 @@
   "items": {
     "1": { "name": "vague", "value": "very limited detail", "weight": 0.30 },
     "2": { "name": "moderately_detailed", "value": "reasonable amount of detail", "weight": 0.50 },
-    "3": { "name": "overly_detailed", "value": "excessive unnecessary detail", "weight": 0.20 },
+    "3": { "name": "overly_detailed", "value": "excessive unnecessary detail", "weight": 0.20 }
   }
 }

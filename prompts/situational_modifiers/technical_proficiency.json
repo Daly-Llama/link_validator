@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "proficiency",
+  "items": {
+    "1": { "name": "novice", "value": "limited technical understanding", "weight": 0.40 },
+    "2": { "name": "intermediate", "value": "moderate technical familiarity", "weight": 0.35 },
+    "3": { "name": "power_user", "value": "strong technical proficiency", "weight": 0.25 }
+  }
+}

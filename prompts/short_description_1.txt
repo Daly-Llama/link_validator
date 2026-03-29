@@ -15,10 +15,13 @@ Requirements:
 - Use standard IT incident phrasing (e.g., “unable to,” “experiencing,” “requesting access”).
 - No bullet points, no labels, no explanations.
 
+---
 Input 1:
 [ARTICLE_TEXT]
 
+---
 Input 2:
-[STYLE_MODIFIERS]
+[SITUATIONAL_MODIFIERS]
 
+---
 Return only the short_description.

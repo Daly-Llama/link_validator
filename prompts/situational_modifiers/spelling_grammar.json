@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "error_free", "value": "no spelling errors", "weight": 0.35 },
+    "2": { "name": "light_typos", "value": "a few minor typos", "weight": 0.30 },
+    "3": { "name": "moderate_typos", "value": "several noticeable typos", "weight": 0.15 },
+    "4": { "name": "distracting_grammar", "value": "distracting grammar usage", "weight": 0.10 },
+    "5": { "name": "poor_grammar", "value": "poor spelling and grammar", "weight": 0.5 }
+  }
+}
