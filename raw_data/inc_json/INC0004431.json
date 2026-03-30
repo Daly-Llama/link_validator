@@ -1,0 +1,20 @@
+{
+  "number": "INC0004431",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB09027",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for Microsoft 365 Copilot license submission\n\nfull_description_text:  \nAn end user has submitted a request for a Microsoft 365 Copilot license through the self-service form. They are eager to utilize the features of Copilot to enhance their productivity and streamline their tasks. However, they are currently unable to access the necessary tools and are looking for assistance in obtaining the appropriate license. This request highlights their need for improved functionality within their Microsoft 365 environment.",
+  "short_description": "Request for Microsoft 365 Copilot license submission",
+  "description": "An end user has submitted a request for a Microsoft 365 Copilot license through the self-service form. They are eager to utilize the features of Copilot to enhance their productivity and streamline their tasks. However, they are currently unable to access the necessary tools and are looking for assistance in obtaining the appropriate license. This request highlights their need for improved functionality within their Microsoft 365 environment."
+}

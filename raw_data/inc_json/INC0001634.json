@@ -1,0 +1,20 @@
+{
+  "number": "INC0001634",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01437",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help copying emails to a new account\n\nfull_description_text:  \nThe user wants to have a copy of their emails. They asked if we can transfer their emails to a new account. It seems like they need help with getting their emails backed up or exported.",
+  "short_description": "Need help copying emails to a new account",
+  "description": "The user wants to have a copy of their emails. They asked if we can transfer their emails to a new account. It seems like they need help with getting their emails backed up or exported."
+}

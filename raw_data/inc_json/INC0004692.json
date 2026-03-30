@@ -1,0 +1,20 @@
+{
+  "number": "INC0004692",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09770",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote card reader on multifunction copier is not functioning.\n\nfull_description_text: The multifunction copier is currently unusable due to an issue with the card reader. An error message indicates that the card reader cannot be recognized. The user is advised to disconnect and reconnect the device, but this has not resolved the problem. This situation is affecting the ability to use the copier effectively.",
+  "short_description": "Coyote card reader on multifunction copier is not functioning.",
+  "description": "The multifunction copier is currently unusable due to an issue with the card reader. An error message indicates that the card reader cannot be recognized. The user is advised to disconnect and reconnect the device, but this has not resolved the problem. This situation is affecting the ability to use the copier effectively."
+}

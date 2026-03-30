@@ -1,0 +1,20 @@
+{
+  "number": "INC0002864",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05130",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Telework policy and form location.\n\nfull_description_text: The user is asking for details on the Telework policy. They also want to know where to access the necessary form. This is important for their remote work setup. Please provide the relevant information quickly.",
+  "short_description": "Inquiry about Telework policy and form location.",
+  "description": "The user is asking for details on the Telework policy. They also want to know where to access the necessary form. This is important for their remote work setup. Please provide the relevant information quickly."
+}

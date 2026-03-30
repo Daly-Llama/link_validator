@@ -1,0 +1,20 @@
+{
+  "number": "INC0002087",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB02795",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to find link to access Banner HR Finance in SNAP.\n\nfull_description_text: \nEl usuario está tratando de acceder a Banner HR Finance a través de MyU Portal, pero no puede encontrar el enlace en SNAP. Esto le impide acceder a la información que necesita. Es importante resolver este problema para que el usuario pueda continuar con sus tareas.",
+  "short_description": "Unable to find link to access Banner HR Finance in SNAP.",
+  "description": "El usuario está tratando de acceder a Banner HR Finance a través de MyU Portal, pero no puede encontrar el enlace en SNAP. Esto le impide acceder a la información que necesita. Es importante resolver este problema para que el usuario pueda continuar con sus tareas."
+}

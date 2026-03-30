@@ -1,0 +1,20 @@
+{
+  "number": "INC0003723",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07846",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Google Blogger platform.\n\nfull_description_text:\n- The user was attempting to access the Google Blogger platform for content management.  \n- They encountered issues that prevented them from successfully logging in or navigating the site.  \n- This situation arose during a live phone call with the help desk analyst, who was providing assistance.  \n- The user expressed frustration over the inability to access their blogging account, which is critical for their ongoing projects.",
+  "short_description": "Difficulty accessing Google Blogger platform.",
+  "description": "- The user was attempting to access the Google Blogger platform for content management.  \n- They encountered issues that prevented them from successfully logging in or navigating the site.  \n- This situation arose during a live phone call with the help desk analyst, who was providing assistance.  \n- The user expressed frustration over the inability to access their blogging account, which is critical for their ongoing projects."
+}

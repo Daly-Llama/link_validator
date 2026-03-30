@@ -1,0 +1,20 @@
+{
+  "number": "INC0004042",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08270",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Selecting and deleting text in Word is confusing.\n\nfull_description_text:\n- User was trying to select some text in Word.  \n- They also wanted to delete it but didn't know how.  \n- There was some confusion about the steps to do this.  \n- The help desk analyst was assisting in a live chat.",
+  "short_description": "Selecting and deleting text in Word is confusing.",
+  "description": "- User was trying to select some text in Word.  \n- They also wanted to delete it but didn't know how.  \n- There was some confusion about the steps to do this.  \n- The help desk analyst was assisting in a live chat."
+}

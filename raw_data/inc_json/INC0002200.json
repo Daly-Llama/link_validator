@@ -1,0 +1,20 @@
+{
+  "number": "INC0002200",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB03154",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about the meanings of TD ticket statuses\n\nfull_description_text:  \n- The user submitted a ticket via the self-service form.  \n- They are unsure what each status of the ticket means.  \n- This lack of clarity is causing frustration and delays in understanding the ticket's progress.  \n- The user needs a clear explanation of the different statuses in TeamDynamix.",
+  "short_description": "Confusion about the meanings of TD ticket statuses",
+  "description": "- The user submitted a ticket via the self-service form.  \n- They are unsure what each status of the ticket means.  \n- This lack of clarity is causing frustration and delays in understanding the ticket's progress.  \n- The user needs a clear explanation of the different statuses in TeamDynamix."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003341",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB06603",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about educational release time application process\n\nfull_description_text:  \nUser asking about educational release time. They want to know how to apply for it. Also, they need information on requesting leave for class. The call was in a non-English language, making communication a bit difficult.",
+  "short_description": "Inquiry about educational release time application process",
+  "description": "User asking about educational release time. They want to know how to apply for it. Also, they need information on requesting leave for class. The call was in a non-English language, making communication a bit difficult."
+}

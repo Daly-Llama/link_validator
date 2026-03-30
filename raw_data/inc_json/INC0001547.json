@@ -1,0 +1,20 @@
+{
+  "number": "INC0001547",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB01169",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty converting a PDF document to a Word document without a subscription.\n\nfull_description_text:  \nThe user is attempting to convert a PDF file into a Word document using Adobe Acrobat and Microsoft Word. They are seeking guidance on how to perform this conversion process effectively, specifically without incurring any costs associated with a subscription service. The user has expressed a clear desire to understand the steps involved in this conversion, indicating a level of familiarity with both applications, yet they are facing challenges in executing the task as intended. It is important to note that the user is looking for a solution that does not require any financial commitment, which adds a layer of complexity to their request.",
+  "short_description": "Difficulty converting a PDF document to a Word document without a subscription.",
+  "description": "The user is attempting to convert a PDF file into a Word document using Adobe Acrobat and Microsoft Word. They are seeking guidance on how to perform this conversion process effectively, specifically without incurring any costs associated with a subscription service. The user has expressed a clear desire to understand the steps involved in this conversion, indicating a level of familiarity with both applications, yet they are facing challenges in executing the task as intended. It is important to note that the user is looking for a solution that does not require any financial commitment, which adds a layer of complexity to their request."
+}

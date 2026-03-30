@@ -1,0 +1,20 @@
+{
+  "number": "INC0002772",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB04839",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty requesting a Zoom appointment with the Writing Center\n\nfull_description_text:  \nUser wants to set up a Zoom appointment.  \nThey are trying to contact the Writing Center.  \nNeed to know the process for requesting this appointment.  \nUser is unsure how to proceed with the request.",
+  "short_description": "Difficulty requesting a Zoom appointment with the Writing Center",
+  "description": "User wants to set up a Zoom appointment.  \nThey are trying to contact the Writing Center.  \nNeed to know the process for requesting this appointment.  \nUser is unsure how to proceed with the request."
+}

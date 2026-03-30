@@ -1,0 +1,20 @@
+{
+  "number": "INC0002708",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04686",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need admin access to install software on lab computers.\n\nfull_description_text: User is unable to install software on lab PCs due to permission restrictions. They are requesting administrator access to proceed with the installation. This issue arose while trying to set up necessary applications on their USD computer.",
+  "short_description": "Need admin access to install software on lab computers.",
+  "description": "User is unable to install software on lab PCs due to permission restrictions. They are requesting administrator access to proceed with the installation. This issue arose while trying to set up necessary applications on their USD computer."
+}

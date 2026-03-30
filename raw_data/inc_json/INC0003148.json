@@ -1,0 +1,20 @@
+{
+  "number": "INC0003148",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05932",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble installing OriginPro 2021 on Windows computer\n\nfull_description_text: \nThe user was trying to install OriginPro 2021 on their Windows machine. They mentioned having difficulty with the installation process and were unsure of the steps to take. There were some language barriers during the call, making it hard to understand the exact problem. The user seemed frustrated and needed clear guidance on how to proceed.",
+  "short_description": "Trouble installing OriginPro 2021 on Windows computer",
+  "description": "The user was trying to install OriginPro 2021 on their Windows machine. They mentioned having difficulty with the installation process and were unsure of the steps to take. There were some language barriers during the call, making it hard to understand the exact problem. The user seemed frustrated and needed clear guidance on how to proceed."
+}

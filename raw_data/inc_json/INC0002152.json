@@ -1,0 +1,20 @@
+{
+  "number": "INC0002152",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02990",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Conference room TV has black lines on the display.\n\nfull_description_text: The TV in the USD Conference Room is not showing properly. When it is turned on, there are black lines covering half of the screen. This issue is affecting the ability to use the display for meetings.",
+  "short_description": "Conference room TV has black lines on the display.",
+  "description": "The TV in the USD Conference Room is not showing properly. When it is turned on, there are black lines covering half of the screen. This issue is affecting the ability to use the display for meetings."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001922",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB02291",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing self-service for class registration.\n\nfull_description_text: \nThe user is experiencing a significant issue while attempting to register for classes through the Self Service Banner platform. They are unsure of how to access the self-service registration feature, which is critical for their academic planning. This problem persists across all internet browsers, indicating a potential systemic issue rather than a browser-specific one. The user, whose primary language is not English, is finding it particularly challenging to navigate the registration process, leading to frustration and confusion during the call.",
+  "short_description": "Difficulty accessing self-service for class registration.",
+  "description": "The user is experiencing a significant issue while attempting to register for classes through the Self Service Banner platform. They are unsure of how to access the self-service registration feature, which is critical for their academic planning. This problem persists across all internet browsers, indicating a potential systemic issue rather than a browser-specific one. The user, whose primary language is not English, is finding it particularly challenging to navigate the registration process, leading to frustration and confusion during the call."
+}

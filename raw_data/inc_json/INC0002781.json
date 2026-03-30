@@ -1,0 +1,20 @@
+{
+  "number": "INC0002781",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB04862",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty setting up a home HotSpot with Verizon Jetpack.\n\nfull_description_text: The user is experiencing challenges while attempting to establish a home HotSpot using their Verizon Jetpack. They are unsure of the necessary steps to complete the setup process. This issue is impacting their ability to connect devices to the internet through the HotSpot.",
+  "short_description": "Difficulty setting up a home HotSpot with Verizon Jetpack.",
+  "description": "The user is experiencing challenges while attempting to establish a home HotSpot using their Verizon Jetpack. They are unsure of the necessary steps to complete the setup process. This issue is impacting their ability to connect devices to the internet through the HotSpot."
+}

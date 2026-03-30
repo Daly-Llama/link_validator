@@ -1,0 +1,20 @@
+{
+  "number": "INC0003262",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06289",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: User encounters indeterminate error in Titanium Scheduler.\n\nfull_description_text: User sees an error message in Titanium Scheduler. It says \"Indeterminate Error Type.\" The application may still work, but it suggests restarting. There is also an object reference issue.",
+  "short_description": "User encounters indeterminate error in Titanium Scheduler.",
+  "description": "User sees an error message in Titanium Scheduler. It says \"Indeterminate Error Type.\" The application may still work, but it suggests restarting. There is also an object reference issue."
+}

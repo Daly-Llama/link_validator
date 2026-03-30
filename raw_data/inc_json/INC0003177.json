@@ -1,0 +1,20 @@
+{
+  "number": "INC0003177",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB06013",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to enable Lockdown Browser for Chromebook in D2L.\n\nfull_description_text: The user is trying to enable the Lockdown Browser for their Chromebook within the D2L course. They are unsure of the steps required to do this and are looking for guidance. There seems to be confusion about the process, and they need assistance to proceed. The issue is specifically related to the integration of the browser with the D2L platform.",
+  "short_description": "Need to enable Lockdown Browser for Chromebook in D2L.",
+  "description": "The user is trying to enable the Lockdown Browser for their Chromebook within the D2L course. They are unsure of the steps required to do this and are looking for guidance. There seems to be confusion about the process, and they need assistance to proceed. The issue is specifically related to the integration of the browser with the D2L platform."
+}

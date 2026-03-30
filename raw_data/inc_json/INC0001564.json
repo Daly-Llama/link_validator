@@ -1,0 +1,20 @@
+{
+  "number": "INC0001564",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB01215",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance creating a DocuSign template for signatures.\n\nfull_description_text:\n- The user was on a call seeking help with DocuSign.  \n- They expressed a need to create a template specifically for electronic signatures.  \n- The request was made during a live conversation, indicating urgency and importance for their workflow.  \n- The user is familiar with the basic functions of DocuSign but requires guidance on template creation.",
+  "short_description": "Need assistance creating a DocuSign template for signatures.",
+  "description": "- The user was on a call seeking help with DocuSign.  \n- They expressed a need to create a template specifically for electronic signatures.  \n- The request was made during a live conversation, indicating urgency and importance for their workflow.  \n- The user is familiar with the basic functions of DocuSign but requires guidance on template creation."
+}

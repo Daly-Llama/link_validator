@@ -1,0 +1,20 @@
+{
+  "number": "INC0004745",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB09912",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with logging into YourFuture and understanding its functions.\n\nfull_description_text: User is having trouble logging into YourFuture. They want to know how to submit actions and recruit positions. Also, they need information about Performance Evaluations in this system. The user is not fluent in English, making it harder to explain their issues clearly.",
+  "short_description": "Issues with logging into YourFuture and understanding its functions.",
+  "description": "User is having trouble logging into YourFuture. They want to know how to submit actions and recruit positions. Also, they need information about Performance Evaluations in this system. The user is not fluent in English, making it harder to explain their issues clearly."
+}

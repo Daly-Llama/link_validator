@@ -1,0 +1,20 @@
+{
+  "number": "INC0004717",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09841",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in writing personal statements and networking effectively\n\nfull_description_text: The user, a student at the Center for Career Design, is struggling with how to craft a personal statement. They also expressed confusion about networking strategies. During the call, they mentioned feeling overwhelmed by the process and unsure of where to start. This situation is critical as it directly impacts their job and career preparation efforts.",
+  "short_description": "Difficulty in writing personal statements and networking effectively",
+  "description": "The user, a student at the Center for Career Design, is struggling with how to craft a personal statement. They also expressed confusion about networking strategies. During the call, they mentioned feeling overwhelmed by the process and unsure of where to start. This situation is critical as it directly impacts their job and career preparation efforts."
+}

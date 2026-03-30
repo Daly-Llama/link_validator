@@ -1,0 +1,20 @@
+{
+  "number": "INC0002528",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB04089",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for reimbursement of personally purchased IT equipment.\n\nfull_description_text:  \nUser bought an iPad with their personal credit card for work purposes.  \nThey are now looking for guidance on how to get reimbursed for this purchase.  \nAdditionally, they mentioned a CNC machine motion controller in their request.  \nThis indicates they may have multiple reimbursement needs related to personally purchased hardware.",
+  "short_description": "Request for reimbursement of personally purchased IT equipment.",
+  "description": "User bought an iPad with their personal credit card for work purposes.  \nThey are now looking for guidance on how to get reimbursed for this purchase.  \nAdditionally, they mentioned a CNC machine motion controller in their request.  \nThis indicates they may have multiple reimbursement needs related to personally purchased hardware."
+}

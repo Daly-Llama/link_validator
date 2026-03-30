@@ -1,0 +1,20 @@
+{
+  "number": "INC0001758",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01806",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Touchscreen pen on laptop not responding\n\nfull_description_text:  \nHey, so my touchscreen pen isn’t working at all. I’ve tried using it on my X1 yoga, but nothing happens. It’s super frustrating because I need it for my work!",
+  "short_description": "Touchscreen pen on laptop not responding",
+  "description": "Hey, so my touchscreen pen isn’t working at all. I’ve tried using it on my X1 yoga, but nothing happens. It’s super frustrating because I need it for my work!"
+}

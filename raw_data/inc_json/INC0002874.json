@@ -1,0 +1,20 @@
+{
+  "number": "INC0002874",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB05154",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to sign PDF without entering certificate password.\n\nfull_description_text:  \nUser trying to sign PDF.  \nGraduate School Approval Form.  \nCannot proceed without certificate password.  \nNeed help with this issue.",
+  "short_description": "Unable to sign PDF without entering certificate password.",
+  "description": "User trying to sign PDF.  \nGraduate School Approval Form.  \nCannot proceed without certificate password.  \nNeed help with this issue."
+}

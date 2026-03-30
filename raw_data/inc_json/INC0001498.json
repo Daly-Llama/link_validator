@@ -1,0 +1,20 @@
+{
+  "number": "INC0001498",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB01038",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble with KnowBe4 training answer boxes not accepting inputs.\n\nfull_description_text: \nSo, the user was trying to complete their KnowBe4 training, right? They were moving choices into the Do and Don’t boxes, but no matter what they did, it kept saying the answers were wrong. It’s really confusing because they thought they were doing it right, but it just wouldn’t work. They were really frustrated on the call, and it seemed like a simple issue, but it just wouldn’t get fixed.",
+  "short_description": "Trouble with KnowBe4 training answer boxes not accepting inputs.",
+  "description": "So, the user was trying to complete their KnowBe4 training, right? They were moving choices into the Do and Don’t boxes, but no matter what they did, it kept saying the answers were wrong. It’s really confusing because they thought they were doing it right, but it just wouldn’t work. They were really frustrated on the call, and it seemed like a simple issue, but it just wouldn’t get fixed."
+}

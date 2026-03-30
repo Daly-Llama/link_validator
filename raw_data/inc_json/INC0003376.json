@@ -1,0 +1,20 @@
+{
+  "number": "INC0003376",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06734",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing images in EAB Coyote Connections and StarRez application\n\nfull_description_text: \nDuring a call, the user reported that there are missing images in the EAB Coyote Connections. They also mentioned that the StarRez application is showing the same issue with missing images. This problem seems to be affecting their ability to view important content. The user is unsure why this is happening and needs assistance to resolve it.",
+  "short_description": "Missing images in EAB Coyote Connections and StarRez application",
+  "description": "During a call, the user reported that there are missing images in the EAB Coyote Connections. They also mentioned that the StarRez application is showing the same issue with missing images. This problem seems to be affecting their ability to view important content. The user is unsure why this is happening and needs assistance to resolve it."
+}

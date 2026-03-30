@@ -1,0 +1,20 @@
+{
+  "number": "INC0002539",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04120",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues accessing First Day Access materials on various platforms\n\nfull_description_text:  \nSo, the user was trying to get into their First Day Access materials but ran into a bunch of problems. They mentioned not being able to find their required online books and even faced a paywall when trying to access them. Plus, there was some confusion about merging multiple VitalSource accounts and the materials showing up incorrectly, like the wrong edition or courseware instead of just the eBook. It sounds pretty frustrating!",
+  "short_description": "Issues accessing First Day Access materials on various platforms",
+  "description": "So, the user was trying to get into their First Day Access materials but ran into a bunch of problems. They mentioned not being able to find their required online books and even faced a paywall when trying to access them. Plus, there was some confusion about merging multiple VitalSource accounts and the materials showing up incorrectly, like the wrong edition or courseware instead of just the eBook. It sounds pretty frustrating!"
+}

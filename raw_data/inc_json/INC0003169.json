@@ -1,0 +1,20 @@
+{
+  "number": "INC0003169",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05989",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Mail merge documents in Microsoft Word are not functioning properly.\n\nfull_description_text: During a recent call, the user expressed frustration with their mail merge documents in Microsoft Word. They mentioned that the documents are not working as expected, and they are unsure how to adjust the layout of their Word document. The user is looking for guidance on how to resolve these issues within their Office 365 environment.",
+  "short_description": "Mail merge documents in Microsoft Word are not functioning properly.",
+  "description": "During a recent call, the user expressed frustration with their mail merge documents in Microsoft Word. They mentioned that the documents are not working as expected, and they are unsure how to adjust the layout of their Word document. The user is looking for guidance on how to resolve these issues within their Office 365 environment."
+}

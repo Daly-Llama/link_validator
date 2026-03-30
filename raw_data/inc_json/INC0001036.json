@@ -1,0 +1,20 @@
+{
+  "number": "INC0001036",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00057",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to access mapped network drive on Windows.\n\nfull_description_text:\n- User cannot find the X drive in Windows 10 or 11.  \n- They want to check their user folder contents.  \n- This issue may affect their work with shared files.  \n- User is not fluent in English, which may complicate communication.",
+  "short_description": "Unable to access mapped network drive on Windows.",
+  "description": "- User cannot find the X drive in Windows 10 or 11.  \n- They want to check their user folder contents.  \n- This issue may affect their work with shared files.  \n- User is not fluent in English, which may complicate communication."
+}

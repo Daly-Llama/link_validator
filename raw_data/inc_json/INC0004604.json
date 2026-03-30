@@ -1,0 +1,20 @@
+{
+  "number": "INC0004604",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09472",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need guidance on requesting housing accommodation.\n\nfull_description_text:  \nI’m trying to figure out how to request a housing accommodation, but I'm not sure where to start. It seems like there should be a straightforward process, but I could use some clarity on the steps involved. Any insights on what information I need to provide or who I should contact would be really helpful.",
+  "short_description": "Need guidance on requesting housing accommodation.",
+  "description": "I’m trying to figure out how to request a housing accommodation, but I'm not sure where to start. It seems like there should be a straightforward process, but I could use some clarity on the steps involved. Any insights on what information I need to provide or who I should contact would be really helpful."
+}

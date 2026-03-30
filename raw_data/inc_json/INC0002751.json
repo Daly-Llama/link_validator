@@ -1,0 +1,20 @@
+{
+  "number": "INC0002751",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04786",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: \"Remember Me option fails in Internet Explorer, prompting push every login.\"\n\nfull_description_text:  \nEl usuario está experimentando un problema donde se le solicita enviar un push cada vez que inicia sesión. A pesar de seleccionar la opción \"Recuerdame por 30 días\", esta no parece funcionar en Internet Explorer. Esto está causando inconvenientes al tener que autenticar repetidamente.",
+  "short_description": "\"Remember Me option fails in Internet Explorer, prompting push every login.\"",
+  "description": "El usuario está experimentando un problema donde se le solicita enviar un push cada vez que inicia sesión. A pesar de seleccionar la opción \"Recuerdame por 30 días\", esta no parece funcionar en Internet Explorer. Esto está causando inconvenientes al tener que autenticar repetidamente."
+}

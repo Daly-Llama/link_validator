@@ -1,0 +1,20 @@
+{
+  "number": "INC0002147",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB02983",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty emailing students through Self Service Banner.\n\nfull_description_text: The user is trying to email their students using the Self Service Banner. They are also looking for a way to create a single email list for their cross-listed classes. The issue is preventing effective communication with students.",
+  "short_description": "Difficulty emailing students through Self Service Banner.",
+  "description": "The user is trying to email their students using the Self Service Banner. They are also looking for a way to create a single email list for their cross-listed classes. The issue is preventing effective communication with students."
+}

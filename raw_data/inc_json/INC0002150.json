@@ -1,0 +1,20 @@
+{
+  "number": "INC0002150",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB02987",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Package delivered to the wrong department.\n\nfull_description_text: \nA package was received by our department.  \nIt was intended for another department.  \nThis situation needs to be addressed promptly.  \nClarification on the delivery process may be required.",
+  "short_description": "Package delivered to the wrong department.",
+  "description": "A package was received by our department.  \nIt was intended for another department.  \nThis situation needs to be addressed promptly.  \nClarification on the delivery process may be required."
+}

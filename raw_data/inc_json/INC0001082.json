@@ -1,0 +1,20 @@
+{
+  "number": "INC0001082",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB00149",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to connect Fujitsu scanner to WebExtender on Windows.\n\nfull_description_text: So, the user was trying to connect their Fujitsu scanner to WebExtender, right? But they kept getting this annoying popup saying to \"Import New Page,\" and the scanner just wouldn't feed any paper. Plus, the scanner icon wasn't lighting up at all, which is super frustrating. It seems like something's definitely off with the connection on both Windows 7 and 10.",
+  "short_description": "Unable to connect Fujitsu scanner to WebExtender on Windows.",
+  "description": "So, the user was trying to connect their Fujitsu scanner to WebExtender, right? But they kept getting this annoying popup saying to \"Import New Page,\" and the scanner just wouldn't feed any paper. Plus, the scanner icon wasn't lighting up at all, which is super frustrating. It seems like something's definitely off with the connection on both Windows 7 and 10."
+}

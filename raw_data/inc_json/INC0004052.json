@@ -1,0 +1,20 @@
+{
+  "number": "INC0004052",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08286",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view page margins in the document.\n\nfull_description_text: So, like, the user was trying to see the margins on their page, right? They called in and were a bit confused, saying something about not knowing how to do it. It was kinda hard to understand because, you know, English isn’t their first language. They just kept asking, \"How do I see the margins?\" and it was a little all over the place, like they were looking for a button or something.",
+  "short_description": "Unable to view page margins in the document.",
+  "description": "So, like, the user was trying to see the margins on their page, right? They called in and were a bit confused, saying something about not knowing how to do it. It was kinda hard to understand because, you know, English isn’t their first language. They just kept asking, \"How do I see the margins?\" and it was a little all over the place, like they were looking for a button or something."
+}

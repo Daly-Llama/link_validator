@@ -1,0 +1,20 @@
+{
+  "number": "INC0003233",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06204",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues submitting photo for Coyote Card or ID\n\nfull_description_text:  \nThe user is trying to figure out how to submit their photo for the Coyote Card or student ID. They are unsure about the process for faculty or staff ID submissions as well. There seems to be confusion regarding the acceptable image formats, which include JPEG, JPG, and PNG. Overall, the user is looking for clear guidance on how to proceed with their photo submission.",
+  "short_description": "Issues submitting photo for Coyote Card or ID",
+  "description": "The user is trying to figure out how to submit their photo for the Coyote Card or student ID. They are unsure about the process for faculty or staff ID submissions as well. There seems to be confusion regarding the acceptable image formats, which include JPEG, JPG, and PNG. Overall, the user is looking for clear guidance on how to proceed with their photo submission."
+}

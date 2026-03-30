@@ -1,0 +1,20 @@
+{
+  "number": "INC0001176",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00338",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about retaining USD account access after discontinuation\n\nfull_description_text:  \nA user has expressed concern regarding the discontinuation of their USD account, which is tied to their previous status as a student. They are planning to enroll in classes again and are seeking clarification on whether they can maintain access to their account, particularly since they continue to publish work associated with USD under the guidance of their former advisor. The user is also questioning the status of their access to the portal, as their account has been disabled, which raises concerns about their ability to retrieve important academic resources and communications. This situation highlights the complexities surrounding account management for former students who still engage with the institution.",
+  "short_description": "Inquiry about retaining USD account access after discontinuation",
+  "description": "A user has expressed concern regarding the discontinuation of their USD account, which is tied to their previous status as a student. They are planning to enroll in classes again and are seeking clarification on whether they can maintain access to their account, particularly since they continue to publish work associated with USD under the guidance of their former advisor. The user is also questioning the status of their access to the portal, as their account has been disabled, which raises concerns about their ability to retrieve important academic resources and communications. This situation highlights the complexities surrounding account management for former students who still engage with the institution."
+}

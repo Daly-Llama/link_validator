@@ -1,0 +1,20 @@
+{
+  "number": "INC0004748",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB09924",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Confusion about entering ACA hours for adjunct faculty in EPAF\n\nfull_description_text: So, during the chat, the user was trying to figure out what hours to put in the EPAF for adjunct or temporary faculty. They were specifically asking how to calculate ACA hours based on credit hours, but it seemed like they were a bit lost on the whole process. It’s a common issue, especially when dealing with different types of faculty and their hours.",
+  "short_description": "Confusion about entering ACA hours for adjunct faculty in EPAF",
+  "description": "So, during the chat, the user was trying to figure out what hours to put in the EPAF for adjunct or temporary faculty. They were specifically asking how to calculate ACA hours based on credit hours, but it seemed like they were a bit lost on the whole process. It’s a common issue, especially when dealing with different types of faculty and their hours."
+}

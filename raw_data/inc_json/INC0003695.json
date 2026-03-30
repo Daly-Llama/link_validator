@@ -1,0 +1,20 @@
+{
+  "number": "INC0003695",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07814",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to edit the appearance and settings of Google Form.\n\nfull_description_text: The user is trying to modify the look and settings of a Google Form. They are experiencing difficulties in making these changes. This issue is impacting their ability to customize the form as needed.",
+  "short_description": "Unable to edit the appearance and settings of Google Form.",
+  "description": "The user is trying to modify the look and settings of a Google Form. They are experiencing difficulties in making these changes. This issue is impacting their ability to customize the form as needed."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003082",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05727",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Bereavement Leave policy details\n\nfull_description_text: \nDuring a phone call, the user was asking about the specifics of USD's Bereavement Leave policy. They seemed a bit confused and wanted to know what the policy entails, especially in terms of eligibility and duration. It was clear they were looking for detailed information to understand how it works, and they mentioned needing this for a personal situation. The conversation was warm, and the user appreciated the help while trying to navigate this sensitive topic.",
+  "short_description": "Inquiry about USD's Bereavement Leave policy details",
+  "description": "During a phone call, the user was asking about the specifics of USD's Bereavement Leave policy. They seemed a bit confused and wanted to know what the policy entails, especially in terms of eligibility and duration. It was clear they were looking for detailed information to understand how it works, and they mentioned needing this for a personal situation. The conversation was warm, and the user appreciated the help while trying to navigate this sensitive topic."
+}

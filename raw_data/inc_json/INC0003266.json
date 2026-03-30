@@ -1,0 +1,20 @@
+{
+  "number": "INC0003266",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB06297",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about which employee ID to use for enrollment.\n\nfull_description_text: So, the person was trying to register for the benefit open enrollment thing, right? They called in and were like, \"What employee ID do I use?\" It seems like they were a bit lost on that part. I mean, they just wanted to know which number to put in, but it got a little complicated, I guess.",
+  "short_description": "Confusion about which employee ID to use for enrollment.",
+  "description": "So, the person was trying to register for the benefit open enrollment thing, right? They called in and were like, \"What employee ID do I use?\" It seems like they were a bit lost on that part. I mean, they just wanted to know which number to put in, but it got a little complicated, I guess."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001511",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB01072",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to cancel local print job on HP LaserJet M400.\n\nfull_description_text:  \nThe user is experiencing an issue with a print job that is stuck and cannot be canceled. Despite attempts to delete the job through the control panel, the action does not succeed. Additionally, there seems to be a recurring problem with the printers after using the docking station, which may be contributing to the current situation.",
+  "short_description": "Unable to cancel local print job on HP LaserJet M400.",
+  "description": "The user is experiencing an issue with a print job that is stuck and cannot be canceled. Despite attempts to delete the job through the control panel, the action does not succeed. Additionally, there seems to be a recurring problem with the printers after using the docking station, which may be contributing to the current situation."
+}

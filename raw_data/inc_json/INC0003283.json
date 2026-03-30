@@ -1,0 +1,20 @@
+{
+  "number": "INC0003283",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB06341",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access Self Registration Portal for class registration\n\nfull_description_text: The user is experiencing an issue while trying to log into the Self-Service portal. They mentioned that they cannot register for classes due to an error during the sign-in process. This has created a barrier for them, and they are looking for assistance to resolve the problem.",
+  "short_description": "Unable to access Self Registration Portal for class registration",
+  "description": "The user is experiencing an issue while trying to log into the Self-Service portal. They mentioned that they cannot register for classes due to an error during the sign-in process. This has created a barrier for them, and they are looking for assistance to resolve the problem."
+}

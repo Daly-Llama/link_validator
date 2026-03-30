@@ -1,0 +1,20 @@
+{
+  "number": "INC0003946",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08094",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to chat in a Microsoft Teams channel.\n\nfull_description_text: I'm trying to send messages in a channel on Microsoft Teams, but it's just not working. I thought it would be straightforward, but I can't figure out how to chat there. Can someone help me out with this?",
+  "short_description": "Unable to chat in a Microsoft Teams channel.",
+  "description": "I'm trying to send messages in a channel on Microsoft Teams, but it's just not working. I thought it would be straightforward, but I can't figure out how to chat there. Can someone help me out with this?"
+}

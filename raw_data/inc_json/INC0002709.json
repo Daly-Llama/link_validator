@@ -1,0 +1,20 @@
+{
+  "number": "INC0002709",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04690",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Door access not securing, can be opened without card swipe.\n\nfull_description_text: \nEl acceso a la puerta no se asegura bien. Se puede abrir sin usar la tarjeta. También, el botón de discapacidad permite entrar en cualquier momento, incluso fuera de horas laborales. Esto es un problema serio de seguridad.",
+  "short_description": "Door access not securing, can be opened without card swipe.",
+  "description": "El acceso a la puerta no se asegura bien. Se puede abrir sin usar la tarjeta. También, el botón de discapacidad permite entrar en cualquier momento, incluso fuera de horas laborales. Esto es un problema serio de seguridad."
+}

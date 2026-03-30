@@ -1,0 +1,20 @@
+{
+  "number": "INC0003679",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07798",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty editing a page in Google Sites.\n\nfull_description_text:\n- The user is attempting to make changes to a page within Google Sites.  \n- They are unsure of the correct process to follow for editing.  \n- There may be confusion regarding the interface or available options for modifications.  \n- The user seeks guidance on how to successfully complete the editing task.",
+  "short_description": "Difficulty editing a page in Google Sites.",
+  "description": "- The user is attempting to make changes to a page within Google Sites.  \n- They are unsure of the correct process to follow for editing.  \n- There may be confusion regarding the interface or available options for modifications.  \n- The user seeks guidance on how to successfully complete the editing task."
+}

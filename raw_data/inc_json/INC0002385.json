@@ -1,0 +1,20 @@
+{
+  "number": "INC0002385",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03669",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Duplicate files and slow user additions in Webadmit to Imagenow process.\n\nfull_description_text: Users are experiencing duplicate files coming in. This is affecting various users. Additionally, users are not being added quickly enough. Deadlines are not being met due to these delays.",
+  "short_description": "Duplicate files and slow user additions in Webadmit to Imagenow process.",
+  "description": "Users are experiencing duplicate files coming in. This is affecting various users. Additionally, users are not being added quickly enough. Deadlines are not being met due to these delays."
+}

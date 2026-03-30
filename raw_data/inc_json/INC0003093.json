@@ -1,0 +1,20 @@
+{
+  "number": "INC0003093",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB05754",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to request a new stamp in ImageNow.\n\nfull_description_text: So, I was on the phone with a user who was trying to get a new stamp set up in ImageNow. They mentioned that they really need it for some documents they’re working on, but they weren’t sure how to go about it. It sounded like they were a bit confused and just wanted to get it done quickly, you know? They kept saying how important it was for their workflow, but I didn’t catch all the details since we were chatting.",
+  "short_description": "Need to request a new stamp in ImageNow.",
+  "description": "So, I was on the phone with a user who was trying to get a new stamp set up in ImageNow. They mentioned that they really need it for some documents they’re working on, but they weren’t sure how to go about it. It sounded like they were a bit confused and just wanted to get it done quickly, you know? They kept saying how important it was for their workflow, but I didn’t catch all the details since we were chatting."
+}

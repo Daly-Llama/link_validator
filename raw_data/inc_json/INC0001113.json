@@ -1,0 +1,20 @@
+{
+  "number": "INC0001113",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00215",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to reopen course for student to complete assignment or exam.\n\nfull_description_text:\n- The user is requesting assistance to reopen a specific course within the Desire2Learn (D2L) platform.  \n- This action is necessary so that a student can finalize their incomplete assignment or exam, which is crucial for their academic progress.  \n- During the call, the analyst noted that the course was previously closed, and the student is unable to access the materials needed to complete their work.  \n- It is important to ensure that the reopening process is executed correctly to avoid any further complications with the student's submissions.",
+  "short_description": "Need to reopen course for student to complete assignment or exam.",
+  "description": "- The user is requesting assistance to reopen a specific course within the Desire2Learn (D2L) platform.  \n- This action is necessary so that a student can finalize their incomplete assignment or exam, which is crucial for their academic progress.  \n- During the call, the analyst noted that the course was previously closed, and the student is unable to access the materials needed to complete their work.  \n- It is important to ensure that the reopening process is executed correctly to avoid any further complications with the student's submissions."
+}

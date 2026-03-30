@@ -1,0 +1,20 @@
+{
+  "number": "INC0004436",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB09041",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: International students need help with new hire paperwork process.\n\nfull_description_text:  \nSo, there's this situation where a foreign national, like an international student, is trying to fill out their new hire paperwork. They might be a bit confused about what to do, you know? It’s really important for them to get it right, but the process can be a little tricky. I mean, they just want to start working, but filling out all that paperwork can be overwhelming, especially if they’re not sure where to begin or what forms they need.",
+  "short_description": "International students need help with new hire paperwork process.",
+  "description": "So, there's this situation where a foreign national, like an international student, is trying to fill out their new hire paperwork. They might be a bit confused about what to do, you know? It’s really important for them to get it right, but the process can be a little tricky. I mean, they just want to start working, but filling out all that paperwork can be overwhelming, especially if they’re not sure where to begin or what forms they need."
+}

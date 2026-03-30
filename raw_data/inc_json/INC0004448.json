@@ -1,0 +1,20 @@
+{
+  "number": "INC0004448",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB09082",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help setting up personal laptop bought from USD\n\nfull_description_text: So, the person called in and they were like, \"Hey, I just got this personal laptop from USD, and I have no idea how to set it up!\" They mentioned they’re a registered student and part of the Nursing Laptop Program, which sounds important, right? Anyway, they were really confused about the whole setup process and just wanted some guidance on what to do next. It was a bit of a back-and-forth, and they kept asking about the steps, so I think they really need some help with this!",
+  "short_description": "Need help setting up personal laptop bought from USD",
+  "description": "So, the person called in and they were like, \"Hey, I just got this personal laptop from USD, and I have no idea how to set it up!\" They mentioned they’re a registered student and part of the Nursing Laptop Program, which sounds important, right? Anyway, they were really confused about the whole setup process and just wanted some guidance on what to do next. It was a bit of a back-and-forth, and they kept asking about the steps, so I think they really need some help with this!"
+}

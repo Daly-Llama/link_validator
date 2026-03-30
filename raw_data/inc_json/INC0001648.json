@@ -1,0 +1,20 @@
+{
+  "number": "INC0001648",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01505",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need quarterly PC Ace update for laptop or desktop.\n\nfull_description_text:  \nThe user called in asking for a quarterly update for PC Ace on their laptop or desktop. They mentioned they are part of the Academic/Technology Group and need this done soon. It seems like they were unsure about the process and just wanted to get it sorted out quickly.",
+  "short_description": "Need quarterly PC Ace update for laptop or desktop.",
+  "description": "The user called in asking for a quarterly update for PC Ace on their laptop or desktop. They mentioned they are part of the Academic/Technology Group and need this done soon. It seems like they were unsure about the process and just wanted to get it sorted out quickly."
+}

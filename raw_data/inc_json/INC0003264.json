@@ -1,0 +1,20 @@
+{
+  "number": "INC0003264",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06295",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Performance issues with Titanium Scheduler resulting in Out of Memory error.\n\nfull_description_text: The user reported experiencing significant performance issues while using the Titanium Scheduler software. During the call, they encountered an error indicating that the system was out of memory. This situation has hindered their ability to effectively utilize the application, leading to frustration and delays in their workflow. Further investigation is needed to understand the underlying cause of this memory issue.",
+  "short_description": "Performance issues with Titanium Scheduler resulting in Out of Memory error.",
+  "description": "The user reported experiencing significant performance issues while using the Titanium Scheduler software. During the call, they encountered an error indicating that the system was out of memory. This situation has hindered their ability to effectively utilize the application, leading to frustration and delays in their workflow. Further investigation is needed to understand the underlying cause of this memory issue."
+}

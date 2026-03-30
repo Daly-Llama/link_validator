@@ -1,0 +1,20 @@
+{
+  "number": "INC0001842",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB02049",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Missing shared mailbox in Outlook after setup.\n\nfull_description_text:  \nI set up my computer and added a shared mailbox in Outlook, but now I can't find it. It seems like the mailbox is just missing, and I'm not sure why. I really need to access it for my work, but it’s not showing up anywhere. Can you help me figure this out?",
+  "short_description": "Missing shared mailbox in Outlook after setup.",
+  "description": "I set up my computer and added a shared mailbox in Outlook, but now I can't find it. It seems like the mailbox is just missing, and I'm not sure why. I really need to access it for my work, but it’s not showing up anywhere. Can you help me figure this out?"
+}

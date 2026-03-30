@@ -1,0 +1,20 @@
+{
+  "number": "INC0003194",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06083",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: User unable to access local Windows account due to forgotten password.\n\nfull_description_text: The user is trying to log into their local Windows account but has forgotten the password. This issue is preventing them from accessing their files and applications. They are looking for a way to reset or change the password to regain access.",
+  "short_description": "User unable to access local Windows account due to forgotten password.",
+  "description": "The user is trying to log into their local Windows account but has forgotten the password. This issue is preventing them from accessing their files and applications. They are looking for a way to reset or change the password to regain access."
+}

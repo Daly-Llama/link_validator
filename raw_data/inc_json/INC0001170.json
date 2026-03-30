@@ -1,0 +1,20 @@
+{
+  "number": "INC0001170",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00330",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with setting up and removing mail forwarding in Office 365\n\nfull_description_text:  \nUser wants to set up mail forwarding.  \nUser also wants to remove mail forwarding.  \nUser is asking about transferring mail to a different email account.  \nThis is related to Microsoft Office 365 mail settings.",
+  "short_description": "Issues with setting up and removing mail forwarding in Office 365",
+  "description": "User wants to set up mail forwarding.  \nUser also wants to remove mail forwarding.  \nUser is asking about transferring mail to a different email account.  \nThis is related to Microsoft Office 365 mail settings."
+}

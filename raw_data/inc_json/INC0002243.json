@@ -1,0 +1,20 @@
+{
+  "number": "INC0002243",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03282",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Workstation certification for NBME CCSE exam failed.\n\nfull_description_text:\n- I was trying to complete the workstation certifcation for the NBME CCSE exam.  \n- I followed all the directions provided, but the process failed.  \n- This issue is preventing me from proceeding with my exam preparations.",
+  "short_description": "Workstation certification for NBME CCSE exam failed.",
+  "description": "- I was trying to complete the workstation certifcation for the NBME CCSE exam.  \n- I followed all the directions provided, but the process failed.  \n- This issue is preventing me from proceeding with my exam preparations."
+}

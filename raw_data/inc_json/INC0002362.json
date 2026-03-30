@@ -1,0 +1,20 @@
+{
+  "number": "INC0002362",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB03611",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't print to network printer, getting errors.\n\nfull_description_text: \nUser's computer won't print to any of the three printers. \nTried printing documents, but it shows errors. \nIt worked before, now it just stopped. \nGetting messages like \"Fatal Error\" and \"PCL XL error.\"",
+  "short_description": "Can't print to network printer, getting errors.",
+  "description": "User's computer won't print to any of the three printers. \nTried printing documents, but it shows errors. \nIt worked before, now it just stopped. \nGetting messages like \"Fatal Error\" and \"PCL XL error.\""
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002642",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB04480",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to find past semester final grades in Self Service\n\nfull_description_text:\n- User is trying to see old classes final grades.  \n- They cannot find them in Self Service.  \n- This is important for their records and planning.  \n- User needs help to access this information.",
+  "short_description": "Unable to find past semester final grades in Self Service",
+  "description": "- User is trying to see old classes final grades.  \n- They cannot find them in Self Service.  \n- This is important for their records and planning.  \n- User needs help to access this information."
+}

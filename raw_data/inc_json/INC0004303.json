@@ -1,0 +1,20 @@
+{
+  "number": "INC0004303",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08725",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble entering flexible hours on timesheet for hourly employees\n\nfull_description_text: \nSo, the user is trying to figure out how to log their time on the timesheet since they have a flexible schedule. They're not sure how to calculate the flexible hours they need to enter. It seems like they need some guidance on this whole process.",
+  "short_description": "Trouble entering flexible hours on timesheet for hourly employees",
+  "description": "So, the user is trying to figure out how to log their time on the timesheet since they have a flexible schedule. They're not sure how to calculate the flexible hours they need to enter. It seems like they need some guidance on this whole process."
+}

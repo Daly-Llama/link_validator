@@ -1,0 +1,20 @@
+{
+  "number": "INC0001208",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00388",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Computer frequently freezes and displays blue screen error messages.\n\nfull_description_text: The user is experiencing multiple freezes throughout the day. Upon starting the computer, it goes directly to a blue screen displaying various error messages. The errors include KERNEL_DATA_INPAGE_ERROR and DPS_WATCHDOG_VIOLATION, along with DRIVER_IQL_NOT_LESS_OR_EQUAL. This issue is causing significant disruption to the user's workflow and needs immediate attention.",
+  "short_description": "Computer frequently freezes and displays blue screen error messages.",
+  "description": "The user is experiencing multiple freezes throughout the day. Upon starting the computer, it goes directly to a blue screen displaying various error messages. The errors include KERNEL_DATA_INPAGE_ERROR and DPS_WATCHDOG_VIOLATION, along with DRIVER_IQL_NOT_LESS_OR_EQUAL. This issue is causing significant disruption to the user's workflow and needs immediate attention."
+}

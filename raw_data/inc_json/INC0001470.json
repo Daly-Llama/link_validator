@@ -1,0 +1,20 @@
+{
+  "number": "INC0001470",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB00951",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error message when taking D2L quiz in LockDown Browser on iPad\n\nfull_description_text:\n- The user was attempting to take a quiz in Desire2Learn using the LockDown Browser on their iPad.  \n- They encountered an error message indicating a problem with the LockDown Browser settings for the course.  \n- The message stated that the instructor needs to enable the use of an iPad for the exam and that the iPad Edition of LockDown Browser must be installed from iTunes.  \n- This situation suggests that the necessary settings have not been configured correctly by the instructor.",
+  "short_description": "Error message when taking D2L quiz in LockDown Browser on iPad",
+  "description": "- The user was attempting to take a quiz in Desire2Learn using the LockDown Browser on their iPad.  \n- They encountered an error message indicating a problem with the LockDown Browser settings for the course.  \n- The message stated that the instructor needs to enable the use of an iPad for the exam and that the iPad Edition of LockDown Browser must be installed from iTunes.  \n- This situation suggests that the necessary settings have not been configured correctly by the instructor."
+}

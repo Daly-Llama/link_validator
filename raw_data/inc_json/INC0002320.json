@@ -1,0 +1,20 @@
+{
+  "number": "INC0002320",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03524",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to drop a course after the add/drop deadline\n\nfull_description_text:  \nSo, I was just trying to figure out if I can still drop my course since the add/drop date has passed. I mean, I really need to know how to petition for a late drop or withdrawal. It’s kinda frustrating because I thought I had more time, but now I’m not sure what my options are. Any help would be awesome!",
+  "short_description": "Request to drop a course after the add/drop deadline",
+  "description": "So, I was just trying to figure out if I can still drop my course since the add/drop date has passed. I mean, I really need to know how to petition for a late drop or withdrawal. It’s kinda frustrating because I thought I had more time, but now I’m not sure what my options are. Any help would be awesome!"
+}

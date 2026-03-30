@@ -1,0 +1,20 @@
+{
+  "number": "INC0003398",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06842",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Files synced with Box are not accessible on Windows 10.\n\nfull_description_text: I am having a problem with files that are synced using Box. They are not available on my Windows 10 system. I tried to access them, but they just don't show up. This issue is really frustrating as I need those files for my work.",
+  "short_description": "Files synced with Box are not accessible on Windows 10.",
+  "description": "I am having a problem with files that are synced using Box. They are not available on my Windows 10 system. I tried to access them, but they just don't show up. This issue is really frustrating as I need those files for my work."
+}

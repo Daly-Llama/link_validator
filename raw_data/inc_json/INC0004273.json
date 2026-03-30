@@ -1,0 +1,20 @@
+{
+  "number": "INC0004273",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08666",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about NSF I-Corps Great Plains Regional Hub program application process.\n\nfull_description_text:\n- The user is seeking information regarding the NSF I-Corps Great Plains Regional Hub program.  \n- They are specifically asking how to apply for this program.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user appears to have a basic understanding of the program but needs further clarification on the application steps.",
+  "short_description": "Inquiry about NSF I-Corps Great Plains Regional Hub program application process.",
+  "description": "- The user is seeking information regarding the NSF I-Corps Great Plains Regional Hub program.  \n- They are specifically asking how to apply for this program.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user appears to have a basic understanding of the program but needs further clarification on the application steps."
+}

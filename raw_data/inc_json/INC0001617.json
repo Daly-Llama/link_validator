@@ -1,0 +1,20 @@
+{
+  "number": "INC0001617",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB01390",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to print due to jobs stuck in print queue.\n\nfull_description_text:  \nI am experiencing an issue where my print jobs are stuck in the laptop print queue. The status on the HP printer's LCD screen indicates that it is processing, yet I cannot print to the color printer. This problem persists across all Windows devices connected to the networked HP printers.",
+  "short_description": "Unable to print due to jobs stuck in print queue.",
+  "description": "I am experiencing an issue where my print jobs are stuck in the laptop print queue. The status on the HP printer's LCD screen indicates that it is processing, yet I cannot print to the color printer. This problem persists across all Windows devices connected to the networked HP printers."
+}

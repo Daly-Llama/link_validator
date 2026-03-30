@@ -1,0 +1,20 @@
+{
+  "number": "INC0001117",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00228",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to delete calendar appointments in Outlook.\n\nfull_description_text:  \nThe user attempted to delete specific calendar appointments within the Outlook application, but encountered an error message indicating that the deletion could not be completed. The error stated that the items may have already been deleted or moved, which suggests a potential issue with the synchronization of calendar data or the integrity of the appointment entries themselves. This situation may arise during routine calendar management tasks, leading to frustration for the user who relies on the application for scheduling and organization. It is essential to investigate the underlying cause of this error to ensure seamless functionality in the future, particularly in a professional environment where time management is critical.",
+  "short_description": "Unable to delete calendar appointments in Outlook.",
+  "description": "The user attempted to delete specific calendar appointments within the Outlook application, but encountered an error message indicating that the deletion could not be completed. The error stated that the items may have already been deleted or moved, which suggests a potential issue with the synchronization of calendar data or the integrity of the appointment entries themselves. This situation may arise during routine calendar management tasks, leading to frustration for the user who relies on the application for scheduling and organization. It is essential to investigate the underlying cause of this error to ensure seamless functionality in the future, particularly in a professional environment where time management is critical."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004490",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09188",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Questions about housing partners and vendor services for students\n\nfull_description_text:  \nDuring a live chat, the user inquired about various services related to housing partners and vendors. They were particularly interested in how to send care packages to students, options for renting mini-fridges or microwaves for dorms, and where to find dorm supplies. The conversation highlighted a need for clarity on available vendor partnerships and student support services.",
+  "short_description": "Questions about housing partners and vendor services for students",
+  "description": "During a live chat, the user inquired about various services related to housing partners and vendors. They were particularly interested in how to send care packages to students, options for renting mini-fridges or microwaves for dorms, and where to find dorm supplies. The conversation highlighted a need for clarity on available vendor partnerships and student support services."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002548",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04143",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Entry way TV not turning on after power outage\n\nfull_description_text: \nThe TV in the entry way isn't powering on since the electricity went out. The user mentioned it was working fine before the outage, but now it just won't respond at all. They tried checking the power source, but nothing seems to help. It's important to get this resolved quickly since it's a key display for the department.",
+  "short_description": "Entry way TV not turning on after power outage",
+  "description": "The TV in the entry way isn't powering on since the electricity went out. The user mentioned it was working fine before the outage, but now it just won't respond at all. They tried checking the power source, but nothing seems to help. It's important to get this resolved quickly since it's a key display for the department."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003384",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB06773",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about purchasing laptops or desktops with grant funds\n\nfull_description_text:\n- So, during the call, the user was asking about buying computers, right?  \n- They specifically wanted to know if they could get laptops or desktops for their department.  \n- Also, they were curious if they could use grant money for this purchase, which is a bit tricky.  \n- It seems like they need some clarity on the options available for their department's needs.",
+  "short_description": "Inquiry about purchasing laptops or desktops with grant funds",
+  "description": "- So, during the call, the user was asking about buying computers, right?  \n- They specifically wanted to know if they could get laptops or desktops for their department.  \n- Also, they were curious if they could use grant money for this purchase, which is a bit tricky.  \n- It seems like they need some clarity on the options available for their department's needs."
+}

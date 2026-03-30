@@ -1,0 +1,20 @@
+{
+  "number": "INC0001428",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB00836",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need access to ImageNow drawer and updated profile.\n\nfull_description_text:  \nSo, I'm trying to get a new drawer set up in ImageNow, right? I also need access to it and maybe a queue created too. Oh, and by the way, my name changed recently, so my profile needs an update. This is all part of implementing ImageNow for the Communication Disorders process, but it’s been a bit of a hassle getting everything sorted out.",
+  "short_description": "Need access to ImageNow drawer and updated profile.",
+  "description": "So, I'm trying to get a new drawer set up in ImageNow, right? I also need access to it and maybe a queue created too. Oh, and by the way, my name changed recently, so my profile needs an update. This is all part of implementing ImageNow for the Communication Disorders process, but it’s been a bit of a hassle getting everything sorted out."
+}

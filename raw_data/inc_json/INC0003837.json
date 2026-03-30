@@ -1,0 +1,20 @@
+{
+  "number": "INC0003837",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07971",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Zoom and Teams have inconsistent audio and video functionality.\n\nfull_description_text:  \nThe user is experiencing issues with both Zoom and Microsoft Teams on their Windows 10 computer. Sometimes the audio works, but the video does not, and at other times, the video functions while the audio fails. This inconsistency is affecting their ability to communicate effectively.",
+  "short_description": "Zoom and Teams have inconsistent audio and video functionality.",
+  "description": "The user is experiencing issues with both Zoom and Microsoft Teams on their Windows 10 computer. Sometimes the audio works, but the video does not, and at other times, the video functions while the audio fails. This inconsistency is affecting their ability to communicate effectively."
+}

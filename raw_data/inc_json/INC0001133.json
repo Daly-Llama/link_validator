@@ -1,0 +1,20 @@
+{
+  "number": "INC0001133",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB00264",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about purchasing software with grant money.\n\nfull_description_text:\n- User wants to buy software using grant funds.  \n- They are unsure if the purchase needs to go through I.T.  \n- This question was raised during a phone call with help desk.  \n- User is looking for clarification on the purchasing process.",
+  "short_description": "Inquiry about purchasing software with grant money.",
+  "description": "- User wants to buy software using grant funds.  \n- They are unsure if the purchase needs to go through I.T.  \n- This question was raised during a phone call with help desk.  \n- User is looking for clarification on the purchasing process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002622",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04402",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error report for courses missing department in Akademos\n\nfull_description_text:  \nHey, I’m getting this weird error report from Akademos about courses that don’t have a department assigned. It’s coming from the USD-SQL05_01@usd.edu email, and I’m not sure what to do next. I was just trying to check my course materials, and now this report is popping up. Can someone help me figure this out?",
+  "short_description": "Error report for courses missing department in Akademos",
+  "description": "Hey, I’m getting this weird error report from Akademos about courses that don’t have a department assigned. It’s coming from the USD-SQL05_01@usd.edu email, and I’m not sure what to do next. I was just trying to check my course materials, and now this report is popping up. Can someone help me figure this out?"
+}

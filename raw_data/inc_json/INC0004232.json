@@ -1,0 +1,20 @@
+{
+  "number": "INC0004232",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08586",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Davidson Building's evacuation and severe weather plans.\n\nfull_description_text:  \nUser wants to know the evacuation plan for the Davidson Building.  \nThey are also curious about what to do during severe weather events.  \nIt's important to have clear instructions for safety.  \nUnderstanding these plans can help everyone feel more secure.",
+  "short_description": "Inquiry about Davidson Building's evacuation and severe weather plans.",
+  "description": "User wants to know the evacuation plan for the Davidson Building.  \nThey are also curious about what to do during severe weather events.  \nIt's important to have clear instructions for safety.  \nUnderstanding these plans can help everyone feel more secure."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001246",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00468",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view multiple pages of PDF files in Adobe Reader.\n\nfull_description_text:  \nUser is having trouble viewing PDF files.  \nOnly the first page is visible in Adobe Reader DC.  \nWhen trying to open in Internet Explorer, the browser crashes.  \nAlso, printing a Docusign document from the window is not working.",
+  "short_description": "Unable to view multiple pages of PDF files in Adobe Reader.",
+  "description": "User is having trouble viewing PDF files.  \nOnly the first page is visible in Adobe Reader DC.  \nWhen trying to open in Internet Explorer, the browser crashes.  \nAlso, printing a Docusign document from the window is not working."
+}

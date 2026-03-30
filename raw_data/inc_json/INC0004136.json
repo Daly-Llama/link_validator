@@ -1,0 +1,20 @@
+{
+  "number": "INC0004136",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08410",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty inserting a text control in Word.\n\nfull_description_text: The user was trying to figure out how to insert a text control in Word during a live chat. They seemed a bit confused and asked for help with the process. It was clear they were looking for step-by-step guidance but didn't have much technical knowledge about Word features. The chat was ongoing, and the analyst was trying to assist them as best as possible.",
+  "short_description": "Difficulty inserting a text control in Word.",
+  "description": "The user was trying to figure out how to insert a text control in Word during a live chat. They seemed a bit confused and asked for help with the process. It was clear they were looking for step-by-step guidance but didn't have much technical knowledge about Word features. The chat was ongoing, and the analyst was trying to assist them as best as possible."
+}

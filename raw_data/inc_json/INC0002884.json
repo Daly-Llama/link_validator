@@ -1,0 +1,20 @@
+{
+  "number": "INC0002884",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05198",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble starting the Titanium app in Azure on Windows.\n\nfull_description_text: So, I was on the phone with this user, right? They were trying to get the Titanium application up and running in Azure, but it just wasn’t happening. They mentioned something about using Windows Virtual Desktop, and honestly, it sounded a bit confusing. I mean, they were really hoping to get it going because they had some important stuff to do, but it just kept giving them a hard time.",
+  "short_description": "Trouble starting the Titanium app in Azure on Windows.",
+  "description": "So, I was on the phone with this user, right? They were trying to get the Titanium application up and running in Azure, but it just wasn’t happening. They mentioned something about using Windows Virtual Desktop, and honestly, it sounded a bit confusing. I mean, they were really hoping to get it going because they had some important stuff to do, but it just kept giving them a hard time."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003870",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08004",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the options command in OneNote\n\nfull_description_text:\n- The user was seeking clarification on the functionality of the options command within OneNote.  \n- They expressed confusion regarding its purpose and how it can be utilized effectively.  \n- This inquiry arose during a live support call, indicating an immediate need for assistance.",
+  "short_description": "Inquiry about the options command in OneNote",
+  "description": "- The user was seeking clarification on the functionality of the options command within OneNote.  \n- They expressed confusion regarding its purpose and how it can be utilized effectively.  \n- This inquiry arose during a live support call, indicating an immediate need for assistance."
+}

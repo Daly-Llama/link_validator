@@ -1,0 +1,20 @@
+{
+  "number": "INC0004479",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB09156",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about grading scale for foreign transcripts\n\nfull_description_text: \nThe user was asking about the grading scale for foreign transcripts. They had some confusion about the requirements. It seems they needed clarification on the FAQs related to this issue.",
+  "short_description": "Questions about grading scale for foreign transcripts",
+  "description": "The user was asking about the grading scale for foreign transcripts. They had some confusion about the requirements. It seems they needed clarification on the FAQs related to this issue."
+}

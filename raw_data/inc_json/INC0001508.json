@@ -1,0 +1,20 @@
+{
+  "number": "INC0001508",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01067",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Setting up web conferencing in classrooms without cameras or mics\n\nfull_description_text:  \nSo, the user is trying to figure out how to set up web conferencing in classrooms and conference rooms that lack cameras and microphones. They’re at the USD Main Campus in Vermillion, and it seems like they want to use the projector or display for this. It’s a bit tricky since those rooms aren’t equipped for video or audio input. They just need some guidance on how to make it work without the usual tech setup.",
+  "short_description": "Setting up web conferencing in classrooms without cameras or mics",
+  "description": "So, the user is trying to figure out how to set up web conferencing in classrooms and conference rooms that lack cameras and microphones. They’re at the USD Main Campus in Vermillion, and it seems like they want to use the projector or display for this. It’s a bit tricky since those rooms aren’t equipped for video or audio input. They just need some guidance on how to make it work without the usual tech setup."
+}

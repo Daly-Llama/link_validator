@@ -1,0 +1,20 @@
+{
+  "number": "INC0003133",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05885",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Confusion about how to record affiliates in Banner system.\n\nfull_description_text: \nSo, during the chat, the user was asking about how to put in the affiliates in this thing called Banner, right? They seemed a bit lost and kept saying things like, \"Where do I click?\" and \"Is it like adding a friend on social media?\" It was kinda funny but also a bit sad because they really wanted to get it right. They mentioned they were trying to do this for a project, but I didn’t catch all the details because of the language barrier, you know?",
+  "short_description": "Confusion about how to record affiliates in Banner system.",
+  "description": "So, during the chat, the user was asking about how to put in the affiliates in this thing called Banner, right? They seemed a bit lost and kept saying things like, \"Where do I click?\" and \"Is it like adding a friend on social media?\" It was kinda funny but also a bit sad because they really wanted to get it right. They mentioned they were trying to do this for a project, but I didn’t catch all the details because of the language barrier, you know?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002819",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04953",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Received unexpected messages in Duo Mobile at 5 AM.\n\nfull_description_text: The user got four messages in Duo Mobile early in the morning. They weren't working at that time, so it was quite strange. The error message mentioned needing a WiFi or cellular connection. The user is unsure why this happened.",
+  "short_description": "Received unexpected messages in Duo Mobile at 5 AM.",
+  "description": "The user got four messages in Duo Mobile early in the morning. They weren't working at that time, so it was quite strange. The error message mentioned needing a WiFi or cellular connection. The user is unsure why this happened."
+}

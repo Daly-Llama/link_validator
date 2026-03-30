@@ -1,0 +1,20 @@
+{
+  "number": "INC0002552",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04152",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security sticker missing from credit card machine, needs replacement.\n\nfull_description_text: \nI was on the call with a user who said the security sticker on their credit card machine fell off. They mentioned they need a new tamper-proof sticker for the replacement machine. It seems like this is important for keeping the machine secure.",
+  "short_description": "Security sticker missing from credit card machine, needs replacement.",
+  "description": "I was on the call with a user who said the security sticker on their credit card machine fell off. They mentioned they need a new tamper-proof sticker for the replacement machine. It seems like this is important for keeping the machine secure."
+}

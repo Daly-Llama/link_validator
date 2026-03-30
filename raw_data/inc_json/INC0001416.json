@@ -1,0 +1,20 @@
+{
+  "number": "INC0001416",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB00807",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to submit quiz in D2L due to error 105.\n\nfull_description_text:  \n- The user is trying to submit a quiz in Desire2Learn using Respondus Lockdown Browser.  \n- They encounter an error message stating \"The host name could not be resolved.\"  \n- This issue prevents the completion of the quiz, causing frustration.  \n- The error 105 seems to be related to network connectivity or DNS resolution problems.",
+  "short_description": "Unable to submit quiz in D2L due to error 105.",
+  "description": "- The user is trying to submit a quiz in Desire2Learn using Respondus Lockdown Browser.  \n- They encounter an error message stating \"The host name could not be resolved.\"  \n- This issue prevents the completion of the quiz, causing frustration.  \n- The error 105 seems to be related to network connectivity or DNS resolution problems."
+}

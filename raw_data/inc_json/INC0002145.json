@@ -1,0 +1,20 @@
+{
+  "number": "INC0002145",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02980",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to modify Task Code Description in TMA application.\n\nfull_description_text:\n- During a live chat session, the help desk analyst received a request to change the Task Code Description within the TMA application, which is crucial for task management.\n- The user expressed a need for clarity and accuracy in the task descriptions to enhance workflow efficiency, indicating that the current description was not meeting their expectations.\n- This request highlights the importance of precise task labeling in the TMA environment, as it directly impacts user experience and operational effectiveness.\n- The analyst noted that the user was quite detailed in their explanation, emphasizing the significance of this change for their ongoing projects.",
+  "short_description": "Request to modify Task Code Description in TMA application.",
+  "description": "- During a live chat session, the help desk analyst received a request to change the Task Code Description within the TMA application, which is crucial for task management.\n- The user expressed a need for clarity and accuracy in the task descriptions to enhance workflow efficiency, indicating that the current description was not meeting their expectations.\n- This request highlights the importance of precise task labeling in the TMA environment, as it directly impacts user experience and operational effectiveness.\n- The analyst noted that the user was quite detailed in their explanation, emphasizing the significance of this change for their ongoing projects."
+}

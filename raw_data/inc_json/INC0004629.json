@@ -1,0 +1,20 @@
+{
+  "number": "INC0004629",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09535",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to upload or update a PDF on the USD website.\n\nfull_description_text: So, the user was trying to upload a new PDF to the USD website. They mentioned needing to update an existing one too. It sounds like they want to create a new item for that PDF. Just a bit of confusion on how to get it done, I think.",
+  "short_description": "Need to upload or update a PDF on the USD website.",
+  "description": "So, the user was trying to upload a new PDF to the USD website. They mentioned needing to update an existing one too. It sounds like they want to create a new item for that PDF. Just a bit of confusion on how to get it done, I think."
+}

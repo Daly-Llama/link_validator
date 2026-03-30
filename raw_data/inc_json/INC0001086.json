@@ -1,0 +1,20 @@
+{
+  "number": "INC0001086",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB00159",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Documents not showing in DocuSign, page keeps loading.\n\nfull_description_text:  \nI'm trying to access some documents in DocuSign, but they just won't show up. The page keeps loading and loading, but nothing appears. I got an error saying the envelope or account activation isn't found, and it might be recalled or need more processing. Plus, I think there might be an issue with authentication too.",
+  "short_description": "Documents not showing in DocuSign, page keeps loading.",
+  "description": "I'm trying to access some documents in DocuSign, but they just won't show up. The page keeps loading and loading, but nothing appears. I got an error saying the envelope or account activation isn't found, and it might be recalled or need more processing. Plus, I think there might be an issue with authentication too."
+}

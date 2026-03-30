@@ -1,0 +1,20 @@
+{
+  "number": "INC0003937",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08085",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a Microsoft Team.\n\nfull_description_text:\n- The user is attempting to create a new Microsoft Team.  \n- They are unsure of the steps required to complete this process.  \n- This issue may be affecting their collaboration efforts within the organization.",
+  "short_description": "Difficulty creating a Microsoft Team.",
+  "description": "- The user is attempting to create a new Microsoft Team.  \n- They are unsure of the steps required to complete this process.  \n- This issue may be affecting their collaboration efforts within the organization."
+}

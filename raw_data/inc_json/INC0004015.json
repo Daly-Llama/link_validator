@@ -1,0 +1,20 @@
+{
+  "number": "INC0004015",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08237",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Students unable to add notes to Panopto videos.\n\nfull_description_text: \nI was trying to figure out how students can add their own notes while watching a Panopto video. It seems like there’s no clear way to do this, and I’m not sure if I’m missing something. I just want to know how they can make their own notes, you know? It’s really confusing and I thought it would be easier.",
+  "short_description": "Students unable to add notes to Panopto videos.",
+  "description": "I was trying to figure out how students can add their own notes while watching a Panopto video. It seems like there’s no clear way to do this, and I’m not sure if I’m missing something. I just want to know how they can make their own notes, you know? It’s really confusing and I thought it would be easier."
+}

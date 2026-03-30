@@ -1,0 +1,20 @@
+{
+  "number": "INC0001247",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00470",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook search functionality is not operating as expected.\n\nfull_description_text: \nDuring a recent call, the user reported that the search feature in Outlook is not functioning properly. They mentioned that attempts to locate emails or items yield no results, which is quite frustrating. The issue seems to persist regardless of the search terms used, and it’s unclear if this is related to indexing or some other underlying problem. The user is looking for assistance to resolve this matter promptly.",
+  "short_description": "Outlook search functionality is not operating as expected.",
+  "description": "During a recent call, the user reported that the search feature in Outlook is not functioning properly. They mentioned that attempts to locate emails or items yield no results, which is quite frustrating. The issue seems to persist regardless of the search terms used, and it’s unclear if this is related to indexing or some other underlying problem. The user is looking for assistance to resolve this matter promptly."
+}

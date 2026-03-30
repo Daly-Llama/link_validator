@@ -1,0 +1,20 @@
+{
+  "number": "INC0003564",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB07483",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to set up Effort Certification SuperUser due to permission error.\n\nfull_description_text: So, the user was trying to request a setup for an Effort Certification SuperUser in the SNAP Portal. But when they checked the box for \"Act as SuperUser,\" a red warning popped up saying they don't have permission to access it. It seems like there's some kind of access issue going on here.",
+  "short_description": "Unable to set up Effort Certification SuperUser due to permission error.",
+  "description": "So, the user was trying to request a setup for an Effort Certification SuperUser in the SNAP Portal. But when they checked the box for \"Act as SuperUser,\" a red warning popped up saying they don't have permission to access it. It seems like there's some kind of access issue going on here."
+}

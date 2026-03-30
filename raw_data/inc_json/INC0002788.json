@@ -1,0 +1,20 @@
+{
+  "number": "INC0002788",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04878",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help with Titanium installation and access issues.\n\nfull_description_text:  \nI’m trying to get Titanium on my computer, but it’s not working. I followed the steps for connecting to the Titanium system, but my Mac keeps giving me errors. Also, I need to have Titanium updated and mapped under my login. It’s really important for my work, and I just can’t seem to get it to work right.",
+  "short_description": "Need help with Titanium installation and access issues.",
+  "description": "I’m trying to get Titanium on my computer, but it’s not working. I followed the steps for connecting to the Titanium system, but my Mac keeps giving me errors. Also, I need to have Titanium updated and mapped under my login. It’s really important for my work, and I just can’t seem to get it to work right."
+}

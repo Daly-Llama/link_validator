@@ -1,0 +1,20 @@
+{
+  "number": "INC0001371",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB00701",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to log into multiple systems including D2L and SNAP\n\nfull_description_text:\n- The user is having trouble logging into D2L, SNAP, Banner, and Self Service.  \n- They are receiving an error message stating \"Incorrect user ID or password.\"  \n- Another message indicates \"Logon denied. Please contact system adminstrator.\"  \n- The user is unsure of the next steps to resolve this issue.",
+  "short_description": "Unable to log into multiple systems including D2L and SNAP",
+  "description": "- The user is having trouble logging into D2L, SNAP, Banner, and Self Service.  \n- They are receiving an error message stating \"Incorrect user ID or password.\"  \n- Another message indicates \"Logon denied. Please contact system adminstrator.\"  \n- The user is unsure of the next steps to resolve this issue."
+}

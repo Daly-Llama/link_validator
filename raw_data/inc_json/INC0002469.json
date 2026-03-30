@@ -1,0 +1,20 @@
+{
+  "number": "INC0002469",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03927",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Incorrect name displayed on voicemail for VoIP extension.\n\nfull_description_text: The user is experiencing an issue with their VoIP phone. When someone calls their extension, a different person's name is shown on the voicemail. This is causing confusion and is not expected behavior. The name that appears does not match the user's identity, leading to potential misunderstandings.",
+  "short_description": "Incorrect name displayed on voicemail for VoIP extension.",
+  "description": "The user is experiencing an issue with their VoIP phone. When someone calls their extension, a different person's name is shown on the voicemail. This is causing confusion and is not expected behavior. The name that appears does not match the user's identity, leading to potential misunderstandings."
+}

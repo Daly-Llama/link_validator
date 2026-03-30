@@ -1,0 +1,20 @@
+{
+  "number": "INC0004230",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08584",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plans for Churchill-Haines Labs.\n\nfull_description_text:  \nI am trying to find out what the evacuation plan is for my building, specifically for the Churchill-Haines Labs. Additionally, I would like to know what the severe weather plan entails for this location. It is important for me to understand these procedures in case of an emergency, especially since I spend a lot of time in the biology department. I want to ensure that I am prepared and aware of what to do if there is a severe weather event or if we need to evacuate the building for any reason.",
+  "short_description": "Inquiry about evacuation and severe weather plans for Churchill-Haines Labs.",
+  "description": "I am trying to find out what the evacuation plan is for my building, specifically for the Churchill-Haines Labs. Additionally, I would like to know what the severe weather plan entails for this location. It is important for me to understand these procedures in case of an emergency, especially since I spend a lot of time in the biology department. I want to ensure that I am prepared and aware of what to do if there is a severe weather event or if we need to evacuate the building for any reason."
+}

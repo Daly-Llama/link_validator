@@ -1,0 +1,20 @@
+{
+  "number": "INC0003544",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB07381",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to sign into Office 365, prompts for subscription payment.\n\nfull_description_text:\n- User has Microsoft Office installed on their PC.  \n- They are trying to sign into Office 365 but it keeps asking for payment for a new subscription.  \n- This issue occurs while using Excel and PowerPoint in a work environment.  \n- User is uncertain about the sign-in process and needs assistance.",
+  "short_description": "Unable to sign into Office 365, prompts for subscription payment.",
+  "description": "- User has Microsoft Office installed on their PC.  \n- They are trying to sign into Office 365 but it keeps asking for payment for a new subscription.  \n- This issue occurs while using Excel and PowerPoint in a work environment.  \n- User is uncertain about the sign-in process and needs assistance."
+}

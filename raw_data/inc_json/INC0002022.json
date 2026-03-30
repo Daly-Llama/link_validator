@@ -1,0 +1,20 @@
+{
+  "number": "INC0002022",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02602",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unused printer ink cartridges for discontinued models need disposal.\n\nfull_description_text:\n- The user has unopened and opened boxes of printer ink cartridges.  \n- These cartridges are not needed anymore because the printer model is no longer available.  \n- The user is unsure about how to properly dispose of these ink cartridges.  \n- There is a concern about what to do with the unused ink and toner cartridges.",
+  "short_description": "Unused printer ink cartridges for discontinued models need disposal.",
+  "description": "- The user has unopened and opened boxes of printer ink cartridges.  \n- These cartridges are not needed anymore because the printer model is no longer available.  \n- The user is unsure about how to properly dispose of these ink cartridges.  \n- There is a concern about what to do with the unused ink and toner cartridges."
+}

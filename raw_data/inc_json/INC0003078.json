@@ -1,0 +1,20 @@
+{
+  "number": "INC0003078",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05719",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about holidays and holiday pay for USD employees\n\nfull_description_text:\n- The employee is seeking clarification on the holidays that USD employees are entitled to take off.  \n- They are also asking about the specific holidays for which they will receive pay.  \n- Additionally, the employee wants to understand how holiday pay should be recorded on their timesheet.",
+  "short_description": "Inquiry about holidays and holiday pay for USD employees",
+  "description": "- The employee is seeking clarification on the holidays that USD employees are entitled to take off.  \n- They are also asking about the specific holidays for which they will receive pay.  \n- Additionally, the employee wants to understand how holiday pay should be recorded on their timesheet."
+}

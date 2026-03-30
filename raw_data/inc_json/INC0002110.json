@@ -1,0 +1,20 @@
+{
+  "number": "INC0002110",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB02860",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need info on USD graduation timing and details.\n\nfull_description_text: \nThe caller is looking for information about graduating from USD, and they seem a bit confused about where to find this info. They specifically asked what time the graduation ceremony is happening, which is super important for them. It sounds like they might be feeling a little anxious about missing out on the details, so they really need some clear guidance on this.",
+  "short_description": "Need info on USD graduation timing and details.",
+  "description": "The caller is looking for information about graduating from USD, and they seem a bit confused about where to find this info. They specifically asked what time the graduation ceremony is happening, which is super important for them. It sounds like they might be feeling a little anxious about missing out on the details, so they really need some clear guidance on this."
+}

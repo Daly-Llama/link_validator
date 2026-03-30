@@ -1,0 +1,20 @@
+{
+  "number": "INC0001418",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB00814",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance with installing Microsoft Project 365 on Windows.\n\nfull_description_text:\n- The user has a valid license for Microsoft Project 365 and is looking to install it.  \n- They are currently using a Windows environment with Office 365.  \n- During the call, they expressed uncertainty about the installation process and needed guidance.",
+  "short_description": "Need assistance with installing Microsoft Project 365 on Windows.",
+  "description": "- The user has a valid license for Microsoft Project 365 and is looking to install it.  \n- They are currently using a Windows environment with Office 365.  \n- During the call, they expressed uncertainty about the installation process and needed guidance."
+}

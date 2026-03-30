@@ -1,0 +1,20 @@
+{
+  "number": "INC0002484",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB03957",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to connect to multiple USD web pages, receiving errors.\n\nfull_description_text: \nToday, when I arrived at my desk, I tried to access Link.usd.edu and encountered a Secure Connection Error message. The browser displayed \"This site can’t be reached\" and the ERR_CONNECTION_REFUSED error. I also got a 503 error while attempting to open link.usd.edu/docusign in both Chrome and Edge. Interestingly, I can still log into 25live and 25Live Pro without any issues, which is a bit odd given the connection problems with the other sites.",
+  "short_description": "Unable to connect to multiple USD web pages, receiving errors.",
+  "description": "Today, when I arrived at my desk, I tried to access Link.usd.edu and encountered a Secure Connection Error message. The browser displayed \"This site can’t be reached\" and the ERR_CONNECTION_REFUSED error. I also got a 503 error while attempting to open link.usd.edu/docusign in both Chrome and Edge. Interestingly, I can still log into 25live and 25Live Pro without any issues, which is a bit odd given the connection problems with the other sites."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004041",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08269",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to activate the ruler feature in Word.\n\nfull_description_text: Trying to use Word for a project. Need the ruler for alignment. Can't find how to turn it on. Frustrating experience with the interface.",
+  "short_description": "Unable to activate the ruler feature in Word.",
+  "description": "Trying to use Word for a project. Need the ruler for alignment. Can't find how to turn it on. Frustrating experience with the interface."
+}

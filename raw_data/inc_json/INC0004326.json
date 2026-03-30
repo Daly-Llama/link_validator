@@ -1,0 +1,20 @@
+{
+  "number": "INC0004326",
+  "category": "Safety and Security",
+  "subcategory": "Public and Visitor Safety",
+  "correct_kb": "KB08763",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: What is USD's Emergency Communications system?\n\nfull_description_text: So, I was trying to find out about this thing called Emergency Communications. Like, what is it? I think it’s something to do with USD, but I’m not sure. I just want to know what it is and how it works, you know? It’s kinda confusing for me.",
+  "short_description": "What is USD's Emergency Communications system?",
+  "description": "So, I was trying to find out about this thing called Emergency Communications. Like, what is it? I think it’s something to do with USD, but I’m not sure. I just want to know what it is and how it works, you know? It’s kinda confusing for me."
+}

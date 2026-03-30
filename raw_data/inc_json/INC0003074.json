@@ -1,0 +1,20 @@
+{
+  "number": "INC0003074",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05715",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing W-2 online through SNAP system.\n\nfull_description_text: \nThe user was attempting to access their W-2 online via the SNAP platform. They expressed confusion regarding the process and were unsure of the steps required. The call was initiated to clarify the access method for retrieving their W-2 documents. There were multiple inquiries about the specific navigation within the system, which seemed to complicate the situation further.",
+  "short_description": "Difficulty accessing W-2 online through SNAP system.",
+  "description": "The user was attempting to access their W-2 online via the SNAP platform. They expressed confusion regarding the process and were unsure of the steps required. The call was initiated to clarify the access method for retrieving their W-2 documents. There were multiple inquiries about the specific navigation within the system, which seemed to complicate the situation further."
+}

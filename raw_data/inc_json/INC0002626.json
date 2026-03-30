@@ -1,0 +1,20 @@
+{
+  "number": "INC0002626",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB04425",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the Scope and Benefits of Knowledge Centered Service\n\nfull_description_text:  \nThe user inquired about the specific scope of Knowledge Centered Service (KCS). They were particularly interested in understanding the benefits associated with implementing KCS. During the call, the analyst noted the importance of clarifying these aspects for effective service delivery. The conversation highlighted the need for detailed information regarding KCS's advantages and its overall impact on service management.",
+  "short_description": "Inquiry about the Scope and Benefits of Knowledge Centered Service",
+  "description": "The user inquired about the specific scope of Knowledge Centered Service (KCS). They were particularly interested in understanding the benefits associated with implementing KCS. During the call, the analyst noted the importance of clarifying these aspects for effective service delivery. The conversation highlighted the need for detailed information regarding KCS's advantages and its overall impact on service management."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002771",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB04838",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Instructor unable to access Online Writing Center in D2L\n\nfull_description_text:  \nDuring a live chat, the instructor mentioned they couldn't access the Online Writing Center in D2L. They received an error message stating they weren't authorized to view the page. This seems to be a frustrating situation, especially since they believe they should have access.",
+  "short_description": "Instructor unable to access Online Writing Center in D2L",
+  "description": "During a live chat, the instructor mentioned they couldn't access the Online Writing Center in D2L. They received an error message stating they weren't authorized to view the page. This seems to be a frustrating situation, especially since they believe they should have access."
+}

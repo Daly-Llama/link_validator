@@ -1,0 +1,20 @@
+{
+  "number": "INC0004552",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09352",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about the University Housing deposit process and costs\n\nfull_description_text:\n- What is the cost of the University Housing deposit?  \n- How do I pay the deposit?  \n- Can I get an exemption from the deposit?  \n- Is the deposit refundable?  \n- I need to know all this info for my housing.",
+  "short_description": "Questions about the University Housing deposit process and costs",
+  "description": "- What is the cost of the University Housing deposit?  \n- How do I pay the deposit?  \n- Can I get an exemption from the deposit?  \n- Is the deposit refundable?  \n- I need to know all this info for my housing."
+}

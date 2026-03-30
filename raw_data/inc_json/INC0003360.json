@@ -1,0 +1,20 @@
+{
+  "number": "INC0003360",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06662",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: UPS under desk is beeping continuously.\n\nfull_description_text: The user reported that the UPS under their desk is making a beeping noise. This issue was noticed while they were working at their desk. It's unclear if the beeping indicates a problem with the battery or another issue. The user is concerned about the potential impact on their equipment.",
+  "short_description": "UPS under desk is beeping continuously.",
+  "description": "The user reported that the UPS under their desk is making a beeping noise. This issue was noticed while they were working at their desk. It's unclear if the beeping indicates a problem with the battery or another issue. The user is concerned about the potential impact on their equipment."
+}

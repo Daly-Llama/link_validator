@@ -1,0 +1,20 @@
+{
+  "number": "INC0001054",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00093",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to receive scanned documents via email from Toshiba copier.\n\nfull_description_text:  \nSo, I was trying to send some scans from the Toshiba copier to my email, but it just won’t work. I don’t know why, but the scans aren’t showing up in my Outlook at all. It’s really frustrating because I need those documents, and I’m not sure what’s going wrong with the whole email thing.",
+  "short_description": "Unable to receive scanned documents via email from Toshiba copier.",
+  "description": "So, I was trying to send some scans from the Toshiba copier to my email, but it just won’t work. I don’t know why, but the scans aren’t showing up in my Outlook at all. It’s really frustrating because I need those documents, and I’m not sure what’s going wrong with the whole email thing."
+}

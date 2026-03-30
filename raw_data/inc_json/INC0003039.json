@@ -1,0 +1,20 @@
+{
+  "number": "INC0003039",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05626",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty scheduling an appointment with an academic advisor.\n\nfull_description_text:  \nThe user is trying to set up a meeting with their academic advisor. They are unsure of the steps to take. This is causing some confusion and frustration. They need guidance on how to proceed with scheduling.",
+  "short_description": "Difficulty scheduling an appointment with an academic advisor.",
+  "description": "The user is trying to set up a meeting with their academic advisor. They are unsure of the steps to take. This is causing some confusion and frustration. They need guidance on how to proceed with scheduling."
+}

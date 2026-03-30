@@ -1,0 +1,20 @@
+{
+  "number": "INC0002018",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02593",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to unlock iPad due to forgotten pin.\n\nfull_description_text: \nI have a locked iPad that I can't access because I forgot the pin number. I was trying to sign into my iPad, but it just won't let me in at all. It's really frustrating because I need to use it for some important stuff. Can you help me unlock it, please?",
+  "short_description": "Request to unlock iPad due to forgotten pin.",
+  "description": "I have a locked iPad that I can't access because I forgot the pin number. I was trying to sign into my iPad, but it just won't let me in at all. It's really frustrating because I need to use it for some important stuff. Can you help me unlock it, please?"
+}

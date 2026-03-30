@@ -1,0 +1,20 @@
+{
+  "number": "INC0001642",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01472",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Slido for polling and requesting a license.\n\nfull_description_text: \nDuring a live phone call, the user expressed difficulty in accessing Slido for polling purposes. They were unsure of the steps needed to gain access and also mentioned that they are requesting a Slido license. The conversation highlighted their need for immediate assistance with the platform to facilitate their polling activities.",
+  "short_description": "Difficulty accessing Slido for polling and requesting a license.",
+  "description": "During a live phone call, the user expressed difficulty in accessing Slido for polling purposes. They were unsure of the steps needed to gain access and also mentioned that they are requesting a Slido license. The conversation highlighted their need for immediate assistance with the platform to facilitate their polling activities."
+}

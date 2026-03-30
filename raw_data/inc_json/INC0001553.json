@@ -1,0 +1,20 @@
+{
+  "number": "INC0001553",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB01183",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Cisco WebEx due to SSO error.\n\nfull_description_text:  \nUser attempted to access Cisco WebEx. Encountered an error message indicating SSO redirection failure. The system reported no user account found. This issue may be related to account configuration or SSO settings.",
+  "short_description": "Unable to access Cisco WebEx due to SSO error.",
+  "description": "User attempted to access Cisco WebEx. Encountered an error message indicating SSO redirection failure. The system reported no user account found. This issue may be related to account configuration or SSO settings."
+}

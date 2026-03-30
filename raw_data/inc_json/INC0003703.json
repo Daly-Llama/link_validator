@@ -1,0 +1,20 @@
+{
+  "number": "INC0003703",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07825",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty in reordering sheets in Google Sheets.\n\nfull_description_text:\n- The user is trying to reorder their sheets in Google Sheets but is unsure how to do it.  \n- They have attempted to find a solution but have not been successful.  \n- This issue is causing some frustration as they need the sheets organized in a specific order for their work.",
+  "short_description": "Difficulty in reordering sheets in Google Sheets.",
+  "description": "- The user is trying to reorder their sheets in Google Sheets but is unsure how to do it.  \n- They have attempted to find a solution but have not been successful.  \n- This issue is causing some frustration as they need the sheets organized in a specific order for their work."
+}

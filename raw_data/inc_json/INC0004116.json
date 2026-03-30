@@ -1,0 +1,20 @@
+{
+  "number": "INC0004116",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB08380",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to activate or deactivate a panic button for VoIP phone.\n\nfull_description_text:  \n- The user inquired about the process to request a panic button.  \n- This request pertains to the activation or deactivation of a panic button feature.  \n- The context involves UPD assistance in an emergency situation using a VoIP phone.",
+  "short_description": "Request to activate or deactivate a panic button for VoIP phone.",
+  "description": "- The user inquired about the process to request a panic button.  \n- This request pertains to the activation or deactivation of a panic button feature.  \n- The context involves UPD assistance in an emergency situation using a VoIP phone."
+}

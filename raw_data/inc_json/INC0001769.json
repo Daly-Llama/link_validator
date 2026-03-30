@@ -1,0 +1,20 @@
+{
+  "number": "INC0001769",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01828",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Copier not accepting access code for printing.\n\nfull_description_text: \nThe Toshiba copier is not accepting the access code. The user is unable to print from their office computer. There is no option to enter the code when attempting to print. This issue is affecting access to the department copier.",
+  "short_description": "Copier not accepting access code for printing.",
+  "description": "The Toshiba copier is not accepting the access code. The user is unable to print from their office computer. There is no option to enter the code when attempting to print. This issue is affecting access to the department copier."
+}

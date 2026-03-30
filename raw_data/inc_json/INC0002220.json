@@ -1,0 +1,20 @@
+{
+  "number": "INC0002220",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03201",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to reactivate an email account for a user.\n\nfull_description_text:  \nDuring a recent phone call, a help desk analyst received a request from a user to reactivate their email account. The user, who is part of the faculty, mentioned that they were unable to access their email and needed it restored for important communications. The analyst noted the urgency of the situation, as the user relies on this email for their daily tasks and interactions.",
+  "short_description": "Request to reactivate an email account for a user.",
+  "description": "During a recent phone call, a help desk analyst received a request from a user to reactivate their email account. The user, who is part of the faculty, mentioned that they were unable to access their email and needed it restored for important communications. The analyst noted the urgency of the situation, as the user relies on this email for their daily tasks and interactions."
+}

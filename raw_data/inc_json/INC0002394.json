@@ -1,0 +1,20 @@
+{
+  "number": "INC0002394",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03710",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Simulator not connecting to patient monitor or control room SimPad.\n\nfull_description_text: The simulator is working but it can't connect to the patient monitor or the SimPad in the control room. The error message says we can't find any simulator on the current network. This is causing issues with the simulation setup and needs to be looked at.",
+  "short_description": "Simulator not connecting to patient monitor or control room SimPad.",
+  "description": "The simulator is working but it can't connect to the patient monitor or the SimPad in the control room. The error message says we can't find any simulator on the current network. This is causing issues with the simulation setup and needs to be looked at."
+}

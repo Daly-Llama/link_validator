@@ -1,0 +1,20 @@
+{
+  "number": "INC0004553",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09353",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about university sponsored program housing exemption application process\n\nfull_description_text:  \nThe user is seeking information on how to apply for a university sponsored program housing exemption. They have questions regarding the specific requirements needed for the application. Additionally, the user is curious about the likelihood of being granted this exemption.",
+  "short_description": "Inquiry about university sponsored program housing exemption application process",
+  "description": "The user is seeking information on how to apply for a university sponsored program housing exemption. They have questions regarding the specific requirements needed for the application. Additionally, the user is curious about the likelihood of being granted this exemption."
+}

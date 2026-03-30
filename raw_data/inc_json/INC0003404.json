@@ -1,0 +1,20 @@
+{
+  "number": "INC0003404",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB06855",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Outlook Web Access after email setup.\n\nfull_description_text: The user set up their email account but can't log in to Outlook Web Access. They received an error message saying \"BootResult: accessDenied.\" This issue came up during our chat, and they seemed quite frustrated. It’s important for them to access their email for work.",
+  "short_description": "Unable to access Outlook Web Access after email setup.",
+  "description": "The user set up their email account but can't log in to Outlook Web Access. They received an error message saying \"BootResult: accessDenied.\" This issue came up during our chat, and they seemed quite frustrated. It’s important for them to access their email for work."
+}

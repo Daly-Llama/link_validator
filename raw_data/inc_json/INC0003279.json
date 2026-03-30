@@ -1,0 +1,20 @@
+{
+  "number": "INC0003279",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB06327",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with managing user access in SharePoint Online\n\nfull_description_text:\n- The user is trying to figure out how to add or remove people from their SharePoint site.  \n- They are unsure about the steps needed to change who can access the site.  \n- This is causing some confusion during the call, and they need help to resolve it.",
+  "short_description": "Issues with managing user access in SharePoint Online",
+  "description": "- The user is trying to figure out how to add or remove people from their SharePoint site.  \n- They are unsure about the steps needed to change who can access the site.  \n- This is causing some confusion during the call, and they need help to resolve it."
+}

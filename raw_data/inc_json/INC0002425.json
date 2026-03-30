@@ -1,0 +1,20 @@
+{
+  "number": "INC0002425",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03801",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty opting out of First Day Access materials.\n\nfull_description_text: \nThe user was inquiring about the process to opt out of First Day Access materials, commonly referred to as FDAs, while using the USD Online Bookstore platform. They mentioned that they had previously opted out of the program but were uncertain if it was possible to opt back in after making that decision. This situation raises questions about the flexibility of the program and the options available to students regarding their course materials. The user seemed to be looking for clear guidance on how to navigate these choices effectively.",
+  "short_description": "Difficulty opting out of First Day Access materials.",
+  "description": "The user was inquiring about the process to opt out of First Day Access materials, commonly referred to as FDAs, while using the USD Online Bookstore platform. They mentioned that they had previously opted out of the program but were uncertain if it was possible to opt back in after making that decision. This situation raises questions about the flexibility of the program and the options available to students regarding their course materials. The user seemed to be looking for clear guidance on how to navigate these choices effectively."
+}

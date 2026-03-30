@@ -1,0 +1,20 @@
+{
+  "number": "INC0004126",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08399",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: User needs help drawing a page border in Word.\n\nfull_description_text: So, the user was trying to, like, draw a border on their page in Word. They were asking how to do it, but it seems they got a bit stuck. It’s kinda confusing, right? They just want to make their document look nice with a border, but they don’t know how to start.",
+  "short_description": "User needs help drawing a page border in Word.",
+  "description": "So, the user was trying to, like, draw a border on their page in Word. They were asking how to do it, but it seems they got a bit stuck. It’s kinda confusing, right? They just want to make their document look nice with a border, but they don’t know how to start."
+}

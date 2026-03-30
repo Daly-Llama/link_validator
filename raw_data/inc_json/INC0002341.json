@@ -1,0 +1,20 @@
+{
+  "number": "INC0002341",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03574",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to remove voicemail feature from VoIP phone line\n\nfull_description_text:\n- A field technician is asking for the voicemail feature to be taken off a specific phone line.  \n- They mentioned that they don't want voicemail anymore and would like it removed.  \n- This request is related to a VoIP setup, so it's all about the phone system.  \n- Just looking to simplify things by getting rid of that voicemail option.",
+  "short_description": "Request to remove voicemail feature from VoIP phone line",
+  "description": "- A field technician is asking for the voicemail feature to be taken off a specific phone line.  \n- They mentioned that they don't want voicemail anymore and would like it removed.  \n- This request is related to a VoIP setup, so it's all about the phone system.  \n- Just looking to simplify things by getting rid of that voicemail option."
+}

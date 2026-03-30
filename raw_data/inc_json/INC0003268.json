@@ -1,0 +1,20 @@
+{
+  "number": "INC0003268",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB06300",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty converting PowerPoint presentations to PDF format.\n\nfull_description_text:  \nI was trying to convert a PowerPoint presentation into a PDF, but I ran into some issues. It seems like the process isn't straightforward, and I'm not sure what steps to follow. I just need a simple way to get my slides into a PDF format for sharing.",
+  "short_description": "Difficulty converting PowerPoint presentations to PDF format.",
+  "description": "I was trying to convert a PowerPoint presentation into a PDF, but I ran into some issues. It seems like the process isn't straightforward, and I'm not sure what steps to follow. I just need a simple way to get my slides into a PDF format for sharing."
+}

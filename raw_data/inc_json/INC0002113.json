@@ -1,0 +1,20 @@
+{
+  "number": "INC0002113",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02871",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for a shared service account for Cisco Finesse\n\nfull_description_text:  \nDuring a call, a department reached out needing a shared service account for Cisco Finesse. They explained that their team consists of students who frequently change, so having a stable login would really help them manage calls more effectively. Additionally, they mentioned needing an Active Directory account for another specific purpose. It seems like they want to streamline their operations while accommodating their dynamic staffing situation.",
+  "short_description": "Request for a shared service account for Cisco Finesse",
+  "description": "During a call, a department reached out needing a shared service account for Cisco Finesse. They explained that their team consists of students who frequently change, so having a stable login would really help them manage calls more effectively. Additionally, they mentioned needing an Active Directory account for another specific purpose. It seems like they want to streamline their operations while accommodating their dynamic staffing situation."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002981",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB05451",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating appointment availability in Coyote Connections\n\nfull_description_text:\n- The user was trying to set up appointment times in Coyote Connections.  \n- They were unsure how to create the availability for the advising campaign.  \n- There was some confusion during the chat about the steps needed.  \n- The help desk analyst was assisting them with this issue.",
+  "short_description": "Difficulty creating appointment availability in Coyote Connections",
+  "description": "- The user was trying to set up appointment times in Coyote Connections.  \n- They were unsure how to create the availability for the advising campaign.  \n- There was some confusion during the chat about the steps needed.  \n- The help desk analyst was assisting them with this issue."
+}

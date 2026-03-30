@@ -1,0 +1,20 @@
+{
+  "number": "INC0004550",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09350",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about winter break room checks by Housing\n\nfull_description_text:\n- User is asking what happens to their room during winter break.  \n- They want to know if Housing will check their room.  \n- Uncertainty about the process and any actions needed from their side.",
+  "short_description": "Inquiry about winter break room checks by Housing",
+  "description": "- User is asking what happens to their room during winter break.  \n- They want to know if Housing will check their room.  \n- Uncertainty about the process and any actions needed from their side."
+}

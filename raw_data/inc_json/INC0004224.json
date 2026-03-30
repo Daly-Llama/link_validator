@@ -1,0 +1,20 @@
+{
+  "number": "INC0004224",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08578",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about building's evacuation and severe weather plans.\n\nfull_description_text:  \nThe field technician needs to know the evacuation plan for their building.  \nThey are also looking for details on the severe weather plan at the Service Center.  \nUnderstanding these plans is crucial for safety during emergencies.  \nThe technician is unsure where to find this information.",
+  "short_description": "Inquiry about building's evacuation and severe weather plans.",
+  "description": "The field technician needs to know the evacuation plan for their building.  \nThey are also looking for details on the severe weather plan at the Service Center.  \nUnderstanding these plans is crucial for safety during emergencies.  \nThe technician is unsure where to find this information."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004554",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09354",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about withdrawing from USD housing exemption process\n\nfull_description_text:  \nI'm trying to figure out how to apply for a withdrawal from the USD housing exemption. I have some questions about the requirements and what my chances are of getting it approved. It feels a bit confusing, and I'm not sure where to start or what to expect in this process. Any guidance would be really helpful!",
+  "short_description": "Questions about withdrawing from USD housing exemption process",
+  "description": "I'm trying to figure out how to apply for a withdrawal from the USD housing exemption. I have some questions about the requirements and what my chances are of getting it approved. It feels a bit confusing, and I'm not sure where to start or what to expect in this process. Any guidance would be really helpful!"
+}

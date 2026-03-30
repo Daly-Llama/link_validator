@@ -1,0 +1,20 @@
+{
+  "number": "INC0004023",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB08250",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Conference room equipment at SDSD is damaged and unresponsive.\n\nfull_description_text: \nEl usuario estaba tratando de usar el equipo en la sala de conferencias en South Dakota Services for the Deaf. Sin embargo, el televisor no responde a los comandos del panel táctil, y los micrófonos no están funcionando. Esto ha causado problemas para realizar la conferencia. Necesitan asistencia para reparar el equipo dañado.",
+  "short_description": "Conference room equipment at SDSD is damaged and unresponsive.",
+  "description": "El usuario estaba tratando de usar el equipo en la sala de conferencias en South Dakota Services for the Deaf. Sin embargo, el televisor no responde a los comandos del panel táctil, y los micrófonos no están funcionando. Esto ha causado problemas para realizar la conferencia. Necesitan asistencia para reparar el equipo dañado."
+}

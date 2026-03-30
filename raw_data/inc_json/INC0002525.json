@@ -1,0 +1,20 @@
+{
+  "number": "INC0002525",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04080",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Right speaker producing static sound at high volume levels.\n\nfull_description_text:  \nThe user reported an issue with their sound system where the right speaker emits a significant amount of static noise when the PC volume is increased. This problem seems to occur exclusively in the right speaker, leading to a poor audio experience. The user was likely attempting to enjoy media or conduct a call when this disruption occurred, which could be quite frustrating. Further investigation may be needed to determine the underlying cause of this static sound.",
+  "short_description": "Right speaker producing static sound at high volume levels.",
+  "description": "The user reported an issue with their sound system where the right speaker emits a significant amount of static noise when the PC volume is increased. This problem seems to occur exclusively in the right speaker, leading to a poor audio experience. The user was likely attempting to enjoy media or conduct a call when this disruption occurred, which could be quite frustrating. Further investigation may be needed to determine the underlying cause of this static sound."
+}

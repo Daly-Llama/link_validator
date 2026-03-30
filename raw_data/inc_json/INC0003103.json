@@ -1,0 +1,20 @@
+{
+  "number": "INC0003103",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05772",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the nature of FICA taxes\n\nfull_description_text:  \nI’m trying to understand what FICA taxes are.  \nI’ve heard about them in relation to payroll and taxes, but it’s kinda confusing.  \nAre they just for Social Security and Medicare, or is there more to it?  \nAny clarity on this would be super helpful!",
+  "short_description": "Inquiry about the nature of FICA taxes",
+  "description": "I’m trying to understand what FICA taxes are.  \nI’ve heard about them in relation to payroll and taxes, but it’s kinda confusing.  \nAre they just for Social Security and Medicare, or is there more to it?  \nAny clarity on this would be super helpful!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002648",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB04496",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues logging into Adobe Creative Cloud on shared devices\n\nfull_description_text:  \nA user is attempting to log into Adobe Creative Cloud on a computer in a classroom that utilizes a shared device license. They are encountering difficulties with the login process, which is preventing access to the necessary applications. This issue is specific to the shared device setup in the computer lab environment.",
+  "short_description": "Issues logging into Adobe Creative Cloud on shared devices",
+  "description": "A user is attempting to log into Adobe Creative Cloud on a computer in a classroom that utilizes a shared device license. They are encountering difficulties with the login process, which is preventing access to the necessary applications. This issue is specific to the shared device setup in the computer lab environment."
+}

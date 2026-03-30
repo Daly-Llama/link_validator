@@ -1,0 +1,20 @@
+{
+  "number": "INC0003064",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05697",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty scheduling a Zoom meeting for a class.\n\nfull_description_text: The user is trying to set up a Zoom meeting for a class but is unsure how to proceed. They need guidance on the scheduling process within both Zoom and Outlook. This issue may involve integration challenges between the platforms.",
+  "short_description": "Difficulty scheduling a Zoom meeting for a class.",
+  "description": "The user is trying to set up a Zoom meeting for a class but is unsure how to proceed. They need guidance on the scheduling process within both Zoom and Outlook. This issue may involve integration challenges between the platforms."
+}

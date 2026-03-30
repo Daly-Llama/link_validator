@@ -1,0 +1,20 @@
+{
+  "number": "INC0002332",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03544",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to sync email on mobile after Duo Mobile setup\n\nfull_description_text:  \nAfter configuring Duo Multi-Factor Authentication, my email stopped syncing on my smartphone. The Duo Mobile app prompts for my password repeatedly, and my email on the computer is not updating either. I can't access my emails on my phone, as it doesn't recognize my password.",
+  "short_description": "Unable to sync email on mobile after Duo Mobile setup",
+  "description": "After configuring Duo Multi-Factor Authentication, my email stopped syncing on my smartphone. The Duo Mobile app prompts for my password repeatedly, and my email on the computer is not updating either. I can't access my emails on my phone, as it doesn't recognize my password."
+}

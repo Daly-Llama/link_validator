@@ -1,0 +1,20 @@
+{
+  "number": "INC0001476",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00967",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues connecting to eduroam Wi-Fi in dorms with frequent drops.\n\nfull_description_text: \nThe user is experiencing significant difficulties connecting to the eduroam Wi-Fi network in the dorms. Although the network is accessible on other devices, such as their phone and laptop, the connection frequently drops, leading to no internet access and issues with applications like Zoom. Additionally, the user has reported that eduroam is not appearing in the list of available networks at times, and they receive an error stating that no Wi-Fi networks are found. This wireless issue seems to be localized to specific areas within the dormitory.",
+  "short_description": "Issues connecting to eduroam Wi-Fi in dorms with frequent drops.",
+  "description": "The user is experiencing significant difficulties connecting to the eduroam Wi-Fi network in the dorms. Although the network is accessible on other devices, such as their phone and laptop, the connection frequently drops, leading to no internet access and issues with applications like Zoom. Additionally, the user has reported that eduroam is not appearing in the list of available networks at times, and they receive an error stating that no Wi-Fi networks are found. This wireless issue seems to be localized to specific areas within the dormitory."
+}

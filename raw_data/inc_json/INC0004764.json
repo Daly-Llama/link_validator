@@ -1,0 +1,20 @@
+{
+  "number": "INC0004764",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB09985",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to correct pay for unrecorded hours in previous pay period\n\nfull_description_text: An hourly employee has reported that their hours worked during the last pay period were not captured on their timesheet. This oversight has resulted in a need for correction to ensure proper compensation. The request was submitted through the Employee Dashboard on the Experience Portal, indicating the urgency of addressing this payroll discrepancy.",
+  "short_description": "Need to correct pay for unrecorded hours in previous pay period",
+  "description": "An hourly employee has reported that their hours worked during the last pay period were not captured on their timesheet. This oversight has resulted in a need for correction to ensure proper compensation. The request was submitted through the Employee Dashboard on the Experience Portal, indicating the urgency of addressing this payroll discrepancy."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004466",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB09132",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Applications affected by my username change after name change.\n\nfull_description_text: I changed my name and now I’m worried about my apps. Like, will my login still work for Exchange and RapidIdentity? I also use Cisco VoIP phone, so I need to know if that’s okay too. What will happen to everything after my name change?",
+  "short_description": "Applications affected by my username change after name change.",
+  "description": "I changed my name and now I’m worried about my apps. Like, will my login still work for Exchange and RapidIdentity? I also use Cisco VoIP phone, so I need to know if that’s okay too. What will happen to everything after my name change?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004308",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB08737",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with ordering graduation regalia and announcements.\n\nfull_description_text:  \nThe caller was trying to find out how to order their graduation regalia and gown. They also asked about ordering graduation announcements and a diploma frame. There seemed to be some confusion about the process and where to go for these orders.",
+  "short_description": "Issues with ordering graduation regalia and announcements.",
+  "description": "The caller was trying to find out how to order their graduation regalia and gown. They also asked about ordering graduation announcements and a diploma frame. There seemed to be some confusion about the process and where to go for these orders."
+}

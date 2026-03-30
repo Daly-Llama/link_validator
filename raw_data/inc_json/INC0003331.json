@@ -1,0 +1,20 @@
+{
+  "number": "INC0003331",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB06558",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble confirming event requests in 25Live by Schedulers\n\nfull_description_text:  \nI was chatting with a user who was trying to confirm some event requests in 25Live. They mentioned that the process wasn't going smoothly, and they were unsure why it wasn't working as expected. It seems like there might be a hiccup with the confirmation feature that needs attention.",
+  "short_description": "Trouble confirming event requests in 25Live by Schedulers",
+  "description": "I was chatting with a user who was trying to confirm some event requests in 25Live. They mentioned that the process wasn't going smoothly, and they were unsure why it wasn't working as expected. It seems like there might be a hiccup with the confirmation feature that needs attention."
+}

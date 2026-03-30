@@ -1,0 +1,20 @@
+{
+  "number": "INC0004767",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB10004",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about employee discounts and perks access\n\nfull_description_text:\n- The user is seeking information regarding the discounts and perks available for benefit and leave eligible employees.  \n- They are unsure about how to access these benefits through the Bureau of Human Resources Website.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user is looking for clarity on what specific discounts or perks they can utilize.",
+  "short_description": "Inquiry about employee discounts and perks access",
+  "description": "- The user is seeking information regarding the discounts and perks available for benefit and leave eligible employees.  \n- They are unsure about how to access these benefits through the Bureau of Human Resources Website.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user is looking for clarity on what specific discounts or perks they can utilize."
+}

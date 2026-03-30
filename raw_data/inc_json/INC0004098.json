@@ -1,0 +1,20 @@
+{
+  "number": "INC0004098",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08361",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty cropping images in Microsoft Word.\n\nfull_description_text: \nThe user is experiencing issues while attempting to crop an image in Microsoft Word. They are unsure of the correct procedure to follow and have requested assistance during a live phone call. This problem is affecting their ability to edit documents effectively, as they need to adjust the images for better presentation. The user is looking for clear guidance on how to perform this task correctly.",
+  "short_description": "Difficulty cropping images in Microsoft Word.",
+  "description": "The user is experiencing issues while attempting to crop an image in Microsoft Word. They are unsure of the correct procedure to follow and have requested assistance during a live phone call. This problem is affecting their ability to edit documents effectively, as they need to adjust the images for better presentation. The user is looking for clear guidance on how to perform this task correctly."
+}

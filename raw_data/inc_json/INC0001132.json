@@ -1,0 +1,20 @@
+{
+  "number": "INC0001132",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00260",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Barcode scanner requires manual input before scanning\n\nfull_description_text:\n- The barcode scanner is not working right.  \n- It doesn't enter the barcode number unless you touch it first.  \n- This is happening at Aramark's POS system with Blackboard.  \n- It's really annoying and makes things slow.",
+  "short_description": "Barcode scanner requires manual input before scanning",
+  "description": "- The barcode scanner is not working right.  \n- It doesn't enter the barcode number unless you touch it first.  \n- This is happening at Aramark's POS system with Blackboard.  \n- It's really annoying and makes things slow."
+}

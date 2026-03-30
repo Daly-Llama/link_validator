@@ -1,0 +1,20 @@
+{
+  "number": "INC0004408",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB08969",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about USD-SSOM Medical Student Technical Standards\n\nfull_description_text: \nSo, like, the person was asking about the Medical Student Technical Standards at The University of South Dakota Sanford School of Medicine. They wanted to know what those standards are, but it was kinda unclear what exactly they needed. There’s a lot of info, and it seems important for students, but I’m not sure what all the details are. It’s just that they really need to know this stuff for their studies, I guess.",
+  "short_description": "Inquiry about USD-SSOM Medical Student Technical Standards",
+  "description": "So, like, the person was asking about the Medical Student Technical Standards at The University of South Dakota Sanford School of Medicine. They wanted to know what those standards are, but it was kinda unclear what exactly they needed. There’s a lot of info, and it seems important for students, but I’m not sure what all the details are. It’s just that they really need to know this stuff for their studies, I guess."
+}

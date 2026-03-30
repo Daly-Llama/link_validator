@@ -1,0 +1,20 @@
+{
+  "number": "INC0001076",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00136",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Monitors are not arranged correctly and second monitor not working.\n\nfull_description_text: The technician is trying to set up multiple displays on Windows. The monitors are not arranged properly, and the mouse is not moving across the screens correctly. Also, the second monitor is not working at all. This is causing problems for the technician.",
+  "short_description": "Monitors are not arranged correctly and second monitor not working.",
+  "description": "The technician is trying to set up multiple displays on Windows. The monitors are not arranged properly, and the mouse is not moving across the screens correctly. Also, the second monitor is not working at all. This is causing problems for the technician."
+}

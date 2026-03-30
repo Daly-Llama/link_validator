@@ -1,0 +1,20 @@
+{
+  "number": "INC0002835",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB05024",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to print documents using DocuSign Print Driver.\n\nfull_description_text:\n- The user was attempting to print a document through the DocuSign Print Driver on their Windows 10 system.\n- They encountered an error message stating, \"An error has occurred. Please try again,\" which left them frustrated.\n- The user mentioned that they had already tried restarting the application, but the issue persisted, prompting them to seek assistance.\n- They expressed concern about the potential reasons for the printing failure, indicating a need for further support.",
+  "short_description": "Unable to print documents using DocuSign Print Driver.",
+  "description": "- The user was attempting to print a document through the DocuSign Print Driver on their Windows 10 system.\n- They encountered an error message stating, \"An error has occurred. Please try again,\" which left them frustrated.\n- The user mentioned that they had already tried restarting the application, but the issue persisted, prompting them to seek assistance.\n- They expressed concern about the potential reasons for the printing failure, indicating a need for further support."
+}

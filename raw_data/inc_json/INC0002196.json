@@ -1,0 +1,20 @@
+{
+  "number": "INC0002196",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03141",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Card scanner malfunction at wellness center turnstiles\n\nfull_description_text:\n- The user attempted to access the wellness center using their Coyote Card but encountered issues with the scanner at the front desk.  \n- Despite the scanner being powered on and seemingly connected, it failed to respond when the card was presented.  \n- An error message indicated that the user needed to register for classes, leading to confusion and inability to enter the building.",
+  "short_description": "Coyote Card scanner malfunction at wellness center turnstiles",
+  "description": "- The user attempted to access the wellness center using their Coyote Card but encountered issues with the scanner at the front desk.  \n- Despite the scanner being powered on and seemingly connected, it failed to respond when the card was presented.  \n- An error message indicated that the user needed to register for classes, leading to confusion and inability to enter the building."
+}

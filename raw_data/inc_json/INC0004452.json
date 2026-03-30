@@ -1,0 +1,20 @@
+{
+  "number": "INC0004452",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB09100",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't access files in Teams due to connection errors.\n\nfull_description_text: \nThe user was trying to open files in Teams but ran into some issues. They got a message saying the server IP address couldn't be found and that there was a problem connecting to Microsoft 365. It seems like they might not have the right permissions or the list could be deleted. They were a bit frustrated and just wanted to get their work done.",
+  "short_description": "Can't access files in Teams due to connection errors.",
+  "description": "The user was trying to open files in Teams but ran into some issues. They got a message saying the server IP address couldn't be found and that there was a problem connecting to Microsoft 365. It seems like they might not have the right permissions or the list could be deleted. They were a bit frustrated and just wanted to get their work done."
+}

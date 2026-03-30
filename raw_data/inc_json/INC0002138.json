@@ -1,0 +1,20 @@
+{
+  "number": "INC0002138",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02947",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the Upward Bound process flow\n\nfull_description_text:  \nThe user is seeking clarification regarding the flow of the Upward Bound process. They are unsure about the specific steps involved and how to navigate through them effectively. This inquiry may impact their ability to proceed with related tasks.",
+  "short_description": "Inquiry about the Upward Bound process flow",
+  "description": "The user is seeking clarification regarding the flow of the Upward Bound process. They are unsure about the specific steps involved and how to navigate through them effectively. This inquiry may impact their ability to proceed with related tasks."
+}

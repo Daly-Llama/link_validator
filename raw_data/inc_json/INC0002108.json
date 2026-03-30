@@ -1,0 +1,20 @@
+{
+  "number": "INC0002108",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB02857",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for after-hours access to university buildings via card reader.\n\nfull_description_text: \nThe user is requesting an override for the door schedule in the Transact system. They need the card reader to be unlocked to gain access to university buildings after hours. This request indicates a need for special access outside of normal operating hours, which may not be typically permitted.",
+  "short_description": "Request for after-hours access to university buildings via card reader.",
+  "description": "The user is requesting an override for the door schedule in the Transact system. They need the card reader to be unlocked to gain access to university buildings after hours. This request indicates a need for special access outside of normal operating hours, which may not be typically permitted."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003733",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07856",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to enable Live Subtitles and Captions in Google Slides.\n\nfull_description_text:  \nSo, I was trying to figure out how to turn on Live Subtitles and Captions in Google Slides, but I just couldn't get it to work. I thought it would be straightforward, but it seems like I'm missing something. It's really frustrating because I need this feature for my presentation, and I can't find any clear instructions on how to do it.",
+  "short_description": "Unable to enable Live Subtitles and Captions in Google Slides.",
+  "description": "So, I was trying to figure out how to turn on Live Subtitles and Captions in Google Slides, but I just couldn't get it to work. I thought it would be straightforward, but it seems like I'm missing something. It's really frustrating because I need this feature for my presentation, and I can't find any clear instructions on how to do it."
+}

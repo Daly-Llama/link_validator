@@ -1,0 +1,20 @@
+{
+  "number": "INC0002903",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05264",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty accessing my.usd.edu and PAMS websites.\n\nfull_description_text: I'm having a tough time accessing the my.usd.edu website; it keeps timing out. Also, when I try to get into PAMS, which is essential for my grant from the Department of Energy, it redirects me to Science Direct. However, I can't open the journal's PDF from there, which is really frustrating.",
+  "short_description": "Difficulty accessing my.usd.edu and PAMS websites.",
+  "description": "I'm having a tough time accessing the my.usd.edu website; it keeps timing out. Also, when I try to get into PAMS, which is essential for my grant from the Department of Energy, it redirects me to Science Direct. However, I can't open the journal's PDF from there, which is really frustrating."
+}

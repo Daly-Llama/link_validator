@@ -1,0 +1,20 @@
+{
+  "number": "INC0002294",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03443",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Card access not unlocking doors with Coyote Card.\n\nfull_description_text: User attempted to access the building using their Coyote Card. The card reader flashed red and beeped but did not unlock the door. Access is expected but not granted, causing inconvenience.",
+  "short_description": "Card access not unlocking doors with Coyote Card.",
+  "description": "User attempted to access the building using their Coyote Card. The card reader flashed red and beeped but did not unlock the door. Access is expected but not granted, causing inconvenience."
+}

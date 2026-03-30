@@ -1,0 +1,20 @@
+{
+  "number": "INC0003697",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07817",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty in sending a Google Form to others.\n\nfull_description_text:\n- User is trying to send a Google Form.  \n- They are unsure of the process to share it with others.  \n- Need clarification on how to complete this action.",
+  "short_description": "Difficulty in sending a Google Form to others.",
+  "description": "- User is trying to send a Google Form.  \n- They are unsure of the process to share it with others.  \n- Need clarification on how to complete this action."
+}

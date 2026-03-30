@@ -1,0 +1,20 @@
+{
+  "number": "INC0004682",
+  "category": "Admissions",
+  "subcategory": "Admissions",
+  "correct_kb": "KB09736",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Not receiving temporary PIN for password reset on Apply.USD.edu\n\nfull_description_text: I'm trying to apply to USD but can't get the temporary PIN. I need it to reset my password. This is happening on the apply.usd.edu site. It's really frustrating not to receive it.",
+  "short_description": "Not receiving temporary PIN for password reset on Apply.USD.edu",
+  "description": "I'm trying to apply to USD but can't get the temporary PIN. I need it to reset my password. This is happening on the apply.usd.edu site. It's really frustrating not to receive it."
+}

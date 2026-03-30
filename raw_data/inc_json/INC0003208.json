@@ -1,0 +1,20 @@
+{
+  "number": "INC0003208",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB06119",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Low disk space alert on School of Business virtual desktop.\n\nfull_description_text:  \nI got an email about the BADM 723 VM desktop in the School of Business. It seems like the user is running into a low storage space issue, which is causing some problems. They’re probably trying to save files or run applications, but the lack of disk space is really getting in the way. Just wanted to flag this so we can look into it further.",
+  "short_description": "Low disk space alert on School of Business virtual desktop.",
+  "description": "I got an email about the BADM 723 VM desktop in the School of Business. It seems like the user is running into a low storage space issue, which is causing some problems. They’re probably trying to save files or run applications, but the lack of disk space is really getting in the way. Just wanted to flag this so we can look into it further."
+}

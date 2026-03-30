@@ -1,0 +1,20 @@
+{
+  "number": "INC0001374",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00708",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Turnstiles malfunctioning with incorrect access notifications and sounds.\n\nfull_description_text: \nThe turnstiles are currently malfunctioning, allowing entry but emitting incorrect auditory signals. Users experience a “ta da” sound indicating successful access, followed by an unexpected beep, suggesting a failure in the swipe recognition process. This issue is preventing access to the Event Plan, which is critical for operational functionality. The system appears to be pushing data to Fusion, yet the feedback mechanism is not aligning with expected performance standards.",
+  "short_description": "Turnstiles malfunctioning with incorrect access notifications and sounds.",
+  "description": "The turnstiles are currently malfunctioning, allowing entry but emitting incorrect auditory signals. Users experience a “ta da” sound indicating successful access, followed by an unexpected beep, suggesting a failure in the swipe recognition process. This issue is preventing access to the Event Plan, which is critical for operational functionality. The system appears to be pushing data to Fusion, yet the feedback mechanism is not aligning with expected performance standards."
+}

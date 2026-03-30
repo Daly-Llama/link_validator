@@ -1,0 +1,20 @@
+{
+  "number": "INC0002938",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05340",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to merge two Zoom accounts and transfer recordings.\n\nfull_description_text:  \nDuring a phone call, the user expressed a need to merge their two Zoom accounts due to a name change. They are leaving USD and want to ensure that their recordings and meetings are transferred to another user. Additionally, the instructor mentioned difficulties accessing their D2L Zoom, which may be related to this account issue.",
+  "short_description": "Request to merge two Zoom accounts and transfer recordings.",
+  "description": "During a phone call, the user expressed a need to merge their two Zoom accounts due to a name change. They are leaving USD and want to ensure that their recordings and meetings are transferred to another user. Additionally, the instructor mentioned difficulties accessing their D2L Zoom, which may be related to this account issue."
+}

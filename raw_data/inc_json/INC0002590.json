@@ -1,0 +1,20 @@
+{
+  "number": "INC0002590",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04269",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help updating iOS on my iPad device.\n\nfull_description_text:\n- So, the user is looking to update the iOS version on their iPad.  \n- They’re not sure how to go about it and need some guidance.  \n- This is for an iPad Air, but it could apply to other iPads and iPhones too.  \n- Just a bit confused on the steps to take, I guess!",
+  "short_description": "Need help updating iOS on my iPad device.",
+  "description": "- So, the user is looking to update the iOS version on their iPad.  \n- They’re not sure how to go about it and need some guidance.  \n- This is for an iPad Air, but it could apply to other iPads and iPhones too.  \n- Just a bit confused on the steps to take, I guess!"
+}

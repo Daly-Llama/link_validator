@@ -1,0 +1,20 @@
+{
+  "number": "INC0002211",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB03182",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about laptop requirements for medical school admission.\n\nfull_description_text:  \nUser is an incoming medical school student.  \nThey need to know if their laptop meets the Sanford School of Medicine requirements.  \nRequesting detailed specifications for the computer needed for med school.",
+  "short_description": "Inquiry about laptop requirements for medical school admission.",
+  "description": "User is an incoming medical school student.  \nThey need to know if their laptop meets the Sanford School of Medicine requirements.  \nRequesting detailed specifications for the computer needed for med school."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003855",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB07989",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty using OneNote shortcuts for typing and editing notes\n\nfull_description_text: \nThe user was trying to type and edit notes in OneNote but was having trouble with the shortcuts. They mentioned that it was confusing and they weren't sure how to make it work. It seems like they just wanted to get their notes organized quickly but ran into some issues.",
+  "short_description": "Difficulty using OneNote shortcuts for typing and editing notes",
+  "description": "The user was trying to type and edit notes in OneNote but was having trouble with the shortcuts. They mentioned that it was confusing and they weren't sure how to make it work. It seems like they just wanted to get their notes organized quickly but ran into some issues."
+}

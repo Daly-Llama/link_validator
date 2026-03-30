@@ -1,0 +1,20 @@
+{
+  "number": "INC0004601",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB09462",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for technology assistance in Lee Med Building\n\nfull_description_text: \nAn end user has submitted a request for assistance with technology issues in the Lee Med Building. They are experiencing difficulties that require immediate attention from the ITS team. The user mentioned that the problem has been persisting for some time, and it is affecting their ability to perform essential tasks. Additional context about the specific technology involved was not provided, but the urgency of the situation is clear.",
+  "short_description": "Request for technology assistance in Lee Med Building",
+  "description": "An end user has submitted a request for assistance with technology issues in the Lee Med Building. They are experiencing difficulties that require immediate attention from the ITS team. The user mentioned that the problem has been persisting for some time, and it is affecting their ability to perform essential tasks. Additional context about the specific technology involved was not provided, but the urgency of the situation is clear."
+}

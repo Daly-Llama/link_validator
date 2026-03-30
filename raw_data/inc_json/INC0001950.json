@@ -1,0 +1,20 @@
+{
+  "number": "INC0001950",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB02387",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Respondus license has expired, requiring renewal or new password.\n\nfull_description_text:\n- So, during the call, the user mentioned that their Respondus license has run out, which is a bummer since it just expired with the end of the academic year.\n- They were trying to access the Respondus4Campus platform to set up their exams when this annoying pop-up appeared, asking for a new license or password.\n- It seems like they were in the middle of preparing everything for their students, and now they’re stuck because of this licensing issue.\n- The user sounded a bit frustrated, especially since they rely on Respondus for their exam proctoring needs.",
+  "short_description": "Respondus license has expired, requiring renewal or new password.",
+  "description": "- So, during the call, the user mentioned that their Respondus license has run out, which is a bummer since it just expired with the end of the academic year.\n- They were trying to access the Respondus4Campus platform to set up their exams when this annoying pop-up appeared, asking for a new license or password.\n- It seems like they were in the middle of preparing everything for their students, and now they’re stuck because of this licensing issue.\n- The user sounded a bit frustrated, especially since they rely on Respondus for their exam proctoring needs."
+}

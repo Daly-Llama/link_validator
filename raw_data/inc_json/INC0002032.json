@@ -1,0 +1,20 @@
+{
+  "number": "INC0002032",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02630",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open email attachments on Sanford network in Outlook.\n\nfull_description_text: The user is experiencing a problem where they cannot open any attachments that are included with their USD email. This issue occurs specifically when they are connected to the Sanford network. The user has attempted to access these attachments multiple times but has been unsuccessful. This situation is causing inconvenience as the user relies on these attachments for their work-related tasks.",
+  "short_description": "Unable to open email attachments on Sanford network in Outlook.",
+  "description": "The user is experiencing a problem where they cannot open any attachments that are included with their USD email. This issue occurs specifically when they are connected to the Sanford network. The user has attempted to access these attachments multiple times but has been unsuccessful. This situation is causing inconvenience as the user relies on these attachments for their work-related tasks."
+}

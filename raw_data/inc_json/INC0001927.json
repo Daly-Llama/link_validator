@@ -1,0 +1,20 @@
+{
+  "number": "INC0001927",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02314",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update content or files in myUSD Portal.\n\nfull_description_text:\n- The user was trying to change some files or maybe some content in the myUSD Portal.  \n- They said something about needing it updated, but it was not clear what exactly needed to be changed.  \n- The conversation was a bit tricky because the user speaks a different language, so there were some misunderstandings.  \n- It seems like they really want to make sure the information is correct and up to date in the portal.",
+  "short_description": "Need to update content or files in myUSD Portal.",
+  "description": "- The user was trying to change some files or maybe some content in the myUSD Portal.  \n- They said something about needing it updated, but it was not clear what exactly needed to be changed.  \n- The conversation was a bit tricky because the user speaks a different language, so there were some misunderstandings.  \n- It seems like they really want to make sure the information is correct and up to date in the portal."
+}

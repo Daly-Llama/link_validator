@@ -1,0 +1,20 @@
+{
+  "number": "INC0001653",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB01520",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to send faxes; recipient gets undeliverable message.\n\nfull_description_text:\n- So, like, when trying to send a fax, the other person gets a message saying it’s undeliverable.  \n- There’s this error about checking the cable or network for line 1, and it’s kinda confusing.  \n- The help desk person is not sure if the line is even connected right or what’s going on.",
+  "short_description": "Unable to send faxes; recipient gets undeliverable message.",
+  "description": "- So, like, when trying to send a fax, the other person gets a message saying it’s undeliverable.  \n- There’s this error about checking the cable or network for line 1, and it’s kinda confusing.  \n- The help desk person is not sure if the line is even connected right or what’s going on."
+}

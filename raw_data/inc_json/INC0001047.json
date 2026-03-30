@@ -1,0 +1,20 @@
+{
+  "number": "INC0001047",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00074",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the print queue utilized by a printer.\n\nfull_description_text: \nThe user is attempting to ascertain the specific print queue associated with their printer. They are operating within a Windows 10 environment. During the call, they expressed uncertainty regarding the configuration settings. It appears there may be multiple queues available, leading to confusion about which one is actively being utilized for print jobs.",
+  "short_description": "Inquiry about the print queue utilized by a printer.",
+  "description": "The user is attempting to ascertain the specific print queue associated with their printer. They are operating within a Windows 10 environment. During the call, they expressed uncertainty regarding the configuration settings. It appears there may be multiple queues available, leading to confusion about which one is actively being utilized for print jobs."
+}

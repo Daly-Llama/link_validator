@@ -1,0 +1,20 @@
+{
+  "number": "INC0003917",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08063",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty naming folders in Outlook application.\n\nfull_description_text: The user was attempting to create and name folders within the Outlook application but encountered issues. They expressed confusion about the naming conventions and how to properly implement them. There seems to be a lack of clarity on the steps required to successfully name these folders, leading to frustration during the call. The analyst noted that the user was unsure if there were specific restrictions or guidelines for folder names in Outlook.",
+  "short_description": "Difficulty naming folders in Outlook application.",
+  "description": "The user was attempting to create and name folders within the Outlook application but encountered issues. They expressed confusion about the naming conventions and how to properly implement them. There seems to be a lack of clarity on the steps required to successfully name these folders, leading to frustration during the call. The analyst noted that the user was unsure if there were specific restrictions or guidelines for folder names in Outlook."
+}

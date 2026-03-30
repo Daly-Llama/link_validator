@@ -1,0 +1,20 @@
+{
+  "number": "INC0003183",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB06046",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty booking an event in 25Live for campus use.\n\nfull_description_text: \nThe user was trying to book an event in 25Live, which is the system used for managing events on campus. They were making a request to reserve a room for an event, but something went wrong during the process. It seems that there was confusion about how to properly submit the event request in the system. The user mentioned they were on campus and needed the room for a specific date, but they were unsure of the next steps to take.",
+  "short_description": "Difficulty booking an event in 25Live for campus use.",
+  "description": "The user was trying to book an event in 25Live, which is the system used for managing events on campus. They were making a request to reserve a room for an event, but something went wrong during the process. It seems that there was confusion about how to properly submit the event request in the system. The user mentioned they were on campus and needed the room for a specific date, but they were unsure of the next steps to take."
+}

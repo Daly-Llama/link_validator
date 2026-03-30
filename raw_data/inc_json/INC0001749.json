@@ -1,0 +1,20 @@
+{
+  "number": "INC0001749",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB01773",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues accessing Zoom through USD for conference calls.\n\nfull_description_text:  \nUser is trying to access Zoom via USD.  \nThey need to start using Zoom for conference calls.  \nThere is confusion about account visibility on the access list.  \nUser is also inquiring about training documents and licensing details.",
+  "short_description": "Issues accessing Zoom through USD for conference calls.",
+  "description": "User is trying to access Zoom via USD.  \nThey need to start using Zoom for conference calls.  \nThere is confusion about account visibility on the access list.  \nUser is also inquiring about training documents and licensing details."
+}

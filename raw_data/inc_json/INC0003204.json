@@ -1,0 +1,20 @@
+{
+  "number": "INC0003204",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06107",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need contact information for Medatrax support.\n\nfull_description_text: The user is seeking assistance regarding issues they are experiencing with Medatrax. During the call, they inquired about the appropriate contact person or department to resolve these problems. It appears that they are currently enrolled in the Doctorate of Nursing Practice program, which may be related to their need for support.",
+  "short_description": "Need contact information for Medatrax support.",
+  "description": "The user is seeking assistance regarding issues they are experiencing with Medatrax. During the call, they inquired about the appropriate contact person or department to resolve these problems. It appears that they are currently enrolled in the Doctorate of Nursing Practice program, which may be related to their need for support."
+}

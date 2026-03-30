@@ -1,0 +1,20 @@
+{
+  "number": "INC0002407",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03768",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Bloomberg Excel add-in not showing up in Excel.\n\nfull_description_text:  \nI opened Excel today and noticed that the Bloomberg Excel add-in is missing. I really need it for my work in the Beacom Finance Lab. It's just not there when I look for it, and I'm not sure why.",
+  "short_description": "Bloomberg Excel add-in not showing up in Excel.",
+  "description": "I opened Excel today and noticed that the Bloomberg Excel add-in is missing. I really need it for my work in the Beacom Finance Lab. It's just not there when I look for it, and I'm not sure why."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003320",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB06516",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about student processes in the online bookstore\n\nfull_description_text:  \nThe user was asking about questions related to student processes in the online bookstore. They needed answers about how things work at Charlie's Bookstore & Fan Shop. There were some confusions about the processes and how to get help. The call was in Spanish, and the user seemed to need clear information.",
+  "short_description": "Questions about student processes in the online bookstore",
+  "description": "The user was asking about questions related to student processes in the online bookstore. They needed answers about how things work at Charlie's Bookstore & Fan Shop. There were some confusions about the processes and how to get help. The call was in Spanish, and the user seemed to need clear information."
+}

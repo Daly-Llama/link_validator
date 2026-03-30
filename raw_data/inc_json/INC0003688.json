@@ -1,0 +1,20 @@
+{
+  "number": "INC0003688",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07807",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding questions to a Google Form.\n\nfull_description_text: During a live phone call, the user expressed confusion about how to add questions to their Google Form. They were attempting to create a survey but were unsure of the steps required to include additional questions. The user needed clear guidance on navigating the interface to successfully enhance their form with new content.",
+  "short_description": "Difficulty adding questions to a Google Form.",
+  "description": "During a live phone call, the user expressed confusion about how to add questions to their Google Form. They were attempting to create a survey but were unsure of the steps required to include additional questions. The user needed clear guidance on navigating the interface to successfully enhance their form with new content."
+}

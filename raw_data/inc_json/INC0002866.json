@@ -1,0 +1,20 @@
+{
+  "number": "INC0002866",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB05134",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook shows message about server settings when opening.\n\nfull_description_text:  \nWhen I open Outlook, I see a message that says my account is being redirected to a server for settings. It asks if I want to allow this server to configure my settings. I don’t understand why this is happening and if I should trust it. It’s confusing and I just want to use my email.",
+  "short_description": "Outlook shows message about server settings when opening.",
+  "description": "When I open Outlook, I see a message that says my account is being redirected to a server for settings. It asks if I want to allow this server to configure my settings. I don’t understand why this is happening and if I should trust it. It’s confusing and I just want to use my email."
+}

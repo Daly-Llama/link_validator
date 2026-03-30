@@ -1,0 +1,20 @@
+{
+  "number": "INC0002501",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB03989",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for link to event recording from Panopto.\n\nfull_description_text:\n- The user is seeking access to a specific recording from Panopto.  \n- They are looking for the link to the Diversity Dialogue held on September 23, 2019, as well as the recording from the Free Speech and Intellectual Diversity Forum.  \n- This request indicates a need for documentation related to past events for reference or review purposes.  \n- The user may require this information for professional or educational reasons, highlighting the importance of accessible event recordings.",
+  "short_description": "Request for link to event recording from Panopto.",
+  "description": "- The user is seeking access to a specific recording from Panopto.  \n- They are looking for the link to the Diversity Dialogue held on September 23, 2019, as well as the recording from the Free Speech and Intellectual Diversity Forum.  \n- This request indicates a need for documentation related to past events for reference or review purposes.  \n- The user may require this information for professional or educational reasons, highlighting the importance of accessible event recordings."
+}

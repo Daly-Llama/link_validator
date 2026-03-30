@@ -1,0 +1,20 @@
+{
+  "number": "INC0003897",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB08038",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to set up deposits and application fees for online payment\n\nfull_description_text:\n- The user wants to know how to request deposits or application fees to be set up.  \n- They need to increase the deposit for the Physician Assistants Program on the Deposits website.  \n- There is also a need to update the price for the Summer Music Camp Application.  \n- The user is looking for options to collect fees for external courses or conferences.",
+  "short_description": "Request to set up deposits and application fees for online payment",
+  "description": "- The user wants to know how to request deposits or application fees to be set up.  \n- They need to increase the deposit for the Physician Assistants Program on the Deposits website.  \n- There is also a need to update the price for the Summer Music Camp Application.  \n- The user is looking for options to collect fees for external courses or conferences."
+}

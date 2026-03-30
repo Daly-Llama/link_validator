@@ -1,0 +1,20 @@
+{
+  "number": "INC0003746",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07871",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about the AutoSum function in Excel\n\nfull_description_text: The user is asking about the AutoSum feature in Excel. They want to understand what it does and how it can be used. This inquiry suggests they may need assistance with basic Excel functions.",
+  "short_description": "Inquiry about the AutoSum function in Excel",
+  "description": "The user is asking about the AutoSum feature in Excel. They want to understand what it does and how it can be used. This inquiry suggests they may need assistance with basic Excel functions."
+}

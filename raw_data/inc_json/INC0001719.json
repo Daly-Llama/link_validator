@@ -1,0 +1,20 @@
+{
+  "number": "INC0001719",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB01685",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Internet Explorer fails to open on Windows 10.\n\nfull_description_text: During a live phone call, the user reported that Internet Explorer quickly appears and then closes without any error message. This issue prevents them from accessing the browser, which is essential for their tasks. The user is operating on Windows 10 with Internet Explorer 11, and they expressed frustration over the inability to connect to the internet through this application.",
+  "short_description": "Internet Explorer fails to open on Windows 10.",
+  "description": "During a live phone call, the user reported that Internet Explorer quickly appears and then closes without any error message. This issue prevents them from accessing the browser, which is essential for their tasks. The user is operating on Windows 10 with Internet Explorer 11, and they expressed frustration over the inability to connect to the internet through this application."
+}

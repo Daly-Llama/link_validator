@@ -1,0 +1,20 @@
+{
+  "number": "INC0003836",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07969",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty using date and time formulas in Excel.\n\nfull_description_text: The user was attempting to utilize date and time formulas in Excel, but encountered issues that prevented them from achieving their desired results. They were specifically asking how to effectively implement these formulas, indicating a lack of clarity on the functionality and application of such formulas within the Excel environment. This situation arose during a live phone call with a help desk analyst, who was providing assistance in real-time. The user expressed confusion and needed detailed guidance on the correct usage of these date and time functions, which are essential for data manipulation in Excel spreadsheets.",
+  "short_description": "Difficulty using date and time formulas in Excel.",
+  "description": "The user was attempting to utilize date and time formulas in Excel, but encountered issues that prevented them from achieving their desired results. They were specifically asking how to effectively implement these formulas, indicating a lack of clarity on the functionality and application of such formulas within the Excel environment. This situation arose during a live phone call with a help desk analyst, who was providing assistance in real-time. The user expressed confusion and needed detailed guidance on the correct usage of these date and time functions, which are essential for data manipulation in Excel spreadsheets."
+}

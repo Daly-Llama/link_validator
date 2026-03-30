@@ -1,0 +1,20 @@
+{
+  "number": "INC0003951",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08104",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with initiating video meetings in Microsoft Teams desktop app.\n\nfull_description_text: \nThe user is attempting to start a video meeting in the Microsoft Teams desktop application but is encountering difficulties. It seems that the functionality for video meetings is not behaving as expected, leading to confusion. There might be some settings or permissions that are not correctly configured, but the exact cause is unclear.",
+  "short_description": "Issues with initiating video meetings in Microsoft Teams desktop app.",
+  "description": "The user is attempting to start a video meeting in the Microsoft Teams desktop application but is encountering difficulties. It seems that the functionality for video meetings is not behaving as expected, leading to confusion. There might be some settings or permissions that are not correctly configured, but the exact cause is unclear."
+}

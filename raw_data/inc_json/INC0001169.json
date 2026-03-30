@@ -1,0 +1,20 @@
+{
+  "number": "INC0001169",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB00328",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Examples of good and bad KCS articles needed\n\nfull_description_text:  \nI need to see what makes a good or bad KCS article.  \nI'm not sure how to tell the difference.  \nThis is for TeamDynamix knowledge base.  \nCan you help with some examples?",
+  "short_description": "Examples of good and bad KCS articles needed",
+  "description": "I need to see what makes a good or bad KCS article.  \nI'm not sure how to tell the difference.  \nThis is for TeamDynamix knowledge base.  \nCan you help with some examples?"
+}

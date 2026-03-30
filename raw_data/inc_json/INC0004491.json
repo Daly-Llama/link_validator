@@ -1,0 +1,20 @@
+{
+  "number": "INC0004491",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09189",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about applying for financial need exemptions for housing\n\nfull_description_text:  \nDuring a phone call, the user expressed interest in applying for a financial need exemption related to housing. They asked about the specific requirements needed for the application process. Additionally, the user was curious about the likelihood of being granted such an exemption.",
+  "short_description": "Inquiry about applying for financial need exemptions for housing",
+  "description": "During a phone call, the user expressed interest in applying for a financial need exemption related to housing. They asked about the specific requirements needed for the application process. Additionally, the user was curious about the likelihood of being granted such an exemption."
+}

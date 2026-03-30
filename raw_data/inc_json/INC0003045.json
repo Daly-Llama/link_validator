@@ -1,0 +1,20 @@
+{
+  "number": "INC0003045",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB05639",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Printers not available after laptop was taken home.\n\nfull_description_text: \nUser took their laptop home last night for some work, and now today, they are trying to print but facing issues. The message says no printer is installed, which is strange because it was working before. They also mentioned an error about the local print spooler service not running, and they are confused about what to do next. It seems like the printers were connected before, but now they are not showing up at all, which is very frustrating for them.",
+  "short_description": "Printers not available after laptop was taken home.",
+  "description": "User took their laptop home last night for some work, and now today, they are trying to print but facing issues. The message says no printer is installed, which is strange because it was working before. They also mentioned an error about the local print spooler service not running, and they are confused about what to do next. It seems like the printers were connected before, but now they are not showing up at all, which is very frustrating for them."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004277",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB08680",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need info on getting around Vermillion.\n\nfull_description_text:  \nI'm trying to figure out how to get around Vermillion. What are the transportation options available? I just need some quick info on this, so I can plan my day better.",
+  "short_description": "Need info on getting around Vermillion.",
+  "description": "I'm trying to figure out how to get around Vermillion. What are the transportation options available? I just need some quick info on this, so I can plan my day better."
+}

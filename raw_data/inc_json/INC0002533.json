@@ -1,0 +1,20 @@
+{
+  "number": "INC0002533",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04101",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help adding First Day Access materials to bookstore.\n\nfull_description_text: The user is trying to put First Day Access stuff in the USD Online Bookstore. They don’t know how to do it and are confused. They called for help but their English is not very good. It’s important for the students to have these materials.",
+  "short_description": "Need help adding First Day Access materials to bookstore.",
+  "description": "The user is trying to put First Day Access stuff in the USD Online Bookstore. They don’t know how to do it and are confused. They called for help but their English is not very good. It’s important for the students to have these materials."
+}

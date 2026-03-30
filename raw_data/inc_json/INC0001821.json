@@ -1,0 +1,20 @@
+{
+  "number": "INC0001821",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01990",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Computer repeatedly crashes and restarts unexpectedly.\n\nfull_description_text:\n- The user is experiencing frequent crashes that lead to the computer restarting on its own.  \n- This issue occurs while performing regular tasks on the Microsoft Windows operating system.  \n- The user is concerned about the stability of their system and seeks assistance to resolve this problem.",
+  "short_description": "Computer repeatedly crashes and restarts unexpectedly.",
+  "description": "- The user is experiencing frequent crashes that lead to the computer restarting on its own.  \n- This issue occurs while performing regular tasks on the Microsoft Windows operating system.  \n- The user is concerned about the stability of their system and seeks assistance to resolve this problem."
+}

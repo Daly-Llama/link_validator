@@ -1,0 +1,20 @@
+{
+  "number": "INC0001704",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01652",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Card reader not scanning cards and showing error message.\n\nfull_description_text: The card reader has not been working for several days. I unplugged it and restarted, but it still won't scan any cards. The card readers at the Circulation Desk are not populating ALMA, and the ones for the Laundry machines are also not working. I keep getting an error that says \"Event Inactive.\"",
+  "short_description": "Card reader not scanning cards and showing error message.",
+  "description": "The card reader has not been working for several days. I unplugged it and restarted, but it still won't scan any cards. The card readers at the Circulation Desk are not populating ALMA, and the ones for the Laundry machines are also not working. I keep getting an error that says \"Event Inactive.\""
+}

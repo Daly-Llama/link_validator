@@ -1,0 +1,20 @@
+{
+  "number": "INC0001094",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00177",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Email folder missing from Outlook 2016 selection list.\n\nfull_description_text:\n- El usuario estaba utilizando Outlook 2016 para acceder a su correo electrónico.  \n- De repente, un folder que normalmente estaba en la lista de selección desapareció.  \n- Esto ha causado confusión y dificultad para encontrar correos importantes.  \n- El usuario necesita ayuda para recuperar el folder que falta en su lista.",
+  "short_description": "Email folder missing from Outlook 2016 selection list.",
+  "description": "- El usuario estaba utilizando Outlook 2016 para acceder a su correo electrónico.  \n- De repente, un folder que normalmente estaba en la lista de selección desapareció.  \n- Esto ha causado confusión y dificultad para encontrar correos importantes.  \n- El usuario necesita ayuda para recuperar el folder que falta en su lista."
+}

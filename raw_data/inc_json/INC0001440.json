@@ -1,0 +1,20 @@
+{
+  "number": "INC0001440",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB00857",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Event request in 25Live Simplified auto-populates tomorrow's date.\n\nfull_description_text:  \nI am trying to book an event in 25Live. It keeps putting tomorrow's date. I want to reserve a room on campus. How do I make this work?",
+  "short_description": "Event request in 25Live Simplified auto-populates tomorrow's date.",
+  "description": "I am trying to book an event in 25Live. It keeps putting tomorrow's date. I want to reserve a room on campus. How do I make this work?"
+}

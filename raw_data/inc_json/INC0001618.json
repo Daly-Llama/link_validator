@@ -1,0 +1,20 @@
+{
+  "number": "INC0001618",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01393",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Hard drive failure with data transfer request and system boot issue.\n\nfull_description_text: \nThe user reported that their Western Digital hard drive is no longer functioning, which has resulted in a blinking folder icon accompanied by a question mark. This indicates that the computer is unable to recognize the drive, and as a consequence, the system itself will not power on properly. During the live chat, the user expressed a need to transfer data from the non-operational hard drive, highlighting the urgency of the situation. It appears that the hard drive's failure has led to significant access issues, complicating the user's ability to retrieve important files.",
+  "short_description": "Hard drive failure with data transfer request and system boot issue.",
+  "description": "The user reported that their Western Digital hard drive is no longer functioning, which has resulted in a blinking folder icon accompanied by a question mark. This indicates that the computer is unable to recognize the drive, and as a consequence, the system itself will not power on properly. During the live chat, the user expressed a need to transfer data from the non-operational hard drive, highlighting the urgency of the situation. It appears that the hard drive's failure has led to significant access issues, complicating the user's ability to retrieve important files."
+}

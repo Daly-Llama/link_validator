@@ -1,0 +1,20 @@
+{
+  "number": "INC0002731",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB04747",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to vote for SGA senators in Arts and Science.\n\nfull_description_text: I am experiencing an issue where I cannot cast my vote for the SGA senators within the Arts and Science category, despite being a Math major. This situation is quite confusing, as I expected to have access to vote in all relevant areas. It seems there might be a restriction or a glitch in the elections application that is preventing my participation. I would appreciate any assistance in resolving this matter.",
+  "short_description": "Unable to vote for SGA senators in Arts and Science.",
+  "description": "I am experiencing an issue where I cannot cast my vote for the SGA senators within the Arts and Science category, despite being a Math major. This situation is quite confusing, as I expected to have access to vote in all relevant areas. It seems there might be a restriction or a glitch in the elections application that is preventing my participation. I would appreciate any assistance in resolving this matter."
+}

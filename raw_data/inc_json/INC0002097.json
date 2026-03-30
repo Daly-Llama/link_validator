@@ -1,0 +1,20 @@
+{
+  "number": "INC0002097",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02822",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Errors occurring in K2 Blackpearl applications during use\n\nfull_description_text:\n- User reported that K2 applications are giving errors or not functioning correctly.  \n- This issue was discussed during a live chat session with the help desk.  \n- The environment includes K2 Blackpearl and Microsoft SQL Server, which may be relevant.  \n- The user is experiencing problems that affect their workflow and application performance.",
+  "short_description": "Errors occurring in K2 Blackpearl applications during use",
+  "description": "- User reported that K2 applications are giving errors or not functioning correctly.  \n- This issue was discussed during a live chat session with the help desk.  \n- The environment includes K2 Blackpearl and Microsoft SQL Server, which may be relevant.  \n- The user is experiencing problems that affect their workflow and application performance."
+}

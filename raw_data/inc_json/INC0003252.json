@@ -1,0 +1,20 @@
+{
+  "number": "INC0003252",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06251",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Lost or stolen Coyote Card needs deactivation.\n\nfull_description_text:  \nSo, the caller just realized they lost their Coyote Card and they're pretty worried about it. They also mentioned that they might've misplaced their device with the Coyote Card Mobile app on it. On top of that, there's a hint of concern about possible fraud, which is making them even more anxious. They really need to get this sorted out quickly!",
+  "short_description": "Lost or stolen Coyote Card needs deactivation.",
+  "description": "So, the caller just realized they lost their Coyote Card and they're pretty worried about it. They also mentioned that they might've misplaced their device with the Coyote Card Mobile app on it. On top of that, there's a hint of concern about possible fraud, which is making them even more anxious. They really need to get this sorted out quickly!"
+}

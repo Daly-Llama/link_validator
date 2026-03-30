@@ -1,0 +1,20 @@
+{
+  "number": "INC0004185",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08487",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to block an email address in Outlook or OWA\n\nfull_description_text: User wants to block a specific email address. They are using Outlook or OWA. The request came during a call. They seem unsure how to proceed.",
+  "short_description": "Need to block an email address in Outlook or OWA",
+  "description": "User wants to block a specific email address. They are using Outlook or OWA. The request came during a call. They seem unsure how to proceed."
+}

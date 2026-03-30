@@ -1,0 +1,20 @@
+{
+  "number": "INC0002489",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03965",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Blue screen error when starting a quiz on Examplify.\n\nfull_description_text: The user is experiencing a blue screen that causes an automatic restart every time they try to start a quiz on Examplify. This issue happens consistently, making it impossible for them to complete their exam. They mentioned that this problem occurs right at the beginning of the quiz.",
+  "short_description": "Blue screen error when starting a quiz on Examplify.",
+  "description": "The user is experiencing a blue screen that causes an automatic restart every time they try to start a quiz on Examplify. This issue happens consistently, making it impossible for them to complete their exam. They mentioned that this problem occurs right at the beginning of the quiz."
+}

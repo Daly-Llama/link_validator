@@ -1,0 +1,20 @@
+{
+  "number": "INC0004341",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08781",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Suspected bomb or suspicious object reported during a call.\n\nfull_description_text: A person called in to report a possible bomb or suspicious object. They seemed worried and unsure about what to do next. The situation is urgent and needs immediate attention.",
+  "short_description": "Suspected bomb or suspicious object reported during a call.",
+  "description": "A person called in to report a possible bomb or suspicious object. They seemed worried and unsure about what to do next. The situation is urgent and needs immediate attention."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004502",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09211",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to connect to Boca printer in PAC on Windows 11\n\nfull_description_text:  \nI’ve been trying to print from my Boca printer while using PAC, but it just won’t connect. I’m on Windows 11, and it’s really frustrating because I need to get some important documents printed out. I’ve checked everything, and it seems like the printer is just not responding at all. It’s like it’s in its own little world, and I can’t figure out why it’s not working!",
+  "short_description": "Unable to connect to Boca printer in PAC on Windows 11",
+  "description": "I’ve been trying to print from my Boca printer while using PAC, but it just won’t connect. I’m on Windows 11, and it’s really frustrating because I need to get some important documents printed out. I’ve checked everything, and it seems like the printer is just not responding at all. It’s like it’s in its own little world, and I can’t figure out why it’s not working!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002722",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB04717",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Change request for TeamDynamix ticket form submission.\n\nfull_description_text:  \nAn end user submitted a request via the self-service form. The user is seeking modifications to the existing TeamDynamix ticket form. There are specific elements within the form that require alteration, though the exact details are not fully clear. The user expects these changes to enhance the overall functionality and user experience of the ticketing process.",
+  "short_description": "Change request for TeamDynamix ticket form submission.",
+  "description": "An end user submitted a request via the self-service form. The user is seeking modifications to the existing TeamDynamix ticket form. There are specific elements within the form that require alteration, though the exact details are not fully clear. The user expects these changes to enhance the overall functionality and user experience of the ticketing process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004415",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08990",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about FMLA leave eligibility and procedures.\n\nfull_description_text:  \nThe user is seeking clarification on FMLA leave, specifically what qualifies for it. They are also unsure about the steps to take if they are sick for more than three days. This confusion may be causing them stress as they navigate their leave options.",
+  "short_description": "Questions about FMLA leave eligibility and procedures.",
+  "description": "The user is seeking clarification on FMLA leave, specifically what qualifies for it. They are also unsure about the steps to take if they are sick for more than three days. This confusion may be causing them stress as they navigate their leave options."
+}

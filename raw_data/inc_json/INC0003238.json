@@ -1,0 +1,20 @@
+{
+  "number": "INC0003238",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB06221",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for access to TSAAREV screen in Banner\n\nfull_description_text:  \nI need to get into the TSAAREV screen in Banner. I was told to ask for access, but I’m not sure how to do it. It’s important for my work, and I hope it can be sorted out soon.",
+  "short_description": "Request for access to TSAAREV screen in Banner",
+  "description": "I need to get into the TSAAREV screen in Banner. I was told to ask for access, but I’m not sure how to do it. It’s important for my work, and I hope it can be sorted out soon."
+}

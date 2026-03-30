@@ -1,0 +1,20 @@
+{
+  "number": "INC0001066",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00118",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Outlook on macOS repeatedly prompts for password after signing in.\n\nfull_description_text:\n- The user is experiencing an issue with Microsoft Outlook 2016 on their Mac, where the application continuously displays a login screen.  \n- Despite entering the correct credentials, the login prompt does not close, preventing access to their email.  \n- This problem may be related to authentication settings or connectivity issues, but further investigation is needed to determine the exact cause.  \n- The technician noted that this issue has occurred intermittently, which adds to the complexity of resolving it.",
+  "short_description": "Outlook on macOS repeatedly prompts for password after signing in.",
+  "description": "- The user is experiencing an issue with Microsoft Outlook 2016 on their Mac, where the application continuously displays a login screen.  \n- Despite entering the correct credentials, the login prompt does not close, preventing access to their email.  \n- This problem may be related to authentication settings or connectivity issues, but further investigation is needed to determine the exact cause.  \n- The technician noted that this issue has occurred intermittently, which adds to the complexity of resolving it."
+}

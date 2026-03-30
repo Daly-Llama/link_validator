@@ -1,0 +1,20 @@
+{
+  "number": "INC0003296",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB06404",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to request an asset tag for equipment.\n\nfull_description_text:  \n- I’m trying to get an asset tag for some equipment.  \n- I’m not sure how to request it properly.  \n- This is for both IT and non-IT hardware.",
+  "short_description": "Need to request an asset tag for equipment.",
+  "description": "- I’m trying to get an asset tag for some equipment.  \n- I’m not sure how to request it properly.  \n- This is for both IT and non-IT hardware."
+}

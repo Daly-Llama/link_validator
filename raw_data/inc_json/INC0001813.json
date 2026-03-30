@@ -1,0 +1,20 @@
+{
+  "number": "INC0001813",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01972",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Projector not showing image from document camera in classroom\n\nfull_description_text: \nThe projector is not showing anything from the document camera. The camera seems like it won't turn on at all. This is happening in the classroom, and it's really confusing.",
+  "short_description": "Projector not showing image from document camera in classroom",
+  "description": "The projector is not showing anything from the document camera. The camera seems like it won't turn on at all. This is happening in the classroom, and it's really confusing."
+}

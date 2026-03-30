@@ -1,0 +1,20 @@
+{
+  "number": "INC0001446",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB00880",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to submit event requests in 25Live due to errors.\n\nfull_description_text: The user is experiencing issues with submitting event requests in 25Live despite having elevated permissions. For the past two days, they have encountered an error stating that the system cannot find a place to route the event. Additionally, the user is unable to locate their organization in the dropdown menu, which is preventing them from making their own reservations.",
+  "short_description": "Unable to submit event requests in 25Live due to errors.",
+  "description": "The user is experiencing issues with submitting event requests in 25Live despite having elevated permissions. For the past two days, they have encountered an error stating that the system cannot find a place to route the event. Additionally, the user is unable to locate their organization in the dropdown menu, which is preventing them from making their own reservations."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001180",
+  "category": "Admissions",
+  "subcategory": "Admissions",
+  "correct_kb": "KB00346",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about specific academic program offerings and admission criteria\n\nfull_description_text:  \nThe user is seeking information regarding whether the University offers a particular academic program. They also request assistance with the admission criteria needed to apply to the University. This inquiry was made during a phone call, and the user may have some difficulty with English, which could affect the clarity of their request.",
+  "short_description": "Inquiry about specific academic program offerings and admission criteria",
+  "description": "The user is seeking information regarding whether the University offers a particular academic program. They also request assistance with the admission criteria needed to apply to the University. This inquiry was made during a phone call, and the user may have some difficulty with English, which could affect the clarity of their request."
+}

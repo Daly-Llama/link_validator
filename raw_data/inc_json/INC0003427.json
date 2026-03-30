@@ -1,0 +1,20 @@
+{
+  "number": "INC0003427",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06968",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty adding Slido to Microsoft PowerPoint.\n\nfull_description_text: \nSo, during a live chat, the user was trying to figure out how to integrate Slido into their PowerPoint presentation, you know, to make those Q&A sessions more interactive and engaging. They were really excited about using Slido, but it seems like they hit a wall and couldn't find the right steps to get it done. It’s like, they were just staring at their screen, wondering if they missed a button or something. And, of course, they were hoping to impress their audience with some cool features, but now they’re stuck in this tech limbo.",
+  "short_description": "Difficulty adding Slido to Microsoft PowerPoint.",
+  "description": "So, during a live chat, the user was trying to figure out how to integrate Slido into their PowerPoint presentation, you know, to make those Q&A sessions more interactive and engaging. They were really excited about using Slido, but it seems like they hit a wall and couldn't find the right steps to get it done. It’s like, they were just staring at their screen, wondering if they missed a button or something. And, of course, they were hoping to impress their audience with some cool features, but now they’re stuck in this tech limbo."
+}

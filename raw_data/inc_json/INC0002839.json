@@ -1,0 +1,20 @@
+{
+  "number": "INC0002839",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05036",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need access to MSA/CAS/MyApps for state bill payments and ACH transactions.\n\nfull_description_text: The user is requesting access to MSA/CAS/MyApps to facilitate bill payments at the state level for their office. Additionally, they require access to MyApps to obtain information regarding ACH transaction insurance for their department, specifically for Scottish Rite. This access is essential for their operational needs, and the user is currently unable to proceed without it.",
+  "short_description": "Need access to MSA/CAS/MyApps for state bill payments and ACH transactions.",
+  "description": "The user is requesting access to MSA/CAS/MyApps to facilitate bill payments at the state level for their office. Additionally, they require access to MyApps to obtain information regarding ACH transaction insurance for their department, specifically for Scottish Rite. This access is essential for their operational needs, and the user is currently unable to proceed without it."
+}

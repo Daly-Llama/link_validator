@@ -1,0 +1,20 @@
+{
+  "number": "INC0003987",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB08180",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to login to SDLearn for course access\n\nfull_description_text:\n- The user received an email notification regarding the availability of courses on the SDLearn platform, which is managed by South Dakota BHR.  \n- During the call, the user expressed frustration over their inability to log in to the SDLearn website, despite having the necessary credentials.  \n- The user mentioned that they had previously accessed the platform without issues, raising concerns about potential changes or disruptions to their account status.  \n- This situation is particularly pressing as the user is eager to begin their courses and is seeking immediate assistance to resolve the login issue.",
+  "short_description": "Unable to login to SDLearn for course access",
+  "description": "- The user received an email notification regarding the availability of courses on the SDLearn platform, which is managed by South Dakota BHR.  \n- During the call, the user expressed frustration over their inability to log in to the SDLearn website, despite having the necessary credentials.  \n- The user mentioned that they had previously accessed the platform without issues, raising concerns about potential changes or disruptions to their account status.  \n- This situation is particularly pressing as the user is eager to begin their courses and is seeking immediate assistance to resolve the login issue."
+}

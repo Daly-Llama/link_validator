@@ -1,0 +1,20 @@
+{
+  "number": "INC0003595",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07656",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble submitting Dropbox files as a student in D2L.\n\nfull_description_text: So, I was trying to submit my files in the D2L Dropbox, but I don’t know how to do it. I keep looking for the button or something, but it’s not clear. I just want to send my work, but it’s confusing and I can’t find the right way to do it. Can someone help me with this?",
+  "short_description": "Trouble submitting Dropbox files as a student in D2L.",
+  "description": "So, I was trying to submit my files in the D2L Dropbox, but I don’t know how to do it. I keep looking for the button or something, but it’s not clear. I just want to send my work, but it’s confusing and I can’t find the right way to do it. Can someone help me with this?"
+}

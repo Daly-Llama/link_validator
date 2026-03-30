@@ -1,0 +1,20 @@
+{
+  "number": "INC0002255",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03310",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to restore a previous version of a file in OneDrive.\n\nfull_description_text:  \n- A user is trying to recover an earlier version of a file in OneDrive.  \n- They are unsure if this is even possible and need assistance.  \n- The situation arose during a live call with a help desk analyst.  \n- The user is looking for a simple way to access previous file versions.",
+  "short_description": "Unable to restore a previous version of a file in OneDrive.",
+  "description": "- A user is trying to recover an earlier version of a file in OneDrive.  \n- They are unsure if this is even possible and need assistance.  \n- The situation arose during a live call with a help desk analyst.  \n- The user is looking for a simple way to access previous file versions."
+}

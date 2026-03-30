@@ -1,0 +1,20 @@
+{
+  "number": "INC0003190",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06072",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty sending encrypted emails to colleagues and external recipients\n\nfull_description_text:  \nI need help with sending emails that are encrypted. I want to send them to my coworkers at USD and SDBOR. Also, I’m trying to send some documents to people outside our organization. I’m not really sure how to do this, and it seems a bit confusing.",
+  "short_description": "Difficulty sending encrypted emails to colleagues and external recipients",
+  "description": "I need help with sending emails that are encrypted. I want to send them to my coworkers at USD and SDBOR. Also, I’m trying to send some documents to people outside our organization. I’m not really sure how to do this, and it seems a bit confusing."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002912",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB05286",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance with citation formats in Endnote.\n\nfull_description_text: So, I was on a call with someone who was trying to figure out how to use Endnote for their citations. They specifically wanted to know how to format their references in MLA or APA style, but they were a bit lost. It seems like they were using the Cite While You Write feature, and things just weren't clicking for them. They really need some guidance on getting those citations right!",
+  "short_description": "Need assistance with citation formats in Endnote.",
+  "description": "So, I was on a call with someone who was trying to figure out how to use Endnote for their citations. They specifically wanted to know how to format their references in MLA or APA style, but they were a bit lost. It seems like they were using the Cite While You Write feature, and things just weren't clicking for them. They really need some guidance on getting those citations right!"
+}

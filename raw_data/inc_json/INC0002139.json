@@ -1,0 +1,20 @@
+{
+  "number": "INC0002139",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB02951",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Microsoft Office availability for faculty/staff at home\n\nfull_description_text:  \nUser asked if USD provides Microsoft Office for faculty and staff to use on personal devices.  \nThey inquired specifically about the Home Use Program, now known as the Workplace Discount Program.  \nClarification needed on the availability of Windows under this program.",
+  "short_description": "Inquiry about Microsoft Office availability for faculty/staff at home",
+  "description": "User asked if USD provides Microsoft Office for faculty and staff to use on personal devices.  \nThey inquired specifically about the Home Use Program, now known as the Workplace Discount Program.  \nClarification needed on the availability of Windows under this program."
+}

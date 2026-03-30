@@ -1,0 +1,20 @@
+{
+  "number": "INC0002315",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB03519",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the status of the financial aid award letter.\n\nfull_description_text:  \nSo, the user called in, right? They were like, \"Hey, I haven’t received my award letter yet!\"  \nAnd then they asked, \"What’s going on with my award letter?\"  \nThey seemed a bit confused about the whole thing, you know?  \nIt’s all about that financial aid stuff, and they really want clarity on it.",
+  "short_description": "Inquiry about the status of the financial aid award letter.",
+  "description": "So, the user called in, right? They were like, \"Hey, I haven’t received my award letter yet!\"  \nAnd then they asked, \"What’s going on with my award letter?\"  \nThey seemed a bit confused about the whole thing, you know?  \nIt’s all about that financial aid stuff, and they really want clarity on it."
+}

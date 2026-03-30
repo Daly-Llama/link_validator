@@ -1,0 +1,20 @@
+{
+  "number": "INC0003395",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB06829",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for monthly reports on copier usage statistics\n\nfull_description_text:\n- El técnico de campo necesita recibir informes mensuales que muestren el uso del copiador Sharp.  \n- Actualmente, no se están generando estos reportes a través de PaperCut Printing.  \n- Es importante que estos datos sean enviados regularmente para un mejor seguimiento del uso del equipo.",
+  "short_description": "Request for monthly reports on copier usage statistics",
+  "description": "- El técnico de campo necesita recibir informes mensuales que muestren el uso del copiador Sharp.  \n- Actualmente, no se están generando estos reportes a través de PaperCut Printing.  \n- Es importante que estos datos sean enviados regularmente para un mejor seguimiento del uso del equipo."
+}

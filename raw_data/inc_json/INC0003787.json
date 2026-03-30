@@ -1,0 +1,20 @@
+{
+  "number": "INC0003787",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07919",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to add a graphic to an Excel chart.\n\nfull_description_text:\n- User trying to add a graphic to a chart in Excel.  \n- Not sure how to do it, facing issues.  \n- Need guidance on this task.",
+  "short_description": "Unable to add a graphic to an Excel chart.",
+  "description": "- User trying to add a graphic to a chart in Excel.  \n- Not sure how to do it, facing issues.  \n- Need guidance on this task."
+}

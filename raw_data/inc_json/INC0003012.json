@@ -1,0 +1,20 @@
+{
+  "number": "INC0003012",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05531",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about installing ImageNow on personal computer\n\nfull_description_text:  \nUser wants to know if they can install ImageNow on their personal PC. They’re looking for clarity on compatibility and any requirements. It’s a straightforward question, but they need to ensure it works smoothly on their setup.",
+  "short_description": "Inquiry about installing ImageNow on personal computer",
+  "description": "User wants to know if they can install ImageNow on their personal PC. They’re looking for clarity on compatibility and any requirements. It’s a straightforward question, but they need to ensure it works smoothly on their setup."
+}

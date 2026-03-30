@@ -1,0 +1,20 @@
+{
+  "number": "INC0001312",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00589",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't log into USD account on Lenovo laptop.\n\nfull_description_text:  \nSo, the user is trying to sign in.  \nThey can't get into their USD account.  \nIt's a Lenovo laptop, running Windows 10.  \nJust not working at all.",
+  "short_description": "Can't log into USD account on Lenovo laptop.",
+  "description": "So, the user is trying to sign in.  \nThey can't get into their USD account.  \nIt's a Lenovo laptop, running Windows 10.  \nJust not working at all."
+}

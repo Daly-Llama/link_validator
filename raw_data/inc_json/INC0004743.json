@@ -1,0 +1,20 @@
+{
+  "number": "INC0004743",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB09904",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about recording private practice time as faculty or staff.\n\nfull_description_text:  \nThe user is seeking clarification on whether private practice time needs to be documented. They are also interested in the process for entering private practice or consultation. Additionally, the user is inquiring about the necessary forms for obtaining approval for such activities.",
+  "short_description": "Inquiry about recording private practice time as faculty or staff.",
+  "description": "The user is seeking clarification on whether private practice time needs to be documented. They are also interested in the process for entering private practice or consultation. Additionally, the user is inquiring about the necessary forms for obtaining approval for such activities."
+}

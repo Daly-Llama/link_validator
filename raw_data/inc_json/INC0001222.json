@@ -1,0 +1,20 @@
+{
+  "number": "INC0001222",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00413",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: C Drive is full, causing low disk space notifications.\n\nfull_description_text:  \n- So, I keep getting this annoying notification on my desktop about low disk space.  \n- My C Drive is basically maxed out, like it’s got only 55 MB left, which is not enough for anything!  \n- I can’t even run updates or repair Office without hitting that pesky error code 30102-11(1603).  \n- It’s like my system is saying, “Hey, you need to free up some space, or I can’t do anything!”",
+  "short_description": "C Drive is full, causing low disk space notifications.",
+  "description": "- So, I keep getting this annoying notification on my desktop about low disk space.  \n- My C Drive is basically maxed out, like it’s got only 55 MB left, which is not enough for anything!  \n- I can’t even run updates or repair Office without hitting that pesky error code 30102-11(1603).  \n- It’s like my system is saying, “Hey, you need to free up some space, or I can’t do anything!”"
+}

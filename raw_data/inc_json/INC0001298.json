@@ -1,0 +1,20 @@
+{
+  "number": "INC0001298",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00569",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: HP printer displaying 49.4C02 error during operation\n\nfull_description_text: The user was trying to print when they encountered a 49.4C02 error on their HP printer. This error seems to have interrupted their printing task unexpectedly. They mentioned it happened right after sending a document to print, which is kinda frustrating.",
+  "short_description": "HP printer displaying 49.4C02 error during operation",
+  "description": "The user was trying to print when they encountered a 49.4C02 error on their HP printer. This error seems to have interrupted their printing task unexpectedly. They mentioned it happened right after sending a document to print, which is kinda frustrating."
+}

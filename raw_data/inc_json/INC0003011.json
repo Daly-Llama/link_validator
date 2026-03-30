@@ -1,0 +1,20 @@
+{
+  "number": "INC0003011",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB05529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to enable a new app in G-Suite.\n\nfull_description_text:  \nThe user wants to enable a new app in G-Suite. They are not sure how to do this. The request is for the app to be added to their USD G-Suite account. They need help with this process.",
+  "short_description": "Request to enable a new app in G-Suite.",
+  "description": "The user wants to enable a new app in G-Suite. They are not sure how to do this. The request is for the app to be added to their USD G-Suite account. They need help with this process."
+}

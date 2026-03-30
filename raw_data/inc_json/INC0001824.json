@@ -1,0 +1,20 @@
+{
+  "number": "INC0001824",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02000",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Classroom computer not powering on, blinking red and white LED.\n\nfull_description_text: The classroom computer is not turning on. There is a blinking red and white light on the power button. The user is unsure what this means and needs help.",
+  "short_description": "Classroom computer not powering on, blinking red and white LED.",
+  "description": "The classroom computer is not turning on. There is a blinking red and white light on the power button. The user is unsure what this means and needs help."
+}

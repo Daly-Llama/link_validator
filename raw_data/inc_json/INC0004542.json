@@ -1,0 +1,20 @@
+{
+  "number": "INC0004542",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB09333",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble adding users to a Microsoft 365 group in Outlook\n\nfull_description_text:  \n- So, the user was trying to add people to a Microsoft 365 group using Outlook.  \n- They were also wondering how to do it in bulk with PowerShell.  \n- It seems like they just need some help figuring out the right steps to get this done.  \n- They mentioned it’s a bit confusing and they’re not sure where to start.",
+  "short_description": "Trouble adding users to a Microsoft 365 group in Outlook",
+  "description": "- So, the user was trying to add people to a Microsoft 365 group using Outlook.  \n- They were also wondering how to do it in bulk with PowerShell.  \n- It seems like they just need some help figuring out the right steps to get this done.  \n- They mentioned it’s a bit confusing and they’re not sure where to start."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001971",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB02435",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to unblock email server for sending emails\n\nfull_description_text:  \nOur email server is blocked on your mail server. We are on the automated Truncate blacklist. Please check if emails from our host and hostnames are being blocked. We need this unblocked to send emails properly.",
+  "short_description": "Request to unblock email server for sending emails",
+  "description": "Our email server is blocked on your mail server. We are on the automated Truncate blacklist. Please check if emails from our host and hostnames are being blocked. We need this unblocked to send emails properly."
+}

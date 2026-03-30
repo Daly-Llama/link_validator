@@ -1,0 +1,20 @@
+{
+  "number": "INC0004345",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB08785",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need guidance on preserving evidence before contacting law enforcement.\n\nfull_description_text:\n- The user is seeking assistance on how to properly preserve evidence related to an incident of interpersonal violence. \n- They are unsure of the specific steps to take prior to reaching out to law enforcement authorities. \n- This situation requires careful handling of evidence to ensure that it remains intact and usable for any potential investigations. \n- The user is looking for detailed instructions to navigate this sensitive and critical process effectively.",
+  "short_description": "Need guidance on preserving evidence before contacting law enforcement.",
+  "description": "- The user is seeking assistance on how to properly preserve evidence related to an incident of interpersonal violence. \n- They are unsure of the specific steps to take prior to reaching out to law enforcement authorities. \n- This situation requires careful handling of evidence to ensure that it remains intact and usable for any potential investigations. \n- The user is looking for detailed instructions to navigate this sensitive and critical process effectively."
+}

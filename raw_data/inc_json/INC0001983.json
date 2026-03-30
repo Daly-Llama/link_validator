@@ -1,0 +1,20 @@
+{
+  "number": "INC0001983",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB02474",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student can't print to office printers on Wi-Fi.\n\nfull_description_text: So, the student was trying to print something. They were connected to eduroam Wi-Fi. But, they just couldn't get it to work with the office printers. It's a bit frustrating, right?",
+  "short_description": "Student can't print to office printers on Wi-Fi.",
+  "description": "So, the student was trying to print something. They were connected to eduroam Wi-Fi. But, they just couldn't get it to work with the office printers. It's a bit frustrating, right?"
+}

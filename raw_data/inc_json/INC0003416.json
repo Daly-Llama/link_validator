@@ -1,0 +1,20 @@
+{
+  "number": "INC0003416",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06926",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to edit reservation prior to pickup in Cheqroom.\n\nfull_description_text: The user is trying to modify their reservation in Cheqroom before the scheduled pickup. They are unsure of the steps needed to make these changes. This issue is causing confusion and delays in their planning for the equipment pickup.",
+  "short_description": "Unable to edit reservation prior to pickup in Cheqroom.",
+  "description": "The user is trying to modify their reservation in Cheqroom before the scheduled pickup. They are unsure of the steps needed to make these changes. This issue is causing confusion and delays in their planning for the equipment pickup."
+}

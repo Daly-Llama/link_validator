@@ -1,0 +1,20 @@
+{
+  "number": "INC0002993",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05480",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Database connectivity error when opening Titanium application.\n\nfull_description_text: \nThe user is encountering a database connectivity error while trying to open the Titanium application. This issue prevents access to the application, impacting workflow. The error appears consistently, indicating a potential problem with the database connection.",
+  "short_description": "Database connectivity error when opening Titanium application.",
+  "description": "The user is encountering a database connectivity error while trying to open the Titanium application. This issue prevents access to the application, impacting workflow. The error appears consistently, indicating a potential problem with the database connection."
+}

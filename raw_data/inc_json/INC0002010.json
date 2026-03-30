@@ -1,0 +1,20 @@
+{
+  "number": "INC0002010",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02568",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to add a portlet to a portal tab in myUSD.\n\nfull_description_text:\n- The user was trying to add a portlet to a specific tab in the myUSD portal.  \n- They mentioned that they were unsure about the steps needed to complete this task.  \n- It seems like they might be facing some confusion with the portal's interface or options available.  \n- The call was pretty straightforward, but they definitely need some guidance on this.",
+  "short_description": "Unable to add a portlet to a portal tab in myUSD.",
+  "description": "- The user was trying to add a portlet to a specific tab in the myUSD portal.  \n- They mentioned that they were unsure about the steps needed to complete this task.  \n- It seems like they might be facing some confusion with the portal's interface or options available.  \n- The call was pretty straightforward, but they definitely need some guidance on this."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004234",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08590",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plans for Pardee-Estee Laboratories\n\nfull_description_text:  \nQuiero saber el plan de evacuación de mi edificio. También necesito información sobre el plan de clima severo para Pardee-Estee Laboratories. ¿Cuáles son los pasos a seguir en caso de emergencia?",
+  "short_description": "Inquiry about evacuation and severe weather plans for Pardee-Estee Laboratories",
+  "description": "Quiero saber el plan de evacuación de mi edificio. También necesito información sobre el plan de clima severo para Pardee-Estee Laboratories. ¿Cuáles son los pasos a seguir en caso de emergencia?"
+}

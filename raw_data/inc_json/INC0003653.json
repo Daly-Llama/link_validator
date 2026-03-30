@@ -1,0 +1,20 @@
+{
+  "number": "INC0003653",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07772",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty using landmarks in Grackle Docs.\n\nfull_description_text: The user was trying to understand how to use landmarks in Grackle Docs. They expressed confusion during the live chat session about the appropriate utilization of these features. There were some minor issues with clarity in their questions, which may have contributed to the misunderstanding.",
+  "short_description": "Difficulty using landmarks in Grackle Docs.",
+  "description": "The user was trying to understand how to use landmarks in Grackle Docs. They expressed confusion during the live chat session about the appropriate utilization of these features. There were some minor issues with clarity in their questions, which may have contributed to the misunderstanding."
+}

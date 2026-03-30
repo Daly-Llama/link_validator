@@ -1,0 +1,20 @@
+{
+  "number": "INC0001365",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB00691",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Incorrect email linked to Coyote Connections account\n\nfull_description_text:  \nUser is experiencing an issue with their Coyote Connections account.  \nThe email address associated with their profile is incorrect.  \nThis is causing problems with notifications and access to features.  \nUser also mentioned wanting to change their profile picture, but the email issue is the primary concern.",
+  "short_description": "Incorrect email linked to Coyote Connections account",
+  "description": "User is experiencing an issue with their Coyote Connections account.  \nThe email address associated with their profile is incorrect.  \nThis is causing problems with notifications and access to features.  \nUser also mentioned wanting to change their profile picture, but the email issue is the primary concern."
+}

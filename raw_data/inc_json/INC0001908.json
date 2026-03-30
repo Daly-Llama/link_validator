@@ -1,0 +1,20 @@
+{
+  "number": "INC0001908",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB02249",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to send mail merge from shared email account in Outlook.\n\nfull_description_text: The user is attempting to execute a mail merge using Microsoft Word while connected to a shared email account in Outlook on a Windows machine. However, they are encountering difficulties in sending the mail merge messages directly from this shared account. This issue may stem from permissions or configuration settings related to the shared email address, which could be affecting the mail merge functionality.",
+  "short_description": "Unable to send mail merge from shared email account in Outlook.",
+  "description": "The user is attempting to execute a mail merge using Microsoft Word while connected to a shared email account in Outlook on a Windows machine. However, they are encountering difficulties in sending the mail merge messages directly from this shared account. This issue may stem from permissions or configuration settings related to the shared email address, which could be affecting the mail merge functionality."
+}

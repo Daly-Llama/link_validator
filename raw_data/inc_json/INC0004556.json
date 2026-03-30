@@ -1,0 +1,20 @@
+{
+  "number": "INC0004556",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09357",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Questions about commuter housing exemption eligibility and application process.\n\nfull_description_text: User is asking if they can apply for a commuter exemption while living with a relative or friend. They also want to know if signing a housing contract affects their eligibility. Additionally, they are unclear on the application process and the requirements needed to be granted the exemption. There are concerns about how likely it is to get approved for this exemption.",
+  "short_description": "Questions about commuter housing exemption eligibility and application process.",
+  "description": "User is asking if they can apply for a commuter exemption while living with a relative or friend. They also want to know if signing a housing contract affects their eligibility. Additionally, they are unclear on the application process and the requirements needed to be granted the exemption. There are concerns about how likely it is to get approved for this exemption."
+}

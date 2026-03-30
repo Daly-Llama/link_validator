@@ -1,0 +1,20 @@
+{
+  "number": "INC0003820",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07953",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty using the MEDIAN function in Excel.\n\nfull_description_text: \nThe user was attempting to calculate the median of a data set in Excel but encountered issues with the MEDIAN function. They expressed confusion regarding the correct syntax and usage of this function during a live chat session. This has resulted in an inability to perform necessary data analysis, impacting their workflow. Further clarification on the function's application is needed to resolve this matter.",
+  "short_description": "Difficulty using the MEDIAN function in Excel.",
+  "description": "The user was attempting to calculate the median of a data set in Excel but encountered issues with the MEDIAN function. They expressed confusion regarding the correct syntax and usage of this function during a live chat session. This has resulted in an inability to perform necessary data analysis, impacting their workflow. Further clarification on the function's application is needed to resolve this matter."
+}

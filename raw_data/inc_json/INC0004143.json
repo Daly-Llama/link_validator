@@ -1,0 +1,20 @@
+{
+  "number": "INC0004143",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08418",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty renaming a building block in Word.\n\nfull_description_text:\n- The user is attempting to rename a building block in Microsoft Word.  \n- They are unsure of the exact steps required to complete this action.  \n- This issue arises while they are working on a document that utilizes building blocks for formatting.  \n- The user has not specified any error messages or additional context regarding their current setup.",
+  "short_description": "Difficulty renaming a building block in Word.",
+  "description": "- The user is attempting to rename a building block in Microsoft Word.  \n- They are unsure of the exact steps required to complete this action.  \n- This issue arises while they are working on a document that utilizes building blocks for formatting.  \n- The user has not specified any error messages or additional context regarding their current setup."
+}

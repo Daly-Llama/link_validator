@@ -1,0 +1,20 @@
+{
+  "number": "INC0003636",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07755",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble printing a Google Doc in Chrome\n\nfull_description_text:\n- I was trying to print a Google Doc but it just wouldn't work.  \n- I opened it in Chrome and clicked print, but nothing happened.  \n- I don't know if I did something wrong or if it's a Chrome thing.",
+  "short_description": "Trouble printing a Google Doc in Chrome",
+  "description": "- I was trying to print a Google Doc but it just wouldn't work.  \n- I opened it in Chrome and clicked print, but nothing happened.  \n- I don't know if I did something wrong or if it's a Chrome thing."
+}

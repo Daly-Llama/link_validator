@@ -1,0 +1,20 @@
+{
+  "number": "INC0001069",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB00124",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a cart in SNAP SDezBuy for purchases.\n\nfull_description_text: User is trying to create a cart for purchasing University hardware. They are using the punchout catalog in SNAP SDezBuy. The process is unclear, and they need assistance with cart assignment after shopping.",
+  "short_description": "Difficulty creating a cart in SNAP SDezBuy for purchases.",
+  "description": "User is trying to create a cart for purchasing University hardware. They are using the punchout catalog in SNAP SDezBuy. The process is unclear, and they need assistance with cart assignment after shopping."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004311",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB08744",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to add student workers to Cheqroom workspace.\n\nfull_description_text:  \nSo, I was on the phone with this person, right? They were saying that some students really need to get into the Cheqroom thingy for the Al Neuharth location. Like, they want to manage it or something, but they don’t have the right access. It’s kinda important for the Service Desk, I guess, because these student workers need more privileges to do their job properly. They were a bit confused about how to get this sorted out, and I just wanted to help them out!",
+  "short_description": "Need to add student workers to Cheqroom workspace.",
+  "description": "So, I was on the phone with this person, right? They were saying that some students really need to get into the Cheqroom thingy for the Al Neuharth location. Like, they want to manage it or something, but they don’t have the right access. It’s kinda important for the Service Desk, I guess, because these student workers need more privileges to do their job properly. They were a bit confused about how to get this sorted out, and I just wanted to help them out!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002325",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to use Origin Pro software due to licensing errors.\n\nfull_description_text:  \nThe user reported that they can't access the Origin Pro software on their campus computer. They encountered multiple errors, including issues with the FLEXlm server and a message indicating that the maximum number of sessions has been reached. This seems to be causing a significant disruption in their work, and they are unsure how to proceed without the software.",
+  "short_description": "Unable to use Origin Pro software due to licensing errors.",
+  "description": "The user reported that they can't access the Origin Pro software on their campus computer. They encountered multiple errors, including issues with the FLEXlm server and a message indicating that the maximum number of sessions has been reached. This seems to be causing a significant disruption in their work, and they are unsure how to proceed without the software."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001240",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00461",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop is not charging and will not power on.\n\nfull_description_text:\n- The user reported that their laptop is not charging and is completely unresponsive.  \n- They mentioned that the battery was previously charged, but the device unexpectedly shut down and failed to turn back on.  \n- Additionally, the user observed an error message indicating \"plugged in, not charging,\" and noted that the laptop screen was flashing various colors during the incident.  \n- This issue is impacting their ability to use the laptop for work-related tasks.",
+  "short_description": "Laptop is not charging and will not power on.",
+  "description": "- The user reported that their laptop is not charging and is completely unresponsive.  \n- They mentioned that the battery was previously charged, but the device unexpectedly shut down and failed to turn back on.  \n- Additionally, the user observed an error message indicating \"plugged in, not charging,\" and noted that the laptop screen was flashing various colors during the incident.  \n- This issue is impacting their ability to use the laptop for work-related tasks."
+}

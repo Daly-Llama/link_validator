@@ -1,0 +1,20 @@
+{
+  "number": "INC0001959",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02402",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about planning ahead for class registration sections.\n\nfull_description_text: The user is asking if they can plan ahead for class sections. They are using the self-service portal as a student. This inquiry is relevant across all internet browsers and pertains to the registration process in the Banner system.",
+  "short_description": "Inquiry about planning ahead for class registration sections.",
+  "description": "The user is asking if they can plan ahead for class sections. They are using the self-service portal as a student. This inquiry is relevant across all internet browsers and pertains to the registration process in the Banner system."
+}

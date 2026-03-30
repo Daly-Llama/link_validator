@@ -1,0 +1,20 @@
+{
+  "number": "INC0004307",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08734",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Quick access links in File Explorer disconnect when laptop is undocked.\n\nfull_description_text: \nI am having a problem with my quick access links in File Explorer. Whenever I disconnect my laptop from the docking station, the links to the X drive just disappear. This happens on my Windows 10 laptop, and I am using both wired and wireless networks. It's really frustrating because I rely on those links for my work.",
+  "short_description": "Quick access links in File Explorer disconnect when laptop is undocked.",
+  "description": "I am having a problem with my quick access links in File Explorer. Whenever I disconnect my laptop from the docking station, the links to the X drive just disappear. This happens on my Windows 10 laptop, and I am using both wired and wireless networks. It's really frustrating because I rely on those links for my work."
+}

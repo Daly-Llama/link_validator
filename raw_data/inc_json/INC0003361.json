@@ -1,0 +1,20 @@
+{
+  "number": "INC0003361",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB06676",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about checking out Yote Bikes on campus\n\nfull_description_text:  \nHey there! I'm trying to figure out where I can check out a Yote bike on the Vermillion Campus. I've heard about the Yote Bike Share Program, but I'm not quite sure how it works or where to go for the rental. Any guidance on this would be super helpful!",
+  "short_description": "Inquiry about checking out Yote Bikes on campus",
+  "description": "Hey there! I'm trying to figure out where I can check out a Yote bike on the Vermillion Campus. I've heard about the Yote Bike Share Program, but I'm not quite sure how it works or where to go for the rental. Any guidance on this would be super helpful!"
+}

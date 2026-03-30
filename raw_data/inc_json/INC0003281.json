@@ -1,0 +1,20 @@
+{
+  "number": "INC0003281",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB06333",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: HP Printer in SI/Tutor room shows error 59.F0.\n\nfull_description_text: The color printer in the SI/Tutor room is not working. It shows an error message 59.F0 and says to turn off and on again. The user tried this but the printer still does not work. This issue is causing problems in the lab.",
+  "short_description": "HP Printer in SI/Tutor room shows error 59.F0.",
+  "description": "The color printer in the SI/Tutor room is not working. It shows an error message 59.F0 and says to turn off and on again. The user tried this but the printer still does not work. This issue is causing problems in the lab."
+}

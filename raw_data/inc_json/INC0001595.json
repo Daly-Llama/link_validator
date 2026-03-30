@@ -1,0 +1,20 @@
+{
+  "number": "INC0001595",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01308",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Security cameras are failing to connect to the server.\n\nfull_description_text: During a live chat, the user reported that the Milestone cameras are not functioning properly. They mentioned seeing an error message stating \"Connection to server failed. Retrying,\" which indicates a connectivity issue. Additionally, the user noted that one of the cameras is turned sideways, which might be affecting its performance. Overall, the situation is causing concern as the security system is currently down.",
+  "short_description": "Security cameras are failing to connect to the server.",
+  "description": "During a live chat, the user reported that the Milestone cameras are not functioning properly. They mentioned seeing an error message stating \"Connection to server failed. Retrying,\" which indicates a connectivity issue. Additionally, the user noted that one of the cameras is turned sideways, which might be affecting its performance. Overall, the situation is causing concern as the security system is currently down."
+}

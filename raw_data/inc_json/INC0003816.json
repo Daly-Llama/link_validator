@@ -1,0 +1,20 @@
+{
+  "number": "INC0003816",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07949",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help using the COUNTIFS function in Excel\n\nfull_description_text:\n- So, I was trying to figure out how to use the COUNTIFS function in Excel.  \n- I thought it would be straightforward, but I'm kinda stuck on it.  \n- Can someone explain how to do it? I just need a simple breakdown, please!",
+  "short_description": "Need help using the COUNTIFS function in Excel",
+  "description": "- So, I was trying to figure out how to use the COUNTIFS function in Excel.  \n- I thought it would be straightforward, but I'm kinda stuck on it.  \n- Can someone explain how to do it? I just need a simple breakdown, please!"
+}

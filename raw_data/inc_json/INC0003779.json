@@ -1,0 +1,20 @@
+{
+  "number": "INC0003779",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB07911",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to add an Excel chart to PowerPoint presentation.\n\nfull_description_text:\n- The user is trying to insert a chart from Excel into a PowerPoint slide.  \n- They are unsure of the steps required to complete this action.  \n- This issue arose during a live chat session with a help desk analyst.  \n- The user is looking for guidance on how to proceed with the chart addition.",
+  "short_description": "Unable to add an Excel chart to PowerPoint presentation.",
+  "description": "- The user is trying to insert a chart from Excel into a PowerPoint slide.  \n- They are unsure of the steps required to complete this action.  \n- This issue arose during a live chat session with a help desk analyst.  \n- The user is looking for guidance on how to proceed with the chart addition."
+}

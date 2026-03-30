@@ -1,0 +1,20 @@
+{
+  "number": "INC0001626",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01412",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Panic buttons at front desks are unresponsive in Metasys.\n\nfull_description_text: The panic buttons located at the front desks are failing to respond when activated. Users have reported that pressing the buttons does not trigger any alarms in the Metasys system. This issue raises concerns about safety and security protocols, as the expected alerts are not being generated. Immediate attention is required to investigate the functionality of these critical devices.",
+  "short_description": "Panic buttons at front desks are unresponsive in Metasys.",
+  "description": "The panic buttons located at the front desks are failing to respond when activated. Users have reported that pressing the buttons does not trigger any alarms in the Metasys system. This issue raises concerns about safety and security protocols, as the expected alerts are not being generated. Immediate attention is required to investigate the functionality of these critical devices."
+}

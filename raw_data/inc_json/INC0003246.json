@@ -1,0 +1,20 @@
+{
+  "number": "INC0003246",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06242",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to determine iPhone device version during support call.\n\nfull_description_text: The user was on a call seeking assistance with checking their iPhone device version. They expressed confusion about the steps needed to find this information. The issue arose while discussing compatibility with other devices, such as the Apple Watch and Android phones.",
+  "short_description": "Unable to determine iPhone device version during support call.",
+  "description": "The user was on a call seeking assistance with checking their iPhone device version. They expressed confusion about the steps needed to find this information. The issue arose while discussing compatibility with other devices, such as the Apple Watch and Android phones."
+}

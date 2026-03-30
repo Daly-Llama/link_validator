@@ -1,0 +1,20 @@
+{
+  "number": "INC0002957",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB05386",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to update contact information in People Search.\n\nfull_description_text: The user was trying to update their department's contact details. They encountered issues while accessing the People Search feature. It seems the information isn't saving correctly. They need assistance to resolve this quickly.",
+  "short_description": "Unable to update contact information in People Search.",
+  "description": "The user was trying to update their department's contact details. They encountered issues while accessing the People Search feature. It seems the information isn't saving correctly. They need assistance to resolve this quickly."
+}

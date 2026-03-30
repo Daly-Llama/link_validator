@@ -1,0 +1,20 @@
+{
+  "number": "INC0002688",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04614",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: User reports being scammed through a gift card email scam.\n\nfull_description_text:\n- The user engaged in a transaction after receiving an email that appeared legitimate.  \n- They purchased gift cards as instructed in the email, believing it to be a valid offer.  \n- Subsequently, the user realized they had been scammed and is now seeking assistance to recover their funds.  \n- This situation highlights the risks associated with unsolicited emails and the potential for financial loss.",
+  "short_description": "User reports being scammed through a gift card email scam.",
+  "description": "- The user engaged in a transaction after receiving an email that appeared legitimate.  \n- They purchased gift cards as instructed in the email, believing it to be a valid offer.  \n- Subsequently, the user realized they had been scammed and is now seeking assistance to recover their funds.  \n- This situation highlights the risks associated with unsolicited emails and the potential for financial loss."
+}

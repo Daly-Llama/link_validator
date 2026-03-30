@@ -1,0 +1,20 @@
+{
+  "number": "INC0001322",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00612",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to send email due to attachment size limit.\n\nfull_description_text: User tried to send an email with attachments. Got an error saying the message is too large. They need to make it smaller by removing attachments. This is a common issue in Outlook.",
+  "short_description": "Unable to send email due to attachment size limit.",
+  "description": "User tried to send an email with attachments. Got an error saying the message is too large. They need to make it smaller by removing attachments. This is a common issue in Outlook."
+}

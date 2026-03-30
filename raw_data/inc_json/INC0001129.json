@@ -1,0 +1,20 @@
+{
+  "number": "INC0001129",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB00250",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confirmation needed for computer purchase order status\n\nfull_description_text:\n- I am requesting confirmation on my purchase order for a computer.  \n- Have you received this order?  \n- Please notify me about the status of my computer order.",
+  "short_description": "Confirmation needed for computer purchase order status",
+  "description": "- I am requesting confirmation on my purchase order for a computer.  \n- Have you received this order?  \n- Please notify me about the status of my computer order."
+}

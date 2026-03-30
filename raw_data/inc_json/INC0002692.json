@@ -1,0 +1,20 @@
+{
+  "number": "INC0002692",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04629",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Apple TV not functioning in the lab's smart classroom.\n\nfull_description_text: The user reported that the Apple TV in the lab is not working as expected. They were trying to use it for a presentation but encountered issues that prevented it from functioning properly. This problem is affecting the ability to utilize the smart classroom effectively.",
+  "short_description": "Apple TV not functioning in the lab's smart classroom.",
+  "description": "The user reported that the Apple TV in the lab is not working as expected. They were trying to use it for a presentation but encountered issues that prevented it from functioning properly. This problem is affecting the ability to utilize the smart classroom effectively."
+}

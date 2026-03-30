@@ -1,0 +1,20 @@
+{
+  "number": "INC0003149",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05933",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to start new discussions or reply in D2L.\n\nfull_description_text: The user is trying to respond to threads in Desire2Learn but cannot find any options to post comments. This issue prevents them from participating in discussions. They are unsure how to submit their responses.",
+  "short_description": "Unable to start new discussions or reply in D2L.",
+  "description": "The user is trying to respond to threads in Desire2Learn but cannot find any options to post comments. This issue prevents them from participating in discussions. They are unsure how to submit their responses."
+}

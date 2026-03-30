@@ -1,0 +1,20 @@
+{
+  "number": "INC0001847",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02059",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Important pop-up regarding Oracle Java SE changes received.\n\nfull_description_text:  \nDuring a live phone call, the user reported receiving a pop-up message that contained important information about the Oracle Java SE roadmap. The message indicated that there are upcoming changes that will affect corporate users, particularly with the April 2019 update. It was also mentioned that these changes will not impact the version the user is about to install. For further guidance, a link was provided in the pop-up, but the user seemed confused about the implications of this message.",
+  "short_description": "Important pop-up regarding Oracle Java SE changes received.",
+  "description": "During a live phone call, the user reported receiving a pop-up message that contained important information about the Oracle Java SE roadmap. The message indicated that there are upcoming changes that will affect corporate users, particularly with the April 2019 update. It was also mentioned that these changes will not impact the version the user is about to install. For further guidance, a link was provided in the pop-up, but the user seemed confused about the implications of this message."
+}

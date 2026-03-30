@@ -1,0 +1,20 @@
+{
+  "number": "INC0001929",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02319",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to remove devices from department antivirus inventory list.\n\nfull_description_text:  \nI have our department's inventory list here. Can we take some devices off the antivirus list? They shouldn't need it anymore, but I'm not sure how to proceed with this.",
+  "short_description": "Request to remove devices from department antivirus inventory list.",
+  "description": "I have our department's inventory list here. Can we take some devices off the antivirus list? They shouldn't need it anymore, but I'm not sure how to proceed with this."
+}

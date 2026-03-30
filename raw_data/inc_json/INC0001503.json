@@ -1,0 +1,20 @@
+{
+  "number": "INC0001503",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB01060",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Discussion threads in D2L only show the first page.\n\nfull_description_text: \nDuring a live chat session, the user reported an issue with the D2L platform. They are experiencing difficulty as they are unable to navigate beyond the initial page of a discussion thread that contains multiple pages. The entire content of the discussion posts is not loading, which is causing frustration and hindering their ability to participate effectively. This problem seems to be persistent, and the user is seeking assistance to resolve it promptly.",
+  "short_description": "Discussion threads in D2L only show the first page.",
+  "description": "During a live chat session, the user reported an issue with the D2L platform. They are experiencing difficulty as they are unable to navigate beyond the initial page of a discussion thread that contains multiple pages. The entire content of the discussion posts is not loading, which is causing frustration and hindering their ability to participate effectively. This problem seems to be persistent, and the user is seeking assistance to resolve it promptly."
+}

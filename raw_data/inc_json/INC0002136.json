@@ -1,0 +1,20 @@
+{
+  "number": "INC0002136",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB02945",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Textbook information not visible to students in USD Online Bookstore\n\nfull_description_text:  \nAn instructor submitted textbook details for a summer course through Akademos last week. However, they are encountering an issue where the course materials are not visible to students in the USD Online Bookstore. The message displayed indicates that the term is not currently accessible to students, which is causing concern regarding course preparation. This situation may affect the timely availability of necessary resources for students enrolled in the course.",
+  "short_description": "Textbook information not visible to students in USD Online Bookstore",
+  "description": "An instructor submitted textbook details for a summer course through Akademos last week. However, they are encountering an issue where the course materials are not visible to students in the USD Online Bookstore. The message displayed indicates that the term is not currently accessible to students, which is causing concern regarding course preparation. This situation may affect the timely availability of necessary resources for students enrolled in the course."
+}

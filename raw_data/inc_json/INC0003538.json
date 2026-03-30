@@ -1,0 +1,20 @@
+{
+  "number": "INC0003538",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB07370",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Faculty access to specific resources is unclear.\n\nfull_description_text: During a call, a faculty member asked about the resources they need access to. They were unsure about what specific materials or tools are available for them. It seems there’s some confusion on how to get to these resources, and they’re looking for guidance.",
+  "short_description": "Faculty access to specific resources is unclear.",
+  "description": "During a call, a faculty member asked about the resources they need access to. They were unsure about what specific materials or tools are available for them. It seems there’s some confusion on how to get to these resources, and they’re looking for guidance."
+}

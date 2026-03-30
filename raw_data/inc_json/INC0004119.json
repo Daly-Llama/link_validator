@@ -1,0 +1,20 @@
+{
+  "number": "INC0004119",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08392",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: How to add a hyperlink to a new file in Word?\n\nfull_description_text: So, during the chat, the user was trying to figure out how to add a link, you know, a hyperlink to a new file in Word. They seemed a bit confused about the steps, and it was clear they needed some help with this. It’s a common thing, but sometimes it can be tricky, right? Just wanted to make sure they get the right info!",
+  "short_description": "How to add a hyperlink to a new file in Word?",
+  "description": "So, during the chat, the user was trying to figure out how to add a link, you know, a hyperlink to a new file in Word. They seemed a bit confused about the steps, and it was clear they needed some help with this. It’s a common thing, but sometimes it can be tricky, right? Just wanted to make sure they get the right info!"
+}

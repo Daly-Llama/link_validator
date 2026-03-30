@@ -1,0 +1,20 @@
+{
+  "number": "INC0001738",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB01730",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into USD websites using CAS authentication\n\nfull_description_text:  \nSo, I was just trying to log into the USD Events Calendar to reserve a room with the scheduler, right? But then, out of nowhere, CAS just wouldn’t let me in! It kept saying my login was incorrect, and I even got this weird error about my session timing out or something. I also tried logging into myUSD and the Housing Application, but it just kept throwing errors like \"Application Not Authorized to Use CAS\" and \"Secure Connection Failed.\" It’s super frustrating because I really need to get this done!",
+  "short_description": "Unable to log into USD websites using CAS authentication",
+  "description": "So, I was just trying to log into the USD Events Calendar to reserve a room with the scheduler, right? But then, out of nowhere, CAS just wouldn’t let me in! It kept saying my login was incorrect, and I even got this weird error about my session timing out or something. I also tried logging into myUSD and the Housing Application, but it just kept throwing errors like \"Application Not Authorized to Use CAS\" and \"Secure Connection Failed.\" It’s super frustrating because I really need to get this done!"
+}

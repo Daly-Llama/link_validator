@@ -1,0 +1,20 @@
+{
+  "number": "INC0003066",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB05699",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Google Sites platform.\n\nfull_description_text:  \n- User is trying to access Google Sites but is encountering issues.  \n- They are unsure of the steps needed to reach the site.  \n- The environment is specifically Google Sites, and they need assistance.  \n- The help desk analyst is on a live call, and the user speaks Spanish as their first language.  \n- There may be confusion regarding the access process, which is causing frustration.",
+  "short_description": "Difficulty accessing Google Sites platform.",
+  "description": "- User is trying to access Google Sites but is encountering issues.  \n- They are unsure of the steps needed to reach the site.  \n- The environment is specifically Google Sites, and they need assistance.  \n- The help desk analyst is on a live call, and the user speaks Spanish as their first language.  \n- There may be confusion regarding the access process, which is causing frustration."
+}

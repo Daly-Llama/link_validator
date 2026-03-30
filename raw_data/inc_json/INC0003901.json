@@ -1,0 +1,20 @@
+{
+  "number": "INC0003901",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08047",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Options for composing emails in Outlook\n\nfull_description_text: A user is seeking clarification on the various methods available for writing emails within the Outlook application. They are particularly interested in understanding the different features and functionalities that can enhance their email composition experience. This inquiry was prompted by a recent task that required effective communication through email, leading to some confusion about the available options.",
+  "short_description": "Options for composing emails in Outlook",
+  "description": "A user is seeking clarification on the various methods available for writing emails within the Outlook application. They are particularly interested in understanding the different features and functionalities that can enhance their email composition experience. This inquiry was prompted by a recent task that required effective communication through email, leading to some confusion about the available options."
+}

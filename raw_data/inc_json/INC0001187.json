@@ -1,0 +1,20 @@
+{
+  "number": "INC0001187",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00353",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error messages in TMS related to invalid configuration settings\n\nfull_description_text:\n- User get error in TMS.  \n- It say some paths are not valid.  \n- Also, there is run-time error '76' about path not found.  \n- User need help from system admin.",
+  "short_description": "Error messages in TMS related to invalid configuration settings",
+  "description": "- User get error in TMS.  \n- It say some paths are not valid.  \n- Also, there is run-time error '76' about path not found.  \n- User need help from system admin."
+}

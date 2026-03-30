@@ -1,0 +1,20 @@
+{
+  "number": "INC0004121",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08394",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help creating a hyperlink in my Word document\n\nfull_description_text:  \nI’m trying to make a hyperlink to a specific place in my Word document, but I don’t know how to do it. I want to link to a location, but I can’t find the right steps. It’s really confusing for me, and I just need some simple help with this.",
+  "short_description": "Need help creating a hyperlink in my Word document",
+  "description": "I’m trying to make a hyperlink to a specific place in my Word document, but I don’t know how to do it. I want to link to a location, but I can’t find the right steps. It’s really confusing for me, and I just need some simple help with this."
+}

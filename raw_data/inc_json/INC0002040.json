@@ -1,0 +1,20 @@
+{
+  "number": "INC0002040",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02648",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reach Display not properly displaying on television screen.\n\nfull_description_text: During a call, the user mentioned that the Reach Display is not showing correctly on their television. They noted that the screen resolution is off, causing parts of the display to be cut off. This issue is occurring in their residence hall, and they are unsure how to fix it.",
+  "short_description": "Reach Display not properly displaying on television screen.",
+  "description": "During a call, the user mentioned that the Reach Display is not showing correctly on their television. They noted that the screen resolution is off, causing parts of the display to be cut off. This issue is occurring in their residence hall, and they are unsure how to fix it."
+}

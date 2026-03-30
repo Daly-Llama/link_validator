@@ -1,0 +1,20 @@
+{
+  "number": "INC0004314",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB08748",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Pending transaction stuck on concession POS register.\n\nfull_description_text:  \nThere is a problem with one register. A transaction is pending and it won't go away. How to clear it? It's causing issues at the concession.",
+  "short_description": "Pending transaction stuck on concession POS register.",
+  "description": "There is a problem with one register. A transaction is pending and it won't go away. How to clear it? It's causing issues at the concession."
+}

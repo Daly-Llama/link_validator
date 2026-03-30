@@ -1,0 +1,20 @@
+{
+  "number": "INC0001039",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00062",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with printing to the multifunction copier using USD Print.\n\nfull_description_text:  \nUser is trying to print documents.  \nThey are unsure about how to use USD Print.  \nThere is confusion regarding the printing process with PaperCut.  \nThis affects students, faculty, and staff.",
+  "short_description": "Issues with printing to the multifunction copier using USD Print.",
+  "description": "User is trying to print documents.  \nThey are unsure about how to use USD Print.  \nThere is confusion regarding the printing process with PaperCut.  \nThis affects students, faculty, and staff."
+}

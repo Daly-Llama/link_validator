@@ -1,0 +1,20 @@
+{
+  "number": "INC0002928",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05312",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty requesting a shift swap in Microsoft Shifts.\n\nfull_description_text:  \nThe user was trying to figure out how to request a shift swap in Microsoft Shifts while using Microsoft Teams. They expressed confusion about the process and needed assistance to understand the steps involved. This issue arose during a live phone call with a help desk analyst, who noted the user's primary language was Spanish. The user was looking for clear guidance on how to proceed with the shift swap request.",
+  "short_description": "Difficulty requesting a shift swap in Microsoft Shifts.",
+  "description": "The user was trying to figure out how to request a shift swap in Microsoft Shifts while using Microsoft Teams. They expressed confusion about the process and needed assistance to understand the steps involved. This issue arose during a live phone call with a help desk analyst, who noted the user's primary language was Spanish. The user was looking for clear guidance on how to proceed with the shift swap request."
+}

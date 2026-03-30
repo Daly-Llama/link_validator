@@ -1,0 +1,20 @@
+{
+  "number": "INC0004016",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08238",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty creating a Panopto assignment folder in D2L.\n\nfull_description_text:\n- The user was attempting to create an assignment folder in Panopto while using D2L.  \n- They encountered issues during the process, which prevented successful folder creation.  \n- This situation arose while they were actively engaged in the task, leading to confusion.  \n- The user is seeking guidance on how to resolve this specific problem effectively.",
+  "short_description": "Difficulty creating a Panopto assignment folder in D2L.",
+  "description": "- The user was attempting to create an assignment folder in Panopto while using D2L.  \n- They encountered issues during the process, which prevented successful folder creation.  \n- This situation arose while they were actively engaged in the task, leading to confusion.  \n- The user is seeking guidance on how to resolve this specific problem effectively."
+}

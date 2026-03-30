@@ -1,0 +1,20 @@
+{
+  "number": "INC0002179",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03094",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: HP Ink Cartridge shows expired on DesignJet T2300.\n\nfull_description_text: The ink is expired on the HP DesignJet T2300. The user is saying it’s not working. They need help with the ink cartridge. It’s showing expired and they don’t know what to do.",
+  "short_description": "HP Ink Cartridge shows expired on DesignJet T2300.",
+  "description": "The ink is expired on the HP DesignJet T2300. The user is saying it’s not working. They need help with the ink cartridge. It’s showing expired and they don’t know what to do."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002518",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04064",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error opening Office file from OneDrive due to sign-in issue\n\nfull_description_text: \nI was trying to open a file from my OneDrive in Office 365, but I got this annoying error. It said \"Upload Blocked You are required to sign in to upload your changes to this location.\" I thought I was already signed in, but maybe I need to check my account settings or something. It's frustrating because I need to make changes to the document right away.",
+  "short_description": "Error opening Office file from OneDrive due to sign-in issue",
+  "description": "I was trying to open a file from my OneDrive in Office 365, but I got this annoying error. It said \"Upload Blocked You are required to sign in to upload your changes to this location.\" I thought I was already signed in, but maybe I need to check my account settings or something. It's frustrating because I need to make changes to the document right away."
+}

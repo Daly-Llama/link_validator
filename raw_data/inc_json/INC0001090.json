@@ -1,0 +1,20 @@
+{
+  "number": "INC0001090",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00170",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access course materials in Desire2Learn.\n\nfull_description_text:  \nI am experiencing an issue while trying to view important course materials, including the Welcome Letter, Syllabus, and Course Schedule in Desire2Learn. Each time I attempt to access these resources, I receive an error message stating that I am not authorized to view the page. This situation is preventing me from obtaining essential information for my course, and I am unsure why I am encountering this access issue.",
+  "short_description": "Unable to access course materials in Desire2Learn.",
+  "description": "I am experiencing an issue while trying to view important course materials, including the Welcome Letter, Syllabus, and Course Schedule in Desire2Learn. Each time I attempt to access these resources, I receive an error message stating that I am not authorized to view the page. This situation is preventing me from obtaining essential information for my course, and I am unsure why I am encountering this access issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001308",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB00585",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help getting a hard copy of my diploma\n\nfull_description_text:\n- So, I wanna get my diploma, like the hard copy.  \n- But I can't remember my login info to order it.  \n- It's kinda frustrating, ya know? Just need that diploma!",
+  "short_description": "Need help getting a hard copy of my diploma",
+  "description": "- So, I wanna get my diploma, like the hard copy.  \n- But I can't remember my login info to order it.  \n- It's kinda frustrating, ya know? Just need that diploma!"
+}

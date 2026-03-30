@@ -1,0 +1,20 @@
+{
+  "number": "INC0003040",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB05629",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to delete an article from the knowledge base.\n\nfull_description_text: So, during this live chat, the analyst was trying to help a user who was, like, really wanting to get rid of this article. The user kept saying things like \"please remove this article\" and \"please delete this article,\" but, you know, their English wasn't super great, so it was a bit tricky to understand. They were using TeamDynamix and talking about the Knowledge Base, and it seemed like they thought the article was just not useful anymore or something. It was a bit of a back-and-forth, and the analyst was just trying to figure out what exactly the user wanted to do with that article.",
+  "short_description": "Request to delete an article from the knowledge base.",
+  "description": "So, during this live chat, the analyst was trying to help a user who was, like, really wanting to get rid of this article. The user kept saying things like \"please remove this article\" and \"please delete this article,\" but, you know, their English wasn't super great, so it was a bit tricky to understand. They were using TeamDynamix and talking about the Knowledge Base, and it seemed like they thought the article was just not useful anymore or something. It was a bit of a back-and-forth, and the analyst was just trying to figure out what exactly the user wanted to do with that article."
+}

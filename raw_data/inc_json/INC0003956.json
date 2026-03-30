@@ -1,0 +1,20 @@
+{
+  "number": "INC0003956",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08109",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with using the Assignments tab in Microsoft Teams\n\nfull_description_text: \nSo, during the chat, the user was trying to figure out how to navigate the Assignments tab in Microsoft Teams, but they were totally lost. They mentioned something about not being able to see the assignments they expected, which is super frustrating, right? It seems like there might be some confusion about how to access or utilize that feature properly, and they were looking for some guidance. I think they were hoping for a step-by-step or something, but it was a bit unclear what exactly was going wrong.",
+  "short_description": "Issues with using the Assignments tab in Microsoft Teams",
+  "description": "So, during the chat, the user was trying to figure out how to navigate the Assignments tab in Microsoft Teams, but they were totally lost. They mentioned something about not being able to see the assignments they expected, which is super frustrating, right? It seems like there might be some confusion about how to access or utilize that feature properly, and they were looking for some guidance. I think they were hoping for a step-by-step or something, but it was a bit unclear what exactly was going wrong."
+}

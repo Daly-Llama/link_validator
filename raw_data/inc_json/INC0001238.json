@@ -1,0 +1,20 @@
+{
+  "number": "INC0001238",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB00451",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Previous employee needs W-2 access after leaving SNAP.\n\nfull_description_text: A former employee called in asking how to access their W-2 form since they can't log into SNAP anymore. They need temporary access to get that document. It's a bit unclear what the exact process is for this situation, but they seem pretty urgent about it.",
+  "short_description": "Previous employee needs W-2 access after leaving SNAP.",
+  "description": "A former employee called in asking how to access their W-2 form since they can't log into SNAP anymore. They need temporary access to get that document. It's a bit unclear what the exact process is for this situation, but they seem pretty urgent about it."
+}

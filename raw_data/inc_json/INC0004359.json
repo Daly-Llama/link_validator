@@ -1,0 +1,20 @@
+{
+  "number": "INC0004359",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB08828",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about First Day Access charge on student account\n\nfull_description_text:\n- The user noticed a First Day Access charge on their university account and is seeking clarification.  \n- They are confused about why this charge differs from the amount listed in the bookstore.  \n- The user wants to know what the charge includes and if it's part of their tuition.  \n- Additionally, they are asking if a bookstore voucher can be used to cover this charge.",
+  "short_description": "Inquiry about First Day Access charge on student account",
+  "description": "- The user noticed a First Day Access charge on their university account and is seeking clarification.  \n- They are confused about why this charge differs from the amount listed in the bookstore.  \n- The user wants to know what the charge includes and if it's part of their tuition.  \n- Additionally, they are asking if a bookstore voucher can be used to cover this charge."
+}

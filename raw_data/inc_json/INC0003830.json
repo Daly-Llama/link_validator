@@ -1,0 +1,20 @@
+{
+  "number": "INC0003830",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07963",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty using the fill handle feature in Excel\n\nfull_description_text:\n- The user is trying to utilize the fill handle in Excel for data entry.\n- They are unsure of the steps required to effectively use this feature.\n- This issue may be affecting their ability to complete tasks efficiently.",
+  "short_description": "Difficulty using the fill handle feature in Excel",
+  "description": "- The user is trying to utilize the fill handle in Excel for data entry.\n- They are unsure of the steps required to effectively use this feature.\n- This issue may be affecting their ability to complete tasks efficiently."
+}

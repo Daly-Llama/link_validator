@@ -1,0 +1,20 @@
+{
+  "number": "INC0002401",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03737",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to verify caller identity using Duo Push.\n\nfull_description_text: The help desk analyst was on a call trying to confirm the identity of a customer. They needed to use Duo Push for verification but were unsure how to do it. The analyst also wanted to prove their affiliation with the University during the call.",
+  "short_description": "Unable to verify caller identity using Duo Push.",
+  "description": "The help desk analyst was on a call trying to confirm the identity of a customer. They needed to use Duo Push for verification but were unsure how to do it. The analyst also wanted to prove their affiliation with the University during the call."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003084",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05729",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about who qualifies for Paid Family Leave.\n\nfull_description_text: \nUser ask who can get PFL. They not sure if they qualify. Need clear info on eligibility. Confusion about requirements for Paid Family Leave.",
+  "short_description": "Questions about who qualifies for Paid Family Leave.",
+  "description": "User ask who can get PFL. They not sure if they qualify. Need clear info on eligibility. Confusion about requirements for Paid Family Leave."
+}

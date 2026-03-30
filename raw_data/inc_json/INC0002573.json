@@ -1,0 +1,20 @@
+{
+  "number": "INC0002573",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB04214",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need ITS review for HAMIC grant application submission.\n\nfull_description_text:  \nI’m applying for HAMIC funds. I need to contact IT for review.  \nSubmitting a proposal for the HAMIC grant.  \nNot sure what info they need from me.  \nHope to get this sorted out soon.",
+  "short_description": "Need ITS review for HAMIC grant application submission.",
+  "description": "I’m applying for HAMIC funds. I need to contact IT for review.  \nSubmitting a proposal for the HAMIC grant.  \nNot sure what info they need from me.  \nHope to get this sorted out soon."
+}

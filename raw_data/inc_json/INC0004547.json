@@ -1,0 +1,20 @@
+{
+  "number": "INC0004547",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09347",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about sorority and fraternity life housing exemptions\n\nfull_description_text: \nThe user is seeking information on how to apply for a sorority and fraternity life exemption. They are also asking about the specific requirements needed for this exemption. Additionally, the user is curious about the likelihood of being granted such an exemption.",
+  "short_description": "Inquiry about sorority and fraternity life housing exemptions",
+  "description": "The user is seeking information on how to apply for a sorority and fraternity life exemption. They are also asking about the specific requirements needed for this exemption. Additionally, the user is curious about the likelihood of being granted such an exemption."
+}

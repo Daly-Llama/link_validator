@@ -1,0 +1,20 @@
+{
+  "number": "INC0002730",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB04744",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Did you receive my FAFSA application submission?\n\nfull_description_text:  \nI just wanted to check in and see if my FAFSA application made it to you. I submitted it a little while ago, and I’m really hoping everything is okay on your end. It’s super important for me to know if you got it because it’s related to my financial aid for school, and I’m a bit anxious about the whole process. If you could let me know, I would really appreciate it!",
+  "short_description": "Did you receive my FAFSA application submission?",
+  "description": "I just wanted to check in and see if my FAFSA application made it to you. I submitted it a little while ago, and I’m really hoping everything is okay on your end. It’s super important for me to know if you got it because it’s related to my financial aid for school, and I’m a bit anxious about the whole process. If you could let me know, I would really appreciate it!"
+}

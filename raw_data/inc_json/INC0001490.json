@@ -1,0 +1,20 @@
+{
+  "number": "INC0001490",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB01017",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Qualtrics and requesting a license.\n\nfull_description_text:  \nI am trying to access Qualtrics, but I am unsure how to do it. I would like to request a Qualtrics license, as I need to create an account for my work. Can you please provide guidance on how to access Qualtrics and set up my account? Thank you for your assistance.",
+  "short_description": "Difficulty accessing Qualtrics and requesting a license.",
+  "description": "I am trying to access Qualtrics, but I am unsure how to do it. I would like to request a Qualtrics license, as I need to create an account for my work. Can you please provide guidance on how to access Qualtrics and set up my account? Thank you for your assistance."
+}

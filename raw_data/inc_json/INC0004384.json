@@ -1,0 +1,20 @@
+{
+  "number": "INC0004384",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08935",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy for enterprise asset inventory\n\nfull_description_text:\n- The user is seeking clarification on the security policy regarding the inventory of enterprise assets.  \n- This inquiry pertains to the guidelines established under CIS Control 1.  \n- Understanding this policy is crucial for ensuring compliance and effective management of assets within the organization.",
+  "short_description": "Inquiry about USD security policy for enterprise asset inventory",
+  "description": "- The user is seeking clarification on the security policy regarding the inventory of enterprise assets.  \n- This inquiry pertains to the guidelines established under CIS Control 1.  \n- Understanding this policy is crucial for ensuring compliance and effective management of assets within the organization."
+}

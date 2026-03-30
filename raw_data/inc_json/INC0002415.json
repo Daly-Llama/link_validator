@@ -1,0 +1,20 @@
+{
+  "number": "INC0002415",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB03784",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Panopto says it needs an update to record a session.\n\nfull_description_text: \nI was trying to use Panopto to record my session, but then it told me that it’s out of date. It said I need to update it to the latest version. I just want to make sure I can record my stuff without any problems, but I’m not sure how to do the update.",
+  "short_description": "Panopto says it needs an update to record a session.",
+  "description": "I was trying to use Panopto to record my session, but then it told me that it’s out of date. It said I need to update it to the latest version. I just want to make sure I can record my stuff without any problems, but I’m not sure how to do the update."
+}

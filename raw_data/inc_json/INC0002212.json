@@ -1,0 +1,20 @@
+{
+  "number": "INC0002212",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB03183",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about laptop requirements for medical school admission\n\nfull_description_text:  \nThe user is an incoming student to USD's medical school and is seeking information about the necessary laptop specifications. They are unsure if their current laptop will meet the requirements set by the Sanford School of Medicine. The user is looking for clear guidance on what computer system is needed for their studies in medical school.",
+  "short_description": "Inquiry about laptop requirements for medical school admission",
+  "description": "The user is an incoming student to USD's medical school and is seeking information about the necessary laptop specifications. They are unsure if their current laptop will meet the requirements set by the Sanford School of Medicine. The user is looking for clear guidance on what computer system is needed for their studies in medical school."
+}

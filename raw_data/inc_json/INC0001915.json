@@ -1,0 +1,20 @@
+{
+  "number": "INC0001915",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02274",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: VoIP phone experiencing delays and button malfunctions.\n\nfull_description_text:\n- The user reports issues with their Cisco VoIP phone, indicating that the buttons are sticking and inputting multiple numbers.  \n- Additionally, there is a significant delay when attempting to make phone calls, resulting in long pauses before the call connects.  \n- These problems are affecting the overall functionality and usability of the device.",
+  "short_description": "VoIP phone experiencing delays and button malfunctions.",
+  "description": "- The user reports issues with their Cisco VoIP phone, indicating that the buttons are sticking and inputting multiple numbers.  \n- Additionally, there is a significant delay when attempting to make phone calls, resulting in long pauses before the call connects.  \n- These problems are affecting the overall functionality and usability of the device."
+}

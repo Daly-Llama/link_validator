@@ -1,0 +1,20 @@
+{
+  "number": "INC0003229",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06182",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty adding Slido to Microsoft PowerPoint.\n\nfull_description_text: The user is trying to integrate Slido into their PowerPoint presentation. They are unsure of the steps required to complete this process. This issue may be affecting their ability to enhance audience engagement during their presentation.",
+  "short_description": "Difficulty adding Slido to Microsoft PowerPoint.",
+  "description": "The user is trying to integrate Slido into their PowerPoint presentation. They are unsure of the steps required to complete this process. This issue may be affecting their ability to enhance audience engagement during their presentation."
+}

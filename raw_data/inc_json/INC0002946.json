@@ -1,0 +1,20 @@
+{
+  "number": "INC0002946",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB05357",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access user folder on the X drive.\n\nfull_description_text:  \n- I can't access the items in my user folder on the X drive.  \n- This issue started suddenly while I was trying to retrieve some files.  \n- I have checked my network connection, and everything seems fine on my end.  \n- It’s important for me to access these files for my ongoing projects.",
+  "short_description": "Unable to access user folder on the X drive.",
+  "description": "- I can't access the items in my user folder on the X drive.  \n- This issue started suddenly while I was trying to retrieve some files.  \n- I have checked my network connection, and everything seems fine on my end.  \n- It’s important for me to access these files for my ongoing projects."
+}

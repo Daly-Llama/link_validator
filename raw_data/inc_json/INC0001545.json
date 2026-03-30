@@ -1,0 +1,20 @@
+{
+  "number": "INC0001545",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01161",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Copier unable to connect to server for scanning tasks.\n\nfull_description_text:\n- The user attempted to use the multifunction copier for scanning.  \n- An error message appeared stating it cannot connect to server.  \n- The user was advised to contact administrator for assistance.  \n- This issue is affecting the ability to use the copier properly.",
+  "short_description": "Copier unable to connect to server for scanning tasks.",
+  "description": "- The user attempted to use the multifunction copier for scanning.  \n- An error message appeared stating it cannot connect to server.  \n- The user was advised to contact administrator for assistance.  \n- This issue is affecting the ability to use the copier properly."
+}

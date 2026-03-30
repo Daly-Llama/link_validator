@@ -1,0 +1,20 @@
+{
+  "number": "INC0004252",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB08619",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the location of the Testing Center\n\nfull_description_text:  \nDuring a live chat session, the user expressed a need to ascertain the precise geographical location of the Testing Center within the USD Testing Center environment. The inquiry was prompted by a requirement to access specific resources or facilities that are presumably housed within this designated area. It is imperative to note that the user was engaged in a task that necessitated immediate access to the Testing Center, yet they encountered a significant obstacle due to the lack of clarity regarding its whereabouts. This situation underscores the importance of having readily available information about critical operational locations within the system.",
+  "short_description": "Inquiry about the location of the Testing Center",
+  "description": "During a live chat session, the user expressed a need to ascertain the precise geographical location of the Testing Center within the USD Testing Center environment. The inquiry was prompted by a requirement to access specific resources or facilities that are presumably housed within this designated area. It is imperative to note that the user was engaged in a task that necessitated immediate access to the Testing Center, yet they encountered a significant obstacle due to the lack of clarity regarding its whereabouts. This situation underscores the importance of having readily available information about critical operational locations within the system."
+}

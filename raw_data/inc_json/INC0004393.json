@@ -1,0 +1,20 @@
+{
+  "number": "INC0004393",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08944",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on data recovery.\n\nfull_description_text: During a live chat session, the user inquired about the security policy related to data recovery. They were specifically interested in understanding the guidelines set forth under CIS Controls 11. The request highlights a need for clarity on data recovery protocols within the USD framework.",
+  "short_description": "Inquiry about USD security policy on data recovery.",
+  "description": "During a live chat session, the user inquired about the security policy related to data recovery. They were specifically interested in understanding the guidelines set forth under CIS Controls 11. The request highlights a need for clarity on data recovery protocols within the USD framework."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002383",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB03657",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty running a report in the Data Cookbook.\n\nfull_description_text:\n- The user was trying to generate a report using the Data Cookbook.  \n- They were unsure of the steps needed to successfully run the report.  \n- This confusion led to a delay in accessing the necessary data for their project.  \n- They reached out for assistance during a live call, seeking clarity on the process.",
+  "short_description": "Difficulty running a report in the Data Cookbook.",
+  "description": "- The user was trying to generate a report using the Data Cookbook.  \n- They were unsure of the steps needed to successfully run the report.  \n- This confusion led to a delay in accessing the necessary data for their project.  \n- They reached out for assistance during a live call, seeking clarity on the process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002853",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05100",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: OneDrive shows red X, documents may not be syncing.\n\nfull_description_text: User notices a red X on OneDrive. Files appear disconnected when accessed from the computer. Concern about document syncing status. Unclear if this is a temporary issue or something more serious.",
+  "short_description": "OneDrive shows red X, documents may not be syncing.",
+  "description": "User notices a red X on OneDrive. Files appear disconnected when accessed from the computer. Concern about document syncing status. Unclear if this is a temporary issue or something more serious."
+}

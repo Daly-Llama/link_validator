@@ -1,0 +1,20 @@
+{
+  "number": "INC0004558",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09359",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about applying for a legal dependent housing exemption\n\nfull_description_text: \nThe user was seeking information on how to apply for a legal dependent exemption related to housing. They expressed uncertainty about the specific requirements needed for the application process. Additionally, the user wanted to know the likelihood of being granted this exemption, which indicates a concern about eligibility. During the call, the analyst noted that the user seemed to be looking for detailed guidance on the steps involved, but the conversation was somewhat disjointed with a few interruptions.",
+  "short_description": "Inquiry about applying for a legal dependent housing exemption",
+  "description": "The user was seeking information on how to apply for a legal dependent exemption related to housing. They expressed uncertainty about the specific requirements needed for the application process. Additionally, the user wanted to know the likelihood of being granted this exemption, which indicates a concern about eligibility. During the call, the analyst noted that the user seemed to be looking for detailed guidance on the steps involved, but the conversation was somewhat disjointed with a few interruptions."
+}

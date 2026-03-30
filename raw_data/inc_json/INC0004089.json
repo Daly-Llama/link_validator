@@ -1,0 +1,20 @@
+{
+  "number": "INC0004089",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB08342",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to Jaggaer Contracts Plus in Banner.\n\nfull_description_text: The user was on a call requesting access to the Jaggaer Contracts Plus system. They mentioned needing this access while working within the Banner environment. There was some confusion about the specific requirements for the access, but the request was clear.",
+  "short_description": "Request for access to Jaggaer Contracts Plus in Banner.",
+  "description": "The user was on a call requesting access to the Jaggaer Contracts Plus system. They mentioned needing this access while working within the Banner environment. There was some confusion about the specific requirements for the access, but the request was clear."
+}

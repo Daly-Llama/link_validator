@@ -1,0 +1,20 @@
+{
+  "number": "INC0001306",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00582",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outdated faculty and staff information on the public website.\n\nfull_description_text: During a recent call, a user expressed concern regarding the presence of outdated information on the USD public website, specifically in the faculty and staff listings. They noted that their name still appears in the directory despite no longer being employed by USD, which raises issues of accuracy and privacy. Additionally, the user pointed out that the contact information for their department is incorrect, including an inaccurately listed phone number. This situation highlights the need for timely updates to ensure the integrity of the information presented to the public.",
+  "short_description": "Outdated faculty and staff information on the public website.",
+  "description": "During a recent call, a user expressed concern regarding the presence of outdated information on the USD public website, specifically in the faculty and staff listings. They noted that their name still appears in the directory despite no longer being employed by USD, which raises issues of accuracy and privacy. Additionally, the user pointed out that the contact information for their department is incorrect, including an inaccurately listed phone number. This situation highlights the need for timely updates to ensure the integrity of the information presented to the public."
+}

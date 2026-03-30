@@ -1,0 +1,20 @@
+{
+  "number": "INC0002269",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03352",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to remove main office line from Cisco VoIP phone.\n\nfull_description_text:  \nThe user is seeking assistance to remove the main office line from their Cisco VoIP phone. They have recently relocated their workspace away from the front desk and no longer require the main office line to ring on their extension. This change is necessary to streamline their phone usage in the new environment.",
+  "short_description": "Request to remove main office line from Cisco VoIP phone.",
+  "description": "The user is seeking assistance to remove the main office line from their Cisco VoIP phone. They have recently relocated their workspace away from the front desk and no longer require the main office line to ring on their extension. This change is necessary to streamline their phone usage in the new environment."
+}

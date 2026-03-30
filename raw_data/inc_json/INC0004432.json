@@ -1,0 +1,20 @@
+{
+  "number": "INC0004432",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09029",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: PHIL station is currently out of service for cash deposits.\n\nfull_description_text: \nThe North Common PHIL station is out of service, which is causing issues for users trying to deposit cash. I attempted to put cash into the PHIL machine, but it was not accepting any deposits. This situation is impacting the ability to use Coyote Cash effectively at this location. Please address this issue as soon as possible to restore functionality.",
+  "short_description": "PHIL station is currently out of service for cash deposits.",
+  "description": "The North Common PHIL station is out of service, which is causing issues for users trying to deposit cash. I attempted to put cash into the PHIL machine, but it was not accepting any deposits. This situation is impacting the ability to use Coyote Cash effectively at this location. Please address this issue as soon as possible to restore functionality."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001682",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB01584",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Upload failed error when editing or opening documents in Office\n\nfull_description_text:  \nI was trying to open and edit a document in Microsoft Office, and I kept getting this really frustrating error message. It said something like \"Upload Failed - We're sorry, someone updated the server copy and it's not possible to upload your changes now.\" I mean, I just wanted to make some changes, but instead, I was met with this confusing message about conflicts and uploads. It also mentioned that my document hasn't been uploaded to the server, which is just so annoying because I thought everything was saved properly!",
+  "short_description": "Upload failed error when editing or opening documents in Office",
+  "description": "I was trying to open and edit a document in Microsoft Office, and I kept getting this really frustrating error message. It said something like \"Upload Failed - We're sorry, someone updated the server copy and it's not possible to upload your changes now.\" I mean, I just wanted to make some changes, but instead, I was met with this confusing message about conflicts and uploads. It also mentioned that my document hasn't been uploaded to the server, which is just so annoying because I thought everything was saved properly!"
+}

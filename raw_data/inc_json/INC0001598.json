@@ -1,0 +1,20 @@
+{
+  "number": "INC0001598",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01320",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to load video onto flash drive on Windows or MAC.\n\nfull_description_text: User attempted to transfer a video file to a flash drive. The process failed without any specific error message. This issue occurred on both Windows and MAC environments. The user is familiar with basic file transfers.",
+  "short_description": "Unable to load video onto flash drive on Windows or MAC.",
+  "description": "User attempted to transfer a video file to a flash drive. The process failed without any specific error message. This issue occurred on both Windows and MAC environments. The user is familiar with basic file transfers."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002954",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05382",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: VoIP phone stuck on Do Not Disturb, not ringing for calls.\n\nfull_description_text:\n- So, my office phone is on Do Not Disturb and it just won’t ring when someone calls.  \n- I’m not sure how to change this setting back, and it’s kinda frustrating.  \n- Can someone help me figure out how to get my VoIP phone to ring again?",
+  "short_description": "VoIP phone stuck on Do Not Disturb, not ringing for calls.",
+  "description": "- So, my office phone is on Do Not Disturb and it just won’t ring when someone calls.  \n- I’m not sure how to change this setting back, and it’s kinda frustrating.  \n- Can someone help me figure out how to get my VoIP phone to ring again?"
+}

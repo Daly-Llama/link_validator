@@ -1,0 +1,20 @@
+{
+  "number": "INC0002710",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB04691",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Student Government Association meeting schedule and location\n\nfull_description_text:\n- The user is asking about the timing and location of Student Government Association meetings.  \n- They are unclear on when these meetings take place and where they are held.  \n- This information is important for their participation in the SGA activities.  \n- The user is seeking clarity on the meeting schedule and venue.",
+  "short_description": "Inquiry about Student Government Association meeting schedule and location",
+  "description": "- The user is asking about the timing and location of Student Government Association meetings.  \n- They are unclear on when these meetings take place and where they are held.  \n- This information is important for their participation in the SGA activities.  \n- The user is seeking clarity on the meeting schedule and venue."
+}

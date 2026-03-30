@@ -1,0 +1,20 @@
+{
+  "number": "INC0003316",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB06509",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Where can I find the multifunction copiers?\n\nfull_description_text: So, the user was asking about the locations of the multifunction copiers. They really needed to know where to find them, but it wasn't clear. Just trying to help them out with that info!",
+  "short_description": "Where can I find the multifunction copiers?",
+  "description": "So, the user was asking about the locations of the multifunction copiers. They really needed to know where to find them, but it wasn't clear. Just trying to help them out with that info!"
+}

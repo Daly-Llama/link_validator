@@ -1,0 +1,20 @@
+{
+  "number": "INC0002439",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03835",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Cannot open Google Chrome due to configuration error.\n\nfull_description_text: \nThe user was trying to launch the Google Chrome browser but encountered an issue. The application failed to start, and the error message indicated that its side-by-side configuration is incorrect. This means that there is a problem with how the application is set up to run alongside other applications. The user mentioned that they should check the application event log or use the command-line tool sxstrace.exe for more details, but they were unable to proceed with opening Chrome.",
+  "short_description": "Cannot open Google Chrome due to configuration error.",
+  "description": "The user was trying to launch the Google Chrome browser but encountered an issue. The application failed to start, and the error message indicated that its side-by-side configuration is incorrect. This means that there is a problem with how the application is set up to run alongside other applications. The user mentioned that they should check the application event log or use the command-line tool sxstrace.exe for more details, but they were unable to proceed with opening Chrome."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001174",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00336",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access Digital Measures due to restriction error.\n\nfull_description_text: \nEl técnico está tratando de acceder a Digital Measures pero se encuentra con un error. La página dice que está restringida y que no tiene acceso a esta información. Necesita ayuda para saber cómo solicitar acceso a esta herramienta. Es importante que pueda acceder para realizar su trabajo correctamente.",
+  "short_description": "Unable to access Digital Measures due to restriction error.",
+  "description": "El técnico está tratando de acceder a Digital Measures pero se encuentra con un error. La página dice que está restringida y que no tiene acceso a esta información. Necesita ayuda para saber cómo solicitar acceso a esta herramienta. Es importante que pueda acceder para realizar su trabajo correctamente."
+}

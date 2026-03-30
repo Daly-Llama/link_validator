@@ -1,0 +1,20 @@
+{
+  "number": "INC0002973",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05430",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Profile name displaying incorrectly on D2L\n\nfull_description_text:  \nI was just trying to check my profile on D2L, and I noticed that my name is all wrong. It’s showing up as something totally different, and it’s kinda confusing. I thought maybe it was just a glitch or something, but it’s been like this for a while now. Can someone help me fix it?",
+  "short_description": "Profile name displaying incorrectly on D2L",
+  "description": "I was just trying to check my profile on D2L, and I noticed that my name is all wrong. It’s showing up as something totally different, and it’s kinda confusing. I thought maybe it was just a glitch or something, but it’s been like this for a while now. Can someone help me fix it?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004485",
+  "category": "Accounting Training Schedule",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB09176",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the Accounting Training Schedule details.\n\nfull_description_text: User asked about the Accounting Training Schedule. They need to know the dates and times. This is for planning purposes. No specific details were provided in the chat.",
+  "short_description": "Inquiry about the Accounting Training Schedule details.",
+  "description": "User asked about the Accounting Training Schedule. They need to know the dates and times. This is for planning purposes. No specific details were provided in the chat."
+}

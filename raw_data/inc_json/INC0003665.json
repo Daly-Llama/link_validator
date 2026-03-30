@@ -1,0 +1,20 @@
+{
+  "number": "INC0003665",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07784",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in creating a Google Site.\n\nfull_description_text:  \nThe user inquired about the procedure for creating a Google Site. They expressed uncertainty regarding the necessary steps involved in the site creation process. The conversation took place during a live phone call, indicating an immediate need for assistance. The user was seeking clarity on the functionalities and options available within the Google Sites platform.",
+  "short_description": "Difficulty in creating a Google Site.",
+  "description": "The user inquired about the procedure for creating a Google Site. They expressed uncertainty regarding the necessary steps involved in the site creation process. The conversation took place during a live phone call, indicating an immediate need for assistance. The user was seeking clarity on the functionalities and options available within the Google Sites platform."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002780",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB04857",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error when ordering transcript due to inaccessible email address.\n\nfull_description_text: \nThe user was trying to order an official transcript but encountered an error. It said their ID is linked to an email address they can't access anymore. This is causing a problem for them to complete the order.",
+  "short_description": "Error when ordering transcript due to inaccessible email address.",
+  "description": "The user was trying to order an official transcript but encountered an error. It said their ID is linked to an email address they can't access anymore. This is causing a problem for them to complete the order."
+}

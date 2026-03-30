@@ -1,0 +1,20 @@
+{
+  "number": "INC0001468",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00947",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Phone not receiving calls from main line hunt group anymore\n\nfull_description_text:  \nSo, one of our phones isn't getting calls from the main line hunt group. It seems like it's not in the call rotation anymore. Calls just aren't rolling over to that phone like they should. It's kinda frustrating because we need to get those calls.",
+  "short_description": "Phone not receiving calls from main line hunt group anymore",
+  "description": "So, one of our phones isn't getting calls from the main line hunt group. It seems like it's not in the call rotation anymore. Calls just aren't rolling over to that phone like they should. It's kinda frustrating because we need to get those calls."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001773",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01840",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for graphic placement on digital signage.\n\nfull_description_text:  \nA request has been submitted to place a graphic on the digital signage system. The user is seeking to have a flyer or advertisement displayed on the digital sign. This request is essential for promoting specific content effectively within the designated environment.",
+  "short_description": "Request for graphic placement on digital signage.",
+  "description": "A request has been submitted to place a graphic on the digital signage system. The user is seeking to have a flyer or advertisement displayed on the digital sign. This request is essential for promoting specific content effectively within the designated environment."
+}

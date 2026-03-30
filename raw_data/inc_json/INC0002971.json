@@ -1,0 +1,20 @@
+{
+  "number": "INC0002971",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05428",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Zoom recording stuck on \"Transcribing\" for days\n\nfull_description_text:  \nSo, I was trying to check on a Zoom recording, and it just won’t move past the \"Transcribing\" stage. It’s been stuck like that for days now, and I’m not sure what’s going on. I really need to get the transcript for my meeting, but it seems like it’s just frozen or something.",
+  "short_description": "Zoom recording stuck on \"Transcribing\" for days",
+  "description": "So, I was trying to check on a Zoom recording, and it just won’t move past the \"Transcribing\" stage. It’s been stuck like that for days now, and I’m not sure what’s going on. I really need to get the transcript for my meeting, but it seems like it’s just frozen or something."
+}

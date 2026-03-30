@@ -1,0 +1,20 @@
+{
+  "number": "INC0004316",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08750",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for workspace addition in Cheqroom for equipment checkout.\n\nfull_description_text: \nUser wants to add a workspace in Cheqroom for student services. They need a system to reserve Coyote Card event readers and technology. They also want to check out camera equipment and marketing props.",
+  "short_description": "Request for workspace addition in Cheqroom for equipment checkout.",
+  "description": "User wants to add a workspace in Cheqroom for student services. They need a system to reserve Coyote Card event readers and technology. They also want to check out camera equipment and marketing props."
+}

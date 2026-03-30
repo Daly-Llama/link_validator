@@ -1,0 +1,20 @@
+{
+  "number": "INC0001277",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB00535",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to modify a Cognos report with additional codes\n\nfull_description_text:  \nUser is asking for a change to a Cognos report.  \nThey want to add codes to the report.  \nThis is a report update request.  \nNeed to make sure the changes are applied correctly.",
+  "short_description": "Request to modify a Cognos report with additional codes",
+  "description": "User is asking for a change to a Cognos report.  \nThey want to add codes to the report.  \nThis is a report update request.  \nNeed to make sure the changes are applied correctly."
+}

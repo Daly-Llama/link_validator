@@ -1,0 +1,20 @@
+{
+  "number": "INC0001336",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB00636",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to change or add users for Reach Digital Signage.\n\nfull_description_text:  \n- So, the caller wants to update who can edit stuff on their Reach display.  \n- They’re looking to either change current users or add new ones, but it’s kinda unclear how to do that.  \n- They mentioned something about needing more people to help manage the content, but the process seems a bit confusing.",
+  "short_description": "Need to change or add users for Reach Digital Signage.",
+  "description": "- So, the caller wants to update who can edit stuff on their Reach display.  \n- They’re looking to either change current users or add new ones, but it’s kinda unclear how to do that.  \n- They mentioned something about needing more people to help manage the content, but the process seems a bit confusing."
+}

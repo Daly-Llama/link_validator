@@ -1,0 +1,20 @@
+{
+  "number": "INC0001685",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01595",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error converting Cognos report to Microsoft Excel\n\nfull_description_text: A field technician encountered an error while attempting to convert a Cognos report into Microsoft Excel. The error message indicated that the request was invalid and suggested contacting an administrator for assistance. Additionally, there was a secondary error stating that the requested session did not exist, further complicating the issue.",
+  "short_description": "Error converting Cognos report to Microsoft Excel",
+  "description": "A field technician encountered an error while attempting to convert a Cognos report into Microsoft Excel. The error message indicated that the request was invalid and suggested contacting an administrator for assistance. Additionally, there was a secondary error stating that the requested session did not exist, further complicating the issue."
+}

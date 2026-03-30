@@ -1,0 +1,20 @@
+{
+  "number": "INC0003860",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB07994",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty specifying language settings using OneNote shortcuts.\n\nfull_description_text: A field technician is having trouble with OneNote shortcuts. They are trying to specify language settings but are not sure how to do it. The issue is causing confusion and is affecting their work efficiency. They need assistance to resolve this problem with the language settings in OneNote.",
+  "short_description": "Difficulty specifying language settings using OneNote shortcuts.",
+  "description": "A field technician is having trouble with OneNote shortcuts. They are trying to specify language settings but are not sure how to do it. The issue is causing confusion and is affecting their work efficiency. They need assistance to resolve this problem with the language settings in OneNote."
+}

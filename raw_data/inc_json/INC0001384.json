@@ -1,0 +1,20 @@
+{
+  "number": "INC0001384",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00726",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access Library Databases through web browsers.\n\nfull_description_text:  \nI’m having trouble reaching the Library Databases while using Google Chrome and Apple Safari. Every time I try to load EBSCO, I get an error saying the site can't be reached. It’s really frustrating because I need to access these online research databases for my work. I also saw a message about an EZproxy Server Error, which makes me think there’s something wrong on the server side.",
+  "short_description": "Unable to access Library Databases through web browsers.",
+  "description": "I’m having trouble reaching the Library Databases while using Google Chrome and Apple Safari. Every time I try to load EBSCO, I get an error saying the site can't be reached. It’s really frustrating because I need to access these online research databases for my work. I also saw a message about an EZproxy Server Error, which makes me think there’s something wrong on the server side."
+}

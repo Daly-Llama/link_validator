@@ -1,0 +1,20 @@
+{
+  "number": "INC0003388",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB06791",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to access Course Calendar in Desire2Learn (D2L)\n\nfull_description_text:  \nThe user is experiencing issues accessing their Course Calendar in D2L. They reported an error message stating they are not authorized to access this page. This problem is preventing them from viewing their calendar, which is essential for course management. The calendar is not displaying as expected, causing frustration.",
+  "short_description": "Unable to access Course Calendar in Desire2Learn (D2L)",
+  "description": "The user is experiencing issues accessing their Course Calendar in D2L. They reported an error message stating they are not authorized to access this page. This problem is preventing them from viewing their calendar, which is essential for course management. The calendar is not displaying as expected, causing frustration."
+}

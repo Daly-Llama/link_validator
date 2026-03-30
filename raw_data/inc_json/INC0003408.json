@@ -1,0 +1,20 @@
+{
+  "number": "INC0003408",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06897",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty reserving and checking out equipment from Cheqroom.\n\nfull_description_text: \nThe user is experiencing challenges in the process of reserving and checking out equipment, specifically hardware such as laptops, from the Cheqroom system. During the interaction, they inquired about the steps necessary to successfully complete a reservation and checkout, indicating a lack of clarity regarding the procedures involved. This issue is pertinent to students, faculty, and staff who rely on the availability of such equipment for their academic and professional activities. The user seeks guidance on how to navigate the system effectively to fulfill their equipment needs.",
+  "short_description": "Difficulty reserving and checking out equipment from Cheqroom.",
+  "description": "The user is experiencing challenges in the process of reserving and checking out equipment, specifically hardware such as laptops, from the Cheqroom system. During the interaction, they inquired about the steps necessary to successfully complete a reservation and checkout, indicating a lack of clarity regarding the procedures involved. This issue is pertinent to students, faculty, and staff who rely on the availability of such equipment for their academic and professional activities. The user seeks guidance on how to navigate the system effectively to fulfill their equipment needs."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003014",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05539",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Wi-Fi connection keeps dropping on eduroam network.\n\nfull_description_text: I have a problem with my Wi-Fi in the dorms. Every time I leave and come back, I have to register again. It’s really annoying because my Apple device doesn’t connect automatically. Can someone help me with this?",
+  "short_description": "Wi-Fi connection keeps dropping on eduroam network.",
+  "description": "I have a problem with my Wi-Fi in the dorms. Every time I leave and come back, I have to register again. It’s really annoying because my Apple device doesn’t connect automatically. Can someone help me with this?"
+}

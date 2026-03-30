@@ -1,0 +1,20 @@
+{
+  "number": "INC0003212",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB06139",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to keep OneDrive files on my computer for offline access\n\nfull_description_text:  \nSo, the user was trying to figure out how to keep their OneDrive files on their computer. They mentioned they’re going somewhere without internet and really need access to those files. It sounds like they’re a bit worried about not being able to get to their stuff when they’re offline.",
+  "short_description": "Need to keep OneDrive files on my computer for offline access",
+  "description": "So, the user was trying to figure out how to keep their OneDrive files on their computer. They mentioned they’re going somewhere without internet and really need access to those files. It sounds like they’re a bit worried about not being able to get to their stuff when they’re offline."
+}

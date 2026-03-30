@@ -1,0 +1,20 @@
+{
+  "number": "INC0002881",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05190",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to execute SQL query on Banner data environment.\n\nfull_description_text: The user is trying to run a SQL query against the Banner data but is unsure which environment to use. They mentioned options like Banner, Banner TEST, and Banner ODS during our chat. This situation arose while they were navigating through the available environments for their data needs.",
+  "short_description": "Need to execute SQL query on Banner data environment.",
+  "description": "The user is trying to run a SQL query against the Banner data but is unsure which environment to use. They mentioned options like Banner, Banner TEST, and Banner ODS during our chat. This situation arose while they were navigating through the available environments for their data needs."
+}

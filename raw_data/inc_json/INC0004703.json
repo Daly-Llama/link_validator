@@ -1,0 +1,20 @@
+{
+  "number": "INC0004703",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09815",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to staple or use bypass tray with PaperCut Printing\n\nfull_description_text:  \nI was trying to print using PaperCut on a Sharp Copier. However, I can't seem to staple the documents or use the bypass tray. This issue is affecting my ability to complete the printing tasks efficiently.",
+  "short_description": "Unable to staple or use bypass tray with PaperCut Printing",
+  "description": "I was trying to print using PaperCut on a Sharp Copier. However, I can't seem to staple the documents or use the bypass tray. This issue is affecting my ability to complete the printing tasks efficiently."
+}

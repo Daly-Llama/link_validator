@@ -1,0 +1,20 @@
+{
+  "number": "INC0004483",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB09163",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook displays extra spaces between letters and lines.\n\nfull_description_text:  \n- The user reported that their Outlook email view is not displaying correctly.  \n- They are experiencing extra spaces between each letter and a line separating single-spaced lines.  \n- This issue is occurring on Windows 10/11 with Outlook 365.",
+  "short_description": "Outlook displays extra spaces between letters and lines.",
+  "description": "- The user reported that their Outlook email view is not displaying correctly.  \n- They are experiencing extra spaces between each letter and a line separating single-spaced lines.  \n- This issue is occurring on Windows 10/11 with Outlook 365."
+}

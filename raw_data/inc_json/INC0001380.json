@@ -1,0 +1,20 @@
+{
+  "number": "INC0001380",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00718",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Sound issues in classroom projector and speakers\n\nfull_description_text: So, the sound in the classroom just isn't working at all. The projector's volume control is totally unresponsive, and there’s no sound coming from the speakers either. Plus, when trying to use the microphone, the audio is all distorted. It's really frustrating because we need the sound for the lesson!",
+  "short_description": "Sound issues in classroom projector and speakers",
+  "description": "So, the sound in the classroom just isn't working at all. The projector's volume control is totally unresponsive, and there’s no sound coming from the speakers either. Plus, when trying to use the microphone, the audio is all distorted. It's really frustrating because we need the sound for the lesson!"
+}

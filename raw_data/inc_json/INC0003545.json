@@ -1,0 +1,20 @@
+{
+  "number": "INC0003545",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB07383",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Email notification for TeamDynamix workflow step assignment received.\n\nfull_description_text:\n- The user received an email notification regarding a workflow step assignment in TeamDynamix.  \n- This email was titled \"TeamDynamix Workflow Step Assignment\" and raised questions about the approval requests process.  \n- The user was seeking clarification on the implications of this notification during the call.  \n- The situation required immediate attention to understand the next steps in the workflow.",
+  "short_description": "Email notification for TeamDynamix workflow step assignment received.",
+  "description": "- The user received an email notification regarding a workflow step assignment in TeamDynamix.  \n- This email was titled \"TeamDynamix Workflow Step Assignment\" and raised questions about the approval requests process.  \n- The user was seeking clarification on the implications of this notification during the call.  \n- The situation required immediate attention to understand the next steps in the workflow."
+}

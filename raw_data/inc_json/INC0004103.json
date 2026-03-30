@@ -1,0 +1,20 @@
+{
+  "number": "INC0004103",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08366",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding a table to Quick Tables feature.\n\nfull_description_text: \nThe user was attempting to add a table to the Quick Tables feature but encountered issues during the process. They were unclear on the steps required to successfully complete this action. This has resulted in a delay in their workflow, as they need this functionality to proceed with their tasks.",
+  "short_description": "Difficulty adding a table to Quick Tables feature.",
+  "description": "The user was attempting to add a table to the Quick Tables feature but encountered issues during the process. They were unclear on the steps required to successfully complete this action. This has resulted in a delay in their workflow, as they need this functionality to proceed with their tasks."
+}

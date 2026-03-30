@@ -1,0 +1,20 @@
+{
+  "number": "INC0002558",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04182",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Office 365 applications online.\n\nfull_description_text: The user is trying to access Word and Excel online but is unsure how to do it. They mentioned using a Chromebook and other computers for editing documents. There seems to be confusion about the process for accessing these applications through different web browsers.",
+  "short_description": "Difficulty accessing Office 365 applications online.",
+  "description": "The user is trying to access Word and Excel online but is unsure how to do it. They mentioned using a Chromebook and other computers for editing documents. There seems to be confusion about the process for accessing these applications through different web browsers."
+}

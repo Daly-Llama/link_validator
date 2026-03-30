@@ -1,0 +1,20 @@
+{
+  "number": "INC0004156",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08431",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty inserting a text box in PowerPoint presentation.\n\nfull_description_text: \nThe user, while engaged in the process of creating a presentation in PowerPoint, encountered a significant challenge regarding the insertion of a text box. This issue arose unexpectedly, causing a disruption in their workflow, as they were attempting to enhance their slides with additional textual information. The user expressed confusion about the steps required to successfully add this essential element, which is typically a straightforward task in the software. It is important to note that the user is familiar with basic functionalities of PowerPoint, yet this particular action proved to be problematic, leading to frustration and a halt in their progress.",
+  "short_description": "Difficulty inserting a text box in PowerPoint presentation.",
+  "description": "The user, while engaged in the process of creating a presentation in PowerPoint, encountered a significant challenge regarding the insertion of a text box. This issue arose unexpectedly, causing a disruption in their workflow, as they were attempting to enhance their slides with additional textual information. The user expressed confusion about the steps required to successfully add this essential element, which is typically a straightforward task in the software. It is important to note that the user is familiar with basic functionalities of PowerPoint, yet this particular action proved to be problematic, leading to frustration and a halt in their progress."
+}

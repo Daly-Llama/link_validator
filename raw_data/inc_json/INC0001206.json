@@ -1,0 +1,20 @@
+{
+  "number": "INC0001206",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00386",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help requesting access to SimCapture SSO\n\nfull_description_text:\n- So, the user was trying to get into SimCapture using SSO but got stuck.  \n- They mentioned something about needing access through ADFS and Active Directory, but weren’t sure how to go about it.  \n- It sounds like they just want to know the steps to request that access, pretty straightforward, right?  \n- They were a bit confused, so I thought I’d log this for follow-up.",
+  "short_description": "Need help requesting access to SimCapture SSO",
+  "description": "- So, the user was trying to get into SimCapture using SSO but got stuck.  \n- They mentioned something about needing access through ADFS and Active Directory, but weren’t sure how to go about it.  \n- It sounds like they just want to know the steps to request that access, pretty straightforward, right?  \n- They were a bit confused, so I thought I’d log this for follow-up."
+}

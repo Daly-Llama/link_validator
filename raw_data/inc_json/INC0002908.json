@@ -1,0 +1,20 @@
+{
+  "number": "INC0002908",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05281",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about training for Cisco VoIP phones\n\nfull_description_text:\n- The user is asking if there is training available for VOIP phones.  \n- They are using Cisco VoIP Phone and Webex.  \n- The help desk analyst is taking this call in Spanish.  \n- There is a need for clarification on training options.",
+  "short_description": "Inquiry about training for Cisco VoIP phones",
+  "description": "- The user is asking if there is training available for VOIP phones.  \n- They are using Cisco VoIP Phone and Webex.  \n- The help desk analyst is taking this call in Spanish.  \n- There is a need for clarification on training options."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002449",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03859",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to update PL/SQL query for student status in Banner\n\nfull_description_text:\n- The user is seeking assistance with modifying a PL/SQL query or process within the Banner system.  \n- They specifically want to include the student status field in a report to help Housing identify whether students are active or inactive.  \n- Additionally, there is a request for clarification regarding the GPA data in Banner, particularly concerning the SHRLGPA, SFRSTCR, and SFRSTCA tables.  \n- The user appears to have a moderate understanding of the technical aspects involved but is uncertain about some terminology.",
+  "short_description": "Request to update PL/SQL query for student status in Banner",
+  "description": "- The user is seeking assistance with modifying a PL/SQL query or process within the Banner system.  \n- They specifically want to include the student status field in a report to help Housing identify whether students are active or inactive.  \n- Additionally, there is a request for clarification regarding the GPA data in Banner, particularly concerning the SHRLGPA, SFRSTCR, and SFRSTCA tables.  \n- The user appears to have a moderate understanding of the technical aspects involved but is uncertain about some terminology."
+}

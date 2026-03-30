@@ -1,0 +1,20 @@
+{
+  "number": "INC0002792",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Undergraduate Research",
+  "correct_kb": "KB04883",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about IdeaFest dates and abstract submission deadlines.\n\nfull_description_text:\n- The user is seeking information regarding the schedule for IdeaFest, specifically the date of the event.  \n- Additionally, they are inquiring about the deadlines for presenters to submit their abstracts.  \n- This request pertains to the context of campus events and is relevant to students involved in research activities.",
+  "short_description": "Inquiry about IdeaFest dates and abstract submission deadlines.",
+  "description": "- The user is seeking information regarding the schedule for IdeaFest, specifically the date of the event.  \n- Additionally, they are inquiring about the deadlines for presenters to submit their abstracts.  \n- This request pertains to the context of campus events and is relevant to students involved in research activities."
+}

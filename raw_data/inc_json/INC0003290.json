@@ -1,0 +1,20 @@
+{
+  "number": "INC0003290",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06375",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Projectors and displays not showing image from classroom PC\n\nfull_description_text:  \nI’m in the Active Learning Classroom, and the projectors and student screens are not working. They keep flashing like no signal, and I can’t see anything from the PC. It’s really confusing because I need to show something, but nothing is coming up on the displays. I don’t know why this is happening, but it’s really frustrating!",
+  "short_description": "Projectors and displays not showing image from classroom PC",
+  "description": "I’m in the Active Learning Classroom, and the projectors and student screens are not working. They keep flashing like no signal, and I can’t see anything from the PC. It’s really confusing because I need to show something, but nothing is coming up on the displays. I don’t know why this is happening, but it’s really frustrating!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004073",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08307",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to open a template in Word.\n\nfull_description_text: The user was trying to open a template in Word but ran into some trouble. They mentioned it during a call, asking for help on how to do it. It seems like they were a bit confused about the steps involved, which is totally understandable!",
+  "short_description": "Unable to open a template in Word.",
+  "description": "The user was trying to open a template in Word but ran into some trouble. They mentioned it during a call, asking for help on how to do it. It seems like they were a bit confused about the steps involved, which is totally understandable!"
+}

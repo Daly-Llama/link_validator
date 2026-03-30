@@ -1,0 +1,20 @@
+{
+  "number": "INC0003387",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB06787",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to update payroll direct deposit bank account information.\n\nfull_description_text:  \nI was trying to change my bank account details for my payroll direct deposit through the Pay Information - Direct Deposit Allocation section. However, despite my efforts, the system did not reflect the updates I made, leaving my direct deposit account unchanged. This has caused some concern as I want to ensure my payments go to the correct account. I would appreciate any assistance in resolving this issue.",
+  "short_description": "Unable to update payroll direct deposit bank account information.",
+  "description": "I was trying to change my bank account details for my payroll direct deposit through the Pay Information - Direct Deposit Allocation section. However, despite my efforts, the system did not reflect the updates I made, leaving my direct deposit account unchanged. This has caused some concern as I want to ensure my payments go to the correct account. I would appreciate any assistance in resolving this issue."
+}

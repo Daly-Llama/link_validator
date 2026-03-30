@@ -1,0 +1,20 @@
+{
+  "number": "INC0003788",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07920",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adjusting the axis scale in Excel charts.\n\nfull_description_text:\n- The user was actively engaged in creating a chart within Microsoft Excel and encountered a challenge regarding the modification of the axis scale.\n- They expressed a need for guidance on how to effectively change the scale settings for the axes in their chart to better represent their data.\n- This issue arose during a live phone call with a help desk analyst, highlighting the urgency and necessity for a clear and precise solution to enhance their data visualization.\n- The user is seeking a detailed explanation of the steps required to accomplish this task within the Excel environment.",
+  "short_description": "Difficulty adjusting the axis scale in Excel charts.",
+  "description": "- The user was actively engaged in creating a chart within Microsoft Excel and encountered a challenge regarding the modification of the axis scale.\n- They expressed a need for guidance on how to effectively change the scale settings for the axes in their chart to better represent their data.\n- This issue arose during a live phone call with a help desk analyst, highlighting the urgency and necessity for a clear and precise solution to enhance their data visualization.\n- The user is seeking a detailed explanation of the steps required to accomplish this task within the Excel environment."
+}

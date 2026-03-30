@@ -1,0 +1,20 @@
+{
+  "number": "INC0001392",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00745",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Internal Server Error when trying to watch D2L videos\n\nfull_description_text:\n- The user was attempting to watch a video on D2L using Safari.  \n- Instead of playing the video, they encountered an error message saying there were technical difficulties.  \n- The specific error displayed was an HTTP 500: Internal Server Error, which seems to be causing the issue.",
+  "short_description": "Internal Server Error when trying to watch D2L videos",
+  "description": "- The user was attempting to watch a video on D2L using Safari.  \n- Instead of playing the video, they encountered an error message saying there were technical difficulties.  \n- The specific error displayed was an HTTP 500: Internal Server Error, which seems to be causing the issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001593",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01305",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Errors detected in Outlook profile recreation process\n\nfull_description_text: \nThe user was attempting to recreate their Outlook profile on their computer, which is running either Windows or MacOS. During this process, they encountered an error indicating that there were issues detected in the file located at C:\\Users\\..., which seems to be causing some confusion. The user expressed frustration over not being able to proceed with their email setup, and they were looking for guidance on how to resolve this issue effectively. It is important to note that the user is familiar with basic computer operations but may not have a deep understanding of Outlook's technical aspects.",
+  "short_description": "Errors detected in Outlook profile recreation process",
+  "description": "The user was attempting to recreate their Outlook profile on their computer, which is running either Windows or MacOS. During this process, they encountered an error indicating that there were issues detected in the file located at C:\\Users\\..., which seems to be causing some confusion. The user expressed frustration over not being able to proceed with their email setup, and they were looking for guidance on how to resolve this issue effectively. It is important to note that the user is familiar with basic computer operations but may not have a deep understanding of Outlook's technical aspects."
+}

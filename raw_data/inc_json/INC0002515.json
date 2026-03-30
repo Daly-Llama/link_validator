@@ -1,0 +1,20 @@
+{
+  "number": "INC0002515",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB04056",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Allow specific email senders to bypass Outlook's Junk E-Mail folder.\n\nfull_description_text: User wants to ensure certain email addresses are not sent to the Junk E-Mail folder. This is specifically for Outlook on the Web and Microsoft 365. They are looking for a way to configure this setting. The process to achieve this is not clear to them, and they need assistance.",
+  "short_description": "Allow specific email senders to bypass Outlook's Junk E-Mail folder.",
+  "description": "User wants to ensure certain email addresses are not sent to the Junk E-Mail folder. This is specifically for Outlook on the Web and Microsoft 365. They are looking for a way to configure this setting. The process to achieve this is not clear to them, and they need assistance."
+}

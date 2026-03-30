@@ -1,0 +1,20 @@
+{
+  "number": "INC0004563",
+  "category": "Health Sciences",
+  "subcategory": "Health Sciences",
+  "correct_kb": "KB09365",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty reaching the School of Health Sciences for assistance\n\nfull_description_text: \nDuring a phone call, the user expressed frustration about not being able to contact the School of Health Sciences. They were trying to get some important information but faced challenges in reaching the right department. The user mentioned that they had tried multiple times but were unsure if they were dialing the correct number or if there were issues with the line. It’s important for them to get this resolved quickly, as they need the information for their studies.",
+  "short_description": "Difficulty reaching the School of Health Sciences for assistance",
+  "description": "During a phone call, the user expressed frustration about not being able to contact the School of Health Sciences. They were trying to get some important information but faced challenges in reaching the right department. The user mentioned that they had tried multiple times but were unsure if they were dialing the correct number or if there were issues with the line. It’s important for them to get this resolved quickly, as they need the information for their studies."
+}

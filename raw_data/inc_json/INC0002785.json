@@ -1,0 +1,20 @@
+{
+  "number": "INC0002785",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB04869",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Webcam not working in Respondus Lockdown Browser for exam.\n\nfull_description_text: User is trying to take a quiz in Brightspace using Respondus Lockdown Browser. The camera is required for the proctored exam, but it is not functioning. This issue is causing problems for the user to complete the exam properly.",
+  "short_description": "Webcam not working in Respondus Lockdown Browser for exam.",
+  "description": "User is trying to take a quiz in Brightspace using Respondus Lockdown Browser. The camera is required for the proctored exam, but it is not functioning. This issue is causing problems for the user to complete the exam properly."
+}

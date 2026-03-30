@@ -1,0 +1,20 @@
+{
+  "number": "INC0004005",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08227",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about using quizzes in Panopto.\n\nfull_description_text: \nSo, I was on the phone with a user who was really curious about whether they should be using quizzes in Panopto, right? They were asking how to actually add a quiz to their Panopto setup, and it seemed like they were a bit lost on the whole process. They mentioned something about wanting to engage their audience better, but honestly, it felt like they were just trying to figure out if it was even worth the effort. It’s like, they were juggling a bunch of ideas and just needed some clarity on this quiz feature!",
+  "short_description": "Questions about using quizzes in Panopto.",
+  "description": "So, I was on the phone with a user who was really curious about whether they should be using quizzes in Panopto, right? They were asking how to actually add a quiz to their Panopto setup, and it seemed like they were a bit lost on the whole process. They mentioned something about wanting to engage their audience better, but honestly, it felt like they were just trying to figure out if it was even worth the effort. It’s like, they were juggling a bunch of ideas and just needed some clarity on this quiz feature!"
+}

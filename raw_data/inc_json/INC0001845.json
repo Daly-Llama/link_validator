@@ -1,0 +1,20 @@
+{
+  "number": "INC0001845",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB02054",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Acrobat Reader crashes when opening a document on Windows.\n\nfull_description_text: The user attempted to open a document in Acrobat Reader but encountered repeated crashes. An error message indicated that the program stopped working correctly, referencing a memory issue. This problem persisted during the session, leading to frustration as the application failed to function as expected.",
+  "short_description": "Acrobat Reader crashes when opening a document on Windows.",
+  "description": "The user attempted to open a document in Acrobat Reader but encountered repeated crashes. An error message indicated that the program stopped working correctly, referencing a memory issue. This problem persisted during the session, leading to frustration as the application failed to function as expected."
+}

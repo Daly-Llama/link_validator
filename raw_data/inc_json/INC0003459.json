@@ -1,0 +1,20 @@
+{
+  "number": "INC0003459",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB07085",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help requesting an HTTPS certificate for my website.\n\nfull_description_text: I want to request a certificate for my website. I’m not sure how to do it. I filled out the form but need more info on the process. Please help me with this.",
+  "short_description": "Need help requesting an HTTPS certificate for my website.",
+  "description": "I want to request a certificate for my website. I’m not sure how to do it. I filled out the form but need more info on the process. Please help me with this."
+}

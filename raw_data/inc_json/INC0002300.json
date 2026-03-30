@@ -1,0 +1,20 @@
+{
+  "number": "INC0002300",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03466",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Assistance required for Oculus VR headset issues\n\nfull_description_text:  \nThe user is seeking help with their Oculus VR headset. They mentioned having an Oculus Go and a MetaQuest 2. During the call, they expressed confusion about the setup process. The user seemed eager to explore virtual reality but was frustrated by the technical difficulties they encountered.",
+  "short_description": "Assistance required for Oculus VR headset issues",
+  "description": "The user is seeking help with their Oculus VR headset. They mentioned having an Oculus Go and a MetaQuest 2. During the call, they expressed confusion about the setup process. The user seemed eager to explore virtual reality but was frustrated by the technical difficulties they encountered."
+}

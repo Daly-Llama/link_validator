@@ -1,0 +1,20 @@
+{
+  "number": "INC0003778",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07910",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty formatting individual columns in Excel.\n\nfull_description_text: During a live phone call, the user expressed challenges in applying specific formatting to individual columns within an Excel spreadsheet. They were attempting to enhance the visual presentation of their data but encountered obstacles that hindered their progress. The user sought guidance on the appropriate methods to achieve the desired formatting, indicating a need for clarity on the functionality of Excel's formatting features. This situation underscores the importance of understanding the nuances of Excel's interface and its capabilities for column-specific adjustments.",
+  "short_description": "Difficulty formatting individual columns in Excel.",
+  "description": "During a live phone call, the user expressed challenges in applying specific formatting to individual columns within an Excel spreadsheet. They were attempting to enhance the visual presentation of their data but encountered obstacles that hindered their progress. The user sought guidance on the appropriate methods to achieve the desired formatting, indicating a need for clarity on the functionality of Excel's formatting features. This situation underscores the importance of understanding the nuances of Excel's interface and its capabilities for column-specific adjustments."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001219",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00405",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook repeatedly prompts for password on Windows devices.\n\nfull_description_text: So, the user mentioned that every single day they have to log into Outlook. It keeps popping up this Windows Security box asking for a password, which is really frustrating. They also said something about an error message that says the email is linked to multiple Microsoft accounts, and it’s just confusing. This is happening on both Windows 10 and 11, and with Outlook 2016 and 365.",
+  "short_description": "Outlook repeatedly prompts for password on Windows devices.",
+  "description": "So, the user mentioned that every single day they have to log into Outlook. It keeps popping up this Windows Security box asking for a password, which is really frustrating. They also said something about an error message that says the email is linked to multiple Microsoft accounts, and it’s just confusing. This is happening on both Windows 10 and 11, and with Outlook 2016 and 365."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003738",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07861",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with using the Dialog Box Launcher in Excel\n\nfull_description_text: So, the user was trying to find the Dialog Box Launcher in Excel. They were confused about how to access it. They mentioned something about needing it for formatting options. It seems like they were on a deadline and really needed help fast!",
+  "short_description": "Issues with using the Dialog Box Launcher in Excel",
+  "description": "So, the user was trying to find the Dialog Box Launcher in Excel. They were confused about how to access it. They mentioned something about needing it for formatting options. It seems like they were on a deadline and really needed help fast!"
+}

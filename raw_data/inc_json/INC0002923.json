@@ -1,0 +1,20 @@
+{
+  "number": "INC0002923",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05302",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to mute a Cisco VoIP call during conversation.\n\nfull_description_text:\n- I was on a VoIP call using Cisco and needed to mute my line.  \n- I couldn't find the option to mute, which made it tricky to manage background noise.  \n- This is a common scenario for field technicians who need to communicate without distractions.",
+  "short_description": "Unable to mute a Cisco VoIP call during conversation.",
+  "description": "- I was on a VoIP call using Cisco and needed to mute my line.  \n- I couldn't find the option to mute, which made it tricky to manage background noise.  \n- This is a common scenario for field technicians who need to communicate without distractions."
+}

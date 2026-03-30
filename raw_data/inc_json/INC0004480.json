@@ -1,0 +1,20 @@
+{
+  "number": "INC0004480",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09157",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for approval to hang posters in residence halls.\n\nfull_description_text:  \nThe user is inquiring about the process for posting flyers in the dorms. They want to know how to get their club or event posters approved. Additionally, they are looking for the specific guidelines that govern posting in the residence halls.",
+  "short_description": "Request for approval to hang posters in residence halls.",
+  "description": "The user is inquiring about the process for posting flyers in the dorms. They want to know how to get their club or event posters approved. Additionally, they are looking for the specific guidelines that govern posting in the residence halls."
+}

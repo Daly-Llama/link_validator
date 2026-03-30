@@ -1,0 +1,20 @@
+{
+  "number": "INC0004531",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB09298",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Missing Add an Event button on 25Live Dashboard\n\nfull_description_text:  \nI was trying to add an event using the 25Live Dashboard, but I noticed that the Add an Event button is missing. This issue is preventing me from proceeding with my tasks. I need to access this feature to manage events effectively, but without the button, I can't do anything.",
+  "short_description": "Missing Add an Event button on 25Live Dashboard",
+  "description": "I was trying to add an event using the 25Live Dashboard, but I noticed that the Add an Event button is missing. This issue is preventing me from proceeding with my tasks. I need to access this feature to manage events effectively, but without the button, I can't do anything."
+}

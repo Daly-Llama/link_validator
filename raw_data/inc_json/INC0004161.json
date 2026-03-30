@@ -1,0 +1,20 @@
+{
+  "number": "INC0004161",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08436",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with accessibility checks in PowerPoint\n\nfull_description_text: So, the user was trying to figure out how to run an accessibility check in PowerPoint. They mentioned something about wanting to make sure their presentation is accessible to everyone, which is super important, right? They were a bit confused about where to find the option, and it seemed like they were navigating through the menus. It was a live call, and they really wanted to get this sorted out quickly.",
+  "short_description": "Need help with accessibility checks in PowerPoint",
+  "description": "So, the user was trying to figure out how to run an accessibility check in PowerPoint. They mentioned something about wanting to make sure their presentation is accessible to everyone, which is super important, right? They were a bit confused about where to find the option, and it seemed like they were navigating through the menus. It was a live call, and they really wanted to get this sorted out quickly."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001463",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00935",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: User unable to access Listserv due to forgotten password.\n\nfull_description_text: \nEl usuario ha olvidado su contraseña para acceder a la interfaz web de Listserv. Esto ha resultado en la imposibilidad de iniciar sesión, lo que impide el acceso a las funciones necesarias. Es importante resolver este problema para restaurar la funcionalidad del usuario en el sistema.",
+  "short_description": "User unable to access Listserv due to forgotten password.",
+  "description": "El usuario ha olvidado su contraseña para acceder a la interfaz web de Listserv. Esto ha resultado en la imposibilidad de iniciar sesión, lo que impide el acceso a las funciones necesarias. Es importante resolver este problema para restaurar la funcionalidad del usuario en el sistema."
+}

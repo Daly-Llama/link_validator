@@ -1,0 +1,20 @@
+{
+  "number": "INC0003173",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05999",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty setting up local file upload in Azure Titanium\n\nfull_description_text:\n- The user is attempting to configure the Titanium Scan to folder feature for local file uploads into Azure Titanium.  \n- They are using the Azure Windows Virtual Desktop environment and are facing challenges in the setup process.  \n- The analyst noted that the user is not familiar with the specific steps required, which may be contributing to the confusion.  \n- Additionally, there were some language barriers during the call, as the user primarily speaks Spanish.",
+  "short_description": "Difficulty setting up local file upload in Azure Titanium",
+  "description": "- The user is attempting to configure the Titanium Scan to folder feature for local file uploads into Azure Titanium.  \n- They are using the Azure Windows Virtual Desktop environment and are facing challenges in the setup process.  \n- The analyst noted that the user is not familiar with the specific steps required, which may be contributing to the confusion.  \n- Additionally, there were some language barriers during the call, as the user primarily speaks Spanish."
+}

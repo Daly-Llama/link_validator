@@ -1,0 +1,20 @@
+{
+  "number": "INC0003214",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB06143",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty updating address information in the Campus Alert System.\n\nfull_description_text: \nThe user was attempting to update their address information within the Campus Alert System, specifically using the Everbridge platform. They expressed confusion about how to change their location details, which is crucial for receiving timely alerts. During the call, they mentioned that they were unsure of the steps required to complete this process and needed assistance. The situation was urgent as accurate address information is essential for effective communication in emergencies.",
+  "short_description": "Difficulty updating address information in the Campus Alert System.",
+  "description": "The user was attempting to update their address information within the Campus Alert System, specifically using the Everbridge platform. They expressed confusion about how to change their location details, which is crucial for receiving timely alerts. During the call, they mentioned that they were unsure of the steps required to complete this process and needed assistance. The situation was urgent as accurate address information is essential for effective communication in emergencies."
+}

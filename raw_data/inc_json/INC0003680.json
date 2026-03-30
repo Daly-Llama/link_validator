@@ -1,0 +1,20 @@
+{
+  "number": "INC0003680",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07799",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty creating a footer in Google Sites.\n\nfull_description_text:  \nSo, I was on the phone with a user who was trying to figure out how to add a footer in Google Sites. They were a bit confused and kept asking how to do it, saying they couldn't find the option anywhere. It seems like they really wanted to make their site look more complete, but just couldn't get that footer in there.",
+  "short_description": "Difficulty creating a footer in Google Sites.",
+  "description": "So, I was on the phone with a user who was trying to figure out how to add a footer in Google Sites. They were a bit confused and kept asking how to do it, saying they couldn't find the option anywhere. It seems like they really wanted to make their site look more complete, but just couldn't get that footer in there."
+}

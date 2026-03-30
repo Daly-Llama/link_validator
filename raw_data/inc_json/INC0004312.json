@@ -1,0 +1,20 @@
+{
+  "number": "INC0004312",
+  "category": "Contacting the Coyote Card Office",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB08745",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty reaching the Coyote Card Office for assistance.\n\nfull_description_text: \nThe caller is trying to get in touch with the Coyote Card Office but is having trouble finding the right contact information. They mentioned needing help with their card-related issues and are looking for a straightforward way to reach out. It seems like they’re unsure of the best method to connect with the office for assistance.",
+  "short_description": "Difficulty reaching the Coyote Card Office for assistance.",
+  "description": "The caller is trying to get in touch with the Coyote Card Office but is having trouble finding the right contact information. They mentioned needing help with their card-related issues and are looking for a straightforward way to reach out. It seems like they’re unsure of the best method to connect with the office for assistance."
+}

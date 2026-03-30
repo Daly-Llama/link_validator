@@ -1,0 +1,20 @@
+{
+  "number": "INC0002690",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB04619",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with creating or accessing Guest accounts in the library\n\nfull_description_text:\n- The user reported difficulties with the creation of Guest accounts within the library system.  \n- They mentioned that attempts to access the Guest Domain (guest.usd.local) were unsuccessful.  \n- The issue appears to be related to Active Directory (AD) configurations, specifically concerning the management of Guest users.  \n- The user was trying to utilize the library resources but faced barriers due to these Guest account problems.",
+  "short_description": "Issues with creating or accessing Guest accounts in the library",
+  "description": "- The user reported difficulties with the creation of Guest accounts within the library system.  \n- They mentioned that attempts to access the Guest Domain (guest.usd.local) were unsuccessful.  \n- The issue appears to be related to Active Directory (AD) configurations, specifically concerning the management of Guest users.  \n- The user was trying to utilize the library resources but faced barriers due to these Guest account problems."
+}

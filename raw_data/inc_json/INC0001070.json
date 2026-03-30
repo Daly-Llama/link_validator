@@ -1,0 +1,20 @@
+{
+  "number": "INC0001070",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB00125",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Gmail and YouTube access with USD accounts\n\nfull_description_text:  \nEl usuario está preguntando si tenemos cuentas de Gmail que están alineadas con nuestras cuentas de correo electrónico de USD. Además, quiere saber si puede acceder a YouTube utilizando su acceso a la cuenta de Google de USD. Hay confusión sobre la integración de las cuentas y su funcionalidad.",
+  "short_description": "Inquiry about Gmail and YouTube access with USD accounts",
+  "description": "El usuario está preguntando si tenemos cuentas de Gmail que están alineadas con nuestras cuentas de correo electrónico de USD. Además, quiere saber si puede acceder a YouTube utilizando su acceso a la cuenta de Google de USD. Hay confusión sobre la integración de las cuentas y su funcionalidad."
+}

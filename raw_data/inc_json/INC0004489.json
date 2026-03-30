@@ -1,0 +1,20 @@
+{
+  "number": "INC0004489",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09187",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about move-in procedures for university housing.\n\nfull_description_text: The user is unsure about what to expect during move-in weekend. They are asking where to go and how to obtain their key. This indicates a lack of clarity regarding the process, which could lead to delays or issues on the day of the move.",
+  "short_description": "Confusion about move-in procedures for university housing.",
+  "description": "The user is unsure about what to expect during move-in weekend. They are asking where to go and how to obtain their key. This indicates a lack of clarity regarding the process, which could lead to delays or issues on the day of the move."
+}

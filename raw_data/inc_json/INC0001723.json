@@ -1,0 +1,20 @@
+{
+  "number": "INC0001723",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB01691",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty entering leave requests for time off\n\nfull_description_text:\n- User wants to ask for days off from work.  \n- They need to know how to get vacation or other time off approved.  \n- User is confused about recording sick leave, military training leave, and other types of leave.  \n- They are trying to enter leave requests online but are having problems.",
+  "short_description": "Difficulty entering leave requests for time off",
+  "description": "- User wants to ask for days off from work.  \n- They need to know how to get vacation or other time off approved.  \n- User is confused about recording sick leave, military training leave, and other types of leave.  \n- They are trying to enter leave requests online but are having problems."
+}

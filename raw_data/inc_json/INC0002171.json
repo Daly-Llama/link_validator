@@ -1,0 +1,20 @@
+{
+  "number": "INC0002171",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB03066",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: SharePoint webpage is inaccessible for board members' meeting.\n\nfull_description_text:\n- Users are unable to access the SharePoint webpage for their meeting today.  \n- They are getting multiple errors like \"404 Not Found\" and \"This site can't be reached.\"  \n- This is causing issues for board members trying to log in to either site.  \n- The links provided are not working, leading to frustration during the call.",
+  "short_description": "SharePoint webpage is inaccessible for board members' meeting.",
+  "description": "- Users are unable to access the SharePoint webpage for their meeting today.  \n- They are getting multiple errors like \"404 Not Found\" and \"This site can't be reached.\"  \n- This is causing issues for board members trying to log in to either site.  \n- The links provided are not working, leading to frustration during the call."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002102",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02833",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Not receiving emails from non-USD addresses in Outlook.\n\nfull_description_text: The user reported that they are not receiving any emails sent from outside USD. This issue was discussed during a live phone call with the help desk analyst. The user is using Outlook for their email and is concerned about missing important messages.",
+  "short_description": "Not receiving emails from non-USD addresses in Outlook.",
+  "description": "The user reported that they are not receiving any emails sent from outside USD. This issue was discussed during a live phone call with the help desk analyst. The user is using Outlook for their email and is concerned about missing important messages."
+}

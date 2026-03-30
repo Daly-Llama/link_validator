@@ -1,0 +1,20 @@
+{
+  "number": "INC0001977",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB02459",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help creating various student reports in Cognos\n\nfull_description_text:\n- I need a report for students in my department.  \n- Like, I want numbers on a student and a list of faculty and staff.  \n- Also, how do I make a spec in the Data Cookbook?  \n- I need a new report in Banner and some Program/Major data for 20 students.",
+  "short_description": "Need help creating various student reports in Cognos",
+  "description": "- I need a report for students in my department.  \n- Like, I want numbers on a student and a list of faculty and staff.  \n- Also, how do I make a spec in the Data Cookbook?  \n- I need a new report in Banner and some Program/Major data for 20 students."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004655",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB09649",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Supervisor unable to pay out comp time in current pay period\n\nfull_description_text: The supervisor is trying to pay out comp time balances for the current pay period but is facing issues. It seems like the time reporting system isn't processing the payments correctly. This is causing delays in compensating employees for their accrued overtime.",
+  "short_description": "Supervisor unable to pay out comp time in current pay period",
+  "description": "The supervisor is trying to pay out comp time balances for the current pay period but is facing issues. It seems like the time reporting system isn't processing the payments correctly. This is causing delays in compensating employees for their accrued overtime."
+}

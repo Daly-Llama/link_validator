@@ -1,0 +1,20 @@
+{
+  "number": "INC0004340",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08780",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Guidance needed for handling medical emergencies during incidents.\n\nfull_description_text: \nDuring a live call, the user reported an injury or illness situation. They were unsure of the proper steps to take in response to the medical emergency. The urgency of the matter was clear, and the need for immediate guidance was emphasized repeatedly. The analyst needed to provide clear instructions on what to do next in this critical scenario.",
+  "short_description": "Guidance needed for handling medical emergencies during incidents.",
+  "description": "During a live call, the user reported an injury or illness situation. They were unsure of the proper steps to take in response to the medical emergency. The urgency of the matter was clear, and the need for immediate guidance was emphasized repeatedly. The analyst needed to provide clear instructions on what to do next in this critical scenario."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001538",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01151",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need IT support for event at USD Community College for Sioux Falls\n\nfull_description_text: I’m trying to set up a meeting at Avera Hall but I need IT support. The conference rooms and classrooms are not working right. Can someone help with this?",
+  "short_description": "Need IT support for event at USD Community College for Sioux Falls",
+  "description": "I’m trying to set up a meeting at Avera Hall but I need IT support. The conference rooms and classrooms are not working right. Can someone help with this?"
+}

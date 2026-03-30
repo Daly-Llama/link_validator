@@ -1,0 +1,20 @@
+{
+  "number": "INC0002457",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB03898",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with employee onboarding checklist for access setup\n\nfull_description_text:  \nI was trying to follow the employee onboarding checklist provided by USD ITS for setting up all the necessary access and accounts before my new hire's start date. However, it seems like there are some gaps or confusion in the checklist that are making it difficult to ensure everything is ready on time. I just want to make sure that all the key systems and technical support are in place for the new employee, but I'm not sure if I'm missing something or if the checklist needs some updates. It's really important that we get this right so that the new hire can hit the ground running!",
+  "short_description": "Issues with employee onboarding checklist for access setup",
+  "description": "I was trying to follow the employee onboarding checklist provided by USD ITS for setting up all the necessary access and accounts before my new hire's start date. However, it seems like there are some gaps or confusion in the checklist that are making it difficult to ensure everything is ready on time. I just want to make sure that all the key systems and technical support are in place for the new employee, but I'm not sure if I'm missing something or if the checklist needs some updates. It's really important that we get this right so that the new hire can hit the ground running!"
+}

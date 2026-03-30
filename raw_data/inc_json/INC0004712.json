@@ -1,0 +1,20 @@
+{
+  "number": "INC0004712",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09836",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the First Destination Survey (FDS) process.\n\nfull_description_text:  \n- The user is seeking information regarding the First Destination Survey (FDS) which is related to career resources.  \n- They are a student at the Center for Career Design and are interested in job and career preparation.  \n- The user may have encountered this survey during their career planning activities but lacks clarity on its purpose and details.  \n- It is important for them to understand how this survey impacts their career development and opportunities.",
+  "short_description": "Inquiry about the First Destination Survey (FDS) process.",
+  "description": "- The user is seeking information regarding the First Destination Survey (FDS) which is related to career resources.  \n- They are a student at the Center for Career Design and are interested in job and career preparation.  \n- The user may have encountered this survey during their career planning activities but lacks clarity on its purpose and details.  \n- It is important for them to understand how this survey impacts their career development and opportunities."
+}

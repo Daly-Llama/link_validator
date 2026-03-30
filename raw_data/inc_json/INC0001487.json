@@ -1,0 +1,20 @@
+{
+  "number": "INC0001487",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB01004",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: ADFS requires a restart due to SNAP signing failure.\n\nfull_description_text: The user was attempting to utilize the Azure Active Directory Federation Services (ADFS) within the Active Directory environment. During this process, they encountered an issue where the SNAP signing functionality was non-operational. This led to a critical need for a restart of the ADFS to restore normal operations. The urgency of the situation was communicated during a live phone call with the help desk analyst.",
+  "short_description": "ADFS requires a restart due to SNAP signing failure.",
+  "description": "The user was attempting to utilize the Azure Active Directory Federation Services (ADFS) within the Active Directory environment. During this process, they encountered an issue where the SNAP signing functionality was non-operational. This led to a critical need for a restart of the ADFS to restore normal operations. The urgency of the situation was communicated during a live phone call with the help desk analyst."
+}

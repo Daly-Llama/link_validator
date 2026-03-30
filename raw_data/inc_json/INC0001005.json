@@ -1,0 +1,20 @@
+{
+  "number": "INC0001005",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00018",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with sharing Outlook calendar permissions and events.\n\nfull_description_text:  \nThe user is trying to share their Outlook calendar with someone else but is facing difficulties. They mentioned that they want to allow another person to add or make events on their calendar. However, they are receiving an error message that says the policy does not allow granting permissions at the current level. This is causing confusion and frustration as they are unsure how to proceed with sharing their calendar effectively.",
+  "short_description": "Issues with sharing Outlook calendar permissions and events.",
+  "description": "The user is trying to share their Outlook calendar with someone else but is facing difficulties. They mentioned that they want to allow another person to add or make events on their calendar. However, they are receiving an error message that says the policy does not allow granting permissions at the current level. This is causing confusion and frustration as they are unsure how to proceed with sharing their calendar effectively."
+}

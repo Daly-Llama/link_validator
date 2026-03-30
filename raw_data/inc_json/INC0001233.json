@@ -1,0 +1,20 @@
+{
+  "number": "INC0001233",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00438",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues registering various gaming systems and smart devices to the network\n\nfull_description_text:  \nI'm having a really hard time getting my Xbox, PlayStation, and even my Roku to register on the network. Every time I try, I get this annoying error about verifying the MAC address. It's super frustrating because I can't watch any movies or play games, and I just want to connect my Amazon Firestick and Oculus too. Is there any way to fix this?",
+  "short_description": "Issues registering various gaming systems and smart devices to the network",
+  "description": "I'm having a really hard time getting my Xbox, PlayStation, and even my Roku to register on the network. Every time I try, I get this annoying error about verifying the MAC address. It's super frustrating because I can't watch any movies or play games, and I just want to connect my Amazon Firestick and Oculus too. Is there any way to fix this?"
+}

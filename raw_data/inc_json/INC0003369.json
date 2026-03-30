@@ -1,0 +1,20 @@
+{
+  "number": "INC0003369",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB06702",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Google account not authorized for Google Payments usage\n\nfull_description_text:  \nUser is trying to use Google Payments with their Google account. They receive message that account is not authorized. They need help from Google Apps administrator for this issue.",
+  "short_description": "Google account not authorized for Google Payments usage",
+  "description": "User is trying to use Google Payments with their Google account. They receive message that account is not authorized. They need help from Google Apps administrator for this issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001822",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01998",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to download Silverlight on work computer.\n\nfull_description_text: \nThe user reported that they are experiencing difficulties while attempting to download Microsoft Silverlight on their work computer, which operates on the Windows environment. During the phone call, they expressed a clear need for assistance, asking if the installation could be performed for them instead. This situation indicates a potential barrier to accessing necessary software, which may impact their work efficiency. The user is seeking a resolution to this issue promptly.",
+  "short_description": "Unable to download Silverlight on work computer.",
+  "description": "The user reported that they are experiencing difficulties while attempting to download Microsoft Silverlight on their work computer, which operates on the Windows environment. During the phone call, they expressed a clear need for assistance, asking if the installation could be performed for them instead. This situation indicates a potential barrier to accessing necessary software, which may impact their work efficiency. The user is seeking a resolution to this issue promptly."
+}

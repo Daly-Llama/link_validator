@@ -1,0 +1,20 @@
+{
+  "number": "INC0003468",
+  "category": "Contacting Service Desk",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB07127",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in reaching the IT Service Desk for assistance.\n\nfull_description_text: The user was trying to find out how to contact the IT Service Desk. They expressed confusion about the correct procedure to reach out for support. During the call, it became clear that they needed guidance on the available communication channels. This situation highlights a common issue where users are unsure of how to initiate contact with IT support.",
+  "short_description": "Difficulty in reaching the IT Service Desk for assistance.",
+  "description": "The user was trying to find out how to contact the IT Service Desk. They expressed confusion about the correct procedure to reach out for support. During the call, it became clear that they needed guidance on the available communication channels. This situation highlights a common issue where users are unsure of how to initiate contact with IT support."
+}

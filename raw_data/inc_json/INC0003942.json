@@ -1,0 +1,20 @@
+{
+  "number": "INC0003942",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08090",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Understanding the process after creating a Microsoft Team.\n\nfull_description_text:\n- A field technician has created a Microsoft Team and is unsure of the next steps.  \n- The technician is seeking clarity on what functionalities and features become available immediately after the team is established.  \n- There is a need to understand how team members can interact and what permissions are automatically assigned.  \n- This inquiry is crucial for effective collaboration and ensuring all team members are informed of their roles.",
+  "short_description": "Understanding the process after creating a Microsoft Team.",
+  "description": "- A field technician has created a Microsoft Team and is unsure of the next steps.  \n- The technician is seeking clarity on what functionalities and features become available immediately after the team is established.  \n- There is a need to understand how team members can interact and what permissions are automatically assigned.  \n- This inquiry is crucial for effective collaboration and ensuring all team members are informed of their roles."
+}

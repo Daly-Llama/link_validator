@@ -1,0 +1,20 @@
+{
+  "number": "INC0003912",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08058",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about features of the To-Do bar in Outlook\n\nfull_description_text:  \nA field technician is looking to understand the features available in the To-Do bar within Outlook. They are curious about how this tool can enhance their productivity and organization while managing tasks. The To-Do bar is a key component for keeping track of important items, and knowing its features could significantly improve their workflow. It's essential to grasp what functionalities it offers to make the most out of this feature.",
+  "short_description": "Inquiry about features of the To-Do bar in Outlook",
+  "description": "A field technician is looking to understand the features available in the To-Do bar within Outlook. They are curious about how this tool can enhance their productivity and organization while managing tasks. The To-Do bar is a key component for keeping track of important items, and knowing its features could significantly improve their workflow. It's essential to grasp what functionalities it offers to make the most out of this feature."
+}

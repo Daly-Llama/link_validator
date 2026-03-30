@@ -1,0 +1,20 @@
+{
+  "number": "INC0002748",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB04780",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for E-Visions login to print transcripts\n\nfull_description_text: \nThe registrar called in asking for an E-Visions login for an employee to print transcripts. They also wanted to know how to remove E-Visions from an account. There was some confusion about the process and what steps needed to be taken.",
+  "short_description": "Request for E-Visions login to print transcripts",
+  "description": "The registrar called in asking for an E-Visions login for an employee to print transcripts. They also wanted to know how to remove E-Visions from an account. There was some confusion about the process and what steps needed to be taken."
+}

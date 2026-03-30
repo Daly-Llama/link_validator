@@ -1,0 +1,20 @@
+{
+  "number": "INC0001473",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00963",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Wireless headset experiences disconnection and echo issues during VoIP calls.\n\nfull_description_text:\n- The user reported that their wireless headset is dropping connections intermittently during VoIP phone calls, which is causing significant disruption.\n- They mentioned that the headset is no longer functioning properly, leading to difficulties in communication.\n- Additionally, there is a persistent echo that affects the clarity of conversations, making it hard for both parties to hear and talk effectively.\n- The disconnection issue also occurs when receiving or ending calls on their computer, further complicating their ability to use the headset seamlessly.",
+  "short_description": "Wireless headset experiences disconnection and echo issues during VoIP calls.",
+  "description": "- The user reported that their wireless headset is dropping connections intermittently during VoIP phone calls, which is causing significant disruption.\n- They mentioned that the headset is no longer functioning properly, leading to difficulties in communication.\n- Additionally, there is a persistent echo that affects the clarity of conversations, making it hard for both parties to hear and talk effectively.\n- The disconnection issue also occurs when receiving or ending calls on their computer, further complicating their ability to use the headset seamlessly."
+}

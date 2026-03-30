@@ -1,0 +1,20 @@
+{
+  "number": "INC0004511",
+  "category": "Health Sciences",
+  "subcategory": "CORE",
+  "correct_kb": "KB09228",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student access duration for CORE ELMS is unclear.\n\nfull_description_text: The user was inquiring about the length of time students can access the CORE Experiential Learning Management System. They seemed unsure about the specific duration and needed clarification on this matter. This question arose during a live phone call with the help desk analyst.",
+  "short_description": "Student access duration for CORE ELMS is unclear.",
+  "description": "The user was inquiring about the length of time students can access the CORE Experiential Learning Management System. They seemed unsure about the specific duration and needed clarification on this matter. This question arose during a live phone call with the help desk analyst."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003527",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB07347",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cannot open documents in SharePoint, receiving error message.\n\nfull_description_text:\n- User is trying to open documents in SharePoint.  \n- They get error message: \"Sorry, there was a problem and we can't open this document.\"  \n- User not sure what to do next, maybe try Microsoft Word?  \n- This issue is happening for all documents they try to open.",
+  "short_description": "Cannot open documents in SharePoint, receiving error message.",
+  "description": "- User is trying to open documents in SharePoint.  \n- They get error message: \"Sorry, there was a problem and we can't open this document.\"  \n- User not sure what to do next, maybe try Microsoft Word?  \n- This issue is happening for all documents they try to open."
+}

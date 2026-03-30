@@ -1,0 +1,20 @@
+{
+  "number": "INC0001472",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00961",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Copier malfunctioning with multiple printing and stapling issues.\n\nfull_description_text:\n- The Sharp copier on the USD Campus is experiencing several problems.  \n- It is unable to print correctly and is giving an error about the accounting server.  \n- Additionally, the copier is not stapling documents as expected and reports a paper jam despite having paper loaded.  \n- Users are unable to make copies, leading to significant disruptions in printing tasks.",
+  "short_description": "Copier malfunctioning with multiple printing and stapling issues.",
+  "description": "- The Sharp copier on the USD Campus is experiencing several problems.  \n- It is unable to print correctly and is giving an error about the accounting server.  \n- Additionally, the copier is not stapling documents as expected and reports a paper jam despite having paper loaded.  \n- Users are unable to make copies, leading to significant disruptions in printing tasks."
+}

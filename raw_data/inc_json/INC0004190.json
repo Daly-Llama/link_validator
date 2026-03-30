@@ -1,0 +1,20 @@
+{
+  "number": "INC0004190",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08492",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Exclusion of specific expenses from indirect costs on project awards\n\nfull_description_text:  \nUser seeks clarification on which expenses to exclude.  \nContext involves sponsored project awards and indirect cost calculations.  \nUnderstanding of Modified Total Direct Cost (MTDC) is necessary.  \nClear guidelines are needed for accurate expense reporting.",
+  "short_description": "Exclusion of specific expenses from indirect costs on project awards",
+  "description": "User seeks clarification on which expenses to exclude.  \nContext involves sponsored project awards and indirect cost calculations.  \nUnderstanding of Modified Total Direct Cost (MTDC) is necessary.  \nClear guidelines are needed for accurate expense reporting."
+}

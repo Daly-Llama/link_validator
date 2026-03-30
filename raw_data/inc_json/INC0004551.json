@@ -1,0 +1,20 @@
+{
+  "number": "INC0004551",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09351",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: First year students need help applying for University Housing.\n\nfull_description_text: \nUser ask when first year can apply for housing. They want to know where and how to apply. They seem confused about the process.",
+  "short_description": "First year students need help applying for University Housing.",
+  "description": "User ask when first year can apply for housing. They want to know where and how to apply. They seem confused about the process."
+}

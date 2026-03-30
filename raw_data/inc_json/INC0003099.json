@@ -1,0 +1,20 @@
+{
+  "number": "INC0003099",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05768",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security camera image is fuzzy and out of focus.\n\nfull_description_text: The user reported that the Axis security camera is very fuzzy. They asked if it is possible to clean the lens or refocus the camera. The issue was discussed during a live phone call with the help desk analyst.",
+  "short_description": "Security camera image is fuzzy and out of focus.",
+  "description": "The user reported that the Axis security camera is very fuzzy. They asked if it is possible to clean the lens or refocus the camera. The issue was discussed during a live phone call with the help desk analyst."
+}

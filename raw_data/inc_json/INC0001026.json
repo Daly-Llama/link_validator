@@ -1,0 +1,20 @@
+{
+  "number": "INC0001026",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00045",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with setting up new monitors and connections.\n\nfull_description_text: \nSo, the user was trying to set up their new monitors after swapping desks, but they ran into a couple of hiccups. First off, they realized they didn't have the right cord to connect their laptop to the monitor. Then, to make things more complicated, their second monitor just wasn't working at all. They also mentioned wanting to move content between screens, which adds to the confusion.",
+  "short_description": "Issues with setting up new monitors and connections.",
+  "description": "So, the user was trying to set up their new monitors after swapping desks, but they ran into a couple of hiccups. First off, they realized they didn't have the right cord to connect their laptop to the monitor. Then, to make things more complicated, their second monitor just wasn't working at all. They also mentioned wanting to move content between screens, which adds to the confusion."
+}

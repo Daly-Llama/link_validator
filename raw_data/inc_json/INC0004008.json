@@ -1,0 +1,20 @@
+{
+  "number": "INC0004008",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08230",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with adding automatic captions in Panopto\n\nfull_description_text:\n- So, the user was trying to figure out how to add automatic captions in Panopto.  \n- They seemed a bit confused and were asking for help during a live chat.  \n- It’s important to get those captions right, but they were not sure how to do it.  \n- There might be some steps missing or unclear in the process they were following.",
+  "short_description": "Issues with adding automatic captions in Panopto",
+  "description": "- So, the user was trying to figure out how to add automatic captions in Panopto.  \n- They seemed a bit confused and were asking for help during a live chat.  \n- It’s important to get those captions right, but they were not sure how to do it.  \n- There might be some steps missing or unclear in the process they were following."
+}

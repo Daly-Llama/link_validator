@@ -1,0 +1,20 @@
+{
+  "number": "INC0002916",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB05291",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about library fines for late and lost items.\n\nfull_description_text: During a recent call, the user expressed confusion regarding the fines associated with late and lost items at the library. They were seeking clarity on how these fees are calculated and what the current rates are. The conversation highlighted their concern about potential charges and the impact on their borrowing privileges.",
+  "short_description": "Inquiry about library fines for late and lost items.",
+  "description": "During a recent call, the user expressed confusion regarding the fines associated with late and lost items at the library. They were seeking clarity on how these fees are calculated and what the current rates are. The conversation highlighted their concern about potential charges and the impact on their borrowing privileges."
+}

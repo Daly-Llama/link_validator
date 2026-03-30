@@ -1,0 +1,20 @@
+{
+  "number": "INC0003706",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07829",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to adjust row height or column width in Google Sheets.\n\nfull_description_text: I was trying to change the row height and column width in Google Sheets. But it just wouldn't work for me, and I don't know why. I clicked around and nothing happened, which is really frustrating. I need help with this issue because I can't get my spreadsheet to look right.",
+  "short_description": "Unable to adjust row height or column width in Google Sheets.",
+  "description": "I was trying to change the row height and column width in Google Sheets. But it just wouldn't work for me, and I don't know why. I clicked around and nothing happened, which is really frustrating. I need help with this issue because I can't get my spreadsheet to look right."
+}

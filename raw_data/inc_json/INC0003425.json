@@ -1,0 +1,20 @@
+{
+  "number": "INC0003425",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB06960",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to send mass email to all Faculty, Staff, and Students\n\nfull_description_text:  \nI am trying to send a mass email or survey to all Faculty, Staff, and Students. The email system I am using is the listserv, which is designed for this purpose. However, I am facing difficulties in executing this task. It is important to reach everyone in the institution, and I need assistance with this email sending process.",
+  "short_description": "Need to send mass email to all Faculty, Staff, and Students",
+  "description": "I am trying to send a mass email or survey to all Faculty, Staff, and Students. The email system I am using is the listserv, which is designed for this purpose. However, I am facing difficulties in executing this task. It is important to reach everyone in the institution, and I need assistance with this email sending process."
+}

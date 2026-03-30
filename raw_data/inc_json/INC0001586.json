@@ -1,0 +1,20 @@
+{
+  "number": "INC0001586",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB01286",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Email account affiliation change between @coyotes.usd.edu and @usd.edu\n\nfull_description_text:  \n- A student is requesting a change to their email account affiliation.  \n- The account needs to switch from @coyotes.usd.edu to @usd.edu or the other way around.  \n- This change is necessary due to a shift in their status from student to faculty/staff or vice versa.",
+  "short_description": "Email account affiliation change between @coyotes.usd.edu and @usd.edu",
+  "description": "- A student is requesting a change to their email account affiliation.  \n- The account needs to switch from @coyotes.usd.edu to @usd.edu or the other way around.  \n- This change is necessary due to a shift in their status from student to faculty/staff or vice versa."
+}

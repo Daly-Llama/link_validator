@@ -1,0 +1,20 @@
+{
+  "number": "INC0003620",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07737",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to change text and background color in Google Docs.\n\nfull_description_text:\n- The user was attempting to modify the text color and background color within a Google Docs document. \n- They expressed difficulty in locating the appropriate options to effect these changes, which are essential for enhancing the visual presentation of their document. \n- The user specifically inquired about the steps necessary to successfully alter both the text color and the background color, indicating a need for clear guidance on this functionality. \n- This issue is particularly relevant as it impacts the user's ability to customize their document to meet specific aesthetic requirements.",
+  "short_description": "Unable to change text and background color in Google Docs.",
+  "description": "- The user was attempting to modify the text color and background color within a Google Docs document. \n- They expressed difficulty in locating the appropriate options to effect these changes, which are essential for enhancing the visual presentation of their document. \n- The user specifically inquired about the steps necessary to successfully alter both the text color and the background color, indicating a need for clear guidance on this functionality. \n- This issue is particularly relevant as it impacts the user's ability to customize their document to meet specific aesthetic requirements."
+}

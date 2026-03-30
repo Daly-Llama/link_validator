@@ -1,0 +1,20 @@
+{
+  "number": "INC0001807",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01948",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble with DVD/VCR in Smart Classroom setup\n\nfull_description_text:  \nThe DVD/VCR in the Smart Classroom is not working right. The technician is trying to figure out what’s wrong but needs help. It’s important to get this fixed so the classroom can be used properly.",
+  "short_description": "Trouble with DVD/VCR in Smart Classroom setup",
+  "description": "The DVD/VCR in the Smart Classroom is not working right. The technician is trying to figure out what’s wrong but needs help. It’s important to get this fixed so the classroom can be used properly."
+}

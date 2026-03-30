@@ -1,0 +1,20 @@
+{
+  "number": "INC0004671",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09692",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble installing Papercut printer on USD computer\n\nfull_description_text: \nI was trying to help someone set up the Papercut printer on their USD computer. They said it was a multifunction device but were not sure how to install it. We were on Windows 11 and MacOS, but it just wasn't working right.",
+  "short_description": "Trouble installing Papercut printer on USD computer",
+  "description": "I was trying to help someone set up the Papercut printer on their USD computer. They said it was a multifunction device but were not sure how to install it. We were on Windows 11 and MacOS, but it just wasn't working right."
+}

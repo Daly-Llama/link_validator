@@ -1,0 +1,20 @@
+{
+  "number": "INC0003568",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB07504",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new CSA or NFE job description in YourFuture.\n\nfull_description_text: So, I was trying to create a new position description for a CSA or NFE in YourFuture, but I hit a wall. I’m not really sure what steps to follow, and it’s kind of frustrating. I just need some guidance on how to get this job description set up properly.",
+  "short_description": "Difficulty creating a new CSA or NFE job description in YourFuture.",
+  "description": "So, I was trying to create a new position description for a CSA or NFE in YourFuture, but I hit a wall. I’m not really sure what steps to follow, and it’s kind of frustrating. I just need some guidance on how to get this job description set up properly."
+}

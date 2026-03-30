@@ -1,0 +1,20 @@
+{
+  "number": "INC0001988",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02491",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to add existing phone number as second line on Cisco phone\n\nfull_description_text:  \nDuring a live chat session, the user expressed a need for an additional phone line on their Cisco phone. They specifically requested that an existing phone number be configured as this second line. The user emphasized the importance of having this additional line, indicating that it would enhance their communication capabilities. This request was made in the context of utilizing Voice over Internet Protocol (VoIP) technology, which is relevant to their current setup.",
+  "short_description": "Request to add existing phone number as second line on Cisco phone",
+  "description": "During a live chat session, the user expressed a need for an additional phone line on their Cisco phone. They specifically requested that an existing phone number be configured as this second line. The user emphasized the importance of having this additional line, indicating that it would enhance their communication capabilities. This request was made in the context of utilizing Voice over Internet Protocol (VoIP) technology, which is relevant to their current setup."
+}

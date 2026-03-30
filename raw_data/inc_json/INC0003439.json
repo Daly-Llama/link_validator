@@ -1,0 +1,20 @@
+{
+  "number": "INC0003439",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB07022",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Library access to LYRASIS Learning platform is unclear.\n\nfull_description_text:  \nI’m trying to figure out if our library has access to LYRASIS Learning, which is that continuing education platform with all the archived training and live classes. It’s a bit confusing because I need to know if we can actually use it for our learning needs. Can someone clarify if we have access or not?",
+  "short_description": "Library access to LYRASIS Learning platform is unclear.",
+  "description": "I’m trying to figure out if our library has access to LYRASIS Learning, which is that continuing education platform with all the archived training and live classes. It’s a bit confusing because I need to know if we can actually use it for our learning needs. Can someone clarify if we have access or not?"
+}

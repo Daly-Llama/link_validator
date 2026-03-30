@@ -1,0 +1,20 @@
+{
+  "number": "INC0001122",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00236",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to watch videos due to Silverlight installation failure.\n\nfull_description_text:  \nThe user is attempting to access exit exam videos within the Desire2Learn platform, but is encountering a significant barrier due to the requirement for Silverlight, a multimedia framework. Despite multiple attempts to install Silverlight, the installation process does not seem to yield the expected results, leaving the user unable to view the necessary content. This issue persists across various browsers, including Safari, Internet Explorer, Mozilla Firefox, and Google Chrome, which adds to the complexity of the situation. The technician is seeking assistance to resolve this impediment, as the inability to access these videos is critical for their ongoing assessments.",
+  "short_description": "Unable to watch videos due to Silverlight installation failure.",
+  "description": "The user is attempting to access exit exam videos within the Desire2Learn platform, but is encountering a significant barrier due to the requirement for Silverlight, a multimedia framework. Despite multiple attempts to install Silverlight, the installation process does not seem to yield the expected results, leaving the user unable to view the necessary content. This issue persists across various browsers, including Safari, Internet Explorer, Mozilla Firefox, and Google Chrome, which adds to the complexity of the situation. The technician is seeking assistance to resolve this impediment, as the inability to access these videos is critical for their ongoing assessments."
+}

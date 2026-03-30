@@ -1,0 +1,20 @@
+{
+  "number": "INC0003918",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08064",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the Outlook calendar functionality\n\nfull_description_text:  \nI want to know what the Outlook calendar is. I’m not sure how it works or what it does. Can someone explain its purpose?",
+  "short_description": "Inquiry about the Outlook calendar functionality",
+  "description": "I want to know what the Outlook calendar is. I’m not sure how it works or what it does. Can someone explain its purpose?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001746",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB01748",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Windows OS activation period has expired, showing error messages.\n\nfull_description_text: User reports that Windows OS is no longer activated. The activation period has expired, leading to persistent notifications indicating that the copy of Windows is not genuine. User may need to connect to the network if this computer is part of an organization. There is a possibility of software counterfeiting being involved.",
+  "short_description": "Windows OS activation period has expired, showing error messages.",
+  "description": "User reports that Windows OS is no longer activated. The activation period has expired, leading to persistent notifications indicating that the copy of Windows is not genuine. User may need to connect to the network if this computer is part of an organization. There is a possibility of software counterfeiting being involved."
+}

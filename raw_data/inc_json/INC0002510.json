@@ -1,0 +1,20 @@
+{
+  "number": "INC0002510",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04019",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: ISO number not updating when printing ID in Instant ID.\n\nfull_description_text:  \nSo, it looks like there's an issue with the old card not deactivating properly. When we tried to swipe it at the register, we got this \"invalid card\" error message, which is super frustrating. Plus, the new number just isn't showing up in the Transact entry for the customer, which is a bit of a mess.",
+  "short_description": "ISO number not updating when printing ID in Instant ID.",
+  "description": "So, it looks like there's an issue with the old card not deactivating properly. When we tried to swipe it at the register, we got this \"invalid card\" error message, which is super frustrating. Plus, the new number just isn't showing up in the Transact entry for the customer, which is a bit of a mess."
+}

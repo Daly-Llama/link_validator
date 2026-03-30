@@ -1,0 +1,20 @@
+{
+  "number": "INC0004440",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09050",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to set up online payment for deposits and fees\n\nfull_description_text:  \nA user is looking to establish online payment options for various deposits and application fees. They specifically mentioned needing to increase the deposit for the Physician Assistants Program and also inquired about updating prices for the Summer Music Camp Application. Additionally, they are interested in understanding the available methods for collecting fees related to external courses or conferences. This request is coming from the University of South Dakota, and it seems there are multiple items that need to be addressed on the Deposits website.",
+  "short_description": "Request to set up online payment for deposits and fees",
+  "description": "A user is looking to establish online payment options for various deposits and application fees. They specifically mentioned needing to increase the deposit for the Physician Assistants Program and also inquired about updating prices for the Summer Music Camp Application. Additionally, they are interested in understanding the available methods for collecting fees related to external courses or conferences. This request is coming from the University of South Dakota, and it seems there are multiple items that need to be addressed on the Deposits website."
+}

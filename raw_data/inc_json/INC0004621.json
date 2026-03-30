@@ -1,0 +1,20 @@
+{
+  "number": "INC0004621",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09516",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty sending email from @usd.edu address in Outlook.\n\nfull_description_text:\n- The user is a student worker trying to send emails using their @usd.edu email address.  \n- They are using the new version of Outlook but are unsure of the process.  \n- There seems to be confusion about the settings or permissions needed to send emails correctly.  \n- This issue is affecting their ability to communicate effectively in their role.",
+  "short_description": "Difficulty sending email from @usd.edu address in Outlook.",
+  "description": "- The user is a student worker trying to send emails using their @usd.edu email address.  \n- They are using the new version of Outlook but are unsure of the process.  \n- There seems to be confusion about the settings or permissions needed to send emails correctly.  \n- This issue is affecting their ability to communicate effectively in their role."
+}

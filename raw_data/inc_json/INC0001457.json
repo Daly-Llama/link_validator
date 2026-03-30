@@ -1,0 +1,20 @@
+{
+  "number": "INC0001457",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00914",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Voicemail box sharing for multiple phone numbers requested.\n\nfull_description_text: The user wants to have two different phone numbers that can use the same voicemail box. They also mentioned something about wanting the voicemails to go to one email address, which seems important. Additionally, they asked if it's possible to forward voicemails from employees who are no longer working here. This situation involves Cisco VoIP phones and their voicemail system, which might be a bit complicated.",
+  "short_description": "Voicemail box sharing for multiple phone numbers requested.",
+  "description": "The user wants to have two different phone numbers that can use the same voicemail box. They also mentioned something about wanting the voicemails to go to one email address, which seems important. Additionally, they asked if it's possible to forward voicemails from employees who are no longer working here. This situation involves Cisco VoIP phones and their voicemail system, which might be a bit complicated."
+}

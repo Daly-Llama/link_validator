@@ -1,0 +1,20 @@
+{
+  "number": "INC0002551",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB04151",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to sync Coyote Connections calendar with Outlook.\n\nfull_description_text: \nThe user is experiencing difficulties syncing their Coyote Connections calendar with Outlook. This issue has arisen during their attempts to integrate the two platforms for better scheduling. The user is seeking assistance to resolve this synchronization problem effectively.",
+  "short_description": "Unable to sync Coyote Connections calendar with Outlook.",
+  "description": "The user is experiencing difficulties syncing their Coyote Connections calendar with Outlook. This issue has arisen during their attempts to integrate the two platforms for better scheduling. The user is seeking assistance to resolve this synchronization problem effectively."
+}

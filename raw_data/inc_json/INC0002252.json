@@ -1,0 +1,20 @@
+{
+  "number": "INC0002252",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB03297",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Question about the purpose of the Knowledge Base\n\nfull_description_text: So, I was on the phone with a user who was kinda confused about what the Knowledge Base is for. They were asking why we even have it and what it does exactly. It seems like they just needed a simple explanation, but it was a bit tricky to get into all the details.",
+  "short_description": "Question about the purpose of the Knowledge Base",
+  "description": "So, I was on the phone with a user who was kinda confused about what the Knowledge Base is for. They were asking why we even have it and what it does exactly. It seems like they just needed a simple explanation, but it was a bit tricky to get into all the details."
+}

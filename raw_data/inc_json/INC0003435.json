@@ -1,0 +1,20 @@
+{
+  "number": "INC0003435",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB07001",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Coyote Cash transactions on a specific date\n\nfull_description_text: \nI was trying to find out if there were any transactions at the Coyote Cash machine. It was on a certain date, but I can't remember which one exactly. I just need to know if anything happened there. It’s really important for me to get this information, so I hope someone can help me with it.",
+  "short_description": "Inquiry about Coyote Cash transactions on a specific date",
+  "description": "I was trying to find out if there were any transactions at the Coyote Cash machine. It was on a certain date, but I can't remember which one exactly. I just need to know if anything happened there. It’s really important for me to get this information, so I hope someone can help me with it."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001168",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB00327",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Requesting access to Banner HR or Finance systems\n\nfull_description_text:\n- I need access to Banner HR or Banner Finance for my account.  \n- My supervisor wants me to have access to SDEzBuy and Contracts Plus.  \n- I also need Banner PLSQL access and the Finance category on the SNAP portal.  \n- Sometimes, I get an error on NHRDIST saying I don't have access to an Organization Code.",
+  "short_description": "Requesting access to Banner HR or Finance systems",
+  "description": "- I need access to Banner HR or Banner Finance for my account.  \n- My supervisor wants me to have access to SDEzBuy and Contracts Plus.  \n- I also need Banner PLSQL access and the Finance category on the SNAP portal.  \n- Sometimes, I get an error on NHRDIST saying I don't have access to an Organization Code."
+}

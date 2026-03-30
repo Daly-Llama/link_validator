@@ -1,0 +1,20 @@
+{
+  "number": "INC0002955",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB05384",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to login to Coyote applications due to Shibboleth error\n\nfull_description_text: \nI was trying to access Coyote Connections and Qualtrics but encountered an error. The application displayed a Shibboleth 500 Error, stating that the request was unsupported. This issue prevents me from logging into the necessary systems for my work.",
+  "short_description": "Unable to login to Coyote applications due to Shibboleth error",
+  "description": "I was trying to access Coyote Connections and Qualtrics but encountered an error. The application displayed a Shibboleth 500 Error, stating that the request was unsupported. This issue prevents me from logging into the necessary systems for my work."
+}

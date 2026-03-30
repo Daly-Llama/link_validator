@@ -1,0 +1,20 @@
+{
+  "number": "INC0003368",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06698",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: External monitor resolution causing fuzzy and blurry display on macOS.\n\nfull_description_text: So, the user was trying to adjust their external monitor settings, right? They mentioned that the screen looks super fuzzy, like everything's out of focus. Icons and apps are all blurry, which is really annoying when you're trying to work. They were on a call with me, and I could hear the frustration in their voice, like they just want to see things clearly again.",
+  "short_description": "External monitor resolution causing fuzzy and blurry display on macOS.",
+  "description": "So, the user was trying to adjust their external monitor settings, right? They mentioned that the screen looks super fuzzy, like everything's out of focus. Icons and apps are all blurry, which is really annoying when you're trying to work. They were on a call with me, and I could hear the frustration in their voice, like they just want to see things clearly again."
+}

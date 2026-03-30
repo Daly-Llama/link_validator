@@ -1,0 +1,20 @@
+{
+  "number": "INC0003660",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB07779",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Microsoft OneDrive.\n\nfull_description_text:\n- User is trying to access OneDrive but cannot.\n- They asked for help during a phone call.\n- The person speaks non-English as first language, making communication hard.",
+  "short_description": "Difficulty accessing Microsoft OneDrive.",
+  "description": "- User is trying to access OneDrive but cannot.\n- They asked for help during a phone call.\n- The person speaks non-English as first language, making communication hard."
+}

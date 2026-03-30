@@ -1,0 +1,20 @@
+{
+  "number": "INC0003018",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05562",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about University-supported mobile hotspot options\n\nfull_description_text:  \nThe user is seeking information regarding mobile hotspot options. They specifically want to know if there are any supported by the University. The inquiry is focused on the availability of Wifi hotspot services. The user is looking for clarity on this matter during the live chat session.",
+  "short_description": "Inquiry about University-supported mobile hotspot options",
+  "description": "The user is seeking information regarding mobile hotspot options. They specifically want to know if there are any supported by the University. The inquiry is focused on the availability of Wifi hotspot services. The user is looking for clarity on this matter during the live chat session."
+}

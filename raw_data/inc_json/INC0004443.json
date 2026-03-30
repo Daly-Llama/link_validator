@@ -1,0 +1,20 @@
+{
+  "number": "INC0004443",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09061",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Picture not updating when printing Coyote Card in Instant ID.\n\nfull_description_text: The user reported that the picture associated with their Coyote Card does not refresh when they attempt to print it through Instant ID. This issue occurs specifically in the Transact environment when generating new or replacement cards. The user was expecting the updated image to appear but instead received the old version. This has caused confusion and delays in the card issuance process.",
+  "short_description": "Picture not updating when printing Coyote Card in Instant ID.",
+  "description": "The user reported that the picture associated with their Coyote Card does not refresh when they attempt to print it through Instant ID. This issue occurs specifically in the Transact environment when generating new or replacement cards. The user was expecting the updated image to appear but instead received the old version. This has caused confusion and delays in the card issuance process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002649",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04497",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User requests removal of Duo authentication for access to resources.\n\nfull_description_text: The user is currently unable to access their USD resources because they do not possess a phone or a security key for Duo Multi-factor Authentication. During the call, they expressed frustration about the requirement for Duo and requested that it be removed from their account entirely. They emphasized that they do not want to use Duo at all, which is causing a significant barrier to their access. The conversation took place over the phone, and the user was clear about their needs and concerns regarding the authentication process.",
+  "short_description": "User requests removal of Duo authentication for access to resources.",
+  "description": "The user is currently unable to access their USD resources because they do not possess a phone or a security key for Duo Multi-factor Authentication. During the call, they expressed frustration about the requirement for Duo and requested that it be removed from their account entirely. They emphasized that they do not want to use Duo at all, which is causing a significant barrier to their access. The conversation took place over the phone, and the user was clear about their needs and concerns regarding the authentication process."
+}

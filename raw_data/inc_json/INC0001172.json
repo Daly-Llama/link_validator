@@ -1,0 +1,20 @@
+{
+  "number": "INC0001172",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00334",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for file share storage details including size and free space.\n\nfull_description_text:  \nThe user is seeking information about the shared file storage, specifically the total size, used space, and available free space. They submitted this request through the self-service form, indicating a need for clarity on storage capacity. This information is crucial for managing their files effectively.",
+  "short_description": "Request for file share storage details including size and free space.",
+  "description": "The user is seeking information about the shared file storage, specifically the total size, used space, and available free space. They submitted this request through the self-service form, indicating a need for clarity on storage capacity. This information is crucial for managing their files effectively."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001123",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00237",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for access to previous D2L course materials\n\nfull_description_text:\n- The user is trying to access an old course in D2L.  \n- They need the syllabus and final project from that class.  \n- They mentioned they had an extension last semester but can't see the course now.  \n- The user did not save the materials and is unsure how to retrieve them.",
+  "short_description": "Request for access to previous D2L course materials",
+  "description": "- The user is trying to access an old course in D2L.  \n- They need the syllabus and final project from that class.  \n- They mentioned they had an extension last semester but can't see the course now.  \n- The user did not save the materials and is unsure how to retrieve them."
+}

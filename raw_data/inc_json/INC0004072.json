@@ -1,0 +1,20 @@
+{
+  "number": "INC0004072",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08306",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Confusion about integrating objects in Word.\n\nfull_description_text: So, like, someone was asking what it means to integrate an object in Word. They seemed kinda lost on the whole thing. It’s not super clear what they were trying to do, but they really wanted to understand it better.",
+  "short_description": "Confusion about integrating objects in Word.",
+  "description": "So, like, someone was asking what it means to integrate an object in Word. They seemed kinda lost on the whole thing. It’s not super clear what they were trying to do, but they really wanted to understand it better."
+}

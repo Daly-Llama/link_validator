@@ -1,0 +1,20 @@
+{
+  "number": "INC0003069",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB05704",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to remove subscribers from a Listserv.\n\nfull_description_text:  \n- A field technician is trying to manage a Listserv.  \n- The task involves removing specific subscribers from the mailing list.  \n- Encountering difficulties in executing this action, which is impacting communication.  \n- Clarification on the process is required to proceed effectively.",
+  "short_description": "Need to remove subscribers from a Listserv.",
+  "description": "- A field technician is trying to manage a Listserv.  \n- The task involves removing specific subscribers from the mailing list.  \n- Encountering difficulties in executing this action, which is impacting communication.  \n- Clarification on the process is required to proceed effectively."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004533",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09304",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Photo not loading or displaying incorrectly on public website\n\nfull_description_text:\n- The user reported that their photo is not loading on the public website.  \n- They also mentioned that a wrong photo is being displayed instead of the intended one.  \n- The user is seeking guidance on how to update their photo on the site, indicating a possible issue with the upload process or database linkage.  \n- There may be a need to check the SQL Server or .NET configurations related to image handling.",
+  "short_description": "Photo not loading or displaying incorrectly on public website",
+  "description": "- The user reported that their photo is not loading on the public website.  \n- They also mentioned that a wrong photo is being displayed instead of the intended one.  \n- The user is seeking guidance on how to update their photo on the site, indicating a possible issue with the upload process or database linkage.  \n- There may be a need to check the SQL Server or .NET configurations related to image handling."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002279",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB03376",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for student engagement from registrar via email.\n\nfull_description_text: \nSo, like, the registrar office sent an email to online.advocate@usd.edu. They want to engage some students for a course, right? It’s all about getting those students involved, you know? Just a simple request, but it’s coming from the registrar, so it’s kinda important.",
+  "short_description": "Request for student engagement from registrar via email.",
+  "description": "So, like, the registrar office sent an email to online.advocate@usd.edu. They want to engage some students for a course, right? It’s all about getting those students involved, you know? Just a simple request, but it’s coming from the registrar, so it’s kinda important."
+}

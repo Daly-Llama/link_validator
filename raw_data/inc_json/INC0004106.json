@@ -1,0 +1,20 @@
+{
+  "number": "INC0004106",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08369",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help modifying a table in Word.\n\nfull_description_text: So, the user was trying to change their table in Word, but they got stuck. They asked how to modify it, and it seems like they’re not sure what to do next. They just need some guidance on making those changes.",
+  "short_description": "Need help modifying a table in Word.",
+  "description": "So, the user was trying to change their table in Word, but they got stuck. They asked how to modify it, and it seems like they’re not sure what to do next. They just need some guidance on making those changes."
+}

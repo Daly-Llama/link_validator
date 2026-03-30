@@ -1,0 +1,20 @@
+{
+  "number": "INC0001091",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00171",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Not receiving emails from a specific sender in Outlook\n\nfull_description_text:\n- User is not getting emails from a certain sender.  \n- This includes replies to emails they sent.  \n- They mentioned emails should be redirected to their mailbox but are not showing up.  \n- The issue is happening in Outlook 2013, 2016, and Office 365.",
+  "short_description": "Not receiving emails from a specific sender in Outlook",
+  "description": "- User is not getting emails from a certain sender.  \n- This includes replies to emails they sent.  \n- They mentioned emails should be redirected to their mailbox but are not showing up.  \n- The issue is happening in Outlook 2013, 2016, and Office 365."
+}

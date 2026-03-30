@@ -1,0 +1,20 @@
+{
+  "number": "INC0001820",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01989",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to scan and attach documents in Banner application.\n\nfull_description_text:  \n- The user is trying to scan and attach documents using the Banner application.  \n- They encounter an error message that forces them to log out of all applications and log back in.  \n- The setup involves using a Banner Scan Folder on their desktop for WebExtender, but it seems to be causing issues.  \n- This has been quite frustrating for the user, as they rely on this functionality for their work.",
+  "short_description": "Unable to scan and attach documents in Banner application.",
+  "description": "- The user is trying to scan and attach documents using the Banner application.  \n- They encounter an error message that forces them to log out of all applications and log back in.  \n- The setup involves using a Banner Scan Folder on their desktop for WebExtender, but it seems to be causing issues.  \n- This has been quite frustrating for the user, as they rely on this functionality for their work."
+}

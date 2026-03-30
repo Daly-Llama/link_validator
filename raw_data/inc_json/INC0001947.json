@@ -1,0 +1,20 @@
+{
+  "number": "INC0001947",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB02380",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Skype application prompts for administrative privileges and is not functioning.\n\nfull_description_text: During a live phone call, the user reported that the Skype desktop application is not operational. They indicated that the software is requesting access from a user with administrative privileges, which is preventing them from using the web conferencing features. This issue is impacting their ability to communicate effectively, and further assistance is required to resolve the administrative access prompt.",
+  "short_description": "Skype application prompts for administrative privileges and is not functioning.",
+  "description": "During a live phone call, the user reported that the Skype desktop application is not operational. They indicated that the software is requesting access from a user with administrative privileges, which is preventing them from using the web conferencing features. This issue is impacting their ability to communicate effectively, and further assistance is required to resolve the administrative access prompt."
+}

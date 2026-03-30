@@ -1,0 +1,20 @@
+{
+  "number": "INC0004086",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08329",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Guest user unable to access USD Microsoft Teams site.\n\nfull_description_text: A guest user is experiencing difficulties accessing a USD Microsoft Teams site. They have received a message indicating a problem with signing in. The login attempt appears to hang without any progress. This issue is occurring for a user outside of USD who has been invited to the site.",
+  "short_description": "Guest user unable to access USD Microsoft Teams site.",
+  "description": "A guest user is experiencing difficulties accessing a USD Microsoft Teams site. They have received a message indicating a problem with signing in. The login attempt appears to hang without any progress. This issue is occurring for a user outside of USD who has been invited to the site."
+}

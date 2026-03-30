@@ -1,0 +1,20 @@
+{
+  "number": "INC0003796",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07929",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about practical applications of Excel formulas.\n\nfull_description_text: During a recent phone call, the user expressed confusion regarding the various practical applications of Excel formulas. They were seeking clarity on how these formulas can be utilized effectively in real-world scenarios. The user emphasized the importance of understanding these functionalities to enhance their productivity and efficiency in data management tasks.",
+  "short_description": "Inquiry about practical applications of Excel formulas.",
+  "description": "During a recent phone call, the user expressed confusion regarding the various practical applications of Excel formulas. They were seeking clarity on how these formulas can be utilized effectively in real-world scenarios. The user emphasized the importance of understanding these functionalities to enhance their productivity and efficiency in data management tasks."
+}

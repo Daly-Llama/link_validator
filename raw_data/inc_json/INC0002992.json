@@ -1,0 +1,20 @@
+{
+  "number": "INC0002992",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB05479",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Students unable to update incorrect phone numbers in Self Service.\n\nfull_description_text:  \nSo, a student was trying to change their phone number in the Self Service portal because it was wrong. They weren't sure how to do it or even if their current number was correct. It seems like they just needed some help figuring out where to go for that update.",
+  "short_description": "Students unable to update incorrect phone numbers in Self Service.",
+  "description": "So, a student was trying to change their phone number in the Self Service portal because it was wrong. They weren't sure how to do it or even if their current number was correct. It seems like they just needed some help figuring out where to go for that update."
+}

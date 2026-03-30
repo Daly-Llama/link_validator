@@ -1,0 +1,20 @@
+{
+  "number": "INC0001057",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00097",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance with personal computer or smart device issues.\n\nfull_description_text:  \nUser is requesting help with a personal computer or smart device.  \nThey are unsure about the support available for their device.  \nThe inquiry is coming from a USD faculty/staff or student.  \nClarification on assistance options is needed.",
+  "short_description": "Need assistance with personal computer or smart device issues.",
+  "description": "User is requesting help with a personal computer or smart device.  \nThey are unsure about the support available for their device.  \nThe inquiry is coming from a USD faculty/staff or student.  \nClarification on assistance options is needed."
+}

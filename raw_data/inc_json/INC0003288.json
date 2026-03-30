@@ -1,0 +1,20 @@
+{
+  "number": "INC0003288",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB06360",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Formatting is lost in D2L discussion posts.\n\nfull_description_text: \nI was trying to post in the D2L discussion boards, and I noticed that all of my paragraphs are gone. It’s like when I hit enter to start a new paragraph, nothing happens. So, I just see a big block of text instead of my nicely formatted thoughts. This is really frustrating because I want my posts to be clear and easy to read, but they just look like one long sentence.",
+  "short_description": "Formatting is lost in D2L discussion posts.",
+  "description": "I was trying to post in the D2L discussion boards, and I noticed that all of my paragraphs are gone. It’s like when I hit enter to start a new paragraph, nothing happens. So, I just see a big block of text instead of my nicely formatted thoughts. This is really frustrating because I want my posts to be clear and easy to read, but they just look like one long sentence."
+}

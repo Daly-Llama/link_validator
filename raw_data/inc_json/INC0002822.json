@@ -1,0 +1,20 @@
+{
+  "number": "INC0002822",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04958",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Phish Alert Button not visible in Outlook Office 365 inbox.\n\nfull_description_text: The user reported that the Phish Alert Button is missing while checking their inbox. They mentioned that the Phish Alert Report option is grayed out in the Outlook Ribbon. This issue was encountered during their regular email activities. The user expressed concern about the absence of this security feature.",
+  "short_description": "Phish Alert Button not visible in Outlook Office 365 inbox.",
+  "description": "The user reported that the Phish Alert Button is missing while checking their inbox. They mentioned that the Phish Alert Report option is grayed out in the Outlook Ribbon. This issue was encountered during their regular email activities. The user expressed concern about the absence of this security feature."
+}

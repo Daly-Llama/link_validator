@@ -1,0 +1,20 @@
+{
+  "number": "INC0004499",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09206",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Address not updating in myUSD Portal after change in PPAIDEN.\n\nfull_description_text: The user was trying to change their address in the myUSD Portal. They mentioned that when they update their address in PPAIDEN, it does not show the new address in the portal. The street address appears to be correct, but the city is not updating as it should. This situation is causing confusion for the employee who needs the correct information displayed.",
+  "short_description": "Address not updating in myUSD Portal after change in PPAIDEN.",
+  "description": "The user was trying to change their address in the myUSD Portal. They mentioned that when they update their address in PPAIDEN, it does not show the new address in the portal. The street address appears to be correct, but the city is not updating as it should. This situation is causing confusion for the employee who needs the correct information displayed."
+}

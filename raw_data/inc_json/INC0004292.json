@@ -1,0 +1,20 @@
+{
+  "number": "INC0004292",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08704",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help getting home safely from downtown on weekends.\n\nfull_description_text: So, I was talking to this person on the phone, and they were like, \"How do I get home safely from downtown on the weekend?\" They seemed a bit worried about getting back after a night out, you know? They just wanted to make sure they had a safe way to get home, especially since it can be tricky on weekends.",
+  "short_description": "Need help getting home safely from downtown on weekends.",
+  "description": "So, I was talking to this person on the phone, and they were like, \"How do I get home safely from downtown on the weekend?\" They seemed a bit worried about getting back after a night out, you know? They just wanted to make sure they had a safe way to get home, especially since it can be tricky on weekends."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001078",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00143",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Desktop computer not powering on after shutdown\n\nfull_description_text:\n- My desktop computer no turn on.  \n- I press power button, nothing happen.  \n- Windows environment, need help fast.",
+  "short_description": "Desktop computer not powering on after shutdown",
+  "description": "- My desktop computer no turn on.  \n- I press power button, nothing happen.  \n- Windows environment, need help fast."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001032",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00052",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Requesting USD account access for new employees and volunteers\n\nfull_description_text:\n- So, I was talking to someone from Sanford Research, right?  \n- They need help getting USD accounts for new employees and adjunct faculty.  \n- Also, there's a student who can't submit time sheets in SNAP, which is kinda confusing.  \n- They just wanna know how to get those email addresses set up.",
+  "short_description": "Requesting USD account access for new employees and volunteers",
+  "description": "- So, I was talking to someone from Sanford Research, right?  \n- They need help getting USD accounts for new employees and adjunct faculty.  \n- Also, there's a student who can't submit time sheets in SNAP, which is kinda confusing.  \n- They just wanna know how to get those email addresses set up."
+}

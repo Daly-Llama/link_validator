@@ -1,0 +1,20 @@
+{
+  "number": "INC0003195",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06084",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Assistance needed for assigning HIPAA and FERPA training modules.\n\nfull_description_text: \nEl usuario está buscando ayuda para asignar módulos de capacitación sobre HIPAA a algunos estudiantes y facultad. Además, pregunta si es posible que un miembro del personal o facultad complete la capacitación para FERPA. Este proceso es crucial para asegurar que todos los involucrados cumplan con las regulaciones necesarias. La asignación de estos módulos de capacitación es un paso importante en la formación de los usuarios.",
+  "short_description": "Assistance needed for assigning HIPAA and FERPA training modules.",
+  "description": "El usuario está buscando ayuda para asignar módulos de capacitación sobre HIPAA a algunos estudiantes y facultad. Además, pregunta si es posible que un miembro del personal o facultad complete la capacitación para FERPA. Este proceso es crucial para asegurar que todos los involucrados cumplan con las regulaciones necesarias. La asignación de estos módulos de capacitación es un paso importante en la formación de los usuarios."
+}

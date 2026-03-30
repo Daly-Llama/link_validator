@@ -1,0 +1,20 @@
+{
+  "number": "INC0001558",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB01194",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to open calendar invite attachments in Outlook\n\nfull_description_text: So, the user was trying to open a calendar invite they got, right? But for some reason, the .ics file just wouldn’t open in Outlook. They were on the phone with me, sounding a bit frustrated, saying it’s like the invite just doesn’t want to work. It’s a bit odd since they’ve opened these kinds of files before without any issues.",
+  "short_description": "Unable to open calendar invite attachments in Outlook",
+  "description": "So, the user was trying to open a calendar invite they got, right? But for some reason, the .ics file just wouldn’t open in Outlook. They were on the phone with me, sounding a bit frustrated, saying it’s like the invite just doesn’t want to work. It’s a bit odd since they’ve opened these kinds of files before without any issues."
+}

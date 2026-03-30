@@ -1,0 +1,20 @@
+{
+  "number": "INC0003166",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05978",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Classroom not appearing in Zoom after Crestron touch panel connection\n\nfull_description_text:\n- User tried to connect classroom to Zoom via Crestron touch panel.  \n- The classroom is not showing up in the Zoom meeting list.  \n- This issue is happening with the Zoom SIP connection.",
+  "short_description": "Classroom not appearing in Zoom after Crestron touch panel connection",
+  "description": "- User tried to connect classroom to Zoom via Crestron touch panel.  \n- The classroom is not showing up in the Zoom meeting list.  \n- This issue is happening with the Zoom SIP connection."
+}

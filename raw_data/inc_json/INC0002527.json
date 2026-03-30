@@ -1,0 +1,20 @@
+{
+  "number": "INC0002527",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB04088",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need link for Diversity Dialogue event recording\n\nfull_description_text:  \nI'm looking for the link to the Diversity Dialogue from 9/23/2019. Also, where can I find the recording for the Free Speech and Intellectual Diversity Forum? I can't seem to locate it anywhere.",
+  "short_description": "Need link for Diversity Dialogue event recording",
+  "description": "I'm looking for the link to the Diversity Dialogue from 9/23/2019. Also, where can I find the recording for the Free Speech and Intellectual Diversity Forum? I can't seem to locate it anywhere."
+}

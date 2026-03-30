@@ -1,0 +1,20 @@
+{
+  "number": "INC0003928",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB08074",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Microsoft OneDrive.\n\nfull_description_text:\n- User is trying to access Microsoft OneDrive but is encountering issues.  \n- They are unsure of the steps required to successfully log in.  \n- This problem may be affecting their ability to access important files.  \n- Further assistance is needed to resolve the access issue.",
+  "short_description": "Difficulty accessing Microsoft OneDrive.",
+  "description": "- User is trying to access Microsoft OneDrive but is encountering issues.  \n- They are unsure of the steps required to successfully log in.  \n- This problem may be affecting their ability to access important files.  \n- Further assistance is needed to resolve the access issue."
+}

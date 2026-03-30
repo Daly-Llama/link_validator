@@ -1,0 +1,20 @@
+{
+  "number": "INC0001014",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00029",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Mac won't boot into macOS, shows folder with question mark.\n\nfull_description_text:  \n- So, the user was trying to boot their Mac, right?  \n- It gets to about 50% on the progress bar, then just goes white and restarts.  \n- They also mentioned seeing a folder with a question mark blinking, which is kinda weird.  \n- Sounds like something's not right with the startup disk or something like that.",
+  "short_description": "Mac won't boot into macOS, shows folder with question mark.",
+  "description": "- So, the user was trying to boot their Mac, right?  \n- It gets to about 50% on the progress bar, then just goes white and restarts.  \n- They also mentioned seeing a folder with a question mark blinking, which is kinda weird.  \n- Sounds like something's not right with the startup disk or something like that."
+}

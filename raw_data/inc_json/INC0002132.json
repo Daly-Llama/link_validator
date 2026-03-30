@@ -1,0 +1,20 @@
+{
+  "number": "INC0002132",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02926",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error 404 message when trying to access a webpage\n\nfull_description_text:\n- I'm trying to access a specific page on the website.  \n- But I keep getting an error message that says \"404 Not Found.\"  \n- It seems like the URL I entered isn't working or isn't found on the server.",
+  "short_description": "Error 404 message when trying to access a webpage",
+  "description": "- I'm trying to access a specific page on the website.  \n- But I keep getting an error message that says \"404 Not Found.\"  \n- It seems like the URL I entered isn't working or isn't found on the server."
+}

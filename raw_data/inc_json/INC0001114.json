@@ -1,0 +1,20 @@
+{
+  "number": "INC0001114",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00219",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need more network ports installed in a room.\n\nfull_description_text:  \nSo, I’m in this room, right? And I really need more data jacks, like, a lot more. I was thinking about getting a quote for some extra Ethernet ports, you know? Just trying to make sure everyone can connect easily, especially with all the devices we have now. It’s kinda cramped in here, and the Wi-Fi isn’t cutting it.",
+  "short_description": "Need more network ports installed in a room.",
+  "description": "So, I’m in this room, right? And I really need more data jacks, like, a lot more. I was thinking about getting a quote for some extra Ethernet ports, you know? Just trying to make sure everyone can connect easily, especially with all the devices we have now. It’s kinda cramped in here, and the Wi-Fi isn’t cutting it."
+}

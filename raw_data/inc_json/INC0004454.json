@@ -1,0 +1,20 @@
+{
+  "number": "INC0004454",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB09102",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Claim account operation failed due to invalid username or claim code.\n\nfull_description_text:\n- The user attempted to access their account using a username and claim code.  \n- They encountered an error message indicating that the claim operation failed.  \n- The user reported that the system recognized the code as invalid, preventing account access.",
+  "short_description": "Claim account operation failed due to invalid username or claim code.",
+  "description": "- The user attempted to access their account using a username and claim code.  \n- They encountered an error message indicating that the claim operation failed.  \n- The user reported that the system recognized the code as invalid, preventing account access."
+}

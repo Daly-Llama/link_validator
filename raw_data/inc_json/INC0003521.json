@@ -1,0 +1,20 @@
+{
+  "number": "INC0003521",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB07329",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't access email attachments in Outlook thread responses.\n\nfull_description_text: So, the user was saying that when they get an email with an attachment and someone replies to that email, they can't access the attachment anymore. They have to dig through their inbox to find the original email from the sender, which is a hassle, especially since it’s not always in their inbox. Plus, they mentioned that if they want to delete just one email in a thread, they end up having to delete the whole thread instead, which is super annoying since they only want to keep the latest one.",
+  "short_description": "Can't access email attachments in Outlook thread responses.",
+  "description": "So, the user was saying that when they get an email with an attachment and someone replies to that email, they can't access the attachment anymore. They have to dig through their inbox to find the original email from the sender, which is a hassle, especially since it’s not always in their inbox. Plus, they mentioned that if they want to delete just one email in a thread, they end up having to delete the whole thread instead, which is super annoying since they only want to keep the latest one."
+}

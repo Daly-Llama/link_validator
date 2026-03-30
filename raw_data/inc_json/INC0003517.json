@@ -1,0 +1,20 @@
+{
+  "number": "INC0003517",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07323",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to view a protected or encrypted PDF file.\n\nfull_description_text: \nThe user is trying to access a PDF file that is marked as protected or encrypted. They are unsure how to view this type of document and are seeking assistance. This issue affects both internal and external users who need to access sensitive information.",
+  "short_description": "Unable to view a protected or encrypted PDF file.",
+  "description": "The user is trying to access a PDF file that is marked as protected or encrypted. They are unsure how to view this type of document and are seeking assistance. This issue affects both internal and external users who need to access sensitive information."
+}

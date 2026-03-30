@@ -1,0 +1,20 @@
+{
+  "number": "INC0002280",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB03377",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to deposit funds into Coyote Card account.\n\nfull_description_text: \nUser attempted to add funds to their Coyote card. The website did not display the necessary fields for account information input. They reported receiving an error message stating \"you are not authorized.\" Additionally, there was a notification about a problem with the campus transaction system registration information, prompting the user to verify and register their information. User also mentioned inability to access SNAP services.",
+  "short_description": "Unable to deposit funds into Coyote Card account.",
+  "description": "User attempted to add funds to their Coyote card. The website did not display the necessary fields for account information input. They reported receiving an error message stating \"you are not authorized.\" Additionally, there was a notification about a problem with the campus transaction system registration information, prompting the user to verify and register their information. User also mentioned inability to access SNAP services."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003145",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05913",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues connecting smart devices to the wireless network.\n\nfull_description_text: \nThe user is trying to connect their new Smart TV to the wireless network but is unsure how to do it. They mentioned that their device doesn't have a wired Ethernet port, which makes things a bit tricky. They also expressed some confusion about the Wi-Fi settings, especially since their device doesn't support WPA2 Enterprise. It seems like they just want to enjoy streaming their favorite shows without any hassle!",
+  "short_description": "Issues connecting smart devices to the wireless network.",
+  "description": "The user is trying to connect their new Smart TV to the wireless network but is unsure how to do it. They mentioned that their device doesn't have a wired Ethernet port, which makes things a bit tricky. They also expressed some confusion about the Wi-Fi settings, especially since their device doesn't support WPA2 Enterprise. It seems like they just want to enjoy streaming their favorite shows without any hassle!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002568",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04203",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for software package installation on Lawrence system\n\nfull_description_text:  \nThe user, a field technician, is seeking the installation of a specific software package on the Lawrence system, which operates within the High-Performance Computing (HPC) environment. This request is particularly aimed at enhancing the educational resources available for their students, necessitating the addition of a library to the existing software suite on Lawrence. The technician has not specified the exact software or library required, which may lead to potential delays in processing the request. Furthermore, the implications of this installation on the overall system performance and compatibility with current modules remain uncertain.",
+  "short_description": "Request for software package installation on Lawrence system",
+  "description": "The user, a field technician, is seeking the installation of a specific software package on the Lawrence system, which operates within the High-Performance Computing (HPC) environment. This request is particularly aimed at enhancing the educational resources available for their students, necessitating the addition of a library to the existing software suite on Lawrence. The technician has not specified the exact software or library required, which may lead to potential delays in processing the request. Furthermore, the implications of this installation on the overall system performance and compatibility with current modules remain uncertain."
+}

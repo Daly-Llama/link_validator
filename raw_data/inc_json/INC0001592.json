@@ -1,0 +1,20 @@
+{
+  "number": "INC0001592",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01303",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook login prompts but then freezes and won't respond.\n\nfull_description_text:  \n- Cuando intento iniciar sesión en Outlook, aparece un cuadro para ingresar mi correo.  \n- No puedo continuar porque Outlook no responde.  \n- No puedo configurar Outlook en mi computadora.",
+  "short_description": "Outlook login prompts but then freezes and won't respond.",
+  "description": "- Cuando intento iniciar sesión en Outlook, aparece un cuadro para ingresar mi correo.  \n- No puedo continuar porque Outlook no responde.  \n- No puedo configurar Outlook en mi computadora."
+}

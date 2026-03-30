@@ -1,0 +1,20 @@
+{
+  "number": "INC0004381",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB08926",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to connect to Smart Devices Network due to error.\n\nfull_description_text: I am having trouble connecting to the Smart Devices Network. I received an error message stating that it can't validate the identity provider return message, and the status code is not success. This issue occurred while I was trying to access the network through Wifi.",
+  "short_description": "Unable to connect to Smart Devices Network due to error.",
+  "description": "I am having trouble connecting to the Smart Devices Network. I received an error message stating that it can't validate the identity provider return message, and the status code is not success. This issue occurred while I was trying to access the network through Wifi."
+}

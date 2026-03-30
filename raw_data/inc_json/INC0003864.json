@@ -1,0 +1,20 @@
+{
+  "number": "INC0003864",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB07998",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need shortcut for sharing OneNote notes with others\n\nfull_description_text:  \nI am looking for a specific shortcut in OneNote that allows me to share my notes with other people. While using OneNote, I realized that I don't know the exact key combination or method to quickly share my notes. It would be really helpful to have this shortcut so I can efficiently collaborate with others. If anyone has this information, please let me know.",
+  "short_description": "Need shortcut for sharing OneNote notes with others",
+  "description": "I am looking for a specific shortcut in OneNote that allows me to share my notes with other people. While using OneNote, I realized that I don't know the exact key combination or method to quickly share my notes. It would be really helpful to have this shortcut so I can efficiently collaborate with others. If anyone has this information, please let me know."
+}

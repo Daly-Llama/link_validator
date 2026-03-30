@@ -1,0 +1,20 @@
+{
+  "number": "INC0002869",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB05138",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Audio echo issue during Webex meetings needs adjustment.\n\nfull_description_text: \nThe user reported experiencing a significant audio echo while participating in a Webex meeting, which is causing considerable disruption to the communication flow. They indicated that the echo occurs consistently, making it difficult to engage effectively in discussions. The user is seeking assistance to adjust the audio settings within the Webex application to mitigate this echo issue, which is impacting their overall meeting experience. It is imperative to address this audio concern promptly to ensure seamless interaction during future meetings.",
+  "short_description": "Audio echo issue during Webex meetings needs adjustment.",
+  "description": "The user reported experiencing a significant audio echo while participating in a Webex meeting, which is causing considerable disruption to the communication flow. They indicated that the echo occurs consistently, making it difficult to engage effectively in discussions. The user is seeking assistance to adjust the audio settings within the Webex application to mitigate this echo issue, which is impacting their overall meeting experience. It is imperative to address this audio concern promptly to ensure seamless interaction during future meetings."
+}

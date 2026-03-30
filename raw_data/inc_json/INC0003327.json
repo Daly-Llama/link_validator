@@ -1,0 +1,20 @@
+{
+  "number": "INC0003327",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB06551",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to add confirmed 25Live events to USD Calendar\n\nfull_description_text: \nUser was trying to add events from 25Live to USD Calendar. Events are confirmed but not showing up. There seems to be a sync issue or something. Not sure if it's a permissions thing or a data transfer problem.",
+  "short_description": "Unable to add confirmed 25Live events to USD Calendar",
+  "description": "User was trying to add events from 25Live to USD Calendar. Events are confirmed but not showing up. There seems to be a sync issue or something. Not sure if it's a permissions thing or a data transfer problem."
+}

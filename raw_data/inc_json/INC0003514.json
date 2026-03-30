@@ -1,0 +1,20 @@
+{
+  "number": "INC0003514",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB07306",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about USD policy on remote and alternative work schedules\n\nfull_description_text:\n- User is seeking clarification on the USD policy regarding remote work and alternative work schedules.  \n- They specifically want to know the guidelines for telework and flexible work arrangements.  \n- The inquiry may involve understanding the requirements for Docusign agreement forms related to these work options.",
+  "short_description": "Inquiry about USD policy on remote and alternative work schedules",
+  "description": "- User is seeking clarification on the USD policy regarding remote work and alternative work schedules.  \n- They specifically want to know the guidelines for telework and flexible work arrangements.  \n- The inquiry may involve understanding the requirements for Docusign agreement forms related to these work options."
+}

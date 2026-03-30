@@ -1,0 +1,20 @@
+{
+  "number": "INC0002609",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04346",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help uploading sequencing data to FTP server.\n\nfull_description_text: \nSo, there was this person from the medical school, right? They were trying to upload some sequencing data to an FTP server that the supplier gave them. They mentioned they bought some analysis software and got a link to download it, but they seemed a bit confused about how to actually do the upload part. It was a little tricky for them, and they were looking for some friendly help to get it sorted out.",
+  "short_description": "Need help uploading sequencing data to FTP server.",
+  "description": "So, there was this person from the medical school, right? They were trying to upload some sequencing data to an FTP server that the supplier gave them. They mentioned they bought some analysis software and got a link to download it, but they seemed a bit confused about how to actually do the upload part. It was a little tricky for them, and they were looking for some friendly help to get it sorted out."
+}

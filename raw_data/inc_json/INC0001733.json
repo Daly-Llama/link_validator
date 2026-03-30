@@ -1,0 +1,20 @@
+{
+  "number": "INC0001733",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB01716",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to update Adobe Creative Cloud to 2019 version.\n\nfull_description_text:  \nThe user is inquiring about the possibility of updating the Adobe Creative Cloud software on the desktops located in the graphic design room. They specifically want to know if it is feasible to upgrade to the Adobe CC 2019 version. Additionally, the user mentioned that their supervisor is curious about how the IT department manages to keep all Creative Cloud accounts consistently up to date. This request highlights a need for clarity on the update process for the software used in their work environment.",
+  "short_description": "Request to update Adobe Creative Cloud to 2019 version.",
+  "description": "The user is inquiring about the possibility of updating the Adobe Creative Cloud software on the desktops located in the graphic design room. They specifically want to know if it is feasible to upgrade to the Adobe CC 2019 version. Additionally, the user mentioned that their supervisor is curious about how the IT department manages to keep all Creative Cloud accounts consistently up to date. This request highlights a need for clarity on the update process for the software used in their work environment."
+}

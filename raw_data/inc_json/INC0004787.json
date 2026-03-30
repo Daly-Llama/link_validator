@@ -1,0 +1,20 @@
+{
+  "number": "INC0004787",
+  "category": "Student Services",
+  "subcategory": "Center for Career Design",
+  "correct_kb": "KB10089",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Available career events for students inquiry\n\nfull_description_text: El usuario está buscando información sobre los eventos de carrera disponibles para los estudiantes. Mencionó que no está seguro de qué opciones hay y necesita ayuda para encontrar esa información. Es importante que pueda acceder a estos eventos para su desarrollo profesional.",
+  "short_description": "Available career events for students inquiry",
+  "description": "El usuario está buscando información sobre los eventos de carrera disponibles para los estudiantes. Mencionó que no está seguro de qué opciones hay y necesita ayuda para encontrar esa información. Es importante que pueda acceder a estos eventos para su desarrollo profesional."
+}

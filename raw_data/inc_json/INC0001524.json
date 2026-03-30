@@ -1,0 +1,20 @@
+{
+  "number": "INC0001524",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB01116",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to switch department phones from analog to VoIP\n\nfull_description_text:\n- The department wants to change from old analog phones to new VoIP phones.  \n- They think VoIP is better and want to make the switch.  \n- This is about getting rid of the old phones and using the internet for calls instead.  \n- They are not sure how to do this but really want it done.",
+  "short_description": "Request to switch department phones from analog to VoIP",
+  "description": "- The department wants to change from old analog phones to new VoIP phones.  \n- They think VoIP is better and want to make the switch.  \n- This is about getting rid of the old phones and using the internet for calls instead.  \n- They are not sure how to do this but really want it done."
+}

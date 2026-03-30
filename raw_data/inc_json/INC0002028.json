@@ -1,0 +1,20 @@
+{
+  "number": "INC0002028",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02618",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to send emails via DocuSign due to delivery error.\n\nfull_description_text:  \nI try to send documents using DocuSign but it not work. I get an error message that says the email cannot be delivered. The error says something about the sender email address being rejected. I don’t understand why this is happening and need help to fix it.",
+  "short_description": "Unable to send emails via DocuSign due to delivery error.",
+  "description": "I try to send documents using DocuSign but it not work. I get an error message that says the email cannot be delivered. The error says something about the sender email address being rejected. I don’t understand why this is happening and need help to fix it."
+}

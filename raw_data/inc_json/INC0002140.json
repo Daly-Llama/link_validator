@@ -1,0 +1,20 @@
+{
+  "number": "INC0002140",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02953",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to add user to email group but can't.\n\nfull_description_text:  \nUser wants to add someone to email group.  \nBut they get error message.  \nSays to contact admin first.  \nUser not sure what to do next.",
+  "short_description": "Need to add user to email group but can't.",
+  "description": "User wants to add someone to email group.  \nBut they get error message.  \nSays to contact admin first.  \nUser not sure what to do next."
+}

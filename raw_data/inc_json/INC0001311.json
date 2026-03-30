@@ -1,0 +1,20 @@
+{
+  "number": "INC0001311",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00588",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to upload new Dakota Disc software to the server.\n\nfull_description_text:\n- I have received a new version of the Dakota Disc software that needs to be uploaded to the server.  \n- This software is important for our workstations to function properly and point to the correct version.  \n- I am not entirely sure about the steps involved in the uploading process, but it seems crucial for our operations.  \n- Please assist with this as soon as possible, as it may affect our productivity.",
+  "short_description": "Need to upload new Dakota Disc software to the server.",
+  "description": "- I have received a new version of the Dakota Disc software that needs to be uploaded to the server.  \n- This software is important for our workstations to function properly and point to the correct version.  \n- I am not entirely sure about the steps involved in the uploading process, but it seems crucial for our operations.  \n- Please assist with this as soon as possible, as it may affect our productivity."
+}

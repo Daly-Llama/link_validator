@@ -1,0 +1,20 @@
+{
+  "number": "INC0004513",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09236",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Shared mailbox is almost full and needs more storage.\n\nfull_description_text: We keep getting emails saying our mailbox is almost full. This is our shared office folder and we need to know what options we have to increase storage. It's really important to fix this soon.",
+  "short_description": "Shared mailbox is almost full and needs more storage.",
+  "description": "We keep getting emails saying our mailbox is almost full. This is our shared office folder and we need to know what options we have to increase storage. It's really important to fix this soon."
+}

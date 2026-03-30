@@ -1,0 +1,20 @@
+{
+  "number": "INC0003100",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05769",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with enrolling for electronic W-2 and 1095-C forms\n\nfull_description_text: The user was trying to sign up for receiving their W-2 electronically. They also asked about how to enroll for the electronic 1095-C form. There was confusion during the call, and the user had difficulty understanding the process. The help desk analyst noted the user speaks a different language as their first language, which made communication challenging.",
+  "short_description": "Issues with enrolling for electronic W-2 and 1095-C forms",
+  "description": "The user was trying to sign up for receiving their W-2 electronically. They also asked about how to enroll for the electronic 1095-C form. There was confusion during the call, and the user had difficulty understanding the process. The help desk analyst noted the user speaks a different language as their first language, which made communication challenging."
+}

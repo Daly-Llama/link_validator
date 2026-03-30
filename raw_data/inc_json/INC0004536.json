@@ -1,0 +1,20 @@
+{
+  "number": "INC0004536",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09317",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with Innosoft Fusion software issue at Wellness Center\n\nfull_description_text: \nSo, I was on the phone with the Wellness Center, and they mentioned they’re having some trouble with the Innosoft Fusion software. They really need some support to sort this out, but the details were a bit fuzzy. It sounds like something's not working right, and they’re looking for a fix.",
+  "short_description": "Need help with Innosoft Fusion software issue at Wellness Center",
+  "description": "So, I was on the phone with the Wellness Center, and they mentioned they’re having some trouble with the Innosoft Fusion software. They really need some support to sort this out, but the details were a bit fuzzy. It sounds like something's not working right, and they’re looking for a fix."
+}

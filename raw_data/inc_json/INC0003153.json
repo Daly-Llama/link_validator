@@ -1,0 +1,20 @@
+{
+  "number": "INC0003153",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB05946",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Requesting a feature update for MS Access applications.\n\nfull_description_text:  \nA field technician is seeking to submit a feature request. The request pertains specifically to an MS Access application. The technician is currently utilizing MS SQL Server in conjunction with MS Access. The need for this request arises from observed limitations in the existing application functionality.",
+  "short_description": "Requesting a feature update for MS Access applications.",
+  "description": "A field technician is seeking to submit a feature request. The request pertains specifically to an MS Access application. The technician is currently utilizing MS SQL Server in conjunction with MS Access. The need for this request arises from observed limitations in the existing application functionality."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002796",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04887",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about deadlines for study away applications\n\nfull_description_text:  \nDuring a live chat, the user asked about the deadlines for applying to study away programs. They seemed eager to know when they needed to submit their applications for internships or research opportunities. It was clear they wanted to ensure they didn't miss any important dates related to the Gallagher Center.",
+  "short_description": "Inquiry about deadlines for study away applications",
+  "description": "During a live chat, the user asked about the deadlines for applying to study away programs. They seemed eager to know when they needed to submit their applications for internships or research opportunities. It was clear they wanted to ensure they didn't miss any important dates related to the Gallagher Center."
+}

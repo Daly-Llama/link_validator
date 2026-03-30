@@ -1,0 +1,20 @@
+{
+  "number": "INC0003072",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05711",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inconsistent error when saving files in Windows 10 Office 365.\n\nfull_description_text: So, the user was trying to save a document, you know, after they copied it from an email, and then suddenly, they got this error message. It said something like \"AUTOSAVE FAILED,\" and it was really confusing for them because it doesn't happen all the time, just sometimes, mostly after they do the copy/paste thing. They were told to save to a different file to keep changes, but it was very frustrating, and they didn't understand why it was happening, especially since they are not native English speakers.",
+  "short_description": "Inconsistent error when saving files in Windows 10 Office 365.",
+  "description": "So, the user was trying to save a document, you know, after they copied it from an email, and then suddenly, they got this error message. It said something like \"AUTOSAVE FAILED,\" and it was really confusing for them because it doesn't happen all the time, just sometimes, mostly after they do the copy/paste thing. They were told to save to a different file to keep changes, but it was very frustrating, and they didn't understand why it was happening, especially since they are not native English speakers."
+}

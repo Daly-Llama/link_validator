@@ -1,0 +1,20 @@
+{
+  "number": "INC0001504",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01062",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into Fusion account due to unexpected error.\n\nfull_description_text: The user is having trouble logging into their Fusion account. They mentioned that they can't delete the account because another one already exists. Additionally, they received an error message stating that the website has encountered an unexpected error.",
+  "short_description": "Unable to log into Fusion account due to unexpected error.",
+  "description": "The user is having trouble logging into their Fusion account. They mentioned that they can't delete the account because another one already exists. Additionally, they received an error message stating that the website has encountered an unexpected error."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001109",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00205",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for access to StarRez system.\n\nfull_description_text: User was trying to get into StarRez. They mentioned needing access but didn't have it. The chat was ongoing and they seemed confused about the process. Help desk analyst noted the request for future reference.",
+  "short_description": "Request for access to StarRez system.",
+  "description": "User was trying to get into StarRez. They mentioned needing access but didn't have it. The chat was ongoing and they seemed confused about the process. Help desk analyst noted the request for future reference."
+}

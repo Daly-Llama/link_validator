@@ -1,0 +1,20 @@
+{
+  "number": "INC0003446",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07043",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User needs authentication changes in Tableau.\n\nfull_description_text: So, the user called in asking for some changes to their Tableau authentication. They mentioned they’re having trouble accessing certain features. It seems like they need a quick update to their user permissions or something like that. Just a bit of a hassle for them right now!",
+  "short_description": "User needs authentication changes in Tableau.",
+  "description": "So, the user called in asking for some changes to their Tableau authentication. They mentioned they’re having trouble accessing certain features. It seems like they need a quick update to their user permissions or something like that. Just a bit of a hassle for them right now!"
+}

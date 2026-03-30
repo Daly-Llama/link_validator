@@ -1,0 +1,20 @@
+{
+  "number": "INC0004339",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08776",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about the Active Shooter Response Plan\n\nfull_description_text:  \nSo, I was looking into the Active Shooter - Active Threat Response Plan. I’m not really clear on what it entails and how it’s supposed to work in practice. Can someone break down the key points for me?",
+  "short_description": "Inquiry about the Active Shooter Response Plan",
+  "description": "So, I was looking into the Active Shooter - Active Threat Response Plan. I’m not really clear on what it entails and how it’s supposed to work in practice. Can someone break down the key points for me?"
+}

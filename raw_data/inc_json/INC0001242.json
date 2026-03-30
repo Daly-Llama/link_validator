@@ -1,0 +1,20 @@
+{
+  "number": "INC0001242",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00464",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to connect to Toshiba copier admin page.\n\nfull_description_text: The user was attempting to access the admin page of a Toshiba copier but encountered connectivity issues. Despite following the standard procedure, they were unable to establish a successful connection. This has resulted in a delay in managing the copier settings effectively. Further assistance is needed to resolve this connectivity problem.",
+  "short_description": "Unable to connect to Toshiba copier admin page.",
+  "description": "The user was attempting to access the admin page of a Toshiba copier but encountered connectivity issues. Despite following the standard procedure, they were unable to establish a successful connection. This has resulted in a delay in managing the copier settings effectively. Further assistance is needed to resolve this connectivity problem."
+}

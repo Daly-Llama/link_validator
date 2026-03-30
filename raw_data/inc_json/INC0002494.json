@@ -1,0 +1,20 @@
+{
+  "number": "INC0002494",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03973",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for automation of a new process in software.\n\nfull_description_text:\n- During a live chat session, the user expressed a need for a new automation process.  \n- They indicated that they would like to streamline certain tasks within the software environment.  \n- The request highlights the importance of efficiency and the desire to improve current workflows.  \n- Further details on the specific tasks to be automated were not provided during the chat.",
+  "short_description": "Request for automation of a new process in software.",
+  "description": "- During a live chat session, the user expressed a need for a new automation process.  \n- They indicated that they would like to streamline certain tasks within the software environment.  \n- The request highlights the importance of efficiency and the desire to improve current workflows.  \n- Further details on the specific tasks to be automated were not provided during the chat."
+}

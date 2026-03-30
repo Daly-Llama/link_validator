@@ -1,0 +1,20 @@
+{
+  "number": "INC0001146",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB00290",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to access Finance link in SNAP due to authorization error.\n\nfull_description_text: User try to access Finance link in SNAP but get error. It say CAS service Provider is not authorized. They need help to fix this issue so they can get to the Finance link.",
+  "short_description": "Unable to access Finance link in SNAP due to authorization error.",
+  "description": "User try to access Finance link in SNAP but get error. It say CAS service Provider is not authorized. They need help to fix this issue so they can get to the Finance link."
+}

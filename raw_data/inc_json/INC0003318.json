@@ -1,0 +1,20 @@
+{
+  "number": "INC0003318",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06514",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to sign into Blackboard Transact for Coyote Card funds.\n\nfull_description_text: The user reported difficulties signing into Blackboard Transact while attempting to add funds to their Coyote Card. This issue has prevented them from accessing their account, which is essential for managing their card balance. They expressed frustration during the call, indicating that this problem is impacting their ability to utilize the services effectively. The situation requires immediate attention to resolve the login issue and restore access to the necessary functionalities.",
+  "short_description": "Unable to sign into Blackboard Transact for Coyote Card funds.",
+  "description": "The user reported difficulties signing into Blackboard Transact while attempting to add funds to their Coyote Card. This issue has prevented them from accessing their account, which is essential for managing their card balance. They expressed frustration during the call, indicating that this problem is impacting their ability to utilize the services effectively. The situation requires immediate attention to resolve the login issue and restore access to the necessary functionalities."
+}

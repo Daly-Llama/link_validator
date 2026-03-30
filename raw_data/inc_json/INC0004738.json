@@ -1,0 +1,20 @@
+{
+  "number": "INC0004738",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09890",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Print jobs missing after name change on university computer.\n\nfull_description_text: \nSo, the user changed their name and now they can't see their print jobs in USD Print. It shows their cost center, but no jobs are there. They are using a university owned computer with Windows and Papercut. This is causing some frustration since they need to print stuff.",
+  "short_description": "Print jobs missing after name change on university computer.",
+  "description": "So, the user changed their name and now they can't see their print jobs in USD Print. It shows their cost center, but no jobs are there. They are using a university owned computer with Windows and Papercut. This is causing some frustration since they need to print stuff."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003289",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB06370",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Fujitsu scanner not detecting patchcode pages in ImageNow.\n\nfull_description_text: \nI am trying to use my Fujitsu scanner with ImageNow, but it is not working right. The scanner does not seem to see the patchcode pages that I am trying to use. I have PaperStream IP installed, but still, it just won't detect them. I really need help figuring out why this is happening and how to fix it.",
+  "short_description": "Fujitsu scanner not detecting patchcode pages in ImageNow.",
+  "description": "I am trying to use my Fujitsu scanner with ImageNow, but it is not working right. The scanner does not seem to see the patchcode pages that I am trying to use. I have PaperStream IP installed, but still, it just won't detect them. I really need help figuring out why this is happening and how to fix it."
+}

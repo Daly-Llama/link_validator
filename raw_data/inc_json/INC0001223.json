@@ -1,0 +1,20 @@
+{
+  "number": "INC0001223",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB00416",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to update DocuSign template and remove a user.\n\nfull_description_text:  \n- The user is requesting changes to a DocuSign template.  \n- They want to remove a user and update the vendor template.  \n- The template is missing, and they have attached a form for the update.",
+  "short_description": "Request to update DocuSign template and remove a user.",
+  "description": "- The user is requesting changes to a DocuSign template.  \n- They want to remove a user and update the vendor template.  \n- The template is missing, and they have attached a form for the update."
+}

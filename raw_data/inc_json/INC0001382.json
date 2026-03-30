@@ -1,0 +1,20 @@
+{
+  "number": "INC0001382",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB00723",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to open files in OneDrive due to error 404.\n\nfull_description_text: So, the user was trying to open some files in OneDrive, but they just wouldn't open at all. There’s a red X next to the OneDrive icon, and they mentioned being locked out of it. They got an error saying 404 not found and another message saying, \"Can't open this file. Make sure OneDrive - The University of South Dakota is running on your PC, then try again.\" It seems like something is really wrong with their OneDrive access.",
+  "short_description": "Unable to open files in OneDrive due to error 404.",
+  "description": "So, the user was trying to open some files in OneDrive, but they just wouldn't open at all. There’s a red X next to the OneDrive icon, and they mentioned being locked out of it. They got an error saying 404 not found and another message saying, \"Can't open this file. Make sure OneDrive - The University of South Dakota is running on your PC, then try again.\" It seems like something is really wrong with their OneDrive access."
+}

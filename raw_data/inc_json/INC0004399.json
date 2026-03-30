@@ -1,0 +1,20 @@
+{
+  "number": "INC0004399",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08950",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy for application software.\n\nfull_description_text: The user is asking about the security policy for application software. They are not sure what the rules are under CIS Control 16. The call was made to the help desk, and the user seems confused about the details. They speak another language, so communication is a bit difficult.",
+  "short_description": "Inquiry about USD security policy for application software.",
+  "description": "The user is asking about the security policy for application software. They are not sure what the rules are under CIS Control 16. The call was made to the help desk, and the user seems confused about the details. They speak another language, so communication is a bit difficult."
+}

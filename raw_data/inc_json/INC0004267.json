@@ -1,0 +1,20 @@
+{
+  "number": "INC0004267",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB08656",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble picking up my student Game Day ticket in Paciolan\n\nfull_description_text:  \nSo, I was trying to grab my student Game Day ticket, right? But when I went to Paciolan, it just wasn’t working out. I mean, I thought it would be easy, but it turned into a bit of a hassle. Just wanted to enjoy the game!",
+  "short_description": "Trouble picking up my student Game Day ticket in Paciolan",
+  "description": "So, I was trying to grab my student Game Day ticket, right? But when I went to Paciolan, it just wasn’t working out. I mean, I thought it would be easy, but it turned into a bit of a hassle. Just wanted to enjoy the game!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003352",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06632",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Webcam not working in Zoom and Google Meet apps.\n\nfull_description_text:  \nSo, the webcam on the laptop is acting up. It works fine when you just hit the camera, but when trying to use it in Zoom or Google Meet, it just doesn’t work at all. It’s really frustrating because it’s like it’s only half working, you know?",
+  "short_description": "Webcam not working in Zoom and Google Meet apps.",
+  "description": "So, the webcam on the laptop is acting up. It works fine when you just hit the camera, but when trying to use it in Zoom or Google Meet, it just doesn’t work at all. It’s really frustrating because it’s like it’s only half working, you know?"
+}

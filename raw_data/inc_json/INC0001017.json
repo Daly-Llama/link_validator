@@ -1,0 +1,20 @@
+{
+  "number": "INC0001017",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00032",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with printing to the multifunction copier using USD Print.\n\nfull_description_text: \nThe user was trying to print something using the USD Print system. They were not sure what USD Print is or how to print with it. There seems to be confusion about the process of printing to the multifunction copier. The user is a student, faculty, or staff member needing assistance with this printing issue.",
+  "short_description": "Issues with printing to the multifunction copier using USD Print.",
+  "description": "The user was trying to print something using the USD Print system. They were not sure what USD Print is or how to print with it. There seems to be confusion about the process of printing to the multifunction copier. The user is a student, faculty, or staff member needing assistance with this printing issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002848",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05081",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Zoom client requires an update on Windows and Mac OS.\n\nfull_description_text:\n- The user reported that the Zoom client is outdated and needs to be updated to the latest version.  \n- This issue was identified during a live phone call with the help desk analyst, who confirmed the user's operating system is either Windows 10, Windows 11, or Mac OS.  \n- The user expressed concern about potential functionality issues due to the outdated client, emphasizing the importance of having the latest features and security updates.",
+  "short_description": "Zoom client requires an update on Windows and Mac OS.",
+  "description": "- The user reported that the Zoom client is outdated and needs to be updated to the latest version.  \n- This issue was identified during a live phone call with the help desk analyst, who confirmed the user's operating system is either Windows 10, Windows 11, or Mac OS.  \n- The user expressed concern about potential functionality issues due to the outdated client, emphasizing the importance of having the latest features and security updates."
+}

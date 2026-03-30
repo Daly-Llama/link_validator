@@ -1,0 +1,20 @@
+{
+  "number": "INC0001484",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00999",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to log into Milestone XProtect Smart Client.\n\nfull_description_text: User trying to access XProtect Smart Client. They receive an error message about username/password. User is unsure if credentials are correct. This issue is preventing access to the camera system.",
+  "short_description": "Unable to log into Milestone XProtect Smart Client.",
+  "description": "User trying to access XProtect Smart Client. They receive an error message about username/password. User is unsure if credentials are correct. This issue is preventing access to the camera system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002344",
+  "category": "Business Office",
+  "subcategory": "Business Office",
+  "correct_kb": "KB03577",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing billing statement in SDePay system.\n\nfull_description_text: \nDuring a recent phone call, the user expressed their frustration regarding the inability to view their billing statement within the SDePay platform. They were attempting to navigate the Banner Self-Service interface but encountered obstacles that prevented them from accessing the necessary information. The user was particularly concerned about the clarity of their billing details, which they needed for personal record-keeping. This situation has led to a sense of urgency, as they require this information promptly for their financial planning.",
+  "short_description": "Difficulty accessing billing statement in SDePay system.",
+  "description": "During a recent phone call, the user expressed their frustration regarding the inability to view their billing statement within the SDePay platform. They were attempting to navigate the Banner Self-Service interface but encountered obstacles that prevented them from accessing the necessary information. The user was particularly concerned about the clarity of their billing details, which they needed for personal record-keeping. This situation has led to a sense of urgency, as they require this information promptly for their financial planning."
+}

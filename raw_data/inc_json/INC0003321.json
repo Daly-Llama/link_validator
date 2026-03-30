@@ -1,0 +1,20 @@
+{
+  "number": "INC0003321",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06518",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Update needed for Salesforce Application Interface for new application cycle\n\nfull_description_text:\n- So, there's a new application cycle starting, right?  \n- We need to update the Salesforce Application Interface for this year.  \n- It's for WebAdmit, CommonApp Controlcenter, and Jitterbit.  \n- Just making sure everything is ready for the new year!",
+  "short_description": "Update needed for Salesforce Application Interface for new application cycle",
+  "description": "- So, there's a new application cycle starting, right?  \n- We need to update the Salesforce Application Interface for this year.  \n- It's for WebAdmit, CommonApp Controlcenter, and Jitterbit.  \n- Just making sure everything is ready for the new year!"
+}

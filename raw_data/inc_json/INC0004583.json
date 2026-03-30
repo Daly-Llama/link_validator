@@ -1,0 +1,20 @@
+{
+  "number": "INC0004583",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB09407",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues setting up MFA/2FA for D2L accounts.\n\nfull_description_text:  \nUser trying to set up Multi-Factor Authentication for D2L accounts.  \nNeed to enable MFA or 2FA for Dept Head or Admin accounts.  \nNot sure how to proceed with DuoMobile integration.  \nConfused about the steps and requirements for proper setup.",
+  "short_description": "Issues setting up MFA/2FA for D2L accounts.",
+  "description": "User trying to set up Multi-Factor Authentication for D2L accounts.  \nNeed to enable MFA or 2FA for Dept Head or Admin accounts.  \nNot sure how to proceed with DuoMobile integration.  \nConfused about the steps and requirements for proper setup."
+}

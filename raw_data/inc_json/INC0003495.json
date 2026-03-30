@@ -1,0 +1,20 @@
+{
+  "number": "INC0003495",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07242",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to find import option for questions in Respondus.\n\nfull_description_text: \nSo, the user was trying to use Respondus to upload questions for their class after downloading it. They mentioned that everything seemed to download fine, but now they're stuck because they can't find where to import their Word document with the questions. It's a bit frustrating for them, and they just need some guidance on how to get that part sorted out.",
+  "short_description": "Unable to find import option for questions in Respondus.",
+  "description": "So, the user was trying to use Respondus to upload questions for their class after downloading it. They mentioned that everything seemed to download fine, but now they're stuck because they can't find where to import their Word document with the questions. It's a bit frustrating for them, and they just need some guidance on how to get that part sorted out."
+}

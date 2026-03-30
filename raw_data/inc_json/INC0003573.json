@@ -1,0 +1,20 @@
+{
+  "number": "INC0003573",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB07543",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Survey shows results but can't retrieve them.\n\nfull_description_text: So, the user was trying to check their survey results, right? But they got this message saying they either finished the survey already or their session expired. It's kinda weird because the results are there, but they just can't get them. Just a bit frustrating, I guess!",
+  "short_description": "Survey shows results but can't retrieve them.",
+  "description": "So, the user was trying to check their survey results, right? But they got this message saying they either finished the survey already or their session expired. It's kinda weird because the results are there, but they just can't get them. Just a bit frustrating, I guess!"
+}

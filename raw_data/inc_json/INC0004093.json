@@ -1,0 +1,20 @@
+{
+  "number": "INC0004093",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB08352",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issue with submitting study abroad participants list to ITS\n\nfull_description_text:  \nThe user called about submitting a list of students. This list includes participants for summer, fall, and academic year study abroad programs. They mentioned it was attached but were unsure if it went through. The Gallagher International Center is involved in this process.",
+  "short_description": "Issue with submitting study abroad participants list to ITS",
+  "description": "The user called about submitting a list of students. This list includes participants for summer, fall, and academic year study abroad programs. They mentioned it was attached but were unsure if it went through. The Gallagher International Center is involved in this process."
+}

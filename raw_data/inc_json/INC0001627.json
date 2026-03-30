@@ -1,0 +1,20 @@
+{
+  "number": "INC0001627",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01413",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: SPSS license expired, unable to access software.\n\nfull_description_text:  \nSo, I tried to open SPSS 25 on my work computer, right? And then boom, it says the license is expired. Like, seriously? I got this error message pop up about needing the license manager's name or IP address. I was just trying to do some stats work, and now I'm stuck. It's super frustrating!",
+  "short_description": "SPSS license expired, unable to access software.",
+  "description": "So, I tried to open SPSS 25 on my work computer, right? And then boom, it says the license is expired. Like, seriously? I got this error message pop up about needing the license manager's name or IP address. I was just trying to do some stats work, and now I'm stuck. It's super frustrating!"
+}

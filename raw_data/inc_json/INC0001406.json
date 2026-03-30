@@ -1,0 +1,20 @@
+{
+  "number": "INC0001406",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00776",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Phish Alert button missing in Outlook email client.\n\nfull_description_text: The user reported that the Phish Alert button is not visible in their Outlook. They mentioned receiving an error about needing a valid authentication token for the button to work. This issue occurred while they were checking their emails, and they seemed unsure about the mail server settings.",
+  "short_description": "Phish Alert button missing in Outlook email client.",
+  "description": "The user reported that the Phish Alert button is not visible in their Outlook. They mentioned receiving an error about needing a valid authentication token for the button to work. This issue occurred while they were checking their emails, and they seemed unsure about the mail server settings."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003899",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB08045",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to determine room capacity in 25Live.\n\nfull_description_text: The user is trying to find out the capacity of a specific room in 25Live. They are looking for a way to check this information but are currently unable to do so. This issue may affect their ability to plan events or manage space effectively.",
+  "short_description": "Unable to determine room capacity in 25Live.",
+  "description": "The user is trying to find out the capacity of a specific room in 25Live. They are looking for a way to check this information but are currently unable to do so. This issue may affect their ability to plan events or manage space effectively."
+}

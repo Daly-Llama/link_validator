@@ -1,0 +1,20 @@
+{
+  "number": "INC0001231",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00433",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Computer fails to boot into Windows, showing errors.\n\nfull_description_text: \nThe field technician reported that the computer is not able to boot into Windows. When attempting to start the system, it displays an error message indicating that there is a missing operating system. Additionally, the startup repair process does not resolve the issue, and the user is unable to log on to the system. This situation is causing significant disruption, as the technician is unable to access the necessary files and applications on the device.",
+  "short_description": "Computer fails to boot into Windows, showing errors.",
+  "description": "The field technician reported that the computer is not able to boot into Windows. When attempting to start the system, it displays an error message indicating that there is a missing operating system. Additionally, the startup repair process does not resolve the issue, and the user is unable to log on to the system. This situation is causing significant disruption, as the technician is unable to access the necessary files and applications on the device."
+}

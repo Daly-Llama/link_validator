@@ -1,0 +1,20 @@
+{
+  "number": "INC0001429",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00837",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Monitor changes colors and then goes black unexpectedly.\n\nfull_description_text: The monitor is acting strange. It changes colors and then just goes black. Sometimes the screen locks out too. This is happening while using it, and it's really confusing.",
+  "short_description": "Monitor changes colors and then goes black unexpectedly.",
+  "description": "The monitor is acting strange. It changes colors and then just goes black. Sometimes the screen locks out too. This is happening while using it, and it's really confusing."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003997",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08216",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble using the Library's new DSRS VR Lab with HTC VIVE Pro 2\n\nfull_description_text:  \nSo, the user was trying to figure out how to use the new VR Lab at the Library, right? They mentioned something about the HTC VIVE Pro 2 headset and SteamVR, but it just wasn't working for them. It sounded like they were a bit lost on what to do next.",
+  "short_description": "Trouble using the Library's new DSRS VR Lab with HTC VIVE Pro 2",
+  "description": "So, the user was trying to figure out how to use the new VR Lab at the Library, right? They mentioned something about the HTC VIVE Pro 2 headset and SteamVR, but it just wasn't working for them. It sounded like they were a bit lost on what to do next."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003625",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07743",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: How to add a comment in Google Docs?\n\nfull_description_text:  \n- I need help with adding a comment on a Google Doc.  \n- I don't know how to do it and it's really confusing.  \n- Can someone please explain the steps to me?",
+  "short_description": "How to add a comment in Google Docs?",
+  "description": "- I need help with adding a comment on a Google Doc.  \n- I don't know how to do it and it's really confusing.  \n- Can someone please explain the steps to me?"
+}

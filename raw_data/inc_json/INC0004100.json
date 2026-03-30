@@ -1,0 +1,20 @@
+{
+  "number": "INC0004100",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08363",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty rotating images in Microsoft Word.\n\nfull_description_text: The user was attempting to rotate pictures within a Word document. They expressed frustration over not being able to find the correct option to achieve this. During the call, they described their actions in detail, mentioning various menus and tools they navigated through. The issue seems to stem from a lack of clarity on the rotation feature's location and functionality in the software.",
+  "short_description": "Difficulty rotating images in Microsoft Word.",
+  "description": "The user was attempting to rotate pictures within a Word document. They expressed frustration over not being able to find the correct option to achieve this. During the call, they described their actions in detail, mentioning various menus and tools they navigated through. The issue seems to stem from a lack of clarity on the rotation feature's location and functionality in the software."
+}

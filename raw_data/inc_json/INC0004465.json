@@ -1,0 +1,20 @@
+{
+  "number": "INC0004465",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09131",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to log in to B-Line system for nursing.\n\nfull_description_text:  \nWhile attempting to access the B-Line system for nursing, I encountered an error that prevented me from signing in. This issue arose during a routine check of patient records, which is critical for my daily tasks. I have ensured that my credentials are correct, but the system continues to reject my login attempts. This situation is causing delays in my workflow and needs urgent attention.",
+  "short_description": "Unable to log in to B-Line system for nursing.",
+  "description": "While attempting to access the B-Line system for nursing, I encountered an error that prevented me from signing in. This issue arose during a routine check of patient records, which is critical for my daily tasks. I have ensured that my credentials are correct, but the system continues to reject my login attempts. This situation is causing delays in my workflow and needs urgent attention."
+}

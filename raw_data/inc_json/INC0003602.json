@@ -1,0 +1,20 @@
+{
+  "number": "INC0003602",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB07709",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the Zoom application and its functionalities.\n\nfull_description_text:  \nThe user is seeking information regarding the Zoom application. They have submitted a request to understand what Zoom is and what functionalities it offers. This inquiry suggests that the user may be unfamiliar with the platform and its capabilities, which could impact their ability to utilize it effectively. The request highlights a need for clarity on the application’s purpose and features.",
+  "short_description": "Inquiry about the Zoom application and its functionalities.",
+  "description": "The user is seeking information regarding the Zoom application. They have submitted a request to understand what Zoom is and what functionalities it offers. This inquiry suggests that the user may be unfamiliar with the platform and its capabilities, which could impact their ability to utilize it effectively. The request highlights a need for clarity on the application’s purpose and features."
+}

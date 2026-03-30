@@ -1,0 +1,20 @@
+{
+  "number": "INC0001955",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02396",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need list of users with access to X: Drive.\n\nfull_description_text:  \nI’m trying to find out who can access the X: Drive. Can you help me get a list of users who have access to the share drive? Also, I need to know who can access the individual folders inside the share drive too. It’s important for me to have this info.",
+  "short_description": "Need list of users with access to X: Drive.",
+  "description": "I’m trying to find out who can access the X: Drive. Can you help me get a list of users who have access to the share drive? Also, I need to know who can access the individual folders inside the share drive too. It’s important for me to have this info."
+}

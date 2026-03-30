@@ -1,0 +1,20 @@
+{
+  "number": "INC0002977",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05439",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error logging into USDFit mobile app due to ID mismatch.\n\nfull_description_text: \nThe user encountered an error while attempting to log into the USDFit mobile app, specifically receiving a message indicating that the system was unable to find a user matching the provided ID. This issue arose during the login process for accessing My Membership features. The user was likely trying to access their account information or services when this error occurred, preventing them from proceeding further.",
+  "short_description": "Error logging into USDFit mobile app due to ID mismatch.",
+  "description": "The user encountered an error while attempting to log into the USDFit mobile app, specifically receiving a message indicating that the system was unable to find a user matching the provided ID. This issue arose during the login process for accessing My Membership features. The user was likely trying to access their account information or services when this error occurred, preventing them from proceeding further."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003741",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07866",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to open existing Excel workbook from previous version.\n\nfull_description_text: User is trying to access a workbook made in an older Excel version. They can't seem to get it open. This is causing delays in their work, and they need it sorted out quickly.",
+  "short_description": "Unable to open existing Excel workbook from previous version.",
+  "description": "User is trying to access a workbook made in an older Excel version. They can't seem to get it open. This is causing delays in their work, and they need it sorted out quickly."
+}

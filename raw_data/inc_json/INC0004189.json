@@ -1,0 +1,20 @@
+{
+  "number": "INC0004189",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08491",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about who is eligible to submit proposals.\n\nfull_description_text:\n- Caller is unsure about the eligibility criteria for proposal submissions.  \n- They mentioned needing clarity on who can actually submit their proposal.  \n- The conversation was a bit disjointed, and there were some interruptions.  \n- They seemed to be in a hurry, which might have affected the details shared.",
+  "short_description": "Confusion about who is eligible to submit proposals.",
+  "description": "- Caller is unsure about the eligibility criteria for proposal submissions.  \n- They mentioned needing clarity on who can actually submit their proposal.  \n- The conversation was a bit disjointed, and there were some interruptions.  \n- They seemed to be in a hurry, which might have affected the details shared."
+}

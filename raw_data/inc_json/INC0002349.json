@@ -1,0 +1,20 @@
+{
+  "number": "INC0002349",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB03586",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Questions about applying for a housing exemption and approval likelihood.\n\nfull_description_text: \nThe user was inquiring about the process of applying for a housing exemption. They expressed uncertainty about not wanting to live on campus and wanted to know what a housing exemption entails. Additionally, they were curious about the chances of their exemption being approved.",
+  "short_description": "Questions about applying for a housing exemption and approval likelihood.",
+  "description": "The user was inquiring about the process of applying for a housing exemption. They expressed uncertainty about not wanting to live on campus and wanted to know what a housing exemption entails. Additionally, they were curious about the chances of their exemption being approved."
+}

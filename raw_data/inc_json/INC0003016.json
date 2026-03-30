@@ -1,0 +1,20 @@
+{
+  "number": "INC0003016",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05551",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help enabling Zoom waiting room or passcode feature.\n\nfull_description_text: \nSo, the user was trying to set up a Zoom meeting and asked how to enable the waiting room or passcode feature. They were on the call and seemed a bit confused about the settings. They really need to know how to do this to secure their meetings properly.",
+  "short_description": "Need help enabling Zoom waiting room or passcode feature.",
+  "description": "So, the user was trying to set up a Zoom meeting and asked how to enable the waiting room or passcode feature. They were on the call and seemed a bit confused about the settings. They really need to know how to do this to secure their meetings properly."
+}

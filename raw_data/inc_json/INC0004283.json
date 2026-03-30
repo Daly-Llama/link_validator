@@ -1,0 +1,20 @@
+{
+  "number": "INC0004283",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08686",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with maintaining F1/J1 visa status requirements.\n\nfull_description_text: \nI’m not really sure what I need to do to keep my visa status. Like, I heard there are rules or something for F1 and J1 students, but it’s all kinda confusing. Do I have to fill out forms or report to someone? I just want to make sure I don’t mess it up and lose my status.",
+  "short_description": "Need help with maintaining F1/J1 visa status requirements.",
+  "description": "I’m not really sure what I need to do to keep my visa status. Like, I heard there are rules or something for F1 and J1 students, but it’s all kinda confusing. Do I have to fill out forms or report to someone? I just want to make sure I don’t mess it up and lose my status."
+}

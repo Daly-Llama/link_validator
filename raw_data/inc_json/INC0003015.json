@@ -1,0 +1,20 @@
+{
+  "number": "INC0003015",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05548",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to edit a Zoom recording before sharing it.\n\nfull_description_text:  \nSo, the user was trying to share a Zoom recording but realized they wanted to trim it first. They mentioned wanting to edit it a bit before sending it out. It seems like they’re looking for a way to make those adjustments easily.",
+  "short_description": "Need to edit a Zoom recording before sharing it.",
+  "description": "So, the user was trying to share a Zoom recording but realized they wanted to trim it first. They mentioned wanting to edit it a bit before sending it out. It seems like they’re looking for a way to make those adjustments easily."
+}

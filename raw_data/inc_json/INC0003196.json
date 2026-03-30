@@ -1,0 +1,20 @@
+{
+  "number": "INC0003196",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB06088",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble connecting Cisco 730 Headset to Cisco 8851 VOIP phone\n\nfull_description_text:  \nI'm trying to connect my Cisco 730 Headset to my Cisco 8851 VOIP phone, but it's just not working. I also want to use it with my desktop, but I can't figure out how to make that happen. It feels like I'm missing something simple, but I can't seem to get it right.",
+  "short_description": "Trouble connecting Cisco 730 Headset to Cisco 8851 VOIP phone",
+  "description": "I'm trying to connect my Cisco 730 Headset to my Cisco 8851 VOIP phone, but it's just not working. I also want to use it with my desktop, but I can't figure out how to make that happen. It feels like I'm missing something simple, but I can't seem to get it right."
+}

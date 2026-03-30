@@ -1,0 +1,20 @@
+{
+  "number": "INC0001673",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01566",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coordination needed for statewide system technical calls\n\nfull_description_text:\n- Technical calls are essential for coordinating statewide systems.  \n- These calls facilitate communication and decision-making among various platforms like Banner HR and D2L.  \n- Without proper guidance, issues may arise in the integration of these systems.  \n- It's crucial to ensure all stakeholders are involved in these discussions.",
+  "short_description": "Coordination needed for statewide system technical calls",
+  "description": "- Technical calls are essential for coordinating statewide systems.  \n- These calls facilitate communication and decision-making among various platforms like Banner HR and D2L.  \n- Without proper guidance, issues may arise in the integration of these systems.  \n- It's crucial to ensure all stakeholders are involved in these discussions."
+}

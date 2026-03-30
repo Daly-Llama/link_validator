@@ -1,0 +1,20 @@
+{
+  "number": "INC0002124",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB02908",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Zoom Cloud Recordings not capturing shared screen during meetings.\n\nfull_description_text: \nThe user was trying to record a Zoom meeting to the cloud but noticed that the shared screen wasn't being captured in the recording. They were unsure how long the recordings would remain active in the cloud and were looking for clarification on how the cloud recording feature works. This issue seems to be affecting their ability to review the meeting later.",
+  "short_description": "Zoom Cloud Recordings not capturing shared screen during meetings.",
+  "description": "The user was trying to record a Zoom meeting to the cloud but noticed that the shared screen wasn't being captured in the recording. They were unsure how long the recordings would remain active in the cloud and were looking for clarification on how the cloud recording feature works. This issue seems to be affecting their ability to review the meeting later."
+}

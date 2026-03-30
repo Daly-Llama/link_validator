@@ -1,0 +1,20 @@
+{
+  "number": "INC0004213",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08555",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty in developing a budget for research proposal submission.\n\nfull_description_text: The user is seeking guidance on how to create a budget for their research proposal. They are also inquiring about the location of the ORSP Budget Template. This indicates a need for clarity on budget development processes within the Office of Research & Sponsored Programs.",
+  "short_description": "Difficulty in developing a budget for research proposal submission.",
+  "description": "The user is seeking guidance on how to create a budget for their research proposal. They are also inquiring about the location of the ORSP Budget Template. This indicates a need for clarity on budget development processes within the Office of Research & Sponsored Programs."
+}

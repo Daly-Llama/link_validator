@@ -1,0 +1,20 @@
+{
+  "number": "INC0001481",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00992",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Listserv messages are not being sent to subscribers.\n\nfull_description_text: \nListserv emails are not going out. \nI got errors saying the message is too big. \nSome addresses are bad or there is a mail loop. \nSubscribers are not receiving anything.",
+  "short_description": "Listserv messages are not being sent to subscribers.",
+  "description": "Listserv emails are not going out. \nI got errors saying the message is too big. \nSome addresses are bad or there is a mail loop. \nSubscribers are not receiving anything."
+}

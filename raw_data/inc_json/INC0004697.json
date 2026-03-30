@@ -1,0 +1,20 @@
+{
+  "number": "INC0004697",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB09804",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: 3rd party browser is unsupported or blocked in the environment.\n\nfull_description_text:  \nThe user is trying to access a service using a 3rd party browser. They are receiving a message that the browser is not supported or is blocked. This issue is happening on both Windows and MAC systems, and it relates to data protection policies in place.",
+  "short_description": "3rd party browser is unsupported or blocked in the environment.",
+  "description": "The user is trying to access a service using a 3rd party browser. They are receiving a message that the browser is not supported or is blocked. This issue is happening on both Windows and MAC systems, and it relates to data protection policies in place."
+}

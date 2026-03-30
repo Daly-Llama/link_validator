@@ -1,0 +1,20 @@
+{
+  "number": "INC0003065",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB05698",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to switch from personal to USD Google Account.\n\nfull_description_text:\n- The user is trying to switch Google accounts.  \n- They want to change from their personal account to their USD account.  \n- This issue is occurring within Google Apps.",
+  "short_description": "Unable to switch from personal to USD Google Account.",
+  "description": "- The user is trying to switch Google accounts.  \n- They want to change from their personal account to their USD account.  \n- This issue is occurring within Google Apps."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004145",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08420",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about proper etiquette for PowerPoint presentations\n\nfull_description_text:  \nThe user is seeking guidance on the appropriate etiquette to follow during PowerPoint presentations. They are unsure about the best practices and standards that should be adhered to while presenting. This inquiry suggests a need for clarity on presentation norms, which can significantly impact audience engagement and overall effectiveness. Understanding these etiquettes is crucial for delivering a professional and polished presentation.",
+  "short_description": "Inquiry about proper etiquette for PowerPoint presentations",
+  "description": "The user is seeking guidance on the appropriate etiquette to follow during PowerPoint presentations. They are unsure about the best practices and standards that should be adhered to while presenting. This inquiry suggests a need for clarity on presentation norms, which can significantly impact audience engagement and overall effectiveness. Understanding these etiquettes is crucial for delivering a professional and polished presentation."
+}

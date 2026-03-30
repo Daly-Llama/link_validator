@@ -1,0 +1,20 @@
+{
+  "number": "INC0001284",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00545",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop display fails to wake up from sleep mode.\n\nfull_description_text:  \n- The user reported that their laptop screen does not wake up when they try to log in.  \n- They mentioned having to restart the computer every time to regain visibility.  \n- Additionally, the user is experiencing issues with screen visibility being extremely poor upon startup.  \n- They also requested assistance with setting up two other monitors in their office, which may be related to the display issues.",
+  "short_description": "Laptop display fails to wake up from sleep mode.",
+  "description": "- The user reported that their laptop screen does not wake up when they try to log in.  \n- They mentioned having to restart the computer every time to regain visibility.  \n- Additionally, the user is experiencing issues with screen visibility being extremely poor upon startup.  \n- They also requested assistance with setting up two other monitors in their office, which may be related to the display issues."
+}

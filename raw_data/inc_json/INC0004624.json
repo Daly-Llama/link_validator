@@ -1,0 +1,20 @@
+{
+  "number": "INC0004624",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09522",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about software development policy in the organization\n\nfull_description_text:  \nSo, I was on the phone with a user who was really curious about whether there’s a specific policy for software development in our organization. They seemed a bit confused and wanted to know if there are any guidelines or rules we follow when creating software. It was like they were trying to figure out if there’s a formal process or just some loose ideas floating around. They mentioned that they thought it was important to have something written down, you know, to keep things clear and organized.",
+  "short_description": "Inquiry about software development policy in the organization",
+  "description": "So, I was on the phone with a user who was really curious about whether there’s a specific policy for software development in our organization. They seemed a bit confused and wanted to know if there are any guidelines or rules we follow when creating software. It was like they were trying to figure out if there’s a formal process or just some loose ideas floating around. They mentioned that they thought it was important to have something written down, you know, to keep things clear and organized."
+}

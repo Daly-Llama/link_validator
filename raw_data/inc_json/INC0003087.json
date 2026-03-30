@@ -1,0 +1,20 @@
+{
+  "number": "INC0003087",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05734",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Sick leave eligibility for school or daycare closures inquiry\n\nfull_description_text: \nThe user was asking if they can use sick leave when their child's school or daycare is closed. They were not sure if this situation qualifies under the sick leave policy. The conversation was a bit difficult due to language barriers, and the user seemed confused about the rules regarding family care leave.",
+  "short_description": "Sick leave eligibility for school or daycare closures inquiry",
+  "description": "The user was asking if they can use sick leave when their child's school or daycare is closed. They were not sure if this situation qualifies under the sick leave policy. The conversation was a bit difficult due to language barriers, and the user seemed confused about the rules regarding family care leave."
+}

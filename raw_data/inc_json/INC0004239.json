@@ -1,0 +1,20 @@
+{
+  "number": "INC0004239",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08595",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about building's evacuation and severe weather plan.\n\nfull_description_text:  \nThe field technician is seeking clarification on the evacuation plan for their building, specifically in relation to severe weather events. They need to understand the procedures in place to ensure safety during such occurrences. This information is crucial for compliance and preparedness in emergency situations.",
+  "short_description": "Inquiry about building's evacuation and severe weather plan.",
+  "description": "The field technician is seeking clarification on the evacuation plan for their building, specifically in relation to severe weather events. They need to understand the procedures in place to ensure safety during such occurrences. This information is crucial for compliance and preparedness in emergency situations."
+}

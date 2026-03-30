@@ -1,0 +1,20 @@
+{
+  "number": "INC0002454",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03888",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to connect to Eduroam on personal laptop.\n\nfull_description_text:  \nThe user is having trouble connecting to the Eduroam network on their personal laptop. They keep receiving an error message that says, \"Please come back later,\" in multiple languages. This issue is occurring on both macOS and Windows environments, which adds to the frustration. It seems like a persistent connectivity problem that needs to be addressed.",
+  "short_description": "Unable to connect to Eduroam on personal laptop.",
+  "description": "The user is having trouble connecting to the Eduroam network on their personal laptop. They keep receiving an error message that says, \"Please come back later,\" in multiple languages. This issue is occurring on both macOS and Windows environments, which adds to the frustration. It seems like a persistent connectivity problem that needs to be addressed."
+}

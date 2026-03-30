@@ -1,0 +1,20 @@
+{
+  "number": "INC0002353",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB03590",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into myUSD Portal due to incorrect credentials.\n\nfull_description_text: The user is experiencing difficulties with logging into the myUSD Portal. They reported receiving an error message indicating that their username and/or password is incorrect. This situation arose during a live phone call with the help desk, where the user expressed frustration and confusion regarding the login process. It is important to note that the user’s first language is not English, which may contribute to the communication challenges.",
+  "short_description": "Unable to log into myUSD Portal due to incorrect credentials.",
+  "description": "The user is experiencing difficulties with logging into the myUSD Portal. They reported receiving an error message indicating that their username and/or password is incorrect. This situation arose during a live phone call with the help desk, where the user expressed frustration and confusion regarding the login process. It is important to note that the user’s first language is not English, which may contribute to the communication challenges."
+}

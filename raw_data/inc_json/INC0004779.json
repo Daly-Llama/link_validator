@@ -1,0 +1,20 @@
+{
+  "number": "INC0004779",
+  "category": "Health Sciences",
+  "subcategory": "Health Sciences",
+  "correct_kb": "KB10057",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty applying to the USD RN to BSN Nursing Program\n\nfull_description_text:  \nI am trying to figure out how to apply for the USD RN to BSN program. I need guidance on the application process but I'm not sure where to start. It seems like there are steps I need to follow, but I can't find clear instructions.",
+  "short_description": "Difficulty applying to the USD RN to BSN Nursing Program",
+  "description": "I am trying to figure out how to apply for the USD RN to BSN program. I need guidance on the application process but I'm not sure where to start. It seems like there are steps I need to follow, but I can't find clear instructions."
+}

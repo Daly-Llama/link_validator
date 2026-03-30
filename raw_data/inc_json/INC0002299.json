@@ -1,0 +1,20 @@
+{
+  "number": "INC0002299",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03465",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for IT setup session for incoming PA students\n\nfull_description_text: \nThe user is requesting an IT setup session. This is for incoming PA students during Orientation Week. They want the session to be held in the Lee Med building. The students will be using their personal laptops for this session.",
+  "short_description": "Request for IT setup session for incoming PA students",
+  "description": "The user is requesting an IT setup session. This is for incoming PA students during Orientation Week. They want the session to be held in the Lee Med building. The students will be using their personal laptops for this session."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003689",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07808",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to change question type in Google Forms.\n\nfull_description_text:  \n- So, I was on the phone with a user who was trying to change the question type in Google Forms.  \n- They were really confused about how to do it and kept asking for help.  \n- It seems like they just couldn't find the option to switch the question type, which is super frustrating!  \n- We need to figure out why they can't change it and help them out.",
+  "short_description": "Unable to change question type in Google Forms.",
+  "description": "- So, I was on the phone with a user who was trying to change the question type in Google Forms.  \n- They were really confused about how to do it and kept asking for help.  \n- It seems like they just couldn't find the option to switch the question type, which is super frustrating!  \n- We need to figure out why they can't change it and help them out."
+}

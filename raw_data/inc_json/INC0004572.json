@@ -1,0 +1,20 @@
+{
+  "number": "INC0004572",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09385",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Question about using accommodations for specific classes only.\n\nfull_description_text:  \nI am wondering if I can use accommodations just for some of my classes. I don't need them in all my classes, so I want to know if that is possible. It seems confusing to me, and I would like to get some clarity on this issue. Can I pick and choose which classes I need accommodations for?",
+  "short_description": "Question about using accommodations for specific classes only.",
+  "description": "I am wondering if I can use accommodations just for some of my classes. I don't need them in all my classes, so I want to know if that is possible. It seems confusing to me, and I would like to get some clarity on this issue. Can I pick and choose which classes I need accommodations for?"
+}

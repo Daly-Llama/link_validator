@@ -1,0 +1,20 @@
+{
+  "number": "INC0004402",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08953",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about USD IT Security Program and its policies.\n\nfull_description_text:  \nSo, the user was asking about the USD IT Security Program. They wanted to know what the policies and procedures are. It seems like they needed clarity on the guidelines. Just trying to get a better understanding of the security framework.",
+  "short_description": "Inquiry about USD IT Security Program and its policies.",
+  "description": "So, the user was asking about the USD IT Security Program. They wanted to know what the policies and procedures are. It seems like they needed clarity on the guidelines. Just trying to get a better understanding of the security framework."
+}

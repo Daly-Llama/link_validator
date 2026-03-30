@@ -1,0 +1,20 @@
+{
+  "number": "INC0001420",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00816",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Converting analog fax lines to VoIP for Toshiba printers.\n\nfull_description_text: A field technician is looking to change the existing analog fax lines to a Voice over Internet Protocol system for Toshiba multifunction printers and copiers. The technician is unsure about the specific steps required to make this conversion happen. There seems to be a need for clarity on how to effectively transition from the traditional fax setup to the VoIP system, as the technician is not very familiar with the technical details involved in this process.",
+  "short_description": "Converting analog fax lines to VoIP for Toshiba printers.",
+  "description": "A field technician is looking to change the existing analog fax lines to a Voice over Internet Protocol system for Toshiba multifunction printers and copiers. The technician is unsure about the specific steps required to make this conversion happen. There seems to be a need for clarity on how to effectively transition from the traditional fax setup to the VoIP system, as the technician is not very familiar with the technical details involved in this process."
+}

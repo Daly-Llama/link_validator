@@ -1,0 +1,20 @@
+{
+  "number": "INC0002671",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04564",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Concerns about Duo Mobile accessing personal information\n\nfull_description_text:  \nSo, the user was asking if Duo Mobile can see their banking stuff. They were worried about email, insurance, and all that. Just wanted to know what info Duo has access to, you know?",
+  "short_description": "Concerns about Duo Mobile accessing personal information",
+  "description": "So, the user was asking if Duo Mobile can see their banking stuff. They were worried about email, insurance, and all that. Just wanted to know what info Duo has access to, you know?"
+}

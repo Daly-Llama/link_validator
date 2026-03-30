@@ -1,0 +1,20 @@
+{
+  "number": "INC0003612",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07729",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating and saving documents in Google Docs.\n\nfull_description_text: \nThe user is experiencing challenges while trying to create a document in Google Docs. They are also unsure about the process of saving the document once it is created. This situation may indicate a lack of familiarity with the Google Docs interface and its functionalities.",
+  "short_description": "Difficulty creating and saving documents in Google Docs.",
+  "description": "The user is experiencing challenges while trying to create a document in Google Docs. They are also unsure about the process of saving the document once it is created. This situation may indicate a lack of familiarity with the Google Docs interface and its functionalities."
+}

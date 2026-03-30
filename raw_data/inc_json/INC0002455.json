@@ -1,0 +1,20 @@
+{
+  "number": "INC0002455",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB03894",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: No option to resize photos when printing on Windows 10.\n\nfull_description_text: The technician is trying to print a photo but there is no way to resize it. They reset the print settings to default, but that didn't help at all. It's really frustrating because resizing is important for the print job. The issue is happening on Windows 10, and it seems like a basic feature should be there.",
+  "short_description": "No option to resize photos when printing on Windows 10.",
+  "description": "The technician is trying to print a photo but there is no way to resize it. They reset the print settings to default, but that didn't help at all. It's really frustrating because resizing is important for the print job. The issue is happening on Windows 10, and it seems like a basic feature should be there."
+}

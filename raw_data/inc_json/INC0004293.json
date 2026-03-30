@@ -1,0 +1,20 @@
+{
+  "number": "INC0004293",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08707",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help starting I-765 application for employment authorization.\n\nfull_description_text: User is trying to fill out the I-765 form. They are unsure how to begin. This is for employment authorization with USCIS. They need guidance on the initial steps.",
+  "short_description": "Need help starting I-765 application for employment authorization.",
+  "description": "User is trying to fill out the I-765 form. They are unsure how to begin. This is for employment authorization with USCIS. They need guidance on the initial steps."
+}

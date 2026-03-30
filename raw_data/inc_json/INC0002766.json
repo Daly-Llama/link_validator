@@ -1,0 +1,20 @@
+{
+  "number": "INC0002766",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04821",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help locating my computer's name and NI number.\n\nfull_description_text:  \nSo, I was just sitting here at my laptop, you know, trying to figure out what my computer's name is because I need it for some stuff. I also realized I need to find my computer's NI number, whatever that is, and it’s kind of important for me to get all the assets that are linked to me. I mean, I thought it would be easy, but now I'm just a bit lost in this whole process. Can someone help me out with this?",
+  "short_description": "Need help locating my computer's name and NI number.",
+  "description": "So, I was just sitting here at my laptop, you know, trying to figure out what my computer's name is because I need it for some stuff. I also realized I need to find my computer's NI number, whatever that is, and it’s kind of important for me to get all the assets that are linked to me. I mean, I thought it would be easy, but now I'm just a bit lost in this whole process. Can someone help me out with this?"
+}

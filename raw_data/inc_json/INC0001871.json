@@ -1,0 +1,20 @@
+{
+  "number": "INC0001871",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02121",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop won't display on projector or TV in classroom.\n\nfull_description_text: The user tried connecting their laptop to the projector or TV. It just wouldn’t show anything on the screen. They were in a classroom, and there’s no XPanel or touch panel available. It’s a bit frustrating when you need to present.",
+  "short_description": "Laptop won't display on projector or TV in classroom.",
+  "description": "The user tried connecting their laptop to the projector or TV. It just wouldn’t show anything on the screen. They were in a classroom, and there’s no XPanel or touch panel available. It’s a bit frustrating when you need to present."
+}

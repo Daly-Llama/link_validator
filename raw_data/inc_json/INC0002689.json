@@ -1,0 +1,20 @@
+{
+  "number": "INC0002689",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB04616",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to find log out option in myUSD portal.\n\nfull_description_text: The user was trying to log out of the myUSD portal but could not find the log out option. This issue has caused confusion, as the user expected to see a clear way to exit the portal. They are unsure how to proceed without this functionality available.",
+  "short_description": "Unable to find log out option in myUSD portal.",
+  "description": "The user was trying to log out of the myUSD portal but could not find the log out option. This issue has caused confusion, as the user expected to see a clear way to exit the portal. They are unsure how to proceed without this functionality available."
+}

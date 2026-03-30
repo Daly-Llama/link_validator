@@ -1,0 +1,20 @@
+{
+  "number": "INC0003480",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB07179",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues with allowing or blocking pop-ups in Firefox\n\nfull_description_text:\n- User is trying to manage pop-up settings in Firefox.  \n- They are unsure how to allow or block pop-ups effectively.  \n- This is causing frustration as they need to control pop-up behavior.  \n- Need clear guidance on the steps to take for this issue.",
+  "short_description": "Issues with allowing or blocking pop-ups in Firefox",
+  "description": "- User is trying to manage pop-up settings in Firefox.  \n- They are unsure how to allow or block pop-ups effectively.  \n- This is causing frustration as they need to control pop-up behavior.  \n- Need clear guidance on the steps to take for this issue."
+}

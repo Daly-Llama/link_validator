@@ -1,0 +1,20 @@
+{
+  "number": "INC0002238",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03263",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about free software available for USD students\n\nfull_description_text:  \nA student has reached out to inquire about the availability of free software for their use at USD. They are specifically interested in understanding what options are accessible to them without any associated costs. This request highlights the need for clarity regarding software resources provided to students within the myUSD environment.",
+  "short_description": "Inquiry about free software available for USD students",
+  "description": "A student has reached out to inquire about the availability of free software for their use at USD. They are specifically interested in understanding what options are accessible to them without any associated costs. This request highlights the need for clarity regarding software resources provided to students within the myUSD environment."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001185",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00351",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to receive departmental code prompt when printing to Toshiba copier.\n\nfull_description_text: The user is attempting to print to a new Toshiba copier and expects to see a pop-up box requesting their departmental code. However, when they submit the print job, there is no prompt for the code, and the job is simply deleted from the print queue. This issue prevents any documents from being printed, causing frustration and hindering their ability to complete tasks. The user is seeking assistance to resolve this printing problem.",
+  "short_description": "Unable to receive departmental code prompt when printing to Toshiba copier.",
+  "description": "The user is attempting to print to a new Toshiba copier and expects to see a pop-up box requesting their departmental code. However, when they submit the print job, there is no prompt for the code, and the job is simply deleted from the print queue. This issue prevents any documents from being printed, causing frustration and hindering their ability to complete tasks. The user is seeking assistance to resolve this printing problem."
+}

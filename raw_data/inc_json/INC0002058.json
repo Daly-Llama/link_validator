@@ -1,0 +1,20 @@
+{
+  "number": "INC0002058",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02706",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: D2L roster IDs incorrectly start with A00 instead of 7\n\nfull_description_text: So, I was on the call with a user who downloaded the roster from D2L, right? They noticed that all the ID numbers are starting with A00, which is totally not what they expected. When they tried to grade Scantron exams, the Org Defined IDs for the students were all messed up and didn't match, making it impossible to input the data correctly. It's like, why are the IDs all different?",
+  "short_description": "D2L roster IDs incorrectly start with A00 instead of 7",
+  "description": "So, I was on the call with a user who downloaded the roster from D2L, right? They noticed that all the ID numbers are starting with A00, which is totally not what they expected. When they tried to grade Scantron exams, the Org Defined IDs for the students were all messed up and didn't match, making it impossible to input the data correctly. It's like, why are the IDs all different?"
+}

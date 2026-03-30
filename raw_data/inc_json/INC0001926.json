@@ -1,0 +1,20 @@
+{
+  "number": "INC0001926",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB02307",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with degree audit for graduation application.\n\nfull_description_text: I am trying to get a degree audit for my graduation. I am an undergraduate student and I need this for my application. It seems like I can't find the right place to request it. I just want to make sure I have everything I need to graduate.",
+  "short_description": "Need help with degree audit for graduation application.",
+  "description": "I am trying to get a degree audit for my graduation. I am an undergraduate student and I need this for my application. It seems like I can't find the right place to request it. I just want to make sure I have everything I need to graduate."
+}

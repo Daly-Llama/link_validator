@@ -1,0 +1,20 @@
+{
+  "number": "INC0002103",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02841",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Lost access to department courses as department head in D2L.\n\nfull_description_text:  \nI’m the department head, and I can’t access any of the courses in my department. This is really frustrating because I need to manage the courses and support my team. It seems like something went wrong with my access rights, and I need to get this sorted out quickly.",
+  "short_description": "Lost access to department courses as department head in D2L.",
+  "description": "I’m the department head, and I can’t access any of the courses in my department. This is really frustrating because I need to manage the courses and support my team. It seems like something went wrong with my access rights, and I need to get this sorted out quickly."
+}

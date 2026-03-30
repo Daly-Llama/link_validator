@@ -1,0 +1,20 @@
+{
+  "number": "INC0004321",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08756",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Microsoft Teams menu bar is flashing and files cannot be opened.\n\nfull_description_text:\n- So, I was just trying to get some files open in Microsoft Teams on my Windows machine.  \n- Out of nowhere, the menu bar started flashing like a disco light, which was super distracting.  \n- I clicked on the files, but they just wouldn’t open at all, leaving me stuck and unable to proceed with my work.  \n- It’s really frustrating when you’re in the middle of something important and the app just decides to act up like that!",
+  "short_description": "Microsoft Teams menu bar is flashing and files cannot be opened.",
+  "description": "- So, I was just trying to get some files open in Microsoft Teams on my Windows machine.  \n- Out of nowhere, the menu bar started flashing like a disco light, which was super distracting.  \n- I clicked on the files, but they just wouldn’t open at all, leaving me stuck and unable to proceed with my work.  \n- It’s really frustrating when you’re in the middle of something important and the app just decides to act up like that!"
+}

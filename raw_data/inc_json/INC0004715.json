@@ -1,0 +1,20 @@
+{
+  "number": "INC0004715",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09839",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help preparing for an upcoming interview\n\nfull_description_text: So, the student called in asking about how to get ready for an interview, right? They were a bit stressed and wanted to know what steps to take. It seems like they’re really looking for some guidance on what to expect and how to present themselves well. It’s all about making a good impression, but they weren’t sure where to start.",
+  "short_description": "Need help preparing for an upcoming interview",
+  "description": "So, the student called in asking about how to get ready for an interview, right? They were a bit stressed and wanted to know what steps to take. It seems like they’re really looking for some guidance on what to expect and how to present themselves well. It’s all about making a good impression, but they weren’t sure where to start."
+}

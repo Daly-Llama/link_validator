@@ -1,0 +1,20 @@
+{
+  "number": "INC0002600",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04306",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need SFTP client or SSH Secure Shell installed on computer\n\nfull_description_text:\n- The user was trying to get an SFTP client or SSH Secure Shell on their USD computer.  \n- They mentioned that they need it for file transfers and secure connections.  \n- The request was made during a live chat with the help desk.  \n- There was some confusion about which application to install.",
+  "short_description": "Need SFTP client or SSH Secure Shell installed on computer",
+  "description": "- The user was trying to get an SFTP client or SSH Secure Shell on their USD computer.  \n- They mentioned that they need it for file transfers and secure connections.  \n- The request was made during a live chat with the help desk.  \n- There was some confusion about which application to install."
+}

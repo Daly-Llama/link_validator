@@ -1,0 +1,20 @@
+{
+  "number": "INC0003725",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07848",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new post in Google Blogger.\n\nfull_description_text:\n- The user was attempting to initiate the process of generating a new post within the Google Blogger platform, which is a widely utilized web-based blogging service.\n- During this endeavor, the user encountered an unspecified complication that hindered their ability to successfully complete the post creation task.\n- It is noteworthy that the user’s primary language is not English, which may have contributed to potential misunderstandings or miscommunications regarding the functionalities of the Blogger interface.\n- The situation necessitates further clarification on the specific nature of the issue experienced, as well as the steps taken prior to the occurrence of the problem.",
+  "short_description": "Difficulty creating a new post in Google Blogger.",
+  "description": "- The user was attempting to initiate the process of generating a new post within the Google Blogger platform, which is a widely utilized web-based blogging service.\n- During this endeavor, the user encountered an unspecified complication that hindered their ability to successfully complete the post creation task.\n- It is noteworthy that the user’s primary language is not English, which may have contributed to potential misunderstandings or miscommunications regarding the functionalities of the Blogger interface.\n- The situation necessitates further clarification on the specific nature of the issue experienced, as well as the steps taken prior to the occurrence of the problem."
+}

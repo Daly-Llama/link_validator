@@ -1,0 +1,20 @@
+{
+  "number": "INC0003026",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05598",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for IT support during Cochlear software update\n\nfull_description_text:  \nThe update for Cochlear Sound Software is scheduled.  \nUSD ITS Support is needed to assist the 3rd party vendor.  \nThe NOAH Server used in our clinic requires this update.",
+  "short_description": "Request for IT support during Cochlear software update",
+  "description": "The update for Cochlear Sound Software is scheduled.  \nUSD ITS Support is needed to assist the 3rd party vendor.  \nThe NOAH Server used in our clinic requires this update."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003445",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07039",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about Mogli functionality and features in Salesforce.\n\nfull_description_text:\n- The user engaged in a live chat session seeking comprehensive information regarding the Mogli application.  \n- They expressed a desire to understand its functionalities, capabilities, and potential integrations within the Salesforce environment.  \n- The inquiry suggests a need for detailed insights into Mogli's operational parameters, user interface, and any relevant use cases that could enhance their Salesforce experience.  \n- There may be some ambiguity in the user's familiarity with Mogli, which could necessitate a more thorough explanation of its features and benefits.",
+  "short_description": "Inquiry about Mogli functionality and features in Salesforce.",
+  "description": "- The user engaged in a live chat session seeking comprehensive information regarding the Mogli application.  \n- They expressed a desire to understand its functionalities, capabilities, and potential integrations within the Salesforce environment.  \n- The inquiry suggests a need for detailed insights into Mogli's operational parameters, user interface, and any relevant use cases that could enhance their Salesforce experience.  \n- There may be some ambiguity in the user's familiarity with Mogli, which could necessitate a more thorough explanation of its features and benefits."
+}

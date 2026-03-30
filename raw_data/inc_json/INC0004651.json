@@ -1,0 +1,20 @@
+{
+  "number": "INC0004651",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09645",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view accommodation letters for students in Accommodate portal.\n\nfull_description_text: I am trying to find the accommodation letters for students in my course using the Accommodate portal. However, I can't seem to locate where to view these letters. It’s important for me to access this information, but I am not sure what steps to take or if there is a specific section for it.",
+  "short_description": "Unable to view accommodation letters for students in Accommodate portal.",
+  "description": "I am trying to find the accommodation letters for students in my course using the Accommodate portal. However, I can't seem to locate where to view these letters. It’s important for me to access this information, but I am not sure what steps to take or if there is a specific section for it."
+}

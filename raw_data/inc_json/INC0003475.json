@@ -1,0 +1,20 @@
+{
+  "number": "INC0003475",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB07160",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Save As box in Adobe Acrobat appears blank.\n\nfull_description_text: \nThe user is experiencing an issue where the Save As dialog in Adobe Acrobat is completely blank. This problem is preventing them from saving their PDF files, as they cannot see any options or fields to enter information. They mentioned that a blank white box is covering their PDF file, which adds to the confusion. It's a frustrating situation, especially when they need to save important documents.",
+  "short_description": "Save As box in Adobe Acrobat appears blank.",
+  "description": "The user is experiencing an issue where the Save As dialog in Adobe Acrobat is completely blank. This problem is preventing them from saving their PDF files, as they cannot see any options or fields to enter information. They mentioned that a blank white box is covering their PDF file, which adds to the confusion. It's a frustrating situation, especially when they need to save important documents."
+}

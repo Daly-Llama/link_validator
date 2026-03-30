@@ -1,0 +1,20 @@
+{
+  "number": "INC0004616",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB09491",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Confusion about Coyote Connections Hand Raise assistance options\n\nfull_description_text:  \nUser is unsure where to find help.  \nThey are asking about Coyote Connections Hand Raise.  \nClarification needed on the process and available support.  \nUser may require additional guidance on this topic.",
+  "short_description": "Confusion about Coyote Connections Hand Raise assistance options",
+  "description": "User is unsure where to find help.  \nThey are asking about Coyote Connections Hand Raise.  \nClarification needed on the process and available support.  \nUser may require additional guidance on this topic."
+}

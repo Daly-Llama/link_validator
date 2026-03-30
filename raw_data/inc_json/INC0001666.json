@@ -1,0 +1,20 @@
+{
+  "number": "INC0001666",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01549",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Banner PROD INB General Menu is not functioning properly.\n\nfull_description_text:  \nI am having a problem with the Banner PROD INB General Menu. It just won't work anymore, and I can't access it at all. I was trying to use it in Internet Explorer, but I know that it's not supported anymore, so maybe that's the issue? But still, it was working before, and now it’s just not responding at all, which is really frustrating.",
+  "short_description": "Banner PROD INB General Menu is not functioning properly.",
+  "description": "I am having a problem with the Banner PROD INB General Menu. It just won't work anymore, and I can't access it at all. I was trying to use it in Internet Explorer, but I know that it's not supported anymore, so maybe that's the issue? But still, it was working before, and now it’s just not responding at all, which is really frustrating."
+}

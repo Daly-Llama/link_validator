@@ -1,0 +1,20 @@
+{
+  "number": "INC0001878",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB02153",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to log into 25Live for room reservation.\n\nfull_description_text: User has been using the same password for 25Live without issues. Now, they are receiving an incorrect password message. They are seeking access to schedule events for their department. User needs assistance with logging in to reserve a room for a meeting.",
+  "short_description": "Unable to log into 25Live for room reservation.",
+  "description": "User has been using the same password for 25Live without issues. Now, they are receiving an incorrect password message. They are seeking access to schedule events for their department. User needs assistance with logging in to reserve a room for a meeting."
+}

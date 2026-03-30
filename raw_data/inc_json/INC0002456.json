@@ -1,0 +1,20 @@
+{
+  "number": "INC0002456",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB03897",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: New hire onboarding checklist not accessible for faculty and staff.\n\nfull_description_text: A new employee is trying to access the onboarding checklist that is supposed to help them get connected, receive services, and obtain support. However, they are experiencing difficulties in finding or using the checklist. This issue affects faculty, staff, affiliates, and volunteers who are all part of the onboarding process. The user is unsure of the next steps to take without the checklist, which is essential for their integration into the organization.",
+  "short_description": "New hire onboarding checklist not accessible for faculty and staff.",
+  "description": "A new employee is trying to access the onboarding checklist that is supposed to help them get connected, receive services, and obtain support. However, they are experiencing difficulties in finding or using the checklist. This issue affects faculty, staff, affiliates, and volunteers who are all part of the onboarding process. The user is unsure of the next steps to take without the checklist, which is essential for their integration into the organization."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002129",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02916",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to run a SAS report for salary policy data\n\nfull_description_text: \nDuring a live chat, the analyst was helping a user who needed some specific data. They asked, \"Can you please run the SAS report?\" The user wanted the most up to date salary policy data or maybe the current enrollment extract data, but it wasn't clear which one was more urgent. It seems like they really needed this information quickly, and the analyst was trying to assist them in getting it done right away.",
+  "short_description": "Request to run a SAS report for salary policy data",
+  "description": "During a live chat, the analyst was helping a user who needed some specific data. They asked, \"Can you please run the SAS report?\" The user wanted the most up to date salary policy data or maybe the current enrollment extract data, but it wasn't clear which one was more urgent. It seems like they really needed this information quickly, and the analyst was trying to assist them in getting it done right away."
+}

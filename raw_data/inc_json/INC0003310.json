@@ -1,0 +1,20 @@
+{
+  "number": "INC0003310",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB06487",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Warning message appears for emails from new senders.\n\nfull_description_text: So, like, I got this email from someone I don’t know, right? And there’s this weird warning at the top saying, “You don’t often get email from email@address.com.” It’s kinda annoying, honestly. I mean, I get it’s a new address, but do I really need a reminder about it?",
+  "short_description": "Warning message appears for emails from new senders.",
+  "description": "So, like, I got this email from someone I don’t know, right? And there’s this weird warning at the top saying, “You don’t often get email from email@address.com.” It’s kinda annoying, honestly. I mean, I get it’s a new address, but do I really need a reminder about it?"
+}

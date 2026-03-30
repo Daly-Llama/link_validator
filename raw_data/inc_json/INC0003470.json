@@ -1,0 +1,20 @@
+{
+  "number": "INC0003470",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB07140",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting multiple devices to the network.\n\nfull_description_text: The user is experiencing challenges while attempting to connect various devices to both the wireless and wired networks. During the call, they expressed confusion about the process and were unsure of the steps needed to successfully establish these connections. This issue is impacting their ability to utilize the network effectively for their devices.",
+  "short_description": "Difficulty connecting multiple devices to the network.",
+  "description": "The user is experiencing challenges while attempting to connect various devices to both the wireless and wired networks. During the call, they expressed confusion about the process and were unsure of the steps needed to successfully establish these connections. This issue is impacting their ability to utilize the network effectively for their devices."
+}

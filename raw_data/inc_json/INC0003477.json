@@ -1,0 +1,20 @@
+{
+  "number": "INC0003477",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07165",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble installing OpenRefine on Windows or MacOS.\n\nfull_description_text:\n- I'm trying to get OpenRefine set up on my computer.  \n- Not sure what's going wrong during the installation process.  \n- This is happening on both Windows and MacOS, so I'm a bit stuck.",
+  "short_description": "Trouble installing OpenRefine on Windows or MacOS.",
+  "description": "- I'm trying to get OpenRefine set up on my computer.  \n- Not sure what's going wrong during the installation process.  \n- This is happening on both Windows and MacOS, so I'm a bit stuck."
+}

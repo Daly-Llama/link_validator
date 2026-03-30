@@ -1,0 +1,20 @@
+{
+  "number": "INC0001166",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00322",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Computer not powering on for desktop or laptop.\n\nfull_description_text:\n- The user called in saying their computer just won't turn on.  \n- They tried both their desktop and laptop, but neither is booting up.  \n- It sounds like they're stuck and need some help getting things running again.",
+  "short_description": "Computer not powering on for desktop or laptop.",
+  "description": "- The user called in saying their computer just won't turn on.  \n- They tried both their desktop and laptop, but neither is booting up.  \n- It sounds like they're stuck and need some help getting things running again."
+}

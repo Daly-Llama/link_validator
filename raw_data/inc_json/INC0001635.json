@@ -1,0 +1,20 @@
+{
+  "number": "INC0001635",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB01440",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Can't see my timesheets in the experience portal.\n\nfull_description_text:  \nSo, I was trying to check my timesheets because I need to put in my hours for the month. But then, it just wouldn’t let me see them at all. I got this weird error that said something about an External System ID not found, which sounds really confusing. I just want to enter my hours, but it’s like the portal is playing hide and seek with my timesheets!",
+  "short_description": "Can't see my timesheets in the experience portal.",
+  "description": "So, I was trying to check my timesheets because I need to put in my hours for the month. But then, it just wouldn’t let me see them at all. I got this weird error that said something about an External System ID not found, which sounds really confusing. I just want to enter my hours, but it’s like the portal is playing hide and seek with my timesheets!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002943",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05347",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a schedule in Microsoft Shifts.\n\nfull_description_text:\n- El usuario está intentando crear un horario en Microsoft Shifts.  \n- No está claro cómo proceder con la creación del horario.  \n- Se requiere asistencia para entender el proceso de creación o modificación de un horario.  \n- El problema ocurre en el entorno de Microsoft Teams y Microsoft Shifts.",
+  "short_description": "Difficulty creating a schedule in Microsoft Shifts.",
+  "description": "- El usuario está intentando crear un horario en Microsoft Shifts.  \n- No está claro cómo proceder con la creación del horario.  \n- Se requiere asistencia para entender el proceso de creación o modificación de un horario.  \n- El problema ocurre en el entorno de Microsoft Teams y Microsoft Shifts."
+}

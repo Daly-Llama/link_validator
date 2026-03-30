@@ -1,0 +1,20 @@
+{
+  "number": "INC0002704",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB04672",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Broken jacks in Rapid City classrooms need attention.\n\nfull_description_text: I've noticed that the jacks in the tables or on the floor in our Rapid City classrooms are broken. This issue is affecting our ability to connect devices properly. It would be great to have this fixed so we can ensure everything works smoothly for our classes.",
+  "short_description": "Broken jacks in Rapid City classrooms need attention.",
+  "description": "I've noticed that the jacks in the tables or on the floor in our Rapid City classrooms are broken. This issue is affecting our ability to connect devices properly. It would be great to have this fixed so we can ensure everything works smoothly for our classes."
+}

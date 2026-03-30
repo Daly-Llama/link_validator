@@ -1,0 +1,20 @@
+{
+  "number": "INC0003029",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05608",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access TeamDynamix due to permission error.\n\nfull_description_text:  \nThe user reported that they were trying to access the TeamDynamix application but encountered an error message stating, \"You do not have permission to access this application.\" This issue was raised during a live phone call with the help desk analyst. The user expressed frustration as they needed to access the application for their work, but the permission error prevented them from proceeding.",
+  "short_description": "Unable to access TeamDynamix due to permission error.",
+  "description": "The user reported that they were trying to access the TeamDynamix application but encountered an error message stating, \"You do not have permission to access this application.\" This issue was raised during a live phone call with the help desk analyst. The user expressed frustration as they needed to access the application for their work, but the permission error prevented them from proceeding."
+}

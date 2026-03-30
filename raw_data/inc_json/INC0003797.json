@@ -1,0 +1,20 @@
+{
+  "number": "INC0003797",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07930",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the PRODUCT function in Excel\n\nfull_description_text: \nDuring a live chat, the user asked about the PRODUCT function in Excel. They seemed unsure about its purpose and how it works, which led to some confusion. The analyst tried to clarify but the user still had difficulty understanding its application in their tasks. This situation highlighted a need for more information on this specific function.",
+  "short_description": "Inquiry about the PRODUCT function in Excel",
+  "description": "During a live chat, the user asked about the PRODUCT function in Excel. They seemed unsure about its purpose and how it works, which led to some confusion. The analyst tried to clarify but the user still had difficulty understanding its application in their tasks. This situation highlighted a need for more information on this specific function."
+}

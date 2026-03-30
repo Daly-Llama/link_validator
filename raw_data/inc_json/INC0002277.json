@@ -1,0 +1,20 @@
+{
+  "number": "INC0002277",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03371",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need access to Confocal Microscope Computer in Lee Med\n\nfull_description_text:\n- I want to use the Confocal Microscope Computer.  \n- Please give me access to it in Lee Med.  \n- I need it for my work, but I can't get in.  \n- I don't understand why I can't access it.",
+  "short_description": "Need access to Confocal Microscope Computer in Lee Med",
+  "description": "- I want to use the Confocal Microscope Computer.  \n- Please give me access to it in Lee Med.  \n- I need it for my work, but I can't get in.  \n- I don't understand why I can't access it."
+}

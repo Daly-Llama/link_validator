@@ -1,0 +1,20 @@
+{
+  "number": "INC0001839",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB02042",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Email delivery receipts not received for some recipients in Outlook.\n\nfull_description_text:  \nI sent an email to many people and asked for delivery receipts. But I did not get receipts for some of them, and I want to know if they received the email. It is important for me to verify if the message was delivered correctly.",
+  "short_description": "Email delivery receipts not received for some recipients in Outlook.",
+  "description": "I sent an email to many people and asked for delivery receipts. But I did not get receipts for some of them, and I want to know if they received the email. It is important for me to verify if the message was delivered correctly."
+}

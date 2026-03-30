@@ -1,0 +1,20 @@
+{
+  "number": "INC0001002",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00013",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to include email signature when replying to messages.\n\nfull_description_text: \nSo, the user was trying to respond to emails but ran into a snag—his signature just wouldn’t show up. It only appears when he starts a new email, which is pretty frustrating. He was using Outlook and the Outlook Web Application on Firefox, and he really wanted to know how to create a signature that works for replies too. It’s a common issue, but it’s definitely a hassle when you’re trying to keep things professional in your emails.",
+  "short_description": "Unable to include email signature when replying to messages.",
+  "description": "So, the user was trying to respond to emails but ran into a snag—his signature just wouldn’t show up. It only appears when he starts a new email, which is pretty frustrating. He was using Outlook and the Outlook Web Application on Firefox, and he really wanted to know how to create a signature that works for replies too. It’s a common issue, but it’s definitely a hassle when you’re trying to keep things professional in your emails."
+}

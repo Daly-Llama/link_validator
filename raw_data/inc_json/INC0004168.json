@@ -1,0 +1,20 @@
+{
+  "number": "INC0004168",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08443",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty setting timings for transitions in PowerPoint.\n\nfull_description_text: \nSo, during the call, the user was trying to figure out how to set the timings for transitions in their PowerPoint presentation, but they were having a bit of a tough time. They mentioned that they wanted to make their slides flow smoothly, but every time they tried to adjust the timings, it just didn’t seem to work right. It was a bit confusing for them, and they were looking for some guidance on how to get it all set up properly.",
+  "short_description": "Difficulty setting timings for transitions in PowerPoint.",
+  "description": "So, during the call, the user was trying to figure out how to set the timings for transitions in their PowerPoint presentation, but they were having a bit of a tough time. They mentioned that they wanted to make their slides flow smoothly, but every time they tried to adjust the timings, it just didn’t seem to work right. It was a bit confusing for them, and they were looking for some guidance on how to get it all set up properly."
+}

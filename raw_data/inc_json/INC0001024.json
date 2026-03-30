@@ -1,0 +1,20 @@
+{
+  "number": "INC0001024",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00042",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: iPad fails to recognize Bluetooth keyboard connection\n\nfull_description_text:\n- The user attempted to connect a Bluetooth keyboard to their iPad.  \n- Despite following the standard pairing process, the device did not recognize the keyboard.  \n- This issue occurred during a live chat session with the help desk analyst.  \n- The user primarily communicates in Spanish, which may have influenced the interaction.",
+  "short_description": "iPad fails to recognize Bluetooth keyboard connection",
+  "description": "- The user attempted to connect a Bluetooth keyboard to their iPad.  \n- Despite following the standard pairing process, the device did not recognize the keyboard.  \n- This issue occurred during a live chat session with the help desk analyst.  \n- The user primarily communicates in Spanish, which may have influenced the interaction."
+}

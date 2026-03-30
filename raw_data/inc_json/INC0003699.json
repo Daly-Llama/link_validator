@@ -1,0 +1,20 @@
+{
+  "number": "INC0003699",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07819",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to locate my Google Form.\n\nfull_description_text: The user is trying to find a specific Google Form they created or accessed previously. They are unsure of the steps to locate it within their Google account. This issue may arise from a lack of familiarity with the Google Drive interface or the organization of their files. The user is seeking guidance on how to effectively search for their form.",
+  "short_description": "Unable to locate my Google Form.",
+  "description": "The user is trying to find a specific Google Form they created or accessed previously. They are unsure of the steps to locate it within their Google account. This issue may arise from a lack of familiarity with the Google Drive interface or the organization of their files. The user is seeking guidance on how to effectively search for their form."
+}

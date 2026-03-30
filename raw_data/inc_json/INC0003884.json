@@ -1,0 +1,20 @@
+{
+  "number": "INC0003884",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08018",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need info on OneNote's commonly used features\n\nfull_description_text: So, I was trying to figure out what features people usually use in OneNote. Like, what’s the go-to stuff? I just need a quick rundown, nothing too fancy. It’s kinda confusing with all the options, you know?",
+  "short_description": "Need info on OneNote's commonly used features",
+  "description": "So, I was trying to figure out what features people usually use in OneNote. Like, what’s the go-to stuff? I just need a quick rundown, nothing too fancy. It’s kinda confusing with all the options, you know?"
+}

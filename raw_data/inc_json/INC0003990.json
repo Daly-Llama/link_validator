@@ -1,0 +1,20 @@
+{
+  "number": "INC0003990",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB08200",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Account access issues when outside the US\n\nfull_description_text:  \nThe user is experiencing problems with their USD account while they are outside the US. They are unable to access their account through Outlook, which is causing disruptions. This issue seems to be specific to their location, as it works fine when they are in the US.",
+  "short_description": "Account access issues when outside the US",
+  "description": "The user is experiencing problems with their USD account while they are outside the US. They are unable to access their account through Outlook, which is causing disruptions. This issue seems to be specific to their location, as it works fine when they are in the US."
+}

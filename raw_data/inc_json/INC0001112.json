@@ -1,0 +1,20 @@
+{
+  "number": "INC0001112",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00208",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error message when signing into computer on USD network.\n\nfull_description_text:  \nWhen signing into the computer for the first time each day, I receive a network security alert. The message states that Windows can't verify the server's identity and suggests that I may be connecting to a different network with the same name. This issue occurs consistently during my initial login attempt.",
+  "short_description": "Error message when signing into computer on USD network.",
+  "description": "When signing into the computer for the first time each day, I receive a network security alert. The message states that Windows can't verify the server's identity and suggests that I may be connecting to a different network with the same name. This issue occurs consistently during my initial login attempt."
+}

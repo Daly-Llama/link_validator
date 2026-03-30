@@ -1,0 +1,20 @@
+{
+  "number": "INC0004761",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09970",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Copier is showing a red error and needs paper loaded.\n\nfull_description_text:  \nI was just trying to use the copier, you know, the Sharp one that we have, and suddenly it started flashing red. It’s really annoying because it keeps telling me to load 11x17 paper, but then it also mentions B4 paper, which is confusing. I’m not sure what’s going on, but it definitely won’t let me print anything until I figure out this paper loading issue. It’s just stuck there, flashing red and showing that error message, and I can’t get my work done!",
+  "short_description": "Copier is showing a red error and needs paper loaded.",
+  "description": "I was just trying to use the copier, you know, the Sharp one that we have, and suddenly it started flashing red. It’s really annoying because it keeps telling me to load 11x17 paper, but then it also mentions B4 paper, which is confusing. I’m not sure what’s going on, but it definitely won’t let me print anything until I figure out this paper loading issue. It’s just stuck there, flashing red and showing that error message, and I can’t get my work done!"
+}

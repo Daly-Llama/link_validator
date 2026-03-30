@@ -1,0 +1,20 @@
+{
+  "number": "INC0004063",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08297",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error message indicating no header row is specified.\n\nfull_description_text:  \nWhile attempting to process data, the field technician encountered an error stating \"No Header Row Specified.\" This issue arose during a data import operation, where the system expected a header row to define the data structure. The absence of this header row has halted progress, requiring clarification on how to proceed with the import.",
+  "short_description": "Error message indicating no header row is specified.",
+  "description": "While attempting to process data, the field technician encountered an error stating \"No Header Row Specified.\" This issue arose during a data import operation, where the system expected a header row to define the data structure. The absence of this header row has halted progress, requiring clarification on how to proceed with the import."
+}

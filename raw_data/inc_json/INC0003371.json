@@ -1,0 +1,20 @@
+{
+  "number": "INC0003371",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB06710",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into D2L due to server error.\n\nfull_description_text: User is trying to log into D2L. They see an error message. The message says \"An error occurred on the server when processing the URL.\" User is confused and needs help. They are advised to contact the system administrator for more information.",
+  "short_description": "Unable to log into D2L due to server error.",
+  "description": "User is trying to log into D2L. They see an error message. The message says \"An error occurred on the server when processing the URL.\" User is confused and needs help. They are advised to contact the system administrator for more information."
+}

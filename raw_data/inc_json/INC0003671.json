@@ -1,0 +1,20 @@
+{
+  "number": "INC0003671",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07790",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to preview Google Site during setup.\n\nfull_description_text: The user is trying to preview their Google Site but is encountering issues. They are unsure of the steps needed to access the preview feature. This problem arose while they were in the process of setting up their site.",
+  "short_description": "Unable to preview Google Site during setup.",
+  "description": "The user is trying to preview their Google Site but is encountering issues. They are unsure of the steps needed to access the preview feature. This problem arose while they were in the process of setting up their site."
+}

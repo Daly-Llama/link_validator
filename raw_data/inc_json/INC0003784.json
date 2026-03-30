@@ -1,0 +1,20 @@
+{
+  "number": "INC0003784",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07916",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty moving and resizing charts in Excel.\n\nfull_description_text:\n- User is trying to adjust the position and size of charts within an Excel spreadsheet.\n- They are experiencing challenges with the functionality, which is preventing them from achieving the desired layout.\n- The issue seems to arise during the process of selecting and dragging the chart elements.\n- This situation is impacting their ability to present data effectively in their current project.",
+  "short_description": "Difficulty moving and resizing charts in Excel.",
+  "description": "- User is trying to adjust the position and size of charts within an Excel spreadsheet.\n- They are experiencing challenges with the functionality, which is preventing them from achieving the desired layout.\n- The issue seems to arise during the process of selecting and dragging the chart elements.\n- This situation is impacting their ability to present data effectively in their current project."
+}

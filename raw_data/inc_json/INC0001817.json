@@ -1,0 +1,20 @@
+{
+  "number": "INC0001817",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB01985",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Microsoft services like Outlook and OneDrive\n\nfull_description_text:  \nSo, the user was trying to get into Microsoft services, but they hit a wall. They mentioned errors like DNS_PROBE_FINISHED_NXDOMAIN and that Outlook just wouldn't start. It seems like they couldn't even log into their email through the portal, and they kept getting messages about the Exchange login failing. Overall, it was a frustrating experience trying to open Outlook and access their folders.",
+  "short_description": "Unable to access Microsoft services like Outlook and OneDrive",
+  "description": "So, the user was trying to get into Microsoft services, but they hit a wall. They mentioned errors like DNS_PROBE_FINISHED_NXDOMAIN and that Outlook just wouldn't start. It seems like they couldn't even log into their email through the portal, and they kept getting messages about the Exchange login failing. Overall, it was a frustrating experience trying to open Outlook and access their folders."
+}

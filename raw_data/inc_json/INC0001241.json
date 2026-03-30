@@ -1,0 +1,20 @@
+{
+  "number": "INC0001241",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB00463",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about OneDrive file backup and syncing capabilities\n\nfull_description_text:  \nThe user is curious about how file backup functions on their desktop with OneDrive. They want to know if signing into OneDrive is necessary. Additionally, they are asking about the number of files that can be synced and whether they can access their cloud files remotely. They also have questions regarding which drives are suitable for saving their data.",
+  "short_description": "Questions about OneDrive file backup and syncing capabilities",
+  "description": "The user is curious about how file backup functions on their desktop with OneDrive. They want to know if signing into OneDrive is necessary. Additionally, they are asking about the number of files that can be synced and whether they can access their cloud files remotely. They also have questions regarding which drives are suitable for saving their data."
+}

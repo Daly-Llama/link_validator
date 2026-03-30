@@ -1,0 +1,20 @@
+{
+  "number": "INC0002583",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04253",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to know when computer warranty expires.\n\nfull_description_text:  \n- I have a computer and I want to know when the warranty ends.  \n- I’m not sure how to check this info.  \n- It’s important to know for HP and Lenovo computers.",
+  "short_description": "Need to know when computer warranty expires.",
+  "description": "- I have a computer and I want to know when the warranty ends.  \n- I’m not sure how to check this info.  \n- It’s important to know for HP and Lenovo computers."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001597",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB01312",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student inquiry about Turnitin access for assignments\n\nfull_description_text:\n- A student called in asking if they can use Turnitin for their assignments.  \n- They seemed a bit confused about how it works and if they have access.  \n- It’s important to clarify if students can submit their work through Turnitin in D2L.",
+  "short_description": "Student inquiry about Turnitin access for assignments",
+  "description": "- A student called in asking if they can use Turnitin for their assignments.  \n- They seemed a bit confused about how it works and if they have access.  \n- It’s important to clarify if students can submit their work through Turnitin in D2L."
+}

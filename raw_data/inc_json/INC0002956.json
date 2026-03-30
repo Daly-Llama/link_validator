@@ -1,0 +1,20 @@
+{
+  "number": "INC0002956",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05385",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Ethernet port on Cisco device in dorm room not functioning\n\nfull_description_text:  \nThe far-left wired network port on the Cisco device in my dorm room isn't working. I plugged into the port, but it doesn't seem to work at all. The Ethernet port under the QR Code on the device is not functioning as expected.",
+  "short_description": "Ethernet port on Cisco device in dorm room not functioning",
+  "description": "The far-left wired network port on the Cisco device in my dorm room isn't working. I plugged into the port, but it doesn't seem to work at all. The Ethernet port under the QR Code on the device is not functioning as expected."
+}

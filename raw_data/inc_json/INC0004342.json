@@ -1,0 +1,20 @@
+{
+  "number": "INC0004342",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08782",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Encountering a suspicious person during a live chat session\n\nfull_description_text: \nDuring a live chat session, the user reported an encounter with a suspicious person. They expressed uncertainty about the appropriate actions to take in this situation. The context suggests a need for guidance on handling such encounters effectively, highlighting the importance of safety and protocol adherence.",
+  "short_description": "Encountering a suspicious person during a live chat session",
+  "description": "During a live chat session, the user reported an encounter with a suspicious person. They expressed uncertainty about the appropriate actions to take in this situation. The context suggests a need for guidance on handling such encounters effectively, highlighting the importance of safety and protocol adherence."
+}

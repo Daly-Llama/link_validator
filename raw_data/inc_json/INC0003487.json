@@ -1,0 +1,20 @@
+{
+  "number": "INC0003487",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB07207",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need guidance on disposing of sensitive digital media safely.\n\nfull_description_text:  \nThe user is seeking assistance with the proper disposal of digital media that contains sensitive information. This includes items such as CDs, paper documents, and hard drives. The user is concerned about ensuring that the sensitive data is handled securely during the disposal process.",
+  "short_description": "Need guidance on disposing of sensitive digital media safely.",
+  "description": "The user is seeking assistance with the proper disposal of digital media that contains sensitive information. This includes items such as CDs, paper documents, and hard drives. The user is concerned about ensuring that the sensitive data is handled securely during the disposal process."
+}

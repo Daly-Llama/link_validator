@@ -1,0 +1,20 @@
+{
+  "number": "INC0003170",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB05991",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to change TMA report frequency from monthly to weekly\n\nfull_description_text:\n- A field technician is requesting a modification to the current reporting schedule.  \n- The technician would like the monthly resident life open work order report to be adjusted to run on a weekly basis instead.  \n- This change pertains specifically to the USD Open Work Orders for Housing Report.  \n- The technician emphasizes the need for more frequent updates to better manage ongoing work orders.",
+  "short_description": "Request to change TMA report frequency from monthly to weekly",
+  "description": "- A field technician is requesting a modification to the current reporting schedule.  \n- The technician would like the monthly resident life open work order report to be adjusted to run on a weekly basis instead.  \n- This change pertains specifically to the USD Open Work Orders for Housing Report.  \n- The technician emphasizes the need for more frequent updates to better manage ongoing work orders."
+}

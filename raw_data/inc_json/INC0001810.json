@@ -1,0 +1,20 @@
+{
+  "number": "INC0001810",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01963",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Printer repeatedly prompts for Thick 3 paper selection during printing.\n\nfull_description_text:\n- The user is experiencing an issue with a Toshiba copier and network printer.  \n- Each time they attempt to print, a message appears on the printer screen indicating \"unexpected paper size\" or \"Load Tray 1.\"  \n- This requires the user to manually select the Thick 3 option and press OK for every print job, causing significant inconvenience.",
+  "short_description": "Printer repeatedly prompts for Thick 3 paper selection during printing.",
+  "description": "- The user is experiencing an issue with a Toshiba copier and network printer.  \n- Each time they attempt to print, a message appears on the printer screen indicating \"unexpected paper size\" or \"Load Tray 1.\"  \n- This requires the user to manually select the Thick 3 option and press OK for every print job, causing significant inconvenience."
+}

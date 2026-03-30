@@ -1,0 +1,20 @@
+{
+  "number": "INC0004361",
+  "category": "Safety and Security",
+  "subcategory": "Safety and Security",
+  "correct_kb": "KB08840",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need contact information for South Dakota's Risk Management team\n\nfull_description_text:  \nI was trying to find the contact details for the Risk Management team in South Dakota. I came across their manual but couldn't locate the specific information I needed. It would be really helpful to have a direct way to reach out to them for assistance.",
+  "short_description": "Need contact information for South Dakota's Risk Management team",
+  "description": "I was trying to find the contact details for the Risk Management team in South Dakota. I came across their manual but couldn't locate the specific information I needed. It would be really helpful to have a direct way to reach out to them for assistance."
+}

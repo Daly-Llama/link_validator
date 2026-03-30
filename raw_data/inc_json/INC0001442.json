@@ -1,0 +1,20 @@
+{
+  "number": "INC0001442",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00867",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Ethernet connection issues with Surface Pro Dock.\n\nfull_description_text:  \n- The user reported that their network connection was not functioning properly.  \n- They experienced frequent drops when connected to the Surface Pro Dock.  \n- This issue was affecting their ability to maintain a stable internet connection.",
+  "short_description": "Ethernet connection issues with Surface Pro Dock.",
+  "description": "- The user reported that their network connection was not functioning properly.  \n- They experienced frequent drops when connected to the Surface Pro Dock.  \n- This issue was affecting their ability to maintain a stable internet connection."
+}

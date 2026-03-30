@@ -1,0 +1,20 @@
+{
+  "number": "INC0001938",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB02347",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Computer needs to stay logged in and not sleep during use.\n\nfull_description_text:\n- The user requires the computer to remain continuously logged in throughout the day.  \n- They have expressed a need for the system to avoid going to sleep.  \n- This is essential for their work in the Dental Hygiene department under Disability Services.",
+  "short_description": "Computer needs to stay logged in and not sleep during use.",
+  "description": "- The user requires the computer to remain continuously logged in throughout the day.  \n- They have expressed a need for the system to avoid going to sleep.  \n- This is essential for their work in the Dental Hygiene department under Disability Services."
+}

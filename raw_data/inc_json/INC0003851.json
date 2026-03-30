@@ -1,0 +1,20 @@
+{
+  "number": "INC0003851",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07985",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating a PivotTable Chart in Excel.\n\nfull_description_text:\n- User was attempting to create a PivotTable Chart in Excel.  \n- Encountered issues during the process of chart creation.  \n- The steps to create the chart were not clear, leading to confusion.  \n- This situation arose while the user was engaged in a live chat session.",
+  "short_description": "Difficulty creating a PivotTable Chart in Excel.",
+  "description": "- User was attempting to create a PivotTable Chart in Excel.  \n- Encountered issues during the process of chart creation.  \n- The steps to create the chart were not clear, leading to confusion.  \n- This situation arose while the user was engaged in a live chat session."
+}

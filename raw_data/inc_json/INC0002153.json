@@ -1,0 +1,20 @@
+{
+  "number": "INC0002153",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02993",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error message when logging into PC laptop\n\nfull_description_text: User is trying to log into their laptop. After entering the password, they see an error. It says \"Object invoked disconnected from its clients.\" This is confusing and they can't access their computer.",
+  "short_description": "Error message when logging into PC laptop",
+  "description": "User is trying to log into their laptop. After entering the password, they see an error. It says \"Object invoked disconnected from its clients.\" This is confusing and they can't access their computer."
+}

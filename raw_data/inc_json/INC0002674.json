@@ -1,0 +1,20 @@
+{
+  "number": "INC0002674",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04569",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't send email from Quickbooks in Office 2013.\n\nfull_description_text:  \nI can't send email through Quickbooks. It just doesn't work when I try to send. I'm using Office 2013 and Quickbooks, and it’s really frustrating. I don’t know why it’s not sending emails like it should.",
+  "short_description": "Can't send email from Quickbooks in Office 2013.",
+  "description": "I can't send email through Quickbooks. It just doesn't work when I try to send. I'm using Office 2013 and Quickbooks, and it’s really frustrating. I don’t know why it’s not sending emails like it should."
+}

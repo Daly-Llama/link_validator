@@ -1,0 +1,20 @@
+{
+  "number": "INC0002450",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03861",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need for building code list for campus locations\n\nfull_description_text: \nStudents are inquiring about the building codes associated with their class locations. The codes, which are 3-4 letters next to room numbers, are causing confusion. They do not know which buildings these codes refer to. A comprehensive list of these codes is required for clarity.",
+  "short_description": "Need for building code list for campus locations",
+  "description": "Students are inquiring about the building codes associated with their class locations. The codes, which are 3-4 letters next to room numbers, are causing confusion. They do not know which buildings these codes refer to. A comprehensive list of these codes is required for clarity."
+}

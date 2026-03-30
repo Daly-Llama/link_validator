@@ -1,0 +1,20 @@
+{
+  "number": "INC0003616",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07733",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about page setup features in Google Docs\n\nfull_description_text:  \nThe user is seeking clarification on the concept of page setup within Google Docs. They are unsure about the specific functionalities and options available for configuring page layout and formatting. This inquiry suggests a need for a better understanding of how to effectively utilize the page setup features to enhance document presentation.",
+  "short_description": "Inquiry about page setup features in Google Docs",
+  "description": "The user is seeking clarification on the concept of page setup within Google Docs. They are unsure about the specific functionalities and options available for configuring page layout and formatting. This inquiry suggests a need for a better understanding of how to effectively utilize the page setup features to enhance document presentation."
+}

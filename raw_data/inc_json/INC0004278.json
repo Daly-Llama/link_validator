@@ -1,0 +1,20 @@
+{
+  "number": "INC0004278",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08681",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Options for banking as an international student.\n\nfull_description_text:\n- The user is an international student looking for banking options.  \n- They asked what choices they have for managing their money.  \n- The conversation was friendly, but there was some confusion about the different types of accounts.  \n- They want to know how to open an account and what documents are needed.",
+  "short_description": "Options for banking as an international student.",
+  "description": "- The user is an international student looking for banking options.  \n- They asked what choices they have for managing their money.  \n- The conversation was friendly, but there was some confusion about the different types of accounts.  \n- They want to know how to open an account and what documents are needed."
+}

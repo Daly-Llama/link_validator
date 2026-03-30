@@ -1,0 +1,20 @@
+{
+  "number": "INC0002367",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB03621",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to update parameters for scheduled Cognos report for FY20.\n\nfull_description_text:  \n- The scheduled Cognos report, SectionEnrollmentBySelectedCollege, is currently showing the beginning cash balance for FY19.  \n- As the new fiscal year FY20 starts on July 1st, the report needs to reflect the updated amounts for the beginning cash balance.  \n- Please update the parameters to include the fall 2022 semester and ensure the report is delivered to me on Mondays as usual.",
+  "short_description": "Need to update parameters for scheduled Cognos report for FY20.",
+  "description": "- The scheduled Cognos report, SectionEnrollmentBySelectedCollege, is currently showing the beginning cash balance for FY19.  \n- As the new fiscal year FY20 starts on July 1st, the report needs to reflect the updated amounts for the beginning cash balance.  \n- Please update the parameters to include the fall 2022 semester and ensure the report is delivered to me on Mondays as usual."
+}

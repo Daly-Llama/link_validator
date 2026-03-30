@@ -1,0 +1,20 @@
+{
+  "number": "INC0002265",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03339",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: What is the Unity cluster in VoIP system?\n\nfull_description_text: I saw a notice about Unity cluster. It said it needs restart. I don’t understand what Unity cluster is. Can you explain it?",
+  "short_description": "What is the Unity cluster in VoIP system?",
+  "description": "I saw a notice about Unity cluster. It said it needs restart. I don’t understand what Unity cluster is. Can you explain it?"
+}

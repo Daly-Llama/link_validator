@@ -1,0 +1,20 @@
+{
+  "number": "INC0002529",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04093",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Lab or classroom computer is not powering on.\n\nfull_description_text: The user reported that a computer in the lab won't turn on. They tried pressing the power button, but nothing happened. This issue is affecting their ability to use the computer for class activities. It's important to get this resolved quickly so they can continue their work.",
+  "short_description": "Lab or classroom computer is not powering on.",
+  "description": "The user reported that a computer in the lab won't turn on. They tried pressing the power button, but nothing happened. This issue is affecting their ability to use the computer for class activities. It's important to get this resolved quickly so they can continue their work."
+}

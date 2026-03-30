@@ -1,0 +1,20 @@
+{
+  "number": "INC0001556",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01192",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for administrative access on a university-owned computer\n\nfull_description_text:  \nA field technician has submitted a request for administrative access on a university-owned computer. The technician expressed a need for this access in order to download a specific program, which is essential for their tasks. Additionally, they mentioned the necessity to review files stored on the laptop, indicating that administrative rights are crucial for their work. The request highlights the importance of having the appropriate permissions to perform necessary installations and file reviews on the device.",
+  "short_description": "Request for administrative access on a university-owned computer",
+  "description": "A field technician has submitted a request for administrative access on a university-owned computer. The technician expressed a need for this access in order to download a specific program, which is essential for their tasks. Additionally, they mentioned the necessity to review files stored on the laptop, indicating that administrative rights are crucial for their work. The request highlights the importance of having the appropriate permissions to perform necessary installations and file reviews on the device."
+}

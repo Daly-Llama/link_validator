@@ -1,0 +1,20 @@
+{
+  "number": "INC0002968",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB05420",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues encountered while using Top Hat in D2L course.\n\nfull_description_text:\n- The user is experiencing difficulties with the Top Hat application in their course.  \n- They have reported problems that hinder their ability to utilize the platform effectively.  \n- This issue may impact their overall learning experience and engagement with course materials.",
+  "short_description": "Issues encountered while using Top Hat in D2L course.",
+  "description": "- The user is experiencing difficulties with the Top Hat application in their course.  \n- They have reported problems that hinder their ability to utilize the platform effectively.  \n- This issue may impact their overall learning experience and engagement with course materials."
+}

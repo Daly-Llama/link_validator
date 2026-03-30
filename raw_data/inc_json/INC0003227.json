@@ -1,0 +1,20 @@
+{
+  "number": "INC0003227",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06177",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Computer unable to detect Canon Microfilm Scanner 300 device.\n\nfull_description_text:  \nThe technician is experiencing an issue where their computer fails to recognize the Canon Microfilm Scanner 300, also known as MS-300. While attempting to use the CapturePerfect software, it does not display the scanner as an available device, which is critical for the scanning process. This problem may be related to connectivity issues, such as USB or network settings, but the exact cause is currently unclear. The technician has confirmed that all cables are securely connected and that the scanner is powered on, yet the software remains unresponsive to the device.",
+  "short_description": "Computer unable to detect Canon Microfilm Scanner 300 device.",
+  "description": "The technician is experiencing an issue where their computer fails to recognize the Canon Microfilm Scanner 300, also known as MS-300. While attempting to use the CapturePerfect software, it does not display the scanner as an available device, which is critical for the scanning process. This problem may be related to connectivity issues, such as USB or network settings, but the exact cause is currently unclear. The technician has confirmed that all cables are securely connected and that the scanner is powered on, yet the software remains unresponsive to the device."
+}

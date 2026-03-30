@@ -1,0 +1,20 @@
+{
+  "number": "INC0003988",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08192",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: SharePoint Excel shows symbols instead of text in Petty Cash Log\n\nfull_description_text:  \nI am having a problem with my SharePoint Petty Cash Log. It is showing random symbols instead of letters and numbers. Everyone else in my department can see it fine, but I can't. I don't know why this is happening to me.",
+  "short_description": "SharePoint Excel shows symbols instead of text in Petty Cash Log",
+  "description": "I am having a problem with my SharePoint Petty Cash Log. It is showing random symbols instead of letters and numbers. Everyone else in my department can see it fine, but I can't. I don't know why this is happening to me."
+}

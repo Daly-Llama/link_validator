@@ -1,0 +1,20 @@
+{
+  "number": "INC0003846",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07980",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to filter row/subject data in Excel.\n\nfull_description_text:\n- User trying to filter data in Excel.  \n- Encountered issues with row/subject filtering.  \n- Needs assistance with this functionality.",
+  "short_description": "Unable to filter row/subject data in Excel.",
+  "description": "- User trying to filter data in Excel.  \n- Encountered issues with row/subject filtering.  \n- Needs assistance with this functionality."
+}

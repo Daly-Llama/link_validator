@@ -1,0 +1,20 @@
+{
+  "number": "INC0002654",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB04510",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about available student job positions and application process.\n\nfull_description_text: \nThe user, a student, is seeking information regarding the availability of job positions suitable for their status. They are interested in understanding how to proceed with the application process for these roles. This inquiry reflects a desire to gain employment while managing their academic responsibilities, highlighting the importance of balancing work and study. The user may require guidance on navigating the application system effectively.",
+  "short_description": "Inquiry about available student job positions and application process.",
+  "description": "The user, a student, is seeking information regarding the availability of job positions suitable for their status. They are interested in understanding how to proceed with the application process for these roles. This inquiry reflects a desire to gain employment while managing their academic responsibilities, highlighting the importance of balancing work and study. The user may require guidance on navigating the application system effectively."
+}

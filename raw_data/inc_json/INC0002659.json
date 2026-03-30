@@ -1,0 +1,20 @@
+{
+  "number": "INC0002659",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04530",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to return books purchased from USD's online bookstore.\n\nfull_description_text: So, I just bought these two books from the online bookstore, right? But then I found out that the class I needed them for isn’t happening anymore, which is super frustrating. I mean, I was all set to dive into the material, but now I gotta figure out how to return them. It’s like, do I just send them back or is there some special process I need to follow?",
+  "short_description": "Need to return books purchased from USD's online bookstore.",
+  "description": "So, I just bought these two books from the online bookstore, right? But then I found out that the class I needed them for isn’t happening anymore, which is super frustrating. I mean, I was all set to dive into the material, but now I gotta figure out how to return them. It’s like, do I just send them back or is there some special process I need to follow?"
+}

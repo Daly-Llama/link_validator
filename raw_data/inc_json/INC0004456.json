@@ -1,0 +1,20 @@
+{
+  "number": "INC0004456",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB09112",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for creation of a POP SEL for Banner process\n\nfull_description_text:\n- The user requested assistance during a phone call to create a POP SEL.  \n- They specifically mentioned needing it for the XXX Banner process.  \n- The analyst noted that the user primarily speaks Spanish, which may have affected communication.  \n- There were some minor misunderstandings regarding the details of the request.",
+  "short_description": "Request for creation of a POP SEL for Banner process",
+  "description": "- The user requested assistance during a phone call to create a POP SEL.  \n- They specifically mentioned needing it for the XXX Banner process.  \n- The analyst noted that the user primarily speaks Spanish, which may have affected communication.  \n- There were some minor misunderstandings regarding the details of the request."
+}

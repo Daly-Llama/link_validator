@@ -1,0 +1,20 @@
+{
+  "number": "INC0003500",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB07262",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open Microsoft Office applications due to error codes.\n\nfull_description_text:\n- The user attempted to launch a Microsoft Office application on their laptop but encountered an error message.  \n- The message indicated that something went wrong and that their organization has disabled the device.  \n- They were provided with error codes 135011 and CAA20003, suggesting they should reach out to their system administrator for assistance.  \n- This issue is preventing the user from accessing essential Office applications needed for their work.",
+  "short_description": "Unable to open Microsoft Office applications due to error codes.",
+  "description": "- The user attempted to launch a Microsoft Office application on their laptop but encountered an error message.  \n- The message indicated that something went wrong and that their organization has disabled the device.  \n- They were provided with error codes 135011 and CAA20003, suggesting they should reach out to their system administrator for assistance.  \n- This issue is preventing the user from accessing essential Office applications needed for their work."
+}

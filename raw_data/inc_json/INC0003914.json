@@ -1,0 +1,20 @@
+{
+  "number": "INC0003914",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08060",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty creating a rule in Outlook.\n\nfull_description_text:  \nThe user was trying to set up a rule in Outlook but ran into some trouble. They weren't sure how to proceed with the process. It seems like they need a bit of guidance on creating that rule effectively.",
+  "short_description": "Difficulty creating a rule in Outlook.",
+  "description": "The user was trying to set up a rule in Outlook but ran into some trouble. They weren't sure how to proceed with the process. It seems like they need a bit of guidance on creating that rule effectively."
+}

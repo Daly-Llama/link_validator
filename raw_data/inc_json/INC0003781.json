@@ -1,0 +1,20 @@
+{
+  "number": "INC0003781",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07913",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty adding a sparkline in Excel.\n\nfull_description_text:\n- User is trying to insert a sparkline in Excel.  \n- They are unsure of the steps needed to complete this task.  \n- The issue may be related to unfamiliarity with Excel features.",
+  "short_description": "Difficulty adding a sparkline in Excel.",
+  "description": "- User is trying to insert a sparkline in Excel.  \n- They are unsure of the steps needed to complete this task.  \n- The issue may be related to unfamiliarity with Excel features."
+}

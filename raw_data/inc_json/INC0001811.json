@@ -1,0 +1,20 @@
+{
+  "number": "INC0001811",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01968",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Jabra headset not producing sound from Windows computer\n\nfull_description_text:\n- The user is experiencing an issue where their Jabra headset is not playing any sounds from their Windows computer.  \n- They have already set the headset as the default audio device, but sound is still not coming through.  \n- This has caused frustration as they rely on the headset for audio during their tasks.  \n- The user is looking for assistance to resolve this sound issue.",
+  "short_description": "Jabra headset not producing sound from Windows computer",
+  "description": "- The user is experiencing an issue where their Jabra headset is not playing any sounds from their Windows computer.  \n- They have already set the headset as the default audio device, but sound is still not coming through.  \n- This has caused frustration as they rely on the headset for audio during their tasks.  \n- The user is looking for assistance to resolve this sound issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001905",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02234",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Norton Antivirus expiration notification received on user’s computer.\n\nfull_description_text:\n- The user called in to report that they received a notification stating their Norton Antivirus has expired.  \n- They mentioned that they were just trying to check their email when the alert popped up.  \n- The user seemed a bit concerned about potential security risks and wanted to know what this meant for their computer.  \n- They also noted that they had been using Norton for a while and weren't sure how to handle the expiration.",
+  "short_description": "Norton Antivirus expiration notification received on user’s computer.",
+  "description": "- The user called in to report that they received a notification stating their Norton Antivirus has expired.  \n- They mentioned that they were just trying to check their email when the alert popped up.  \n- The user seemed a bit concerned about potential security risks and wanted to know what this meant for their computer.  \n- They also noted that they had been using Norton for a while and weren't sure how to handle the expiration."
+}

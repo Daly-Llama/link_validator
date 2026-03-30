@@ -1,0 +1,20 @@
+{
+  "number": "INC0004527",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09281",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing channels and buttons in myUSD portal\n\nfull_description_text:\n- The user called in saying they can't find the Accounting and HR channels in the myUSD portal.  \n- They mentioned that the Quick Links and some buttons, like the BAN - Banner button, are also missing.  \n- It seems like they were trying to navigate the portal but got stuck because of these missing features.  \n- Overall, it’s making it hard for them to access the information they need.",
+  "short_description": "Missing channels and buttons in myUSD portal",
+  "description": "- The user called in saying they can't find the Accounting and HR channels in the myUSD portal.  \n- They mentioned that the Quick Links and some buttons, like the BAN - Banner button, are also missing.  \n- It seems like they were trying to navigate the portal but got stuck because of these missing features.  \n- Overall, it’s making it hard for them to access the information they need."
+}

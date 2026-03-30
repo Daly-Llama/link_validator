@@ -1,0 +1,20 @@
+{
+  "number": "INC0002492",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03970",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about applications using USD's single sign-on (SSO)\n\nfull_description_text:  \nI'm trying to find out which applications are compatible with the single sign-on setup in USD. I know it involves ADFS and Microsoft Entra ID, but I'm not sure what specific apps utilize this SSO environment. Any info on this would be helpful, thanks!",
+  "short_description": "Inquiry about applications using USD's single sign-on (SSO)",
+  "description": "I'm trying to find out which applications are compatible with the single sign-on setup in USD. I know it involves ADFS and Microsoft Entra ID, but I'm not sure what specific apps utilize this SSO environment. Any info on this would be helpful, thanks!"
+}

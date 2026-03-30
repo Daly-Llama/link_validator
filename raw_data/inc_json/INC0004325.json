@@ -1,0 +1,20 @@
+{
+  "number": "INC0004325",
+  "category": "Safety and Security",
+  "subcategory": "Public and Visitor Safety",
+  "correct_kb": "KB08762",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about Coyote Athletics Gameday Policies\n\nfull_description_text:\n- The user is seeking information on the Coyote Athletics Gameday Policies.  \n- They are unclear about the specific rules and guidelines that apply during gameday.  \n- This request indicates a need for clarity on the policies in place for events.",
+  "short_description": "Inquiry about Coyote Athletics Gameday Policies",
+  "description": "- The user is seeking information on the Coyote Athletics Gameday Policies.  \n- They are unclear about the specific rules and guidelines that apply during gameday.  \n- This request indicates a need for clarity on the policies in place for events."
+}

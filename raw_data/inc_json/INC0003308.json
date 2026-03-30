@@ -1,0 +1,20 @@
+{
+  "number": "INC0003308",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06480",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to establish connection to CLEP server via ETS Admin Unify.\n\nfull_description_text: The user reported an issue while attempting to create a connection to the CLEP server using the ETS Admin Unify application on a Windows 10 environment. They encountered an error related to the asynchcommhandler, which prevented the connection from being established. This issue was discussed during a live phone call with the help desk analyst, who noted the urgency of resolving the connectivity problem.",
+  "short_description": "Unable to establish connection to CLEP server via ETS Admin Unify.",
+  "description": "The user reported an issue while attempting to create a connection to the CLEP server using the ETS Admin Unify application on a Windows 10 environment. They encountered an error related to the asynchcommhandler, which prevented the connection from being established. This issue was discussed during a live phone call with the help desk analyst, who noted the urgency of resolving the connectivity problem."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003604",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB07712",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Options for audio settings in Zoom meetings\n\nfull_description_text:  \nDuring a live chat session, the user inquired about the various audio options available in Zoom. They were particularly interested in understanding how to manage audio settings effectively for their meetings. The conversation highlighted a need for clarity on the different configurations and features that Zoom offers for audio management. This inquiry reflects a common concern among users seeking to optimize their virtual meeting experiences.",
+  "short_description": "Options for audio settings in Zoom meetings",
+  "description": "During a live chat session, the user inquired about the various audio options available in Zoom. They were particularly interested in understanding how to manage audio settings effectively for their meetings. The conversation highlighted a need for clarity on the different configurations and features that Zoom offers for audio management. This inquiry reflects a common concern among users seeking to optimize their virtual meeting experiences."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002485",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03960",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't track my order from the bookstore website.\n\nfull_description_text:  \nI was trying to check the status of my order on the bookstore website, you know, the one at https://usd.textbookx.com. But for some reason, I just can't seem to track it at all. I clicked around and nothing happened, and it’s really frustrating because I want to know where my books are. It’s like I’m in the dark about my order, and I just need to find out what’s going on!",
+  "short_description": "Can't track my order from the bookstore website.",
+  "description": "I was trying to check the status of my order on the bookstore website, you know, the one at https://usd.textbookx.com. But for some reason, I just can't seem to track it at all. I clicked around and nothing happened, and it’s really frustrating because I want to know where my books are. It’s like I’m in the dark about my order, and I just need to find out what’s going on!"
+}

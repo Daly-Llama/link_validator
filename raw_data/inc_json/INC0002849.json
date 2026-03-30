@@ -1,0 +1,20 @@
+{
+  "number": "INC0002849",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05093",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Evisions through Argos.\n\nfull_description_text: The user is trying to access Evisions but is encountering issues. They mentioned that they are using Argos, but it's unclear what specific problem they are facing. The call was made to the help desk for immediate assistance, and they seem frustrated with the situation.",
+  "short_description": "Difficulty accessing Evisions through Argos.",
+  "description": "The user is trying to access Evisions but is encountering issues. They mentioned that they are using Argos, but it's unclear what specific problem they are facing. The call was made to the help desk for immediate assistance, and they seem frustrated with the situation."
+}

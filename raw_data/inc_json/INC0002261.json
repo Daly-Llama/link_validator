@@ -1,0 +1,20 @@
+{
+  "number": "INC0002261",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB03330",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Zoom experiencing significant outage affecting video conferencing.\n\nfull_description_text: Users are unable to connect to Zoom meetings. The service is down for video conferencing. Many are reporting issues simultaneously. This is impacting communication and collaboration efforts.",
+  "short_description": "Zoom experiencing significant outage affecting video conferencing.",
+  "description": "Users are unable to connect to Zoom meetings. The service is down for video conferencing. Many are reporting issues simultaneously. This is impacting communication and collaboration efforts."
+}

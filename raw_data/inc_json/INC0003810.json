@@ -1,0 +1,20 @@
+{
+  "number": "INC0003810",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07943",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about the NOW function in Excel\n\nfull_description_text:  \nI was trying to figure out what the NOW function in Excel is. I heard it does something with time, but I'm not really sure how to use it. I just want to know what it does and if it can help me with my spreadsheets.",
+  "short_description": "Confusion about the NOW function in Excel",
+  "description": "I was trying to figure out what the NOW function in Excel is. I heard it does something with time, but I'm not really sure how to use it. I just want to know what it does and if it can help me with my spreadsheets."
+}

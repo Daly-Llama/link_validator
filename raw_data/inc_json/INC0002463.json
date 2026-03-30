@@ -1,0 +1,20 @@
+{
+  "number": "INC0002463",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB03910",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty merging documents in ImageNow.\n\nfull_description_text: \nThe user was trying to merge multiple documents within the ImageNow system but encountered some issues. They mentioned that the process was not working as expected, and they were unsure of the steps to take. This situation arose during a live call, and the user seemed a bit frustrated with the lack of clarity on how to proceed. They were looking for guidance on the merging functionality specifically in the Perceptive Content environment.",
+  "short_description": "Difficulty merging documents in ImageNow.",
+  "description": "The user was trying to merge multiple documents within the ImageNow system but encountered some issues. They mentioned that the process was not working as expected, and they were unsure of the steps to take. This situation arose during a live call, and the user seemed a bit frustrated with the lack of clarity on how to proceed. They were looking for guidance on the merging functionality specifically in the Perceptive Content environment."
+}

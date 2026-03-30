@@ -1,0 +1,20 @@
+{
+  "number": "INC0001624",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01409",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to reimage iPad for new user setup.\n\nfull_description_text:  \nThe analyst is dealing with an iPad that requires reimaging for a new user. The current user's data needs to be completely wiped, and access cleared to ensure a fresh start. This process involves resetting the device, which is crucial for preparing it for use at a different site. There are specific steps to follow, but the exact method for clearing the data and reimaging isn't entirely clear at this moment.",
+  "short_description": "Need to reimage iPad for new user setup.",
+  "description": "The analyst is dealing with an iPad that requires reimaging for a new user. The current user's data needs to be completely wiped, and access cleared to ensure a fresh start. This process involves resetting the device, which is crucial for preparing it for use at a different site. There are specific steps to follow, but the exact method for clearing the data and reimaging isn't entirely clear at this moment."
+}

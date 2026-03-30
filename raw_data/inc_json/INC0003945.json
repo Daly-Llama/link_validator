@@ -1,0 +1,20 @@
+{
+  "number": "INC0003945",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08093",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty chatting outside of a team in Microsoft Teams\n\nfull_description_text:\n- The user is attempting to initiate a chat in Microsoft Teams but is unsure how to do so outside of a team context. \n- They are looking for guidance on the process to communicate with individuals or groups not associated with a specific team. \n- This issue may affect their ability to collaborate effectively with colleagues who are not part of their designated teams. \n- The user seeks a clear explanation to enhance their experience with the application.",
+  "short_description": "Difficulty chatting outside of a team in Microsoft Teams",
+  "description": "- The user is attempting to initiate a chat in Microsoft Teams but is unsure how to do so outside of a team context. \n- They are looking for guidance on the process to communicate with individuals or groups not associated with a specific team. \n- This issue may affect their ability to collaborate effectively with colleagues who are not part of their designated teams. \n- The user seeks a clear explanation to enhance their experience with the application."
+}

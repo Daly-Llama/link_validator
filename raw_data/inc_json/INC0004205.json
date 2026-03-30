@@ -1,0 +1,20 @@
+{
+  "number": "INC0004205",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB08534",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Card reader on copier machine fails to scan.\n\nfull_description_text: So, the card reader on the copier isn’t working. It keeps saying it can’t connect to the server. The user was trying to make copies but got stuck. They need help with this issue ASAP.",
+  "short_description": "Card reader on copier machine fails to scan.",
+  "description": "So, the card reader on the copier isn’t working. It keeps saying it can’t connect to the server. The user was trying to make copies but got stuck. They need help with this issue ASAP."
+}

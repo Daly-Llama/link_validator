@@ -1,0 +1,20 @@
+{
+  "number": "INC0003903",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08049",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: How to set follow-up reminders for recipients in Outlook\n\nfull_description_text:\n- The user is trying to understand how to utilize the follow-up feature for email recipients in Outlook.  \n- They are unsure about the steps needed to set reminders for recipients after sending emails.  \n- This feature is important for tracking communication and ensuring timely responses.  \n- The user may need additional guidance due to language barriers and technical familiarity.",
+  "short_description": "How to set follow-up reminders for recipients in Outlook",
+  "description": "- The user is trying to understand how to utilize the follow-up feature for email recipients in Outlook.  \n- They are unsure about the steps needed to set reminders for recipients after sending emails.  \n- This feature is important for tracking communication and ensuring timely responses.  \n- The user may need additional guidance due to language barriers and technical familiarity."
+}

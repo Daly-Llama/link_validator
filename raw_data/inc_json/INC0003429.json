@@ -1,0 +1,20 @@
+{
+  "number": "INC0003429",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB06976",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: How to add a Lobby feature in Webex Meetings\n\nfull_description_text: So, I’m trying to figure out how to add a Lobby to my Webex meeting, right? I thought it would be easy, but I’m not sure where to click or what to do. It’s kinda confusing, and I need it for my next meeting, but the options are not clear. Can someone help me with this?",
+  "short_description": "How to add a Lobby feature in Webex Meetings",
+  "description": "So, I’m trying to figure out how to add a Lobby to my Webex meeting, right? I thought it would be easy, but I’m not sure where to click or what to do. It’s kinda confusing, and I need it for my next meeting, but the options are not clear. Can someone help me with this?"
+}

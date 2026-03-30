@@ -1,0 +1,20 @@
+{
+  "number": "INC0002440",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03838",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Faculty email not showing in SSOM database\n\nfull_description_text:\n- My faculty email address is not in the SSOM database.  \n- It doesn't show up when I check.  \n- I think it wasn't created or included in the daily notifications.  \n- Please help with this issue.",
+  "short_description": "Faculty email not showing in SSOM database",
+  "description": "- My faculty email address is not in the SSOM database.  \n- It doesn't show up when I check.  \n- I think it wasn't created or included in the daily notifications.  \n- Please help with this issue."
+}

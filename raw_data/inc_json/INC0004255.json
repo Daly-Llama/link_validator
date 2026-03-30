@@ -1,0 +1,20 @@
+{
+  "number": "INC0004255",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB08622",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access Pearson First Day Access materials with redemption code.\n\nfull_description_text:\n- The user is attempting to access Pearson First Day Access materials for the first time using a provided redemption code.  \n- They are currently on the Pearson website but are unable to locate the necessary pop-up window to complete the code redemption process.  \n- This issue is preventing them from accessing the educational resources they need for their course.  \n- The user has expressed frustration over the lack of guidance on how to proceed with the redemption.",
+  "short_description": "Unable to access Pearson First Day Access materials with redemption code.",
+  "description": "- The user is attempting to access Pearson First Day Access materials for the first time using a provided redemption code.  \n- They are currently on the Pearson website but are unable to locate the necessary pop-up window to complete the code redemption process.  \n- This issue is preventing them from accessing the educational resources they need for their course.  \n- The user has expressed frustration over the lack of guidance on how to proceed with the redemption."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003295",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06398",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty reserving a loaner computer for online exam at Med School.\n\nfull_description_text: \nThe user is attempting to reserve a loaner computer specifically for the purpose of conducting an online examination at the Med School located in Sioux Falls. During the interaction, it became evident that there is uncertainty regarding the reservation process for the necessary equipment, which is critical for the upcoming assessment. The user expressed concerns about the availability of the computers and the procedures involved in securing one for their examination needs. This situation requires immediate attention to ensure that the user can successfully complete their online exam without technical hindrances.",
+  "short_description": "Difficulty reserving a loaner computer for online exam at Med School.",
+  "description": "The user is attempting to reserve a loaner computer specifically for the purpose of conducting an online examination at the Med School located in Sioux Falls. During the interaction, it became evident that there is uncertainty regarding the reservation process for the necessary equipment, which is critical for the upcoming assessment. The user expressed concerns about the availability of the computers and the procedures involved in securing one for their examination needs. This situation requires immediate attention to ensure that the user can successfully complete their online exam without technical hindrances."
+}

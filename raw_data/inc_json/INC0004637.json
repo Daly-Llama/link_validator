@@ -1,0 +1,20 @@
+{
+  "number": "INC0004637",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09558",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with Digital Measures for Faculty Success.\n\nfull_description_text: So, the caller was trying to get some help with Digital Measures. They mentioned they really need assistance but didn’t go into much detail. It sounded like they were a bit confused about something, and it was all very casual. Just a simple request for help, really!",
+  "short_description": "Need help with Digital Measures for Faculty Success.",
+  "description": "So, the caller was trying to get some help with Digital Measures. They mentioned they really need assistance but didn’t go into much detail. It sounded like they were a bit confused about something, and it was all very casual. Just a simple request for help, really!"
+}

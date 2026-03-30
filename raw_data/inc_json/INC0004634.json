@@ -1,0 +1,20 @@
+{
+  "number": "INC0004634",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09548",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: New employee can't access FleetCommander account due to sign-in error.\n\nfull_description_text:  \nSo, a new employee is trying to set up their FleetCommander account but keeps hitting a wall. They get this annoying error message saying their user account doesn't exist in the tenant for the State of South Dakota. It's pretty frustrating because they can't access the Fleet and Travel - Motor Pool application at all.",
+  "short_description": "New employee can't access FleetCommander account due to sign-in error.",
+  "description": "So, a new employee is trying to set up their FleetCommander account but keeps hitting a wall. They get this annoying error message saying their user account doesn't exist in the tenant for the State of South Dakota. It's pretty frustrating because they can't access the Fleet and Travel - Motor Pool application at all."
+}

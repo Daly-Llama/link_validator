@@ -1,0 +1,20 @@
+{
+  "number": "INC0001275",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00528",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty accessing USD email from off-campus locations.\n\nfull_description_text: The user is experiencing challenges in accessing their USD email while off-campus. They are unsure of the steps required to log into their email account through Office 365. This issue is impacting their ability to communicate effectively while away from the campus environment.",
+  "short_description": "Difficulty accessing USD email from off-campus locations.",
+  "description": "The user is experiencing challenges in accessing their USD email while off-campus. They are unsure of the steps required to log into their email account through Office 365. This issue is impacting their ability to communicate effectively while away from the campus environment."
+}

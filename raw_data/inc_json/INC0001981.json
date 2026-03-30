@@ -1,0 +1,20 @@
+{
+  "number": "INC0001981",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02472",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: High pitched noise from UPS in Maintenance or Data Room\n\nfull_description_text:  \nThere's a high pitched noise coming from the Maintenance Room or Data Room. The UPS has a solid red light or a blinking red light, which is concerning. This could indicate a problem with the battery backup or surge protector. The noise is quite noticeable and might be affecting the area.",
+  "short_description": "High pitched noise from UPS in Maintenance or Data Room",
+  "description": "There's a high pitched noise coming from the Maintenance Room or Data Room. The UPS has a solid red light or a blinking red light, which is concerning. This could indicate a problem with the battery backup or surge protector. The noise is quite noticeable and might be affecting the area."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003556",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB07438",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for information on acquiring university-owned cell phones.\n\nfull_description_text:\n- The user is asking about how to get one or two cell phones.  \n- They are specifically looking for university-owned cell phones for their department.  \n- The request was made during a phone call with a help desk analyst.  \n- The user speaks Spanish as their first language, which may affect communication.",
+  "short_description": "Request for information on acquiring university-owned cell phones.",
+  "description": "- The user is asking about how to get one or two cell phones.  \n- They are specifically looking for university-owned cell phones for their department.  \n- The request was made during a phone call with a help desk analyst.  \n- The user speaks Spanish as their first language, which may affect communication."
+}

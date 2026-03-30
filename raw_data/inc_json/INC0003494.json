@@ -1,0 +1,20 @@
+{
+  "number": "INC0003494",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07230",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Email forwarding disabled; faculty must enroll in Duo MFA.\n\nfull_description_text:  \nThe user was trying to understand the new requirements for their email and account setup. They mentioned that, starting from June 21, 2022, all email forwarding has been stopped, and this is already done for some systems like Avera and Sanford. The user was confused about needing to pick up their USD accounts and enroll in something called Duo MFA for accessing resources like One45 and Wegner Library. There was a lot of uncertainty about what this means for their access to USD Email and other important tools.",
+  "short_description": "Email forwarding disabled; faculty must enroll in Duo MFA.",
+  "description": "The user was trying to understand the new requirements for their email and account setup. They mentioned that, starting from June 21, 2022, all email forwarding has been stopped, and this is already done for some systems like Avera and Sanford. The user was confused about needing to pick up their USD accounts and enroll in something called Duo MFA for accessing resources like One45 and Wegner Library. There was a lot of uncertainty about what this means for their access to USD Email and other important tools."
+}

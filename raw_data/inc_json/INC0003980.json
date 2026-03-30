@@ -1,0 +1,20 @@
+{
+  "number": "INC0003980",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08142",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Coyote Village C-Store unable to process payment transactions.\n\nfull_description_text: \nThe Coyote Village C-Store is currently facing issues with payment processing. Customers are experiencing a decline in Coyote Cash payments, and it seems that the maximum retry limit has been exceeded. This situation is causing inconvenience for shoppers at the store, and it is unclear when the issue will be resolved.",
+  "short_description": "Coyote Village C-Store unable to process payment transactions.",
+  "description": "The Coyote Village C-Store is currently facing issues with payment processing. Customers are experiencing a decline in Coyote Cash payments, and it seems that the maximum retry limit has been exceeded. This situation is causing inconvenience for shoppers at the store, and it is unclear when the issue will be resolved."
+}

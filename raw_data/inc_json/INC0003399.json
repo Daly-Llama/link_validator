@@ -1,0 +1,20 @@
+{
+  "number": "INC0003399",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06843",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User cannot log in due to sign-in method restrictions.\n\nfull_description_text: The user is experiencing an issue where they cannot log on to the system. They receive a message stating, “The sign-in method you are trying to use isn’t allowed.” This situation may require assistance from the network administrator to resolve the restrictions imposed by the Group Policy on Windows 10.",
+  "short_description": "User cannot log in due to sign-in method restrictions.",
+  "description": "The user is experiencing an issue where they cannot log on to the system. They receive a message stating, “The sign-in method you are trying to use isn’t allowed.” This situation may require assistance from the network administrator to resolve the restrictions imposed by the Group Policy on Windows 10."
+}

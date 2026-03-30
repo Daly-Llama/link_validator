@@ -1,0 +1,20 @@
+{
+  "number": "INC0003287",
+  "category": "Reporting Off-Campus/Out-of-State Activities",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB06359",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reporting requirements for off-campus activities unclear.\n\nfull_description_text: \nThe user was inquiring about the types of activities that need to be reported when conducting off-campus or out-of-state activities. They were also unsure about how and when to submit these reports. This confusion could lead to potential compliance issues for USD Departments.",
+  "short_description": "Reporting requirements for off-campus activities unclear.",
+  "description": "The user was inquiring about the types of activities that need to be reported when conducting off-campus or out-of-state activities. They were also unsure about how and when to submit these reports. This confusion could lead to potential compliance issues for USD Departments."
+}

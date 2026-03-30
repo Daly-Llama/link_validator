@@ -1,0 +1,20 @@
+{
+  "number": "INC0002900",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05255",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: New employee needs admin access to DCOM clinic computers.\n\nfull_description_text: \nEl nuevo empleado en DCOM necesita acceso administrativo. Los computadores de la clínica no permiten eso. Es importante para su trabajo, pero no sé cómo hacerlo.",
+  "short_description": "New employee needs admin access to DCOM clinic computers.",
+  "description": "El nuevo empleado en DCOM necesita acceso administrativo. Los computadores de la clínica no permiten eso. Es importante para su trabajo, pero no sé cómo hacerlo."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003687",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07806",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty adding titles and descriptions in Google Forms\n\nfull_description_text:  \nUser wants to create a Google Form.  \nThey need to add titles to the form.  \nAlso, they want to include descriptions for clarity.  \nIt's important for them to understand how to do this easily.",
+  "short_description": "Difficulty adding titles and descriptions in Google Forms",
+  "description": "User wants to create a Google Form.  \nThey need to add titles to the form.  \nAlso, they want to include descriptions for clarity.  \nIt's important for them to understand how to do this easily."
+}

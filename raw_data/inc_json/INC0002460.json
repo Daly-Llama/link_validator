@@ -1,0 +1,20 @@
+{
+  "number": "INC0002460",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB03904",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Black drum low error on HP color printer during printing\n\nfull_description_text:\n- User is trying to print using HP color printer.  \n- They receive message that \"black drum is low\".  \n- User not sure where the drum is located.  \n- They need help to understand what to do next.",
+  "short_description": "Black drum low error on HP color printer during printing",
+  "description": "- User is trying to print using HP color printer.  \n- They receive message that \"black drum is low\".  \n- User not sure where the drum is located.  \n- They need help to understand what to do next."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002071",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02743",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to add a room in TMA for work order creation\n\nfull_description_text:  \nUser needs a room added to TMA.  \nThis is necessary to write a Work order.  \nAlso, the area needs updating to the new Custodial Template.  \nMcKusick Locations are not showing in the Request Portal, which is problematic.",
+  "short_description": "Need to add a room in TMA for work order creation",
+  "description": "User needs a room added to TMA.  \nThis is necessary to write a Work order.  \nAlso, the area needs updating to the new Custodial Template.  \nMcKusick Locations are not showing in the Request Portal, which is problematic."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003949",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08102",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty managing teams in Microsoft Teams.\n\nfull_description_text:  \nThe user is trying to manage teams in Microsoft Teams, but they are facing challenges. They want to know how to effectively manage their teams, but the process is unclear. There are various features in Microsoft Teams that can help with team management, but the user is unsure how to utilize them. This confusion is causing frustration during the call.",
+  "short_description": "Difficulty managing teams in Microsoft Teams.",
+  "description": "The user is trying to manage teams in Microsoft Teams, but they are facing challenges. They want to know how to effectively manage their teams, but the process is unclear. There are various features in Microsoft Teams that can help with team management, but the user is unsure how to utilize them. This confusion is causing frustration during the call."
+}

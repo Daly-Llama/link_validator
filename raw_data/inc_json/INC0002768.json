@@ -1,0 +1,20 @@
+{
+  "number": "INC0002768",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB04824",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting to work computer remotely via RDP.\n\nfull_description_text:  \nSo, the user is trying to connect to their work computer from home using Remote Desktop Protocol, or RDP, and they're having some trouble. They want to access their work station remotely but just can't seem to get it to work. It's a bit frustrating because they need to access important resources on their USD work computer while working remotely. They called in for help, hoping to figure out how to make that connection happen smoothly.",
+  "short_description": "Difficulty connecting to work computer remotely via RDP.",
+  "description": "So, the user is trying to connect to their work computer from home using Remote Desktop Protocol, or RDP, and they're having some trouble. They want to access their work station remotely but just can't seem to get it to work. It's a bit frustrating because they need to access important resources on their USD work computer while working remotely. They called in for help, hoping to figure out how to make that connection happen smoothly."
+}

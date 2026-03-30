@@ -1,0 +1,20 @@
+{
+  "number": "INC0003111",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05787",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Touchscreen on HP monitor is unresponsive in Windows.\n\nfull_description_text: The touchscreen on my HP monitor is not working. I am unable to interact with the screen. This issue occurs while using Windows. I have tried to touch the screen, but it does not respond at all.",
+  "short_description": "Touchscreen on HP monitor is unresponsive in Windows.",
+  "description": "The touchscreen on my HP monitor is not working. I am unable to interact with the screen. This issue occurs while using Windows. I have tried to touch the screen, but it does not respond at all."
+}

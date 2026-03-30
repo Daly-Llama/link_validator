@@ -1,0 +1,20 @@
+{
+  "number": "INC0003043",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05636",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Ethernet port activation required for new IP phone installation.\n\nfull_description_text: During a recent call, the user reported that newly installed network ports in their room are not functioning as expected. They specifically need one of these ports activated to connect an IP phone, which is critical for their operations. The user expressed urgency in verifying the functionality of these data outlets, as they are essential for maintaining communication. It appears that despite the installation, there are issues preventing the ports from working properly.",
+  "short_description": "Ethernet port activation required for new IP phone installation.",
+  "description": "During a recent call, the user reported that newly installed network ports in their room are not functioning as expected. They specifically need one of these ports activated to connect an IP phone, which is critical for their operations. The user expressed urgency in verifying the functionality of these data outlets, as they are essential for maintaining communication. It appears that despite the installation, there are issues preventing the ports from working properly."
+}

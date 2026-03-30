@@ -1,0 +1,20 @@
+{
+  "number": "INC0004091",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08344",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Fillable PDF fields appear blank in Adobe Acrobat Pro.\n\nfull_description_text: I received a fillable PDF form, but when I open it in Adobe Acrobat Pro, all the fields are blank. It's really frustrating because I need to fill it out. I also tried opening it in other programs like Adobe Reader and macOS Preview, but the issue persists.",
+  "short_description": "Fillable PDF fields appear blank in Adobe Acrobat Pro.",
+  "description": "I received a fillable PDF form, but when I open it in Adobe Acrobat Pro, all the fields are blank. It's really frustrating because I need to fill it out. I also tried opening it in other programs like Adobe Reader and macOS Preview, but the issue persists."
+}

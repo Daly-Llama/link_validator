@@ -1,0 +1,20 @@
+{
+  "number": "INC0001812",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01969",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to turn off Focused Inbox in Microsoft Office 365\n\nfull_description_text:  \nUser wants to turn off Focused Inbox in Outlook.  \nTheir emails are sorted into Focused and Other folders.  \nThey need help to send all emails to the Inbox folder.  \nUser also asks how to empty the Focused part of their Inbox.",
+  "short_description": "Unable to turn off Focused Inbox in Microsoft Office 365",
+  "description": "User wants to turn off Focused Inbox in Outlook.  \nTheir emails are sorted into Focused and Other folders.  \nThey need help to send all emails to the Inbox folder.  \nUser also asks how to empty the Focused part of their Inbox."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004657",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09651",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty renewing academic accommodations without any changes.\n\nfull_description_text: The user, a student registered with the Office of Accessibility, is seeking assistance with renewing their academic accommodations. They are unsure of the process to follow since there are no changes to their current accommodations. This situation has caused confusion, and the user requires clarification on how to proceed with the renewal.",
+  "short_description": "Difficulty renewing academic accommodations without any changes.",
+  "description": "The user, a student registered with the Office of Accessibility, is seeking assistance with renewing their academic accommodations. They are unsure of the process to follow since there are no changes to their current accommodations. This situation has caused confusion, and the user requires clarification on how to proceed with the renewal."
+}

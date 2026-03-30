@@ -1,0 +1,20 @@
+{
+  "number": "INC0004522",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB09259",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues accessing Microsoft Teams sites and files.\n\nfull_description_text:  \nThe user is having trouble opening Microsoft Teams sites and files. They keep getting errors like \"can't reach this page\" and \"the specified list is invalid.\" It seems like there might be some issues with the server or permissions, making it hard for them to access what they need. This is causing frustration as they can't get their work done.",
+  "short_description": "Issues accessing Microsoft Teams sites and files.",
+  "description": "The user is having trouble opening Microsoft Teams sites and files. They keep getting errors like \"can't reach this page\" and \"the specified list is invalid.\" It seems like there might be some issues with the server or permissions, making it hard for them to access what they need. This is causing frustration as they can't get their work done."
+}

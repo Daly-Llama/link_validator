@@ -1,0 +1,20 @@
+{
+  "number": "INC0004206",
+  "category": "Camps, Conferences and Event Management",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB08535",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance with setting up a camp or conference event.\n\nfull_description_text: The user is looking for help to set up a camp or conference. They mentioned needing to manage an event and that faculty or staff require assistance. There seems to be some confusion about the process for organizing these events.",
+  "short_description": "Need assistance with setting up a camp or conference event.",
+  "description": "The user is looking for help to set up a camp or conference. They mentioned needing to manage an event and that faculty or staff require assistance. There seems to be some confusion about the process for organizing these events."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002594",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04279",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access D2L due to Internet Explorer support issue.\n\nfull_description_text:  \nSo, I was trying to get into D2L, but it keeps saying that Internet Explorer isn't supported anymore. I remember reading that they stopped supporting it back in January 2020, but I didn't think it would affect me this much. Now I'm stuck and not sure what to do next.",
+  "short_description": "Unable to access D2L due to Internet Explorer support issue.",
+  "description": "So, I was trying to get into D2L, but it keeps saying that Internet Explorer isn't supported anymore. I remember reading that they stopped supporting it back in January 2020, but I didn't think it would affect me this much. Now I'm stuck and not sure what to do next."
+}

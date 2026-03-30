@@ -1,0 +1,20 @@
+{
+  "number": "INC0004180",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08456",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help turning on live subtitles in PowerPoint\n\nfull_description_text:  \nI’m trying to figure out how to turn on live subtitles in PowerPoint. I heard it’s a cool feature but I can’t find where to do it. Can someone help me with this? Also, why should I even use live subtitles?",
+  "short_description": "Need help turning on live subtitles in PowerPoint",
+  "description": "I’m trying to figure out how to turn on live subtitles in PowerPoint. I heard it’s a cool feature but I can’t find where to do it. Can someone help me with this? Also, why should I even use live subtitles?"
+}

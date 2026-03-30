@@ -1,0 +1,20 @@
+{
+  "number": "INC0003534",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07361",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to bulk restrict or encrypt multiple documents.\n\nfull_description_text: I'm trying to restrict or encrypt a large group of documents, but I can't figure out how to do it. I need this for Word, Excel, PowerPoint, and PDF files. It's important for both internal and external users, but the process isn't clear to me.",
+  "short_description": "Need to bulk restrict or encrypt multiple documents.",
+  "description": "I'm trying to restrict or encrypt a large group of documents, but I can't figure out how to do it. I need this for Word, Excel, PowerPoint, and PDF files. It's important for both internal and external users, but the process isn't clear to me."
+}

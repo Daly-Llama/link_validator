@@ -1,0 +1,20 @@
+{
+  "number": "INC0002089",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02802",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Student unable to access Elsevier/Evolve website on Internet Explorer 11.\n\nfull_description_text:\n- A student reached out during a live chat, saying they can't load the Elsevier/Evolve website.  \n- They mentioned they are using Internet Explorer 11, but the page just won't open.  \n- It seems like they really need to access the site for their studies, but it's just not working for them.",
+  "short_description": "Student unable to access Elsevier/Evolve website on Internet Explorer 11.",
+  "description": "- A student reached out during a live chat, saying they can't load the Elsevier/Evolve website.  \n- They mentioned they are using Internet Explorer 11, but the page just won't open.  \n- It seems like they really need to access the site for their studies, but it's just not working for them."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001935",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB02338",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: ODBC errors when accessing Banner or Colleague data in Access or Excel\n\nfull_description_text: \nUser is trying to get data from the Microsoft Access database or Microsoft Excel spreadsheet but keeps getting an ODBC error. The error messages say things like \"Run-time error '3151'\" and \"Run-time error '3146'.\" This happens when they try to connect to the database, and it’s really frustrating because they need the data for their work. It seems like the connection to 'xxxxxx' is failing, and they don’t know why it keeps happening.",
+  "short_description": "ODBC errors when accessing Banner or Colleague data in Access or Excel",
+  "description": "User is trying to get data from the Microsoft Access database or Microsoft Excel spreadsheet but keeps getting an ODBC error. The error messages say things like \"Run-time error '3151'\" and \"Run-time error '3146'.\" This happens when they try to connect to the database, and it’s really frustrating because they need the data for their work. It seems like the connection to 'xxxxxx' is failing, and they don’t know why it keeps happening."
+}

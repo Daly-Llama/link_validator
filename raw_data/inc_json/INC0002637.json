@@ -1,0 +1,20 @@
+{
+  "number": "INC0002637",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB04471",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing secure DocuSign account.\n\nfull_description_text:  \n- The user is seeking assistance with accessing their DocuSign account.  \n- They are specifically inquiring about how to access the secure features of DocuSign.  \n- This issue arose during a live phone call with a help desk analyst.",
+  "short_description": "Difficulty accessing secure DocuSign account.",
+  "description": "- The user is seeking assistance with accessing their DocuSign account.  \n- They are specifically inquiring about how to access the secure features of DocuSign.  \n- This issue arose during a live phone call with a help desk analyst."
+}

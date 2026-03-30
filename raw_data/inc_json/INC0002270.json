@@ -1,0 +1,20 @@
+{
+  "number": "INC0002270",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03357",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Confusion about using the USD Book Advance payment option\n\nfull_description_text:  \nI was trying to pay for my books at the start of the semester, but I got really confused. I don’t understand what this Book Advance thing is and why I’m being charged $500. Also, I heard something about a book loan option, but I’m not sure if it’s still available. Can someone please help me figure this out?",
+  "short_description": "Confusion about using the USD Book Advance payment option",
+  "description": "I was trying to pay for my books at the start of the semester, but I got really confused. I don’t understand what this Book Advance thing is and why I’m being charged $500. Also, I heard something about a book loan option, but I’m not sure if it’s still available. Can someone please help me figure this out?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003783",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07915",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty resizing and moving an embedded chart in Excel.\n\nfull_description_text: A field technician is experiencing issues with an embedded chart in Excel. The chart cannot be resized or moved as intended. This problem is affecting their ability to present data effectively.",
+  "short_description": "Difficulty resizing and moving an embedded chart in Excel.",
+  "description": "A field technician is experiencing issues with an embedded chart in Excel. The chart cannot be resized or moved as intended. This problem is affecting their ability to present data effectively."
+}

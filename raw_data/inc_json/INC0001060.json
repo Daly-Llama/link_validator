@@ -1,0 +1,20 @@
+{
+  "number": "INC0001060",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00103",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update email addresses in Toshiba copier address book.\n\nfull_description_text:  \n- A request was made to add a new employee's email to the Toshiba copier.  \n- The current email needs to be replaced due to a former employee leaving.  \n- There are also other employees that can be removed from the Toshiba scanner.  \n- This update is necessary for scanning documents to email effectively.",
+  "short_description": "Need to update email addresses in Toshiba copier address book.",
+  "description": "- A request was made to add a new employee's email to the Toshiba copier.  \n- The current email needs to be replaced due to a former employee leaving.  \n- There are also other employees that can be removed from the Toshiba scanner.  \n- This update is necessary for scanning documents to email effectively."
+}

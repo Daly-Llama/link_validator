@@ -1,0 +1,20 @@
+{
+  "number": "INC0003168",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05987",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User receiving unsupported browser notification in D2L for Microsoft Edge.\n\nfull_description_text: So, during the call, the user mentioned they were just trying to access their Brightspace courses when this pop-up appeared, saying that their version of Microsoft Edge is no longer supported. They were a bit confused because they thought they were using the right browser, but apparently, Microsoft ended support for Legacy Edge back in March 2021. It seems like they need to upgrade their browser to keep using D2L without any hiccups, but they weren't sure how to go about it. It's a bit of a hassle, right?",
+  "short_description": "User receiving unsupported browser notification in D2L for Microsoft Edge.",
+  "description": "So, during the call, the user mentioned they were just trying to access their Brightspace courses when this pop-up appeared, saying that their version of Microsoft Edge is no longer supported. They were a bit confused because they thought they were using the right browser, but apparently, Microsoft ended support for Legacy Edge back in March 2021. It seems like they need to upgrade their browser to keep using D2L without any hiccups, but they weren't sure how to go about it. It's a bit of a hassle, right?"
+}

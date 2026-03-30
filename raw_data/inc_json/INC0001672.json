@@ -1,0 +1,20 @@
+{
+  "number": "INC0001672",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01564",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with starting video conferencing equipment in classrooms and conference rooms.\n\nfull_description_text: User is attempting to initiate a video conference call in a classroom setting. They are unsure how to operate the classroom panel for this purpose. Additionally, there is confusion regarding the process for connecting to a video conference in a conference room. The user requires assistance to successfully conduct their presentation in video conference mode.",
+  "short_description": "Issues with starting video conferencing equipment in classrooms and conference rooms.",
+  "description": "User is attempting to initiate a video conference call in a classroom setting. They are unsure how to operate the classroom panel for this purpose. Additionally, there is confusion regarding the process for connecting to a video conference in a conference room. The user requires assistance to successfully conduct their presentation in video conference mode."
+}

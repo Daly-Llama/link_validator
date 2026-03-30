@@ -1,0 +1,20 @@
+{
+  "number": "INC0004201",
+  "category": "Technology",
+  "subcategory": "Data Governance",
+  "correct_kb": "KB08529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about members of the Data Governance Management Committee\n\nfull_description_text:  \nSo, during a call, someone asked who’s actually on the Data Governance Management Committee. It seems like there’s some confusion about the members. They just want to know who’s involved in that group, you know?",
+  "short_description": "Inquiry about members of the Data Governance Management Committee",
+  "description": "So, during a call, someone asked who’s actually on the Data Governance Management Committee. It seems like there’s some confusion about the members. They just want to know who’s involved in that group, you know?"
+}

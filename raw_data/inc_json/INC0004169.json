@@ -1,0 +1,20 @@
+{
+  "number": "INC0004169",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08444",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help adding animations in PowerPoint.\n\nfull_description_text: Durante una sesión de chat en vivo, el analista de soporte recibió preguntas sobre cómo agregar animaciones en PowerPoint. El usuario estaba interesado en entender los diferentes tipos de animaciones disponibles, pero parecía un poco confundido sobre el proceso. Mencionó que había intentado varias cosas, pero no estaba seguro de si lo estaba haciendo correctamente.",
+  "short_description": "Need help adding animations in PowerPoint.",
+  "description": "Durante una sesión de chat en vivo, el analista de soporte recibió preguntas sobre cómo agregar animaciones en PowerPoint. El usuario estaba interesado en entender los diferentes tipos de animaciones disponibles, pero parecía un poco confundido sobre el proceso. Mencionó que había intentado varias cosas, pero no estaba seguro de si lo estaba haciendo correctamente."
+}

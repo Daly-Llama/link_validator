@@ -1,0 +1,20 @@
+{
+  "number": "INC0003203",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06104",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Classroom camera not appearing in Zoom for web conferencing.\n\nfull_description_text:  \nThe user is experiencing an issue where the web camera in the smart classroom is not visible in Zoom. This problem arose during a scheduled web conferencing session, preventing the user from utilizing the camera for video participation. Despite the presence of ceiling and wall-mounted cameras, they are not being detected by the Zoom application. The user has confirmed that the camera was functioning properly prior to this incident.",
+  "short_description": "Classroom camera not appearing in Zoom for web conferencing.",
+  "description": "The user is experiencing an issue where the web camera in the smart classroom is not visible in Zoom. This problem arose during a scheduled web conferencing session, preventing the user from utilizing the camera for video participation. Despite the presence of ceiling and wall-mounted cameras, they are not being detected by the Zoom application. The user has confirmed that the camera was functioning properly prior to this incident."
+}

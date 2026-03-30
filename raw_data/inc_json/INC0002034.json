@@ -1,0 +1,20 @@
+{
+  "number": "INC0002034",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02634",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing or broken stylus pen for classroom interactive monitor\n\nfull_description_text:\n- The user reported that the stylus pen for the interactive monitor is either missing or broken.  \n- This issue was raised during a phone call with the help desk analyst.  \n- The classroom environment relies on this equipment for effective teaching, and the absence of a functional stylus pen is impacting the lesson delivery.  \n- The user expressed frustration over the situation, indicating that it is crucial for their teaching activities.",
+  "short_description": "Missing or broken stylus pen for classroom interactive monitor",
+  "description": "- The user reported that the stylus pen for the interactive monitor is either missing or broken.  \n- This issue was raised during a phone call with the help desk analyst.  \n- The classroom environment relies on this equipment for effective teaching, and the absence of a functional stylus pen is impacting the lesson delivery.  \n- The user expressed frustration over the situation, indicating that it is crucial for their teaching activities."
+}

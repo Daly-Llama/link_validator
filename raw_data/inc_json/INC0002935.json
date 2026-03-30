@@ -1,0 +1,20 @@
+{
+  "number": "INC0002935",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05332",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for creation of a web form on the USD website\n\nfull_description_text:  \nThe user is requesting the creation of a web form for the USD website. They are inquiring if it is possible to set up a form on the Coyote One Stop platform. The request indicates a need for assistance in establishing this functionality, which may be crucial for their operations. The user may not be fully fluent in English, which could affect the clarity of their request.",
+  "short_description": "Request for creation of a web form on the USD website",
+  "description": "The user is requesting the creation of a web form for the USD website. They are inquiring if it is possible to set up a form on the Coyote One Stop platform. The request indicates a need for assistance in establishing this functionality, which may be crucial for their operations. The user may not be fully fluent in English, which could affect the clarity of their request."
+}

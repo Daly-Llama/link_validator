@@ -1,0 +1,20 @@
+{
+  "number": "INC0003692",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07811",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding additional elements in Google Forms.\n\nfull_description_text: The user was trying to enhance their Google Forms by adding various elements but ran into some trouble. They mentioned feeling a bit lost on how to incorporate these features effectively. It seems like they were looking for a straightforward way to make their form more interactive, but the process wasn't clear to them.",
+  "short_description": "Difficulty adding additional elements in Google Forms.",
+  "description": "The user was trying to enhance their Google Forms by adding various elements but ran into some trouble. They mentioned feeling a bit lost on how to incorporate these features effectively. It seems like they were looking for a straightforward way to make their form more interactive, but the process wasn't clear to them."
+}

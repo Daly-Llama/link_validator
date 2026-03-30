@@ -1,0 +1,20 @@
+{
+  "number": "INC0001326",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00618",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Search function in Windows Explorer is unresponsive.\n\nfull_description_text:\n- The user is experiencing an issue with the search functionality in Windows File Explorer.  \n- They are unable to access the search box to input queries.  \n- This problem has occurred previously and was resolved by ITS, but it has now reappeared.  \n- The user is running Windows 10 on their computer.",
+  "short_description": "Search function in Windows Explorer is unresponsive.",
+  "description": "- The user is experiencing an issue with the search functionality in Windows File Explorer.  \n- They are unable to access the search box to input queries.  \n- This problem has occurred previously and was resolved by ITS, but it has now reappeared.  \n- The user is running Windows 10 on their computer."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004622",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09518",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about how to use student employee email.\n\nfull_description_text:  \nI'm not really sure what my student employee email is or how to use it. I thought it would be straightforward, but I keep getting stuck. Can someone explain what this email is for and how I can access it? It would really help me out!",
+  "short_description": "Confusion about how to use student employee email.",
+  "description": "I'm not really sure what my student employee email is or how to use it. I thought it would be straightforward, but I keep getting stuck. Can someone explain what this email is for and how I can access it? It would really help me out!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004619",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB09496",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Guidance needed for storing chemical waste streams safely.\n\nfull_description_text: During a recent call, a user inquired about the proper storage methods for chemical waste streams. They expressed concern about the accumulation areas designated for satellite chemical waste and wanted to ensure compliance with safety regulations. The user was looking for clear guidelines on how to manage these waste streams effectively to prevent any potential hazards.",
+  "short_description": "Guidance needed for storing chemical waste streams safely.",
+  "description": "During a recent call, a user inquired about the proper storage methods for chemical waste streams. They expressed concern about the accumulation areas designated for satellite chemical waste and wanted to ensure compliance with safety regulations. The user was looking for clear guidelines on how to manage these waste streams effectively to prevent any potential hazards."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001363",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00687",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with Titanium installation and access issues\n\nfull_description_text:  \nI'm trying to get Titanium installed on my computer, but I'm running into problems. I followed the instructions for connecting to the Titanium electronic medical records system, but my Mac keeps giving me errors. Also, I need to have Titanium mapped under my login, and we really need an update installed too. It's all a bit confusing and frustrating!",
+  "short_description": "Need help with Titanium installation and access issues",
+  "description": "I'm trying to get Titanium installed on my computer, but I'm running into problems. I followed the instructions for connecting to the Titanium electronic medical records system, but my Mac keeps giving me errors. Also, I need to have Titanium mapped under my login, and we really need an update installed too. It's all a bit confusing and frustrating!"
+}

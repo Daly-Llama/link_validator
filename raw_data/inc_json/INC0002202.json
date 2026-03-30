@@ -1,0 +1,20 @@
+{
+  "number": "INC0002202",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03158",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to adopt textbooks on usd.textbookx.com due to inactive buttons.\n\nfull_description_text:\n- The user is trying to adopt textbooks on usd.textbookx.com.  \n- The buttons for selecting courses are inactive, preventing any action.  \n- The screen shows a \"Missing Adoption\" message, and there is no fix button available.  \n- The issue occurs when logged in as a bookstore admin, with the course not listed.",
+  "short_description": "Unable to adopt textbooks on usd.textbookx.com due to inactive buttons.",
+  "description": "- The user is trying to adopt textbooks on usd.textbookx.com.  \n- The buttons for selecting courses are inactive, preventing any action.  \n- The screen shows a \"Missing Adoption\" message, and there is no fix button available.  \n- The issue occurs when logged in as a bookstore admin, with the course not listed."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003881",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08015",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty locating tags in OneNote.\n\nfull_description_text:  \nI am trying to find tags in OneNote, but I am having trouble. I don't know how to search for them or where to look. It seems like there should be an easy way to see all the tags, but I can't figure it out. This is making it hard for me to organize my notes effectively.",
+  "short_description": "Difficulty locating tags in OneNote.",
+  "description": "I am trying to find tags in OneNote, but I am having trouble. I don't know how to search for them or where to look. It seems like there should be an easy way to see all the tags, but I can't figure it out. This is making it hard for me to organize my notes effectively."
+}

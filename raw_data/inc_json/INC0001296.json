@@ -1,0 +1,20 @@
+{
+  "number": "INC0001296",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00563",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Scanning documents on Sharp Multifunction Copier to email or OneDrive.\n\nfull_description_text: The user is trying to scan documents using the Sharp Multifunction Copier. They want to send the scanned documents to email or OneDrive. There seems to be confusion about how to perform the scanning process. The user is looking for guidance on this specific task.",
+  "short_description": "Scanning documents on Sharp Multifunction Copier to email or OneDrive.",
+  "description": "The user is trying to scan documents using the Sharp Multifunction Copier. They want to send the scanned documents to email or OneDrive. There seems to be confusion about how to perform the scanning process. The user is looking for guidance on this specific task."
+}

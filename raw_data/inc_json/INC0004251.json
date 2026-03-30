@@ -1,0 +1,20 @@
+{
+  "number": "INC0004251",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB08614",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble installing the Everbridge mobile app for campus alerts\n\nfull_description_text:  \nSo, I was on the phone with someone who needed help installing the Everbridge mobile app for the USD Campus Alert System. They were a bit confused about what the app actually does and how to get it set up on their phone. It seems like they just wanted to make sure they could receive alerts, but the installation process was tripping them up.",
+  "short_description": "Trouble installing the Everbridge mobile app for campus alerts",
+  "description": "So, I was on the phone with someone who needed help installing the Everbridge mobile app for the USD Campus Alert System. They were a bit confused about what the app actually does and how to get it set up on their phone. It seems like they just wanted to make sure they could receive alerts, but the installation process was tripping them up."
+}

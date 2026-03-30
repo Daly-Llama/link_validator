@@ -1,0 +1,20 @@
+{
+  "number": "INC0004696",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09794",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into the LiveWell benefits site.\n\nfull_description_text:\n- I was trying to access the LiveWell benefits site at https://livewellsd.sd.gov/en/login/ to check my benefits.\n- However, I found myself unable to sign in, which was quite frustrating.\n- I made sure to enter my username and password correctly, but it just wouldn’t let me in.\n- It’s important for me to access this site, so I hope someone can help me figure this out soon!",
+  "short_description": "Unable to log into the LiveWell benefits site.",
+  "description": "- I was trying to access the LiveWell benefits site at https://livewellsd.sd.gov/en/login/ to check my benefits.\n- However, I found myself unable to sign in, which was quite frustrating.\n- I made sure to enter my username and password correctly, but it just wouldn’t let me in.\n- It’s important for me to access this site, so I hope someone can help me figure this out soon!"
+}

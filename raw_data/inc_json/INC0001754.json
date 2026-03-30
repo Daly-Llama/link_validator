@@ -1,0 +1,20 @@
+{
+  "number": "INC0001754",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01795",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: D2L Connect is not functioning in Chrome on Windows or macOS.\n\nfull_description_text: So, the user was trying to use D2L Connect in Chrome, right? But it just, like, totally didn’t work at all. They were on Windows and also macOS, and it was super confusing for them. They kept saying it was broken, and I wasn’t sure what to tell them.",
+  "short_description": "D2L Connect is not functioning in Chrome on Windows or macOS.",
+  "description": "So, the user was trying to use D2L Connect in Chrome, right? But it just, like, totally didn’t work at all. They were on Windows and also macOS, and it was super confusing for them. They kept saying it was broken, and I wasn’t sure what to tell them."
+}

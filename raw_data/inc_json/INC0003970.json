@@ -1,0 +1,20 @@
+{
+  "number": "INC0003970",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB08123",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Options for sharing content in Camtasia\n\nfull_description_text:\n- User is looking for information on sharing features in Camtasia.  \n- They want to know the two available options for sharing.  \n- This inquiry suggests they may be preparing to distribute their work.  \n- No specific details about the content or project were provided.",
+  "short_description": "Options for sharing content in Camtasia",
+  "description": "- User is looking for information on sharing features in Camtasia.  \n- They want to know the two available options for sharing.  \n- This inquiry suggests they may be preparing to distribute their work.  \n- No specific details about the content or project were provided."
+}

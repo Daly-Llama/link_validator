@@ -1,0 +1,20 @@
+{
+  "number": "INC0004571",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09384",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Question about disclosing disability to professors\n\nfull_description_text:  \nSo, I'm wondering if I really need to tell my professors about my disability. Like, is it mandatory or just a choice? I mean, I get that it might help in some situations, but do I have to? Just trying to figure out what my options are here.",
+  "short_description": "Question about disclosing disability to professors",
+  "description": "So, I'm wondering if I really need to tell my professors about my disability. Like, is it mandatory or just a choice? I mean, I get that it might help in some situations, but do I have to? Just trying to figure out what my options are here."
+}

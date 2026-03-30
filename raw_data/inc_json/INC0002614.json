@@ -1,0 +1,20 @@
+{
+  "number": "INC0002614",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB04368",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty purchasing apps from the Apple App Store for department use.\n\nfull_description_text:\n- The user is trying to purchase an app from the Apple App Store for their department.  \n- They are unsure of the process to complete the purchase.  \n- The user is looking for guidance on how to proceed with the app purchase.",
+  "short_description": "Difficulty purchasing apps from the Apple App Store for department use.",
+  "description": "- The user is trying to purchase an app from the Apple App Store for their department.  \n- They are unsure of the process to complete the purchase.  \n- The user is looking for guidance on how to proceed with the app purchase."
+}

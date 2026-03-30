@@ -1,0 +1,20 @@
+{
+  "number": "INC0002092",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02808",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Monitors are not stable on the installed monitor arms.\n\nfull_description_text: The user is experiencing issues with the monitor arms on their Flexispot standing desk. The monitors do not stay in position, causing instability. This problem arose after the installation of the dual monitor mount.",
+  "short_description": "Monitors are not stable on the installed monitor arms.",
+  "description": "The user is experiencing issues with the monitor arms on their Flexispot standing desk. The monitors do not stay in position, causing instability. This problem arose after the installation of the dual monitor mount."
+}

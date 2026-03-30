@@ -1,0 +1,20 @@
+{
+  "number": "INC0003576",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07546",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about Home Widgets in D2L platform\n\nfull_description_text:  \n- I was trying to figure out what these Home Widgets are in D2L.  \n- I don’t really understand how they work or what they do.  \n- It’s kinda frustrating because I just want to use the platform better.  \n- Can someone help me with this?",
+  "short_description": "Confusion about Home Widgets in D2L platform",
+  "description": "- I was trying to figure out what these Home Widgets are in D2L.  \n- I don’t really understand how they work or what they do.  \n- It’s kinda frustrating because I just want to use the platform better.  \n- Can someone help me with this?"
+}

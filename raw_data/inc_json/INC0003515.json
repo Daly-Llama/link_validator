@@ -1,0 +1,20 @@
+{
+  "number": "INC0003515",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB07311",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issue with Coyote Cash Vendors functionality\n\nfull_description_text:  \nThe user is experiencing a problem with Coyote Cash Vendors. They mentioned that something isn't working right, but they didn't go into much detail. It seems like they need help figuring out what's going on with the system.",
+  "short_description": "Issue with Coyote Cash Vendors functionality",
+  "description": "The user is experiencing a problem with Coyote Cash Vendors. They mentioned that something isn't working right, but they didn't go into much detail. It seems like they need help figuring out what's going on with the system."
+}

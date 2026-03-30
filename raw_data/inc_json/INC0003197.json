@@ -1,0 +1,20 @@
+{
+  "number": "INC0003197",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB06090",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for creation of a vendor account for a consultant.\n\nfull_description_text: A consultant involved in an ongoing project requires access to USD resources. To facilitate this, there is a need to establish a vendor account specifically for this individual. The request was initiated by a help desk analyst following an email inquiry regarding the necessary access permissions. This situation highlights the importance of ensuring that external consultants can effectively collaborate on projects while maintaining security protocols.",
+  "short_description": "Request for creation of a vendor account for a consultant.",
+  "description": "A consultant involved in an ongoing project requires access to USD resources. To facilitate this, there is a need to establish a vendor account specifically for this individual. The request was initiated by a help desk analyst following an email inquiry regarding the necessary access permissions. This situation highlights the importance of ensuring that external consultants can effectively collaborate on projects while maintaining security protocols."
+}

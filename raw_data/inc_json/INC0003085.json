@@ -1,0 +1,20 @@
+{
+  "number": "INC0003085",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05730",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Court/Jury and Military Leave policies.\n\nfull_description_text: \nThe user was asking about the Court and Jury Leave. They wanted to know what the Military Leave is as well. They mentioned something about needing this information for their own situation. The call was a bit confusing, and there were some pauses in the conversation.",
+  "short_description": "Inquiry about USD's Court/Jury and Military Leave policies.",
+  "description": "The user was asking about the Court and Jury Leave. They wanted to know what the Military Leave is as well. They mentioned something about needing this information for their own situation. The call was a bit confusing, and there were some pauses in the conversation."
+}

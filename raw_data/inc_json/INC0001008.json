@@ -1,0 +1,20 @@
+{
+  "number": "INC0001008",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00021",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble setting up USD account email activation\n\nfull_description_text:  \nUser trying to activate USD account. Needs help with email setup. RapidIdentity involved. Confusion on steps to take.",
+  "short_description": "Trouble setting up USD account email activation",
+  "description": "User trying to activate USD account. Needs help with email setup. RapidIdentity involved. Confusion on steps to take."
+}

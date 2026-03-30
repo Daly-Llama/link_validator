@@ -1,0 +1,20 @@
+{
+  "number": "INC0004654",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09648",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Requesting post-production captions as a faculty member.\n\nfull_description_text: So, the faculty member was trying to figure out how to get captions done after their video was made. They called in asking about the process for requesting these captions. It seems like they weren't sure what steps to take or who to contact for help.",
+  "short_description": "Requesting post-production captions as a faculty member.",
+  "description": "So, the faculty member was trying to figure out how to get captions done after their video was made. They called in asking about the process for requesting these captions. It seems like they weren't sure what steps to take or who to contact for help."
+}

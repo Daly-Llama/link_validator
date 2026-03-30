@@ -1,0 +1,20 @@
+{
+  "number": "INC0003179",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB06024",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble uploading profile picture in Microsoft Office account\n\nfull_description_text:  \nI am trying to upload my profile picture to my Microsoft Office account but it’s not working. I go to the settings and click on the upload button, but nothing happens. I’m using Outlook 365 and Office 365, and I really don’t know what I’m doing wrong. It’s just really confusing and I need help with this picture thing!",
+  "short_description": "Trouble uploading profile picture in Microsoft Office account",
+  "description": "I am trying to upload my profile picture to my Microsoft Office account but it’s not working. I go to the settings and click on the upload button, but nothing happens. I’m using Outlook 365 and Office 365, and I really don’t know what I’m doing wrong. It’s just really confusing and I need help with this picture thing!"
+}

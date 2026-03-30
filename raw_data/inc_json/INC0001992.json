@@ -1,0 +1,20 @@
+{
+  "number": "INC0001992",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02515",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with SFTP connection using SSH Secure Shell.\n\nfull_description_text: \nThe user was trying to connect through SFTP but is experiencing problems. They mentioned that the Secure File Transfer Protocol is not working as expected. This issue is occurring in the SSH Secure Shell environment, and it seems to be causing some frustration. The connection attempts are failing, and they are unsure why this is happening.",
+  "short_description": "Issues with SFTP connection using SSH Secure Shell.",
+  "description": "The user was trying to connect through SFTP but is experiencing problems. They mentioned that the Secure File Transfer Protocol is not working as expected. This issue is occurring in the SSH Secure Shell environment, and it seems to be causing some frustration. The connection attempts are failing, and they are unsure why this is happening."
+}

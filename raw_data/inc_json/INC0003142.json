@@ -1,0 +1,20 @@
+{
+  "number": "INC0003142",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB05908",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student major displayed incorrectly in Coyote Connections.\n\nfull_description_text:\n- So, I was on the phone with a user who noticed their major is wrong in Coyote Connections.  \n- They were just trying to check their info, but it’s showing something totally different.  \n- It’s a bit confusing, and they want to get it sorted out.",
+  "short_description": "Student major displayed incorrectly in Coyote Connections.",
+  "description": "- So, I was on the phone with a user who noticed their major is wrong in Coyote Connections.  \n- They were just trying to check their info, but it’s showing something totally different.  \n- It’s a bit confusing, and they want to get it sorted out."
+}

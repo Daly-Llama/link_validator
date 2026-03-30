@@ -1,0 +1,20 @@
+{
+  "number": "INC0001523",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01114",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security error messages when accessing websites in multiple browsers.\n\nfull_description_text: \nThe user reported encountering security error messages while trying to access various websites. They received notifications stating that the site is not secure or that their connection is not fully secure. This issue occurred across multiple browsers, including Firefox, Chrome, Internet Explorer, and Edge, indicating a potential widespread problem with secure connections. The user was seeking assistance to understand why these errors were appearing during their browsing sessions.",
+  "short_description": "Security error messages when accessing websites in multiple browsers.",
+  "description": "The user reported encountering security error messages while trying to access various websites. They received notifications stating that the site is not secure or that their connection is not fully secure. This issue occurred across multiple browsers, including Firefox, Chrome, Internet Explorer, and Edge, indicating a potential widespread problem with secure connections. The user was seeking assistance to understand why these errors were appearing during their browsing sessions."
+}

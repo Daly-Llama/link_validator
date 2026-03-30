@@ -1,0 +1,20 @@
+{
+  "number": "INC0002546",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04140",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to transfer SPSS license to a new computer\n\nfull_description_text:  \nUser wants to move their SPSS license.  \nThe license is currently on an older computer.  \nThey need it on a newer computer for better performance.  \nRequest submitted through self-service form.",
+  "short_description": "Need to transfer SPSS license to a new computer",
+  "description": "User wants to move their SPSS license.  \nThe license is currently on an older computer.  \nThey need it on a newer computer for better performance.  \nRequest submitted through self-service form."
+}

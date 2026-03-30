@@ -1,0 +1,20 @@
+{
+  "number": "INC0004736",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09886",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Mac print queue shows \"Hold for Authentication\" error.\n\nfull_description_text:  \nI was trying to print something from my Mac, but the print queue just says \"Hold for Authentication.\" It's super frustrating because I can't get my documents out. I don't know why this is happening, but it seems like a glitch with the PaperCut setup.",
+  "short_description": "Mac print queue shows \"Hold for Authentication\" error.",
+  "description": "I was trying to print something from my Mac, but the print queue just says \"Hold for Authentication.\" It's super frustrating because I can't get my documents out. I don't know why this is happening, but it seems like a glitch with the PaperCut setup."
+}

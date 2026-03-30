@@ -1,0 +1,20 @@
+{
+  "number": "INC0003499",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB07255",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: OneDrive and SharePoint sign-in error on Windows 10.\n\nfull_description_text: So, the user was trying to access OneDrive but got this message saying another account is already signed in. They mentioned that when they tried to open a file from SharePoint, it asked them to sign in and then just gave an error. It’s really frustrating because they can’t email anything from OneDrive right now.",
+  "short_description": "OneDrive and SharePoint sign-in error on Windows 10.",
+  "description": "So, the user was trying to access OneDrive but got this message saying another account is already signed in. They mentioned that when they tried to open a file from SharePoint, it asked them to sign in and then just gave an error. It’s really frustrating because they can’t email anything from OneDrive right now."
+}

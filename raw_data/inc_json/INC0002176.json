@@ -1,0 +1,20 @@
+{
+  "number": "INC0002176",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03088",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Test submission not recorded in D2L grade book\n\nfull_description_text: \nThe user reported that they took a test in Desire2Learn and believed they had submitted it correctly. However, upon checking the grade book today, they discovered that their test was not recorded as turned in. They expressed concern about whether there might have been a connection issue during the exam or if they perhaps did not submit it properly. Additionally, the user mentioned experiencing difficulties while taking the exam, as the system kept kicking them out, which may have contributed to the confusion regarding their submission status.",
+  "short_description": "Test submission not recorded in D2L grade book",
+  "description": "The user reported that they took a test in Desire2Learn and believed they had submitted it correctly. However, upon checking the grade book today, they discovered that their test was not recorded as turned in. They expressed concern about whether there might have been a connection issue during the exam or if they perhaps did not submit it properly. Additionally, the user mentioned experiencing difficulties while taking the exam, as the system kept kicking them out, which may have contributed to the confusion regarding their submission status."
+}

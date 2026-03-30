@@ -1,0 +1,20 @@
+{
+  "number": "INC0003603",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB07711",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty creating a weekly meeting in Zoom.\n\nfull_description_text:  \nSo, I was on the phone with a user who was trying to set up a weekly meeting in Zoom, but they just couldn't figure it out. They kept asking how to create it, and it seemed like they were a bit lost in the process. They mentioned wanting to have a regular catch-up, but the steps just weren't clicking for them. It was a bit frustrating for both of us, honestly!",
+  "short_description": "Difficulty creating a weekly meeting in Zoom.",
+  "description": "So, I was on the phone with a user who was trying to set up a weekly meeting in Zoom, but they just couldn't figure it out. They kept asking how to create it, and it seemed like they were a bit lost in the process. They mentioned wanting to have a regular catch-up, but the steps just weren't clicking for them. It was a bit frustrating for both of us, honestly!"
+}

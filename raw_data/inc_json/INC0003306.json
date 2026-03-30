@@ -1,0 +1,20 @@
+{
+  "number": "INC0003306",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06477",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access network share drive over WiFi connection\n\nfull_description_text:\n- The user is trying to connect to a network share drive while on WiFi.  \n- The connection works fine when the laptop is docked or using a wired connection.  \n- An error message appears stating that Windows cannot access the server name, suggesting a possible network issue.  \n- The user is prompted to check the spelling or diagnose the network problems.",
+  "short_description": "Unable to access network share drive over WiFi connection",
+  "description": "- The user is trying to connect to a network share drive while on WiFi.  \n- The connection works fine when the laptop is docked or using a wired connection.  \n- An error message appears stating that Windows cannot access the server name, suggesting a possible network issue.  \n- The user is prompted to check the spelling or diagnose the network problems."
+}

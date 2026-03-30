@@ -1,0 +1,20 @@
+{
+  "number": "INC0002675",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04571",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for employee access to necessary services\n\nfull_description_text:  \nThe user called in asking for help with getting access for some employees. They mentioned that these services are needed for the staff to do their jobs properly. There was some confusion about which permissions were required, but the user seemed to want to ensure everyone had what they needed.",
+  "short_description": "Request for employee access to necessary services",
+  "description": "The user called in asking for help with getting access for some employees. They mentioned that these services are needed for the staff to do their jobs properly. There was some confusion about which permissions were required, but the user seemed to want to ensure everyone had what they needed."
+}

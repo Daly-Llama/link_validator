@@ -1,0 +1,20 @@
+{
+  "number": "INC0003023",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05591",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Where to find Titanium release notes and update details?\n\nfull_description_text: So, I was on the phone with a user who was really curious about where to find the release notes for Titanium. They were asking all sorts of questions like, \"How do I get the updates?\" and \"Who’s in charge of checking for these updates anyway?\" It seemed like they just wanted to know what’s new and if there’s someone who keeps track of all these changes. Honestly, it was a bit of a jumble, but they really just needed a simple answer about the release notes.",
+  "short_description": "Where to find Titanium release notes and update details?",
+  "description": "So, I was on the phone with a user who was really curious about where to find the release notes for Titanium. They were asking all sorts of questions like, \"How do I get the updates?\" and \"Who’s in charge of checking for these updates anyway?\" It seemed like they just wanted to know what’s new and if there’s someone who keeps track of all these changes. Honestly, it was a bit of a jumble, but they really just needed a simple answer about the release notes."
+}

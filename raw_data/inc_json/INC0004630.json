@@ -1,0 +1,20 @@
+{
+  "number": "INC0004630",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09536",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to update text on the USD website.\n\nfull_description_text: So, during the call, the user mentioned they need to update some text on the USD website, right? They want to change the existing text, add a new line, and also remove some old text that’s just not relevant anymore. It sounds like they’re looking for a complete refresh of the content, which is pretty important for marketing, you know? They really want to make sure everything is up-to-date and reflects the current messaging.",
+  "short_description": "Request to update text on the USD website.",
+  "description": "So, during the call, the user mentioned they need to update some text on the USD website, right? They want to change the existing text, add a new line, and also remove some old text that’s just not relevant anymore. It sounds like they’re looking for a complete refresh of the content, which is pretty important for marketing, you know? They really want to make sure everything is up-to-date and reflects the current messaging."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003571",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing the Manage Files tool in D2L.\n\nfull_description_text:  \nSo, the user was trying to figure out how to get to the Manage Files tool in D2L, but they just couldn't find it. They were asking what exactly this tool does and how to access it, which made it clear they were a bit lost. It seems like they need some guidance on navigating the platform, but they were on the phone with me, so I had to jot down their concerns quickly.",
+  "short_description": "Difficulty accessing the Manage Files tool in D2L.",
+  "description": "So, the user was trying to figure out how to get to the Manage Files tool in D2L, but they just couldn't find it. They were asking what exactly this tool does and how to access it, which made it clear they were a bit lost. It seems like they need some guidance on navigating the platform, but they were on the phone with me, so I had to jot down their concerns quickly."
+}

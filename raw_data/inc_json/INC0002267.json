@@ -1,0 +1,20 @@
+{
+  "number": "INC0002267",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03343",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: TVs in SCSC concourse showing color bars instead of content.\n\nfull_description_text:  \nHey, so I was at the Sanford Coyote Sports Center and noticed that the concourse TVs are just showing color bars or sometimes a black screen. It’s weird because the menus aren’t updating in Reach either, and I can’t see anything from the Show Control computer on the screens. It’s like they’re stuck or something, and it’s really confusing for everyone trying to check out the latest info.",
+  "short_description": "TVs in SCSC concourse showing color bars instead of content.",
+  "description": "Hey, so I was at the Sanford Coyote Sports Center and noticed that the concourse TVs are just showing color bars or sometimes a black screen. It’s weird because the menus aren’t updating in Reach either, and I can’t see anything from the Show Control computer on the screens. It’s like they’re stuck or something, and it’s really confusing for everyone trying to check out the latest info."
+}

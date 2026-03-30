@@ -1,0 +1,20 @@
+{
+  "number": "INC0002116",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02876",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Card and Transact services are currently unavailable.\n\nfull_description_text:  \nI am having a problem with Coyote Card. It is down and not working. Also, the Transact service is not available too. I need help because I can't use them.",
+  "short_description": "Coyote Card and Transact services are currently unavailable.",
+  "description": "I am having a problem with Coyote Card. It is down and not working. Also, the Transact service is not available too. I need help because I can't use them."
+}

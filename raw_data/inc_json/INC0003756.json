@@ -1,0 +1,20 @@
+{
+  "number": "INC0003756",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07881",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble deleting rows and columns in Excel worksheet.\n\nfull_description_text:  \nI was trying to clean up my Excel worksheet by deleting some rows and columns, but I couldn't figure out how to do it. It seems like a simple task, but every time I tried, nothing happened. I'm not sure if I'm missing something or if there's a trick to it.",
+  "short_description": "Trouble deleting rows and columns in Excel worksheet.",
+  "description": "I was trying to clean up my Excel worksheet by deleting some rows and columns, but I couldn't figure out how to do it. It seems like a simple task, but every time I tried, nothing happened. I'm not sure if I'm missing something or if there's a trick to it."
+}

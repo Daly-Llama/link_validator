@@ -1,0 +1,20 @@
+{
+  "number": "INC0002810",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB04912",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about using Webex for virtual patient meetings\n\nfull_description_text:\n- Can we use Webex for telehealth?  \n- Our clinic needs to meet with patients virtually.  \n- Looking for options to connect with patients online.  \n- Need to know if Webex is a good fit for this.",
+  "short_description": "Inquiry about using Webex for virtual patient meetings",
+  "description": "- Can we use Webex for telehealth?  \n- Our clinic needs to meet with patients virtually.  \n- Looking for options to connect with patients online.  \n- Need to know if Webex is a good fit for this."
+}

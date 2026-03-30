@@ -1,0 +1,20 @@
+{
+  "number": "INC0002268",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03349",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to delete a ListServ.\n\nfull_description_text: The user wants to delete the listserv. They called and said please delete the listserv. It's just not needed anymore.",
+  "short_description": "Need to delete a ListServ.",
+  "description": "The user wants to delete the listserv. They called and said please delete the listserv. It's just not needed anymore."
+}

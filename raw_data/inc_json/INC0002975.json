@@ -1,0 +1,20 @@
+{
+  "number": "INC0002975",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05436",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to submit a ticket via the USD website.\n\nfull_description_text: So, during a live chat session, I was trying to submit a ticket through the USD website, right? Everything seemed fine until I hit that submit button and bam! I got this annoying error message saying, \"You do not have permission to this application.\" It was super frustrating because I was just trying to get some help, and now I’m stuck with this weird permission issue. I mean, come on, I thought I had access to everything I needed on the Coyote One Stop!",
+  "short_description": "Unable to submit a ticket via the USD website.",
+  "description": "So, during a live chat session, I was trying to submit a ticket through the USD website, right? Everything seemed fine until I hit that submit button and bam! I got this annoying error message saying, \"You do not have permission to this application.\" It was super frustrating because I was just trying to get some help, and now I’m stuck with this weird permission issue. I mean, come on, I thought I had access to everything I needed on the Coyote One Stop!"
+}

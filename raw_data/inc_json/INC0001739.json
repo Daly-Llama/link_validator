@@ -1,0 +1,20 @@
+{
+  "number": "INC0001739",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB01731",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to set up or change deposits for online payments.\n\nfull_description_text:  \nI’m trying to figure out how to request deposits or application fees to be set up online. There’s a need to increase the deposit for the Physician Assistants Program on the Deposits website. Also, I want to update the price for the Summer Music Camp Application. What options do I have for collecting fees for courses or conferences?",
+  "short_description": "Need to set up or change deposits for online payments.",
+  "description": "I’m trying to figure out how to request deposits or application fees to be set up online. There’s a need to increase the deposit for the Physician Assistants Program on the Deposits website. Also, I want to update the price for the Summer Music Camp Application. What options do I have for collecting fees for courses or conferences?"
+}

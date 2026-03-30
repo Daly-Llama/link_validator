@@ -1,0 +1,20 @@
+{
+  "number": "INC0003492",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB07219",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need remote access to a campus lab or workroom computer.\n\nfull_description_text: \nUser was trying to get access to a remote computer on campus. They mentioned needing it for a lab station or workroom. The chat was a bit difficult because their first language is not English, but they were clear about the request.",
+  "short_description": "Need remote access to a campus lab or workroom computer.",
+  "description": "User was trying to get access to a remote computer on campus. They mentioned needing it for a lab station or workroom. The chat was a bit difficult because their first language is not English, but they were clear about the request."
+}

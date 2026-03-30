@@ -1,0 +1,20 @@
+{
+  "number": "INC0001838",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB02040",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access ImageNow; page is blank on login.\n\nfull_description_text:  \nUser attempts to access ImageNow at the provided link.  \nThe page appears blank and does not load.  \nUser cannot find a link for My Image Now.  \nAccess is not possible on both laptop and desktop.",
+  "short_description": "Unable to access ImageNow; page is blank on login.",
+  "description": "User attempts to access ImageNow at the provided link.  \nThe page appears blank and does not load.  \nUser cannot find a link for My Image Now.  \nAccess is not possible on both laptop and desktop."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001220",
+  "category": "Admissions",
+  "subcategory": "Scholarships",
+  "correct_kb": "KB00407",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble accessing the scholarship gateway due to account error.\n\nfull_description_text:  \nI am trying to get into the scholarship manager, but I keep getting this \"Account Error\" message. It happens when I want to apply for scholarships, and it says there was an error with my account activation. I am not sure what went wrong, but it is very frustrating because I need to access the page.",
+  "short_description": "Trouble accessing the scholarship gateway due to account error.",
+  "description": "I am trying to get into the scholarship manager, but I keep getting this \"Account Error\" message. It happens when I want to apply for scholarships, and it says there was an error with my account activation. I am not sure what went wrong, but it is very frustrating because I need to access the page."
+}

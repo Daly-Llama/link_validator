@@ -1,0 +1,20 @@
+{
+  "number": "INC0003911",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08057",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty extracting information from an email.\n\nfull_description_text:  \n- The user is seeking assistance with extracting specific information from an email.  \n- They are unsure of the process and require guidance on how to proceed.  \n- This issue may affect their ability to utilize the information contained within the email effectively.  \n- The user has submitted this request through a self-service form, indicating a need for support.",
+  "short_description": "Difficulty extracting information from an email.",
+  "description": "- The user is seeking assistance with extracting specific information from an email.  \n- They are unsure of the process and require guidance on how to proceed.  \n- This issue may affect their ability to utilize the information contained within the email effectively.  \n- The user has submitted this request through a self-service form, indicating a need for support."
+}

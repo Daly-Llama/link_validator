@@ -1,0 +1,20 @@
+{
+  "number": "INC0002017",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB02591",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Toshiba copier at Avera Behavior Health not printing correctly.\n\nfull_description_text:\n- El copiador Toshiba no imprime en Avera Behavior Health.  \n- Los correos escaneados aparecen en modo paisaje.  \n- Necesito saber a quién contactar para resolver este problema.",
+  "short_description": "Toshiba copier at Avera Behavior Health not printing correctly.",
+  "description": "- El copiador Toshiba no imprime en Avera Behavior Health.  \n- Los correos escaneados aparecen en modo paisaje.  \n- Necesito saber a quién contactar para resolver este problema."
+}

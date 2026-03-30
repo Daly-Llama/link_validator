@@ -1,0 +1,20 @@
+{
+  "number": "INC0004793",
+  "category": "Budget & Finance",
+  "subcategory": "Budget & Finance",
+  "correct_kb": "KB10101",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in executing budget transfers within the system.\n\nfull_description_text: \nThe user was attempting to perform a budget transfer but encountered issues during the process. They were unclear on the steps required to successfully complete the transfer, leading to confusion. The help desk analyst noted that the user primarily speaks Spanish, which may have contributed to the communication challenges. Additionally, there were some inconsistencies in the information provided about the budget transfer procedure.",
+  "short_description": "Difficulty in executing budget transfers within the system.",
+  "description": "The user was attempting to perform a budget transfer but encountered issues during the process. They were unclear on the steps required to successfully complete the transfer, leading to confusion. The help desk analyst noted that the user primarily speaks Spanish, which may have contributed to the communication challenges. Additionally, there were some inconsistencies in the information provided about the budget transfer procedure."
+}

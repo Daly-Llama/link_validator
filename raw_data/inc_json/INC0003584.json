@@ -1,0 +1,20 @@
+{
+  "number": "INC0003584",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07604",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing D2L course mail and managing settings.\n\nfull_description_text: \nThe user is trying to access their course mail within D2L but is encountering issues. They are also unsure about how to manage their mail settings effectively. This situation is causing some frustration as they need to communicate with their course instructors and peers. The user mentioned they are familiar with the platform but are currently stuck on these specific functionalities.",
+  "short_description": "Difficulty accessing D2L course mail and managing settings.",
+  "description": "The user is trying to access their course mail within D2L but is encountering issues. They are also unsure about how to manage their mail settings effectively. This situation is causing some frustration as they need to communicate with their course instructors and peers. The user mentioned they are familiar with the platform but are currently stuck on these specific functionalities."
+}

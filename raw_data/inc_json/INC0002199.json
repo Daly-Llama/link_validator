@@ -1,0 +1,20 @@
+{
+  "number": "INC0002199",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03149",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Voicemail indicator active, but no messages in mailbox.\n\nfull_description_text: \nDuring the call, the user mentioned that their Cisco VoIP phone displays a voicemail indicator, yet when they check their voicemail box, there are no messages present. This situation can be quite confusing, especially when relying on the voicemail feature for important communications. The user expressed concern about potentially missing important calls, as the indicator suggests there is a message waiting for them.",
+  "short_description": "Voicemail indicator active, but no messages in mailbox.",
+  "description": "During the call, the user mentioned that their Cisco VoIP phone displays a voicemail indicator, yet when they check their voicemail box, there are no messages present. This situation can be quite confusing, especially when relying on the voicemail feature for important communications. The user expressed concern about potentially missing important calls, as the indicator suggests there is a message waiting for them."
+}

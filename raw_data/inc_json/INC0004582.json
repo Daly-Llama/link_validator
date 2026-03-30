@@ -1,0 +1,20 @@
+{
+  "number": "INC0004582",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB09404",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Laptop won't wake up with mouse or keyboard input.\n\nfull_description_text: I'm having trouble with my Lenovo laptop. It just won't wake up when I try to move the mouse or press any keys on the keyboard. It's really frustrating because I need to get back to work! I’m using a Lenovo USB-C, and I thought it would just work fine.",
+  "short_description": "Laptop won't wake up with mouse or keyboard input.",
+  "description": "I'm having trouble with my Lenovo laptop. It just won't wake up when I try to move the mouse or press any keys on the keyboard. It's really frustrating because I need to get back to work! I’m using a Lenovo USB-C, and I thought it would just work fine."
+}

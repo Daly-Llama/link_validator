@@ -1,0 +1,20 @@
+{
+  "number": "INC0002592",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB04274",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for a report from Panopto system\n\nfull_description_text:  \nUser needs a report from Panopto.  \nThey sent an email asking for it.  \nHelp desk analyst created this ticket.  \nNo further details provided.",
+  "short_description": "Request for a report from Panopto system",
+  "description": "User needs a report from Panopto.  \nThey sent an email asking for it.  \nHelp desk analyst created this ticket.  \nNo further details provided."
+}

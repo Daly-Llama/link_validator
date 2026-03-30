@@ -1,0 +1,20 @@
+{
+  "number": "INC0002991",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB05478",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't open Respondus LockDown Browser on my Lenovo laptop.\n\nfull_description_text:  \nI tried to open the LockDown Browser.  \nBut it says I need to close ArcSoft WebCam Companion first.  \nI don’t know why it won’t just open.  \nThis is really annoying!",
+  "short_description": "Can't open Respondus LockDown Browser on my Lenovo laptop.",
+  "description": "I tried to open the LockDown Browser.  \nBut it says I need to close ArcSoft WebCam Companion first.  \nI don’t know why it won’t just open.  \nThis is really annoying!"
+}

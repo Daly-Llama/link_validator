@@ -1,0 +1,20 @@
+{
+  "number": "INC0004492",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09191",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about items to bring and restrictions for dorm living.\n\nfull_description_text:\n- The user is seeking clarification on what items are necessary to bring to the dorms.  \n- Additionally, they are uncertain about the specific items that are prohibited within the dormitory environment.  \n- This inquiry may indicate a lack of familiarity with dormitory regulations and guidelines, which could lead to confusion during the moving process.  \n- It is important to provide a comprehensive list of acceptable and unacceptable items to ensure compliance with dormitory policies.",
+  "short_description": "Inquiry about items to bring and restrictions for dorm living.",
+  "description": "- The user is seeking clarification on what items are necessary to bring to the dorms.  \n- Additionally, they are uncertain about the specific items that are prohibited within the dormitory environment.  \n- This inquiry may indicate a lack of familiarity with dormitory regulations and guidelines, which could lead to confusion during the moving process.  \n- It is important to provide a comprehensive list of acceptable and unacceptable items to ensure compliance with dormitory policies."
+}

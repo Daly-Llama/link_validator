@@ -1,0 +1,20 @@
+{
+  "number": "INC0004790",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB10098",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need clarification on earn codes for EPAFs.\n\nfull_description_text: I'm unsure about which earn codes to use for my EPAFs. I need guidance on the appropriate codes applicable to my situation.",
+  "short_description": "Need clarification on earn codes for EPAFs.",
+  "description": "I'm unsure about which earn codes to use for my EPAFs. I need guidance on the appropriate codes applicable to my situation."
+}

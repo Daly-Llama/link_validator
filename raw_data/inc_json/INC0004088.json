@@ -1,0 +1,20 @@
+{
+  "number": "INC0004088",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB08341",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to open Office applications due to TPM error.\n\nfull_description_text: \nThe user was trying to launch Office products when they encountered an error. The message stated that the Trusted Platform Module has malfunctioned, and it provided an error code of 80090016. They were advised to contact their system administrator if the issue continues.",
+  "short_description": "Unable to open Office applications due to TPM error.",
+  "description": "The user was trying to launch Office products when they encountered an error. The message stated that the Trusted Platform Module has malfunctioned, and it provided an error code of 80090016. They were advised to contact their system administrator if the issue continues."
+}

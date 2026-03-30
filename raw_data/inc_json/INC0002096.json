@@ -1,0 +1,20 @@
+{
+  "number": "INC0002096",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02819",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to create accounts in the Guest Domain.\n\nfull_description_text:  \nI am trying to create accounts in the Guest Domain but I'm having some trouble. It seems like I don't have the necessary permissions or access to do this. I really need these accounts set up for my guests, and I'm not sure what to do next.",
+  "short_description": "Unable to create accounts in the Guest Domain.",
+  "description": "I am trying to create accounts in the Guest Domain but I'm having some trouble. It seems like I don't have the necessary permissions or access to do this. I really need these accounts set up for my guests, and I'm not sure what to do next."
+}

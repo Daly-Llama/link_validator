@@ -1,0 +1,20 @@
+{
+  "number": "INC0001496",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB01028",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: ImageNow fails to scan pages in multiple document batches.\n\nfull_description_text:\n- The user reported that while using the Fujitsu scanner with ImageNow, the first batch of documents scanned correctly.  \n- However, during the second batch, the system missed several pages and instead scanned the patchcode.  \n- This issue seems to occur specifically when scanning multiple document batches, leading to incomplete scans.",
+  "short_description": "ImageNow fails to scan pages in multiple document batches.",
+  "description": "- The user reported that while using the Fujitsu scanner with ImageNow, the first batch of documents scanned correctly.  \n- However, during the second batch, the system missed several pages and instead scanned the patchcode.  \n- This issue seems to occur specifically when scanning multiple document batches, leading to incomplete scans."
+}

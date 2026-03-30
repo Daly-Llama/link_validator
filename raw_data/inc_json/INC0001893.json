@@ -1,0 +1,20 @@
+{
+  "number": "INC0001893",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02199",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble making a Gantt chart in Excel 2016\n\nfull_description_text: So, I was trying to figure out how to make this Gantt chart thing in Excel, you know, the one that looks like a bar chart? I opened up Excel 2016 and thought it would be easy, but I just couldn't get it to work right. I mean, I clicked around a lot and nothing happened, and it’s super frustrating because I really need this for my project. Can someone help me out with this?",
+  "short_description": "Trouble making a Gantt chart in Excel 2016",
+  "description": "So, I was trying to figure out how to make this Gantt chart thing in Excel, you know, the one that looks like a bar chart? I opened up Excel 2016 and thought it would be easy, but I just couldn't get it to work right. I mean, I clicked around a lot and nothing happened, and it’s super frustrating because I really need this for my project. Can someone help me out with this?"
+}

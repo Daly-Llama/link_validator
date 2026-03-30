@@ -1,0 +1,20 @@
+{
+  "number": "INC0001259",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00491",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into StarRez Housing Portal, page won't load.\n\nfull_description_text:\n- So, the student was trying to log into the StarRez Housing Portal but it just wouldn’t load at all.  \n- They mentioned getting some kind of error message saying something went wrong, but no specific details.  \n- Earlier, they could log in just fine, so it’s really confusing why it’s not working now.  \n- They’re really needing access to the housing application, but it’s just not happening.",
+  "short_description": "Unable to log into StarRez Housing Portal, page won't load.",
+  "description": "- So, the student was trying to log into the StarRez Housing Portal but it just wouldn’t load at all.  \n- They mentioned getting some kind of error message saying something went wrong, but no specific details.  \n- Earlier, they could log in just fine, so it’s really confusing why it’s not working now.  \n- They’re really needing access to the housing application, but it’s just not happening."
+}

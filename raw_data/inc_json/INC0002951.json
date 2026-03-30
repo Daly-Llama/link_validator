@@ -1,0 +1,20 @@
+{
+  "number": "INC0002951",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB05370",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Athlete codes missing in Coyote Connections for upcoming seasons.\n\nfull_description_text:\n- So, it looks like the athlete codes were set up in Banner for the Fall and Spring.  \n- But, they’re not showing up in Coyote Connections for the summer.  \n- This is causing some confusion since the codes should be visible.",
+  "short_description": "Athlete codes missing in Coyote Connections for upcoming seasons.",
+  "description": "- So, it looks like the athlete codes were set up in Banner for the Fall and Spring.  \n- But, they’re not showing up in Coyote Connections for the summer.  \n- This is causing some confusion since the codes should be visible."
+}

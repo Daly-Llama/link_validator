@@ -1,0 +1,20 @@
+{
+  "number": "INC0001216",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB00400",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to transfer Adobe named license to new employee\n\nfull_description_text: \nEl usuario estaba en una llamada y mencionó que necesita cambiar el licencia de Adobe. Preguntó si se puede transferir el licencia de Adobe Creative Cloud a un nuevo empleado que ha llegado, porque alguien que estaba antes ya no está. Es importante para ellos que el nuevo empleado tenga acceso a las herramientas necesarias.",
+  "short_description": "Need to transfer Adobe named license to new employee",
+  "description": "El usuario estaba en una llamada y mencionó que necesita cambiar el licencia de Adobe. Preguntó si se puede transferir el licencia de Adobe Creative Cloud a un nuevo empleado que ha llegado, porque alguien que estaba antes ya no está. Es importante para ellos que el nuevo empleado tenga acceso a las herramientas necesarias."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001394",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00751",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User locked out of Windows account and unable to log in.\n\nfull_description_text:\n- The user attempted to log into their Windows computer but encountered an error message.  \n- The message indicated that the referenced account is currently locked out and cannot be accessed.  \n- The user was advised to try logging in again later, but they remain unable to access their account.",
+  "short_description": "User locked out of Windows account and unable to log in.",
+  "description": "- The user attempted to log into their Windows computer but encountered an error message.  \n- The message indicated that the referenced account is currently locked out and cannot be accessed.  \n- The user was advised to try logging in again later, but they remain unable to access their account."
+}

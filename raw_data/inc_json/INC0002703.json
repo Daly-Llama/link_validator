@@ -1,0 +1,20 @@
+{
+  "number": "INC0002703",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB04670",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User unable to log into Banner due to redirection issue.\n\nfull_description_text:  \n- The user reported an inability to successfully log into the Banner application, which is critical for their operational tasks.  \n- Upon entering their credentials, specifically the username and password, the interface exhibited erratic behavior, characterized by a persistent flashing of the page.  \n- The user was subsequently redirected to a specific URL, namely https://appnav.sdbor.edu:443/applicationNavigator/saml/SSO/alias/appnav-prod-sp, with an accompanying error message indicating a failure in the redirection process.  \n- In the event of a redirection failure, the user was instructed to click a post button, which may imply a potential issue with the Single Sign-On (SSO) configuration or the ADFS integration.",
+  "short_description": "User unable to log into Banner due to redirection issue.",
+  "description": "- The user reported an inability to successfully log into the Banner application, which is critical for their operational tasks.  \n- Upon entering their credentials, specifically the username and password, the interface exhibited erratic behavior, characterized by a persistent flashing of the page.  \n- The user was subsequently redirected to a specific URL, namely https://appnav.sdbor.edu:443/applicationNavigator/saml/SSO/alias/appnav-prod-sp, with an accompanying error message indicating a failure in the redirection process.  \n- In the event of a redirection failure, the user was instructed to click a post button, which may imply a potential issue with the Single Sign-On (SSO) configuration or the ADFS integration."
+}

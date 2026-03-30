@@ -1,0 +1,20 @@
+{
+  "number": "INC0004517",
+  "category": "Technology",
+  "subcategory": "Data Governance",
+  "correct_kb": "KB09245",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions needed for data governance review process.\n\nfull_description_text:  \nSo, I was trying to figure out what questions we need to answer for the data governance review, right? It’s kinda confusing because there’s a lot to think about, and I’m not really sure what’s important. I just want to make sure we cover everything we need to, but I’m stuck on what those questions actually are. Can someone help clarify this?",
+  "short_description": "Questions needed for data governance review process.",
+  "description": "So, I was trying to figure out what questions we need to answer for the data governance review, right? It’s kinda confusing because there’s a lot to think about, and I’m not really sure what’s important. I just want to make sure we cover everything we need to, but I’m stuck on what those questions actually are. Can someone help clarify this?"
+}

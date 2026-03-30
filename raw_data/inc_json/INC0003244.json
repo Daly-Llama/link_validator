@@ -1,0 +1,20 @@
+{
+  "number": "INC0003244",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB06239",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help to let others schedule my Zoom meetings.\n\nfull_description_text:\n- I want other people to make or change my Zoom meetings.  \n- I use Zoom with Outlook Calendar.  \n- I not sure how to give them permission.",
+  "short_description": "Need help to let others schedule my Zoom meetings.",
+  "description": "- I want other people to make or change my Zoom meetings.  \n- I use Zoom with Outlook Calendar.  \n- I not sure how to give them permission."
+}

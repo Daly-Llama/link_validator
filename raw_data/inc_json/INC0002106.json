@@ -1,0 +1,20 @@
+{
+  "number": "INC0002106",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB02851",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty adjusting ringer volume on VoIP phone.\n\nfull_description_text:  \n- The field technician is encountering a challenge with the ringer volume settings on a Voice over Internet Protocol (VoIP) phone.  \n- Despite following standard procedures, the volume adjustment does not seem to take effect, leading to potential missed calls.  \n- It is unclear if this issue is related to the phone's firmware or a configuration setting within the VoIP system.  \n- Further investigation may be required to determine the exact cause of this ringer volume adjustment problem.",
+  "short_description": "Difficulty adjusting ringer volume on VoIP phone.",
+  "description": "- The field technician is encountering a challenge with the ringer volume settings on a Voice over Internet Protocol (VoIP) phone.  \n- Despite following standard procedures, the volume adjustment does not seem to take effect, leading to potential missed calls.  \n- It is unclear if this issue is related to the phone's firmware or a configuration setting within the VoIP system.  \n- Further investigation may be required to determine the exact cause of this ringer volume adjustment problem."
+}

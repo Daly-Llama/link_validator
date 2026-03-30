@@ -1,0 +1,20 @@
+{
+  "number": "INC0003109",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05785",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need a copy of a retired employee's mailbox.\n\nfull_description_text:\n- An employee has retired and left behind voicemails in her inbox.  \n- The department requires access to her inbox for important information.  \n- The request is for a copy of the entire mailbox.",
+  "short_description": "Need a copy of a retired employee's mailbox.",
+  "description": "- An employee has retired and left behind voicemails in her inbox.  \n- The department requires access to her inbox for important information.  \n- The request is for a copy of the entire mailbox."
+}

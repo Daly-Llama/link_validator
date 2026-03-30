@@ -1,0 +1,20 @@
+{
+  "number": "INC0004560",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09361",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about University Housing Office holiday and break hours\n\nfull_description_text:  \nDuring a live chat session, the user asked about the specific holidays when the University Housing Office is closed. They also wanted to know if the office remains open during break periods, particularly over the Summer break. The user seemed uncertain about the operational hours and was looking for detailed information regarding when they could access the services provided by the office. This inquiry reflects a need for clarity on the office's availability during various holiday and break times.",
+  "short_description": "Inquiry about University Housing Office holiday and break hours",
+  "description": "During a live chat session, the user asked about the specific holidays when the University Housing Office is closed. They also wanted to know if the office remains open during break periods, particularly over the Summer break. The user seemed uncertain about the operational hours and was looking for detailed information regarding when they could access the services provided by the office. This inquiry reflects a need for clarity on the office's availability during various holiday and break times."
+}

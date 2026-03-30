@@ -1,0 +1,20 @@
+{
+  "number": "INC0001846",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02058",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access files on USB drive; needs recovery help.\n\nfull_description_text: User downloaded files before but now cannot find them. The flash drive blinks but does not show on the computer. Also, there is a pop-up saying the drive needs formatting. IT needs to help recover these files from the USB drive.",
+  "short_description": "Unable to access files on USB drive; needs recovery help.",
+  "description": "User downloaded files before but now cannot find them. The flash drive blinks but does not show on the computer. Also, there is a pop-up saying the drive needs formatting. IT needs to help recover these files from the USB drive."
+}

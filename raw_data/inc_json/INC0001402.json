@@ -1,0 +1,20 @@
+{
+  "number": "INC0001402",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00770",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to relocate wireless router and access points\n\nfull_description_text:  \nThe user has submitted a request to move a wireless router.  \nAdditionally, they need a network access point relocated.  \nThis request is essential for improving their network coverage.  \nThe user is seeking assistance with these adjustments.",
+  "short_description": "Request to relocate wireless router and access points",
+  "description": "The user has submitted a request to move a wireless router.  \nAdditionally, they need a network access point relocated.  \nThis request is essential for improving their network coverage.  \nThe user is seeking assistance with these adjustments."
+}

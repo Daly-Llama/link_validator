@@ -1,0 +1,20 @@
+{
+  "number": "INC0003004",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB05509",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Loud buzzing noise in smart classroom sound system.\n\nfull_description_text: During a live phone call, the user reported a persistent loud buzzing noise emanating from the sound system in the smart classroom. This disruptive sound is affecting the overall learning environment and may be linked to the classroom's audio equipment. The user expressed concern about the impact this noise could have on presentations and discussions taking place in the conference room.",
+  "short_description": "Loud buzzing noise in smart classroom sound system.",
+  "description": "During a live phone call, the user reported a persistent loud buzzing noise emanating from the sound system in the smart classroom. This disruptive sound is affecting the overall learning environment and may be linked to the classroom's audio equipment. The user expressed concern about the impact this noise could have on presentations and discussions taking place in the conference room."
+}

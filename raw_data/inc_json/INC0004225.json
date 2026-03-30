@@ -1,0 +1,20 @@
+{
+  "number": "INC0004225",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08579",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about Slagle Hall's evacuation and severe weather plans.\n\nfull_description_text:\n- The user is seeking information regarding the evacuation plan for Slagle Hall.  \n- They are also inquiring about the procedures in place for severe weather situations.  \n- This request indicates a need for clarity on safety protocols within the building.  \n- Understanding these plans is essential for ensuring personal safety during emergencies.",
+  "short_description": "Inquiry about Slagle Hall's evacuation and severe weather plans.",
+  "description": "- The user is seeking information regarding the evacuation plan for Slagle Hall.  \n- They are also inquiring about the procedures in place for severe weather situations.  \n- This request indicates a need for clarity on safety protocols within the building.  \n- Understanding these plans is essential for ensuring personal safety during emergencies."
+}

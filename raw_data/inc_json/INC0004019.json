@@ -1,0 +1,20 @@
+{
+  "number": "INC0004019",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08241",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help creating assignment folder in Panopto.\n\nfull_description_text: \nI was on the phone with a user who want to create a assignment folder in Panopto. They ask how to do this but they not understand the steps. The user is not English speaker and they need help with this task.",
+  "short_description": "Need help creating assignment folder in Panopto.",
+  "description": "I was on the phone with a user who want to create a assignment folder in Panopto. They ask how to do this but they not understand the steps. The user is not English speaker and they need help with this task."
+}

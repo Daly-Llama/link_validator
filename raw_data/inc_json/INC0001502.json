@@ -1,0 +1,20 @@
+{
+  "number": "INC0001502",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01057",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with Examplify accessing internal mic on Windows and Mac.\n\nfull_description_text:  \nI'm having trouble with Examplify. It keeps saying it can't access the internal mic on my laptop, and I'm not sure why. I thought maybe uninstalling and reinstalling it would help, but I need to know how to do that first. It's really frustrating because I need to use it for my exams!",
+  "short_description": "Issues with Examplify accessing internal mic on Windows and Mac.",
+  "description": "I'm having trouble with Examplify. It keeps saying it can't access the internal mic on my laptop, and I'm not sure why. I thought maybe uninstalling and reinstalling it would help, but I need to know how to do that first. It's really frustrating because I need to use it for my exams!"
+}

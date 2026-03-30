@@ -1,0 +1,20 @@
+{
+  "number": "INC0001376",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB00711",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with requesting Coyote Cards for non-faculty members.\n\nfull_description_text: User was trying to get Banner IDs for contractors and vendors. They also needed Wellness Center Member IDs but got stuck. Not clear on the process for non-faculty or staff.",
+  "short_description": "Issues with requesting Coyote Cards for non-faculty members.",
+  "description": "User was trying to get Banner IDs for contractors and vendors. They also needed Wellness Center Member IDs but got stuck. Not clear on the process for non-faculty or staff."
+}

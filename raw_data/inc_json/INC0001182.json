@@ -1,0 +1,20 @@
+{
+  "number": "INC0001182",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB00348",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with scheduling reports in Cognos due to credential errors.\n\nfull_description_text: \nSo, the user was trying to schedule some reports in Cognos, you know, the version 11 thing. They mentioned something about automating their reports, but then they got this weird error message saying their credentials are needed to finish the operation. It was like, \"Renew your credentials\" or something, and they were confused about what to do next. They really just wanted to get their reports set up without all this hassle.",
+  "short_description": "Issues with scheduling reports in Cognos due to credential errors.",
+  "description": "So, the user was trying to schedule some reports in Cognos, you know, the version 11 thing. They mentioned something about automating their reports, but then they got this weird error message saying their credentials are needed to finish the operation. It was like, \"Renew your credentials\" or something, and they were confused about what to do next. They really just wanted to get their reports set up without all this hassle."
+}

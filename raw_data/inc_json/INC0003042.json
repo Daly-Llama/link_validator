@@ -1,0 +1,20 @@
+{
+  "number": "INC0003042",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05632",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty inviting prospective students to events using VisitDays.\n\nfull_description_text: \nThe department is trying to plan an event and needs to invite prospective students to attend. However, there seems to be a problem with using VisitDays for sending out these invitations. It is unclear how to properly set up the invites for both on-campus and virtual events. This has caused some confusion and delays in the planning process.",
+  "short_description": "Difficulty inviting prospective students to events using VisitDays.",
+  "description": "The department is trying to plan an event and needs to invite prospective students to attend. However, there seems to be a problem with using VisitDays for sending out these invitations. It is unclear how to properly set up the invites for both on-campus and virtual events. This has caused some confusion and delays in the planning process."
+}

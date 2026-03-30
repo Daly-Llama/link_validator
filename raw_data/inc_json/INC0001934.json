@@ -1,0 +1,20 @@
+{
+  "number": "INC0001934",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02335",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to disconnect VoIP line and adjust billing charges\n\nfull_description_text: \nThe user is looking to disconnect a VoIP line that is no longer needed. They mentioned that this phone extension does not belong to their department anymore, and they want to ensure that the charges are removed from the monthly billing. There was some confusion during the chat about the process, but the main goal is to stop the billing for this specific line.",
+  "short_description": "Request to disconnect VoIP line and adjust billing charges",
+  "description": "The user is looking to disconnect a VoIP line that is no longer needed. They mentioned that this phone extension does not belong to their department anymore, and they want to ensure that the charges are removed from the monthly billing. There was some confusion during the chat about the process, but the main goal is to stop the billing for this specific line."
+}

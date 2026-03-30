@@ -1,0 +1,20 @@
+{
+  "number": "INC0002861",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05122",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to display forwarded or replied message icons in Outlook 365.\n\nfull_description_text:  \n- User wants to see icons for forwarded or replied messages in Outlook 365.  \n- They are using Windows and have trouble finding the setting.  \n- This issue was discussed during a live call with the help desk.",
+  "short_description": "Unable to display forwarded or replied message icons in Outlook 365.",
+  "description": "- User wants to see icons for forwarded or replied messages in Outlook 365.  \n- They are using Windows and have trouble finding the setting.  \n- This issue was discussed during a live call with the help desk."
+}

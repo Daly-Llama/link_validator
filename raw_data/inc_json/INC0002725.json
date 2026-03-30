@@ -1,0 +1,20 @@
+{
+  "number": "INC0002725",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04732",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with setting up video conferencing at Rapid City Nursing Campus\n\nfull_description_text:\n- The user is attempting to configure the video conferencing system on the Rapid City Nursing Campus, specifically utilizing the Cisco MX30 unit and Xpanel interface.  \n- There seems to be a lack of clarity regarding the proper setup procedures, which is causing frustration and delays in establishing a functional video conferencing environment.  \n- The user has expressed uncertainty about the compatibility of the equipment with the Smart Classrooms, leading to further complications in the setup process.  \n- Overall, the situation is hindering effective communication and collaboration within the nursing campus.",
+  "short_description": "Issues with setting up video conferencing at Rapid City Nursing Campus",
+  "description": "- The user is attempting to configure the video conferencing system on the Rapid City Nursing Campus, specifically utilizing the Cisco MX30 unit and Xpanel interface.  \n- There seems to be a lack of clarity regarding the proper setup procedures, which is causing frustration and delays in establishing a functional video conferencing environment.  \n- The user has expressed uncertainty about the compatibility of the equipment with the Smart Classrooms, leading to further complications in the setup process.  \n- Overall, the situation is hindering effective communication and collaboration within the nursing campus."
+}

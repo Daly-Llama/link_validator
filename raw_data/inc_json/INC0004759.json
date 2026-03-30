@@ -1,0 +1,20 @@
+{
+  "number": "INC0004759",
+  "category": "Technology",
+  "subcategory": "Slate",
+  "correct_kb": "KB09967",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Temporary PIN for USD application not received via email.\n\nfull_description_text: The user is expecting a temporary PIN for the USD application to arrive in their email. However, it hasn't been received yet. This issue is impacting their ability to access the application. Further investigation may be needed to determine why the email is not coming through.",
+  "short_description": "Temporary PIN for USD application not received via email.",
+  "description": "The user is expecting a temporary PIN for the USD application to arrive in their email. However, it hasn't been received yet. This issue is impacting their ability to access the application. Further investigation may be needed to determine why the email is not coming through."
+}

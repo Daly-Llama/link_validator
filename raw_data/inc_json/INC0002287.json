@@ -1,0 +1,20 @@
+{
+  "number": "INC0002287",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB03400",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view final grades in Banner for Summer classes\n\nfull_description_text:  \nThe student called in asking about where to find their final grades for the Summer classes. They mentioned they can't see their unofficial transcript or grades at all. They got an error message saying the page isn't enabled for their user role, which sounds confusing. It seems like they just want to check their grades but are running into issues.",
+  "short_description": "Unable to view final grades in Banner for Summer classes",
+  "description": "The student called in asking about where to find their final grades for the Summer classes. They mentioned they can't see their unofficial transcript or grades at all. They got an error message saying the page isn't enabled for their user role, which sounds confusing. It seems like they just want to check their grades but are running into issues."
+}

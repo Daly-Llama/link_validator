@@ -1,0 +1,20 @@
+{
+  "number": "INC0003681",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07800",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty in publishing a Google Site.\n\nfull_description_text: \nThe user was engaged in the process of attempting to publish their Google Site, which is a platform for creating and sharing web content. However, they encountered an issue that prevented them from successfully completing the publication process. This situation arose during a live chat session with a help desk analyst, where the user expressed their need for assistance in navigating the complexities of the publishing features. The intricacies of the Google Sites interface can sometimes lead to confusion, particularly for those unfamiliar with the specific steps required to finalize a site for public viewing.",
+  "short_description": "Difficulty in publishing a Google Site.",
+  "description": "The user was engaged in the process of attempting to publish their Google Site, which is a platform for creating and sharing web content. However, they encountered an issue that prevented them from successfully completing the publication process. This situation arose during a live chat session with a help desk analyst, where the user expressed their need for assistance in navigating the complexities of the publishing features. The intricacies of the Google Sites interface can sometimes lead to confusion, particularly for those unfamiliar with the specific steps required to finalize a site for public viewing."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001892",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02190",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to receive external calls on VoIP phones.\n\nfull_description_text:  \nSo, it looks like there’s an issue with the VoIP phones not getting calls from outside numbers, especially those that aren’t from USD. The user mentioned they can’t receive any calls from the outside world, which is pretty frustrating. They were just trying to connect with clients, and now it’s like their phone is on mute or something. It’s definitely a hiccup that needs to be sorted out!",
+  "short_description": "Unable to receive external calls on VoIP phones.",
+  "description": "So, it looks like there’s an issue with the VoIP phones not getting calls from outside numbers, especially those that aren’t from USD. The user mentioned they can’t receive any calls from the outside world, which is pretty frustrating. They were just trying to connect with clients, and now it’s like their phone is on mute or something. It’s definitely a hiccup that needs to be sorted out!"
+}

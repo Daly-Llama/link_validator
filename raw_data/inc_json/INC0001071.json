@@ -1,0 +1,20 @@
+{
+  "number": "INC0001071",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB00128",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook prevents shutdown and won't open due to subscription error.\n\nfull_description_text: The user was trying to shut down their computer, but Outlook just wouldn't let it happen. They mentioned issues with Office apps like Excel and Word too. They can't access their USD email because Outlook gives an error about verifying the Office 365 subscription. Also, Excel says there aren't enough resources to display properly.",
+  "short_description": "Outlook prevents shutdown and won't open due to subscription error.",
+  "description": "The user was trying to shut down their computer, but Outlook just wouldn't let it happen. They mentioned issues with Office apps like Excel and Word too. They can't access their USD email because Outlook gives an error about verifying the Office 365 subscription. Also, Excel says there aren't enough resources to display properly."
+}

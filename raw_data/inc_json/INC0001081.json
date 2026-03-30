@@ -1,0 +1,20 @@
+{
+  "number": "INC0001081",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00148",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Secondary screen shows no signal on Surface Pro.\n\nfull_description_text: So, the user was trying to connect their Surface Pro to a second screen, right? But then, out of nowhere, the second screen just says no signal. It’s like, what does that even mean? They were really confused and didn’t know what to do next.",
+  "short_description": "Secondary screen shows no signal on Surface Pro.",
+  "description": "So, the user was trying to connect their Surface Pro to a second screen, right? But then, out of nowhere, the second screen just says no signal. It’s like, what does that even mean? They were really confused and didn’t know what to do next."
+}

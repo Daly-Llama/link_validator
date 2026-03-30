@@ -1,0 +1,20 @@
+{
+  "number": "INC0001684",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB01593",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: VPN and Internet connectivity issues at the building\n\nfull_description_text:\n- The user reported that the VPN and Internet is not working at their building.  \n- They mentioned that they are unable to connect to the network.  \n- This issue is affecting their ability to work effectively.",
+  "short_description": "VPN and Internet connectivity issues at the building",
+  "description": "- The user reported that the VPN and Internet is not working at their building.  \n- They mentioned that they are unable to connect to the network.  \n- This issue is affecting their ability to work effectively."
+}

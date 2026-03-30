@@ -1,0 +1,20 @@
+{
+  "number": "INC0004079",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08313",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User needs clarification on what PowerPoint is and its capabilities.\n\nfull_description_text: The user is asking for information about PowerPoint and what it can do. They seem unsure about its features and how it can be used effectively. This lack of understanding is causing some confusion during the call.",
+  "short_description": "User needs clarification on what PowerPoint is and its capabilities.",
+  "description": "The user is asking for information about PowerPoint and what it can do. They seem unsure about its features and how it can be used effectively. This lack of understanding is causing some confusion during the call."
+}

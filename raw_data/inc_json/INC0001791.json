@@ -1,0 +1,20 @@
+{
+  "number": "INC0001791",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01895",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: MyMathLab logs me out when accessing my course.\n\nfull_description_text:\n- I am trying to access my math lab course on MyMathLab using multiple browsers, but every time I click on the course, it logs me out.\n- This issue occurs consistently, and I am redirected back to the login screen, which is quite frustrating.\n- I have cleared my browser cache and cookies, but the problem persists, making it impossible to complete my assignments.\n- I am using a standard internet connection, and my device is functioning normally otherwise.",
+  "short_description": "MyMathLab logs me out when accessing my course.",
+  "description": "- I am trying to access my math lab course on MyMathLab using multiple browsers, but every time I click on the course, it logs me out.\n- This issue occurs consistently, and I am redirected back to the login screen, which is quite frustrating.\n- I have cleared my browser cache and cookies, but the problem persists, making it impossible to complete my assignments.\n- I am using a standard internet connection, and my device is functioning normally otherwise."
+}

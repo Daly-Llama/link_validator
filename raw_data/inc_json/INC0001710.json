@@ -1,0 +1,20 @@
+{
+  "number": "INC0001710",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01661",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Printer display screen is frozen and unresponsive.\n\nfull_description_text: So, the new color printer at the reception desk isn’t working right. The screen is totally frozen and it won’t recognize any touch. It just stays blank and doesn’t wake up at all. Super frustrating!",
+  "short_description": "Printer display screen is frozen and unresponsive.",
+  "description": "So, the new color printer at the reception desk isn’t working right. The screen is totally frozen and it won’t recognize any touch. It just stays blank and doesn’t wake up at all. Super frustrating!"
+}

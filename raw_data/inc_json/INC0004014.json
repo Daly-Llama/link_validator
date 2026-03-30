@@ -1,0 +1,20 @@
+{
+  "number": "INC0004014",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08236",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Students can't figure out how to add discussions to Panopto videos.\n\nfull_description_text: So, I was trying to add some discussions to my Panopto video, but I just can't find how to do it. It’s like, where is the button or something? I thought it would be easy, but now I'm stuck and don’t know what to do.",
+  "short_description": "Students can't figure out how to add discussions to Panopto videos.",
+  "description": "So, I was trying to add some discussions to my Panopto video, but I just can't find how to do it. It’s like, where is the button or something? I thought it would be easy, but now I'm stuck and don’t know what to do."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004176",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08452",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty setting slide timings for PowerPoint narrations.\n\nfull_description_text: The user is trying to set the timings for narrations in PowerPoint slides. They are looking for a way to do this manually. It seems they are unsure about the steps involved in the process. This issue is affecting their ability to finalize their presentation.",
+  "short_description": "Difficulty setting slide timings for PowerPoint narrations.",
+  "description": "The user is trying to set the timings for narrations in PowerPoint slides. They are looking for a way to do this manually. It seems they are unsure about the steps involved in the process. This issue is affecting their ability to finalize their presentation."
+}

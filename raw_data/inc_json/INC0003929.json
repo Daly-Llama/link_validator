@@ -1,0 +1,20 @@
+{
+  "number": "INC0003929",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB08075",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new document in OneDrive.\n\nfull_description_text:  \n- The user is attempting to create a new document within OneDrive.  \n- They are unsure of the steps required to successfully complete this action.  \n- This issue may be affecting their ability to utilize OneDrive effectively for document management.",
+  "short_description": "Difficulty creating a new document in OneDrive.",
+  "description": "- The user is attempting to create a new document within OneDrive.  \n- They are unsure of the steps required to successfully complete this action.  \n- This issue may be affecting their ability to utilize OneDrive effectively for document management."
+}

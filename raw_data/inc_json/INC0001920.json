@@ -1,0 +1,20 @@
+{
+  "number": "INC0001920",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB02289",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Card Event Reader is not functioning for event tickets.\n\nfull_description_text:  \nI’m having trouble with the Coyote Card reader for event tickets. It’s stuck in some demo mode and keeps saying it’s inactive or offline. Plus, I think the iValidate license is expired or something. It’s really frustrating because I need it to work for faculty and staff events!",
+  "short_description": "Coyote Card Event Reader is not functioning for event tickets.",
+  "description": "I’m having trouble with the Coyote Card reader for event tickets. It’s stuck in some demo mode and keeps saying it’s inactive or offline. Plus, I think the iValidate license is expired or something. It’s really frustrating because I need it to work for faculty and staff events!"
+}

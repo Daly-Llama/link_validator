@@ -1,0 +1,20 @@
+{
+  "number": "INC0002886",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05208",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access shared email folder in Outlook.\n\nfull_description_text:  \nThe user is trying to view a shared email folder in Outlook but is having trouble. They are unsure of the steps needed to access it properly. This issue is causing some frustration as they need to check important emails from that folder.",
+  "short_description": "Unable to access shared email folder in Outlook.",
+  "description": "The user is trying to view a shared email folder in Outlook but is having trouble. They are unsure of the steps needed to access it properly. This issue is causing some frustration as they need to check important emails from that folder."
+}

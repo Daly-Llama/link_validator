@@ -1,0 +1,20 @@
+{
+  "number": "INC0001679",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01576",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need for Metasys installation on technician's computer\n\nfull_description_text:  \nField technician requires installation of Metasys software.  \nThe technician is unable to proceed with tasks without this installation.  \nRequest is for immediate setup to ensure operational efficiency.",
+  "short_description": "Need for Metasys installation on technician's computer",
+  "description": "Field technician requires installation of Metasys software.  \nThe technician is unable to proceed with tasks without this installation.  \nRequest is for immediate setup to ensure operational efficiency."
+}

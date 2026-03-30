@@ -1,0 +1,20 @@
+{
+  "number": "INC0001949",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB02384",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Delegate not getting meeting invites in Outlook\n\nfull_description_text: So, the delegate, right? They’re not getting any meeting invites at all. Like, they check their email, and nothing shows up. It’s really weird because the sender says they sent it. Maybe it’s a setting issue? I don’t know, but it’s causing some confusion. They were supposed to be in the meeting, but now they’re just left out.",
+  "short_description": "Delegate not getting meeting invites in Outlook",
+  "description": "So, the delegate, right? They’re not getting any meeting invites at all. Like, they check their email, and nothing shows up. It’s really weird because the sender says they sent it. Maybe it’s a setting issue? I don’t know, but it’s causing some confusion. They were supposed to be in the meeting, but now they’re just left out."
+}

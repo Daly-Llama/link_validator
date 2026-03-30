@@ -1,0 +1,20 @@
+{
+  "number": "INC0002065",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02722",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Patch needed for ArcGIS software on Windows.\n\nfull_description_text:\n- The user was on a call requesting a patch for ArcGIS software.  \n- They indicated that the software is running on a Windows environment.  \n- There was no specific error mentioned, just the need for an update.",
+  "short_description": "Patch needed for ArcGIS software on Windows.",
+  "description": "- The user was on a call requesting a patch for ArcGIS software.  \n- They indicated that the software is running on a Windows environment.  \n- There was no specific error mentioned, just the need for an update."
+}

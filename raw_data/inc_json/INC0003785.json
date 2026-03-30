@@ -1,0 +1,20 @@
+{
+  "number": "INC0003785",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07917",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Chart data is linked to the worksheet in Excel.\n\nfull_description_text:\n- The user is inquiring about a chart that is connected to data in an Excel worksheet.  \n- They are unsure if the chart reflects the data accurately.  \n- The user is seeking clarification on how the chart and worksheet are linked.  \n- This issue may affect their ability to analyze the data effectively.",
+  "short_description": "Chart data is linked to the worksheet in Excel.",
+  "description": "- The user is inquiring about a chart that is connected to data in an Excel worksheet.  \n- They are unsure if the chart reflects the data accurately.  \n- The user is seeking clarification on how the chart and worksheet are linked.  \n- This issue may affect their ability to analyze the data effectively."
+}

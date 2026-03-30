@@ -1,0 +1,20 @@
+{
+  "number": "INC0001924",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB02302",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: USD Public Events Calendar is currently experiencing an outage.\n\nfull_description_text:  \nSo, it looks like the USD Calendar is completely down right now, which is definitely not ideal. Users are trying to access the calendar at calendar.usd.edu, but they're running into issues, and it’s just not loading at all. This outage is causing a bit of a disruption, especially for those who rely on it for public events. It’s important to note that this is a live issue, and people are actively looking for updates on the situation.",
+  "short_description": "USD Public Events Calendar is currently experiencing an outage.",
+  "description": "So, it looks like the USD Calendar is completely down right now, which is definitely not ideal. Users are trying to access the calendar at calendar.usd.edu, but they're running into issues, and it’s just not loading at all. This outage is causing a bit of a disruption, especially for those who rely on it for public events. It’s important to note that this is a live issue, and people are actively looking for updates on the situation."
+}

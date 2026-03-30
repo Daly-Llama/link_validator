@@ -1,0 +1,20 @@
+{
+  "number": "INC0001426",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00827",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Projector shows strobe light effect after powering on SmartBoard\n\nfull_description_text:\n- So, the user turned on the smartboard, right?  \n- But then the projector started like blinking super fast, like a strobe light.  \n- The image was all pixelated and had weird colors, which is not normal at all.  \n- It’s kinda confusing because it should just work, but it’s not!",
+  "short_description": "Projector shows strobe light effect after powering on SmartBoard",
+  "description": "- So, the user turned on the smartboard, right?  \n- But then the projector started like blinking super fast, like a strobe light.  \n- The image was all pixelated and had weird colors, which is not normal at all.  \n- It’s kinda confusing because it should just work, but it’s not!"
+}

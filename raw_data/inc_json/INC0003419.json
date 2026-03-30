@@ -1,0 +1,20 @@
+{
+  "number": "INC0003419",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06931",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with accessing ExamSoft Examplify articles.\n\nfull_description_text: \nEl usuario estaba intentando acceder a los artículos relacionados con ExamSoft Examplify, pero encontró dificultades. A pesar de seguir los enlaces proporcionados, no pudo obtener la información necesaria. Esto ha causado frustración, ya que la documentación es crucial para el uso efectivo de la plataforma.",
+  "short_description": "Issues with accessing ExamSoft Examplify articles.",
+  "description": "El usuario estaba intentando acceder a los artículos relacionados con ExamSoft Examplify, pero encontró dificultades. A pesar de seguir los enlaces proporcionados, no pudo obtener la información necesaria. Esto ha causado frustración, ya que la documentación es crucial para el uso efectivo de la plataforma."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001995",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02525",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty checking out equipment to customers in Cheqroom\n\nfull_description_text:\n- A user is trying to check out equipment to customers using Cheqroom.  \n- They seem to be having trouble navigating the checkout process.  \n- It's unclear if they're facing a technical issue or just need guidance on the steps involved.",
+  "short_description": "Difficulty checking out equipment to customers in Cheqroom",
+  "description": "- A user is trying to check out equipment to customers using Cheqroom.  \n- They seem to be having trouble navigating the checkout process.  \n- It's unclear if they're facing a technical issue or just need guidance on the steps involved."
+}

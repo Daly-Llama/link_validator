@@ -1,0 +1,20 @@
+{
+  "number": "INC0002801",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB04892",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reached envelope sending capacity in DocuSign.\n\nfull_description_text: The user mentioned they received a notification indicating they have hit the limit for sending envelopes in DocuSign. This issue arose while they were trying to send out documents for signature. They seemed unsure about what this means for their ongoing tasks and how it affects their workflow.",
+  "short_description": "Reached envelope sending capacity in DocuSign.",
+  "description": "The user mentioned they received a notification indicating they have hit the limit for sending envelopes in DocuSign. This issue arose while they were trying to send out documents for signature. They seemed unsure about what this means for their ongoing tasks and how it affects their workflow."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003553",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB07420",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User needs access to RIS TDX for request submissions.\n\nfull_description_text: So, the user was on the line asking for access to RIS TDX. They mentioned they need it to submit requests but couldn't get in. It seems like they’re stuck without that access right now.",
+  "short_description": "User needs access to RIS TDX for request submissions.",
+  "description": "So, the user was on the line asking for access to RIS TDX. They mentioned they need it to submit requests but couldn't get in. It seems like they’re stuck without that access right now."
+}

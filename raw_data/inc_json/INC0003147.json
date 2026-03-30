@@ -1,0 +1,20 @@
+{
+  "number": "INC0003147",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB05930",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to Parchment system\n\nfull_description_text: \nDuring a phone call, the user expressed a need for access to the Parchment system. They seemed a bit confused and mentioned that they really want to use it for their important documents. The conversation was friendly, but it was clear that they were having trouble understanding the process. They just want to get into Parchment so they can manage their things better.",
+  "short_description": "Request for access to Parchment system",
+  "description": "During a phone call, the user expressed a need for access to the Parchment system. They seemed a bit confused and mentioned that they really want to use it for their important documents. The conversation was friendly, but it was clear that they were having trouble understanding the process. They just want to get into Parchment so they can manage their things better."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003763",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07888",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty combining contents of multiple cells in Excel.\n\nfull_description_text:\n- The user was attempting to merge data from several cells within an Excel spreadsheet. \n- They encountered challenges in executing the process effectively, leading to confusion about the correct method. \n- This issue arose during a live support call, highlighting the need for clear guidance on cell content combination techniques.",
+  "short_description": "Difficulty combining contents of multiple cells in Excel.",
+  "description": "- The user was attempting to merge data from several cells within an Excel spreadsheet. \n- They encountered challenges in executing the process effectively, leading to confusion about the correct method. \n- This issue arose during a live support call, highlighting the need for clear guidance on cell content combination techniques."
+}

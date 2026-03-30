@@ -1,0 +1,20 @@
+{
+  "number": "INC0003614",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07731",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Concerns regarding the security and collaboration features of Google Docs.\n\nfull_description_text: During a recent phone call, the user expressed multiple concerns regarding the security of uploaded Google Docs files. They inquired specifically about the maximum file size permitted for uploads, as well as the capabilities for sharing and collaborating on these documents. The user sought clarity on whether their sensitive information would remain protected while utilizing these features, indicating a need for comprehensive understanding of Google Docs' security protocols and collaborative functionalities. This inquiry highlights the importance of ensuring that users feel confident in the tools they are using for document management and collaboration.",
+  "short_description": "Concerns regarding the security and collaboration features of Google Docs.",
+  "description": "During a recent phone call, the user expressed multiple concerns regarding the security of uploaded Google Docs files. They inquired specifically about the maximum file size permitted for uploads, as well as the capabilities for sharing and collaborating on these documents. The user sought clarity on whether their sensitive information would remain protected while utilizing these features, indicating a need for comprehensive understanding of Google Docs' security protocols and collaborative functionalities. This inquiry highlights the importance of ensuring that users feel confident in the tools they are using for document management and collaboration."
+}

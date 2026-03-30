@@ -1,0 +1,20 @@
+{
+  "number": "INC0002757",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04801",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding new administrators to the Akademos Bookstore tool.\n\nfull_description_text:\n- The user, a department chair or dean, is inquiring about how to add new administrators to the Akademos Bookstore tool.  \n- They also want to know how to view all courses in their area within the online bookstore.  \n- This request was made during a live phone call with a help desk analyst.",
+  "short_description": "Difficulty adding new administrators to the Akademos Bookstore tool.",
+  "description": "- The user, a department chair or dean, is inquiring about how to add new administrators to the Akademos Bookstore tool.  \n- They also want to know how to view all courses in their area within the online bookstore.  \n- This request was made during a live phone call with a help desk analyst."
+}

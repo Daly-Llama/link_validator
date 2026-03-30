@@ -1,0 +1,20 @@
+{
+  "number": "INC0003422",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06938",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for Coyote Cash refund after transferring colleges\n\nfull_description_text:  \nI was a student at USD last semester and now I transferred to another college. I need to get a refund for my Coyote Cash because of personal reasons and to help pay some bills. The funds are still in my account, and I’m not sure how to proceed with the refund process.",
+  "short_description": "Request for Coyote Cash refund after transferring colleges",
+  "description": "I was a student at USD last semester and now I transferred to another college. I need to get a refund for my Coyote Cash because of personal reasons and to help pay some bills. The funds are still in my account, and I’m not sure how to proceed with the refund process."
+}

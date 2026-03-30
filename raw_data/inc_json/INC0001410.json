@@ -1,0 +1,20 @@
+{
+  "number": "INC0001410",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00791",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty transferring files between computers on Windows and macOS.\n\nfull_description_text: \nThe user is experiencing issues with transferring their data files to a different computer. They inquired about the process and requested assistance during a live phone call. The environment includes both Microsoft Windows and macOS systems, indicating a potential cross-platform file transfer challenge. The user is seeking guidance on how to successfully complete this file transfer.",
+  "short_description": "Difficulty transferring files between computers on Windows and macOS.",
+  "description": "The user is experiencing issues with transferring their data files to a different computer. They inquired about the process and requested assistance during a live phone call. The environment includes both Microsoft Windows and macOS systems, indicating a potential cross-platform file transfer challenge. The user is seeking guidance on how to successfully complete this file transfer."
+}

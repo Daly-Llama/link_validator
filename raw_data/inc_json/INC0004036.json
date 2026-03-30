@@ -1,0 +1,20 @@
+{
+  "number": "INC0004036",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08264",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Accessing features from the Home tab in Microsoft Word\n\nfull_description_text:\n- The user is trying to understand what options are available on the Home tab in Microsoft Word.  \n- They are looking for a simple overview of the features they can use.  \n- This inquiry is likely to help them with document formatting and editing tasks.  \n- The user may not be familiar with all the tools present in the application.",
+  "short_description": "Accessing features from the Home tab in Microsoft Word",
+  "description": "- The user is trying to understand what options are available on the Home tab in Microsoft Word.  \n- They are looking for a simple overview of the features they can use.  \n- This inquiry is likely to help them with document formatting and editing tasks.  \n- The user may not be familiar with all the tools present in the application."
+}

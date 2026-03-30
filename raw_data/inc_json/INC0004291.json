@@ -1,0 +1,20 @@
+{
+  "number": "INC0004291",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB08702",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the Faculty Ombudsperson role\n\nfull_description_text:  \nSo, during a chat, someone asked who the Faculty Ombudsperson is. They seemed a bit confused about the role and what it involves. It’s like, they wanted to know who to talk to for certain issues, but didn’t really get the details right. Just a simple question, but it kinda threw me off a bit!",
+  "short_description": "Inquiry about the Faculty Ombudsperson role",
+  "description": "So, during a chat, someone asked who the Faculty Ombudsperson is. They seemed a bit confused about the role and what it involves. It’s like, they wanted to know who to talk to for certain issues, but didn’t really get the details right. Just a simple question, but it kinda threw me off a bit!"
+}

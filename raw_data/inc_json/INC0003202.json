@@ -1,0 +1,20 @@
+{
+  "number": "INC0003202",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB06103",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty cancelling an order on the online bookstore.\n\nfull_description_text:  \nUser trying to cancel an item from their order.  \nThey are on usd.textbookx.com, Charlie's Bookstore.  \nNeed to know the process for cancellation.  \nConfusion about steps, unclear how to proceed.",
+  "short_description": "Difficulty cancelling an order on the online bookstore.",
+  "description": "User trying to cancel an item from their order.  \nThey are on usd.textbookx.com, Charlie's Bookstore.  \nNeed to know the process for cancellation.  \nConfusion about steps, unclear how to proceed."
+}

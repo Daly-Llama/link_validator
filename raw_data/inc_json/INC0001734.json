@@ -1,0 +1,20 @@
+{
+  "number": "INC0001734",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01718",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Calendar icons on Student Report page in RegisterBlast are unresponsive.\n\nfull_description_text:  \nUser received an email about enrollment in the USD Testing Centers secure exam portal.  \nWhile accessing the Student Report page, the calendar icons intended for date changes do not respond.  \nThis issue is impacting the ability to select different dates for scheduling.",
+  "short_description": "Calendar icons on Student Report page in RegisterBlast are unresponsive.",
+  "description": "User received an email about enrollment in the USD Testing Centers secure exam portal.  \nWhile accessing the Student Report page, the calendar icons intended for date changes do not respond.  \nThis issue is impacting the ability to select different dates for scheduling."
+}

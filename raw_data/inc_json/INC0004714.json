@@ -1,0 +1,20 @@
+{
+  "number": "INC0004714",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09838",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about finding and understanding internships.\n\nfull_description_text: \nThe user was asking about what is an internship and how to find one. They are a student and are looking for help from the Center for Career Design. The conversation was difficult because the user speaks non-English as their first language, making it hard to understand the details about internships and the process to find them. They repeated their questions several times, showing they need more clear information.",
+  "short_description": "Questions about finding and understanding internships.",
+  "description": "The user was asking about what is an internship and how to find one. They are a student and are looking for help from the Center for Career Design. The conversation was difficult because the user speaks non-English as their first language, making it hard to understand the details about internships and the process to find them. They repeated their questions several times, showing they need more clear information."
+}

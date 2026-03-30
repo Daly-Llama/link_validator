@@ -1,0 +1,20 @@
+{
+  "number": "INC0002646",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04492",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble installing SAS University Edition for PUBH 701 course\n\nfull_description_text:  \nI am trying to install the SAS University Edition software for my PUBH 701 class. However, I am having issues with the installation process. I am using VirtualBox, but it seems like something is not working right. I need help to get this software set up properly.",
+  "short_description": "Trouble installing SAS University Edition for PUBH 701 course",
+  "description": "I am trying to install the SAS University Edition software for my PUBH 701 class. However, I am having issues with the installation process. I am using VirtualBox, but it seems like something is not working right. I need help to get this software set up properly."
+}

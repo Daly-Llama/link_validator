@@ -1,0 +1,20 @@
+{
+  "number": "INC0001730",
+  "category": "Technology",
+  "subcategory": "Salesforce",
+  "correct_kb": "KB01708",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for new fields in Slate interface due to processing changes.\n\nfull_description_text:  \nEnd user requests additional fields in Slate. This request arises from a change in processing requirements. The new fields are necessary for proper data handling. The Slate interface needs to be updated accordingly.",
+  "short_description": "Request for new fields in Slate interface due to processing changes.",
+  "description": "End user requests additional fields in Slate. This request arises from a change in processing requirements. The new fields are necessary for proper data handling. The Slate interface needs to be updated accordingly."
+}

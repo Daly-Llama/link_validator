@@ -1,0 +1,20 @@
+{
+  "number": "INC0002192",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03125",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty accessing pre-May 2019 Barnes and Noble eBooks.\n\nfull_description_text:\n- The user is trying to access digital books purchased from Barnes and Noble prior to May 2019.  \n- They are using the Yuzu application for their eBook reading.  \n- The user is unsure of the steps needed to retrieve these older purchases.  \n- This situation may require clarification on accessing past purchases within the current system.",
+  "short_description": "Difficulty accessing pre-May 2019 Barnes and Noble eBooks.",
+  "description": "- The user is trying to access digital books purchased from Barnes and Noble prior to May 2019.  \n- They are using the Yuzu application for their eBook reading.  \n- The user is unsure of the steps needed to retrieve these older purchases.  \n- This situation may require clarification on accessing past purchases within the current system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002520",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04066",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues with saving documents in Excel due to file format errors\n\nfull_description_text:\n- The user reported encountering a persistent issue when attempting to open Excel files, specifically receiving an error message indicating that the file format and extension do not match. \n- This problem arises when the user tries to access previously created Excel documents, either from this computer or another source, leading to confusion regarding the file's compatibility. \n- It appears that the error may be related to the way the files were saved or the format in which they were created, although the exact cause remains unclear. \n- The user is utilizing Office365 on a USD computer, which may contribute to the complexity of the situation.",
+  "short_description": "Issues with saving documents in Excel due to file format errors",
+  "description": "- The user reported encountering a persistent issue when attempting to open Excel files, specifically receiving an error message indicating that the file format and extension do not match. \n- This problem arises when the user tries to access previously created Excel documents, either from this computer or another source, leading to confusion regarding the file's compatibility. \n- It appears that the error may be related to the way the files were saved or the format in which they were created, although the exact cause remains unclear. \n- The user is utilizing Office365 on a USD computer, which may contribute to the complexity of the situation."
+}

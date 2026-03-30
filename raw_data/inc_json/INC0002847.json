@@ -1,0 +1,20 @@
+{
+  "number": "INC0002847",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB05076",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Students unable to download Panopto recordings.\n\nfull_description_text: Users are experiencing difficulties with the functionality that allows students to download recordings from Panopto. This issue has arisen while attempting to access recorded lectures, which are essential for their study and review. The inability to download these recordings is impacting students' learning experience and access to course materials. Further investigation is required to determine the underlying cause of this limitation.",
+  "short_description": "Students unable to download Panopto recordings.",
+  "description": "Users are experiencing difficulties with the functionality that allows students to download recordings from Panopto. This issue has arisen while attempting to access recorded lectures, which are essential for their study and review. The inability to download these recordings is impacting students' learning experience and access to course materials. Further investigation is required to determine the underlying cause of this limitation."
+}

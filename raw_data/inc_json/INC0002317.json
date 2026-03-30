@@ -1,0 +1,20 @@
+{
+  "number": "INC0002317",
+  "category": "Business Office",
+  "subcategory": "Business Office",
+  "correct_kb": "KB03521",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble setting up authorized payer in SDePay.\n\nfull_description_text:  \nUser is having trouble to set up an authorized payer in SDePay. They mention they are no longer authorized, which is causing the issue. The user is seeking help to resolve this problem.",
+  "short_description": "Trouble setting up authorized payer in SDePay.",
+  "description": "User is having trouble to set up an authorized payer in SDePay. They mention they are no longer authorized, which is causing the issue. The user is seeking help to resolve this problem."
+}

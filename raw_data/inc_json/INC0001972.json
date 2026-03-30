@@ -1,0 +1,20 @@
+{
+  "number": "INC0001972",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02444",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Dropbox is not syncing due to insufficient storage space.\n\nfull_description_text:\n- I am trying to use Dropbox, but it won't sync my files.  \n- It seems like I have run out of space in my account.  \n- I need help figuring out what to do next.",
+  "short_description": "Dropbox is not syncing due to insufficient storage space.",
+  "description": "- I am trying to use Dropbox, but it won't sync my files.  \n- It seems like I have run out of space in my account.  \n- I need help figuring out what to do next."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003186",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB06059",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Error message when logging into SNAP portal.\n\nfull_description_text: \nThe user is encountering an error message after logging into the SNAP portal. The message states, \"We're Sorry... We couldn't find your home page,\" and indicates a \"Constituency Redirect Incomplete\" issue. This problem occurs across all browsers while trying to access the portal at https://experience.usd.edu. The user is unable to navigate to their intended destination due to this error.",
+  "short_description": "Error message when logging into SNAP portal.",
+  "description": "The user is encountering an error message after logging into the SNAP portal. The message states, \"We're Sorry... We couldn't find your home page,\" and indicates a \"Constituency Redirect Incomplete\" issue. This problem occurs across all browsers while trying to access the portal at https://experience.usd.edu. The user is unable to navigate to their intended destination due to this error."
+}

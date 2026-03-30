@@ -1,0 +1,20 @@
+{
+  "number": "INC0004344",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB08784",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Suspected identity theft requires immediate attention and action.\n\nfull_description_text:  \nThe user has submitted a ticket expressing concern regarding a potential case of identity theft, a serious issue that can have significant implications for personal security and financial stability. In this situation, the individual suspects that their personal information may have been compromised, leading to unauthorized use or fraudulent activities. It is crucial to address such suspicions promptly, as identity theft can result in long-lasting repercussions if not managed effectively. The user is seeking guidance on the appropriate steps to take in response to this alarming situation, emphasizing the need for a thorough and careful approach to safeguard their identity and personal data.",
+  "short_description": "Suspected identity theft requires immediate attention and action.",
+  "description": "The user has submitted a ticket expressing concern regarding a potential case of identity theft, a serious issue that can have significant implications for personal security and financial stability. In this situation, the individual suspects that their personal information may have been compromised, leading to unauthorized use or fraudulent activities. It is crucial to address such suspicions promptly, as identity theft can result in long-lasting repercussions if not managed effectively. The user is seeking guidance on the appropriate steps to take in response to this alarming situation, emphasizing the need for a thorough and careful approach to safeguard their identity and personal data."
+}

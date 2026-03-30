@@ -1,0 +1,20 @@
+{
+  "number": "INC0002553",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04154",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Computer monitor in smart classroom is not functioning properly.\n\nfull_description_text:  \nThe user reported that the computer monitor in the smart classroom is not operational, which is impacting their ability to conduct lessons effectively. Despite attempts to use the monitor, it fails to display any output from the connected computer. Additionally, there are concerns regarding the functionality of the Smart Pen and Podium Pen, which may further complicate the situation in the classroom environment. This issue requires immediate attention to restore full functionality for teaching purposes.",
+  "short_description": "Computer monitor in smart classroom is not functioning properly.",
+  "description": "The user reported that the computer monitor in the smart classroom is not operational, which is impacting their ability to conduct lessons effectively. Despite attempts to use the monitor, it fails to display any output from the connected computer. Additionally, there are concerns regarding the functionality of the Smart Pen and Podium Pen, which may further complicate the situation in the classroom environment. This issue requires immediate attention to restore full functionality for teaching purposes."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002924",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05303",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty transferring a call to another person on Cisco VoIP.\n\nfull_description_text:  \nThe user is trying to transfer a call to another person using Cisco VoIP but is encountering issues. Despite following the expected procedure, the call does not successfully transfer. This has caused interruptions in communication, and the user needs assistance to resolve the problem.",
+  "short_description": "Difficulty transferring a call to another person on Cisco VoIP.",
+  "description": "The user is trying to transfer a call to another person using Cisco VoIP but is encountering issues. Despite following the expected procedure, the call does not successfully transfer. This has caused interruptions in communication, and the user needs assistance to resolve the problem."
+}

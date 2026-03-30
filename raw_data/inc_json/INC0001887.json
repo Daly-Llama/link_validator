@@ -1,0 +1,20 @@
+{
+  "number": "INC0001887",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02175",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Locked out of voicemail after multiple incorrect password attempts.\n\nfull_description_text:\n- So, the user was trying to access their voicemail on their Cisco VoIP phone.  \n- They entered the password incorrectly too many times, and now they're locked out.  \n- It's a bit frustrating, right? They just want to check their messages but can't get in.  \n- We need to figure out how to reset or unlock that voicemail access for them.",
+  "short_description": "Locked out of voicemail after multiple incorrect password attempts.",
+  "description": "- So, the user was trying to access their voicemail on their Cisco VoIP phone.  \n- They entered the password incorrectly too many times, and now they're locked out.  \n- It's a bit frustrating, right? They just want to check their messages but can't get in.  \n- We need to figure out how to reset or unlock that voicemail access for them."
+}

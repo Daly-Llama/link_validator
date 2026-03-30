@@ -1,0 +1,20 @@
+{
+  "number": "INC0003690",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07809",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty adding an image in Google Forms.\n\nfull_description_text: The user is attempting to incorporate an image into a Google Form but is encountering challenges in the process. This issue may arise during the form creation phase, where the user expects to enhance the visual appeal or provide additional context through images. The user seeks guidance on how to successfully complete this task within the Google Forms environment.",
+  "short_description": "Difficulty adding an image in Google Forms.",
+  "description": "The user is attempting to incorporate an image into a Google Form but is encountering challenges in the process. This issue may arise during the form creation phase, where the user expects to enhance the visual appeal or provide additional context through images. The user seeks guidance on how to successfully complete this task within the Google Forms environment."
+}

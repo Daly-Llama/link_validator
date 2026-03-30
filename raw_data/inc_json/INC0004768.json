@@ -1,0 +1,20 @@
+{
+  "number": "INC0004768",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB10014",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Questions about available employee benefits and their usage.\n\nfull_description_text:  \nHey, so I was trying to find out what benefits we have for employees. Like, what can we use? I’m not really sure how to use them right. Just need some clarity on this whole benefits thing, you know?",
+  "short_description": "Questions about available employee benefits and their usage.",
+  "description": "Hey, so I was trying to find out what benefits we have for employees. Like, what can we use? I’m not really sure how to use them right. Just need some clarity on this whole benefits thing, you know?"
+}

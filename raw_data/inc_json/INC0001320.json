@@ -1,0 +1,20 @@
+{
+  "number": "INC0001320",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB00605",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into USD Data Cookbook.\n\nfull_description_text: The user is experiencing issues logging into the Data Cookbook. They are unsure of the steps needed to access the platform. This problem is preventing them from utilizing the resources available in the Data Cookbook.",
+  "short_description": "Unable to log into USD Data Cookbook.",
+  "description": "The user is experiencing issues logging into the Data Cookbook. They are unsure of the steps needed to access the platform. This problem is preventing them from utilizing the resources available in the Data Cookbook."
+}

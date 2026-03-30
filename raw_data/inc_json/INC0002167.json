@@ -1,0 +1,20 @@
+{
+  "number": "INC0002167",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03041",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need access to Transfer Equivalency System for academic advising.\n\nfull_description_text: The user is an Academic Advisor and they need to access the Transfer Equivalency System, TES. They are saying they cannot open a TES evaluation request. This access is important for their job and for Fast Track USD enrollment, but they are having trouble with it.",
+  "short_description": "Need access to Transfer Equivalency System for academic advising.",
+  "description": "The user is an Academic Advisor and they need to access the Transfer Equivalency System, TES. They are saying they cannot open a TES evaluation request. This access is important for their job and for Fast Track USD enrollment, but they are having trouble with it."
+}

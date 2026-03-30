@@ -1,0 +1,20 @@
+{
+  "number": "INC0004688",
+  "category": "Technology",
+  "subcategory": "Slate",
+  "correct_kb": "KB09755",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about enrollment processing emails in Slate Reader\n\nfull_description_text:  \nI'm receiving these emails related to enrollment processing, but I don't actually handle that. It's really puzzling because I thought these notifications were meant for someone else. Can someone please clarify what these emails are for and why I'm getting them? It would be great to understand the context better.",
+  "short_description": "Confusion about enrollment processing emails in Slate Reader",
+  "description": "I'm receiving these emails related to enrollment processing, but I don't actually handle that. It's really puzzling because I thought these notifications were meant for someone else. Can someone please clarify what these emails are for and why I'm getting them? It would be great to understand the context better."
+}

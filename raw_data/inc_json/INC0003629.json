@@ -1,0 +1,20 @@
+{
+  "number": "INC0003629",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07747",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to chat with others on a shared Google Doc.\n\nfull_description_text:  \n- The user was trying to communicate with other users while using a shared Google Document.  \n- They wanted to know how to use the chat feature that is available in Google Docs for collaboration.  \n- However, they are experiencing difficulties and are not sure how to initiate or access the chat function.  \n- This issue is causing confusion and hindering their ability to work together effectively on the document.",
+  "short_description": "Unable to chat with others on a shared Google Doc.",
+  "description": "- The user was trying to communicate with other users while using a shared Google Document.  \n- They wanted to know how to use the chat feature that is available in Google Docs for collaboration.  \n- However, they are experiencing difficulties and are not sure how to initiate or access the chat function.  \n- This issue is causing confusion and hindering their ability to work together effectively on the document."
+}

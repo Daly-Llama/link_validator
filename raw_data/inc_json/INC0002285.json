@@ -1,0 +1,20 @@
+{
+  "number": "INC0002285",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB03392",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access ImageNow; page remains blank during login.\n\nfull_description_text: The user reported that when attempting to log in to ImageNow via the provided URL, the page appears completely blank. They mentioned that there seems to be no accessible link for My Image Now, and this issue persists across both their laptop and desktop devices. Additionally, an error message indicated that the web scanning cloud toolkit is not installed, prompting the user to contact their administrator for assistance.",
+  "short_description": "Unable to access ImageNow; page remains blank during login.",
+  "description": "The user reported that when attempting to log in to ImageNow via the provided URL, the page appears completely blank. They mentioned that there seems to be no accessible link for My Image Now, and this issue persists across both their laptop and desktop devices. Additionally, an error message indicated that the web scanning cloud toolkit is not installed, prompting the user to contact their administrator for assistance."
+}

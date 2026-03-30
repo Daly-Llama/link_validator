@@ -1,0 +1,20 @@
+{
+  "number": "INC0004353",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08811",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with purchasing event reader and iValidate licenses\n\nfull_description_text:\n- The field technician is attempting to purchase an event reader and iValidate licenses.  \n- This process is being conducted in the iValidate environment on a Coyote Card using an iPad.  \n- There seems to be a problem with the purchasing mechanism or the licensing options available.  \n- The technician is unsure of the next steps to take in order to complete the purchase successfully.",
+  "short_description": "Issues with purchasing event reader and iValidate licenses",
+  "description": "- The field technician is attempting to purchase an event reader and iValidate licenses.  \n- This process is being conducted in the iValidate environment on a Coyote Card using an iPad.  \n- There seems to be a problem with the purchasing mechanism or the licensing options available.  \n- The technician is unsure of the next steps to take in order to complete the purchase successfully."
+}

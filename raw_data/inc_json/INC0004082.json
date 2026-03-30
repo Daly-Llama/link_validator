@@ -1,0 +1,20 @@
+{
+  "number": "INC0004082",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB08322",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Steps needed for managing chemical spills on campus.\n\nfull_description_text: User inquired about procedures for spill management. They were unsure of whom to contact for chemical spills. The situation requires immediate attention to ensure safety. Additional details about the specific location of the spill were not provided.",
+  "short_description": "Steps needed for managing chemical spills on campus.",
+  "description": "User inquired about procedures for spill management. They were unsure of whom to contact for chemical spills. The situation requires immediate attention to ensure safety. Additional details about the specific location of the spill were not provided."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003201",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB06102",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty reaching a seller on usd.textbookx.com marketplace.\n\nfull_description_text: \nSo, during the call, the user was trying to figure out how to get in touch with a seller from the marketplace on usd.textbookx.com, which is part of Charlie's Bookstore & Fan Shop. They seemed a bit confused about the process and were looking for some guidance on how to initiate contact. It was one of those moments where you could tell they really wanted to get their questions answered but just weren't sure where to start. The whole thing felt a bit like trying to find a needle in a haystack, you know?",
+  "short_description": "Difficulty reaching a seller on usd.textbookx.com marketplace.",
+  "description": "So, during the call, the user was trying to figure out how to get in touch with a seller from the marketplace on usd.textbookx.com, which is part of Charlie's Bookstore & Fan Shop. They seemed a bit confused about the process and were looking for some guidance on how to initiate contact. It was one of those moments where you could tell they really wanted to get their questions answered but just weren't sure where to start. The whole thing felt a bit like trying to find a needle in a haystack, you know?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002483",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB03956",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help installing a network printer without a print server.\n\nfull_description_text:  \nI'm trying to set up a network printer at a remote site, but there's no print server available. I’m not really sure how to go about installing it on my Windows machine. Can someone guide me through the process?",
+  "short_description": "Need help installing a network printer without a print server.",
+  "description": "I'm trying to set up a network printer at a remote site, but there's no print server available. I’m not really sure how to go about installing it on my Windows machine. Can someone guide me through the process?"
+}

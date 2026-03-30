@@ -1,0 +1,20 @@
+{
+  "number": "INC0001896",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB02206",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Poor print quality of PDF documents in ImageNow.\n\nfull_description_text: So, the user was trying to print a PDF document to ImageNow, right? But they noticed that the quality was just not good at all. They mentioned that when they go into the print properties and select color in the print dialog box, the document actually comes out much clearer in ImageNow. It's like, why does it need that extra step to look decent?",
+  "short_description": "Poor print quality of PDF documents in ImageNow.",
+  "description": "So, the user was trying to print a PDF document to ImageNow, right? But they noticed that the quality was just not good at all. They mentioned that when they go into the print properties and select color in the print dialog box, the document actually comes out much clearer in ImageNow. It's like, why does it need that extra step to look decent?"
+}

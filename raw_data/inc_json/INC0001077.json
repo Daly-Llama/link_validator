@@ -1,0 +1,20 @@
+{
+  "number": "INC0001077",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00142",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cisco VoIP phone unresponsive and unable to make or receive calls.\n\nfull_description_text:  \nThe user is experiencing issues with their Cisco VoIP phone, which is currently stuck on the \"registering\" display. They are unable to make or receive calls, although the phone does ring. Additionally, essential functions such as transfer and hold are missing, and there is no dial tone. The user has noted a significant delay when attempting to dial out, leading to frustration with the device's performance.",
+  "short_description": "Cisco VoIP phone unresponsive and unable to make or receive calls.",
+  "description": "The user is experiencing issues with their Cisco VoIP phone, which is currently stuck on the \"registering\" display. They are unable to make or receive calls, although the phone does ring. Additionally, essential functions such as transfer and hold are missing, and there is no dial tone. The user has noted a significant delay when attempting to dial out, leading to frustration with the device's performance."
+}

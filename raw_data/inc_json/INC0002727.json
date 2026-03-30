@@ -1,0 +1,20 @@
+{
+  "number": "INC0002727",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04737",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help installing a privacy screen on my monitor\n\nfull_description_text:\n- So, I was on the phone with a user who needed help.  \n- They were trying to figure out how to install a privacy screen on their monitor.  \n- They mentioned something about not knowing the right size and aspect ratio, which was confusing them.  \n- It seems like they just want to get it set up right!",
+  "short_description": "Need help installing a privacy screen on my monitor",
+  "description": "- So, I was on the phone with a user who needed help.  \n- They were trying to figure out how to install a privacy screen on their monitor.  \n- They mentioned something about not knowing the right size and aspect ratio, which was confusing them.  \n- It seems like they just want to get it set up right!"
+}

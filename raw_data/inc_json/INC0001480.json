@@ -1,0 +1,20 @@
+{
+  "number": "INC0001480",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00987",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to create a new shared folder on the X drive\n\nfull_description_text:  \nSo, I’m trying to set up a new shared folder on the X drive, but I’m not really sure how to go about it. I just need a place to store some files that others can access too. It’s kinda frustrating because I thought it would be easy, but I’m stuck here. Can someone help me out with this?",
+  "short_description": "Need to create a new shared folder on the X drive",
+  "description": "So, I’m trying to set up a new shared folder on the X drive, but I’m not really sure how to go about it. I just need a place to store some files that others can access too. It’s kinda frustrating because I thought it would be easy, but I’m stuck here. Can someone help me out with this?"
+}

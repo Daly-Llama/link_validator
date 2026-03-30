@@ -1,0 +1,20 @@
+{
+  "number": "INC0001012",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00027",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues with Outlook email authentication and messages stuck in Outbox.\n\nfull_description_text:  \nUser is experiencing repeated prompts for username and password in Outlook.  \nEmails are not sending and remain in the Outbox.  \nThis issue may affect communication efficiency.",
+  "short_description": "Issues with Outlook email authentication and messages stuck in Outbox.",
+  "description": "User is experiencing repeated prompts for username and password in Outlook.  \nEmails are not sending and remain in the Outbox.  \nThis issue may affect communication efficiency."
+}

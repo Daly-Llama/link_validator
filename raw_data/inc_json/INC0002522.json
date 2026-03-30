@@ -1,0 +1,20 @@
+{
+  "number": "INC0002522",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04070",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help with smart classroom technology for video conference.\n\nfull_description_text:\n- The user is in the Sioux Falls Medical School classroom and requires assistance with the smart classroom technology.  \n- They are specifically looking for help to initiate a video conference.  \n- This request indicates a potential issue with the setup or functionality of the technology in the meeting room.  \n- The user has reached out via email to the help desk for support.",
+  "short_description": "Need help with smart classroom technology for video conference.",
+  "description": "- The user is in the Sioux Falls Medical School classroom and requires assistance with the smart classroom technology.  \n- They are specifically looking for help to initiate a video conference.  \n- This request indicates a potential issue with the setup or functionality of the technology in the meeting room.  \n- The user has reached out via email to the help desk for support."
+}

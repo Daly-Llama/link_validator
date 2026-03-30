@@ -1,0 +1,20 @@
+{
+  "number": "INC0001818",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01986",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need support for computer compatibility with HESI testing\n\nfull_description_text:  \nUser is asking if IT can help with HESI testing.  \nThey want to know the computer requirements for HESI testing.  \nAlso, they are unsure if the computer they plan to buy will work for HESI testing.",
+  "short_description": "Need support for computer compatibility with HESI testing",
+  "description": "User is asking if IT can help with HESI testing.  \nThey want to know the computer requirements for HESI testing.  \nAlso, they are unsure if the computer they plan to buy will work for HESI testing."
+}

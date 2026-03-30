@@ -1,0 +1,20 @@
+{
+  "number": "INC0003420",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB06934",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error accessing GOAMTCH and SOAIDEN in SPAIDEN search\n\nfull_description_text: User is trying to search in SPAIDEN screen. They receive error messages. It says user not authorized for GOAMTCH and SOAIDEN. Also, it mentions new ID must be created on GOAMTCH because Common Matching is enabled.",
+  "short_description": "Error accessing GOAMTCH and SOAIDEN in SPAIDEN search",
+  "description": "User is trying to search in SPAIDEN screen. They receive error messages. It says user not authorized for GOAMTCH and SOAIDEN. Also, it mentions new ID must be created on GOAMTCH because Common Matching is enabled."
+}

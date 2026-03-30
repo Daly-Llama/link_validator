@@ -1,0 +1,20 @@
+{
+  "number": "INC0004462",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09126",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Resident inquiry about changing rooms in residence halls.\n\nfull_description_text:\n- A resident wants to change their room.  \n- They are unsure how to proceed with the process.  \n- Need guidance on the steps involved.  \n- This is related to their current living situation.",
+  "short_description": "Resident inquiry about changing rooms in residence halls.",
+  "description": "- A resident wants to change their room.  \n- They are unsure how to proceed with the process.  \n- Need guidance on the steps involved.  \n- This is related to their current living situation."
+}

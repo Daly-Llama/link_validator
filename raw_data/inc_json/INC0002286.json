@@ -1,0 +1,20 @@
+{
+  "number": "INC0002286",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03396",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Li-Cor machine in Lee Med is experiencing significant performance issues.\n\nfull_description_text: During a recent call, the user reported that the Li-Cor machine located in Lee Med is functioning at an unusually slow pace, causing delays in their workflow. The user was attempting to utilize the Image Studio software in conjunction with the Odyssey CLX system when they encountered this performance degradation. This issue appears to be persistent, as the user expressed frustration over the machine's inability to operate efficiently, which is impacting their ongoing projects. Further investigation into the machine's operational status and performance metrics may be necessary to understand the underlying cause of this slowdown.",
+  "short_description": "Li-Cor machine in Lee Med is experiencing significant performance issues.",
+  "description": "During a recent call, the user reported that the Li-Cor machine located in Lee Med is functioning at an unusually slow pace, causing delays in their workflow. The user was attempting to utilize the Image Studio software in conjunction with the Odyssey CLX system when they encountered this performance degradation. This issue appears to be persistent, as the user expressed frustration over the machine's inability to operate efficiently, which is impacting their ongoing projects. Further investigation into the machine's operational status and performance metrics may be necessary to understand the underlying cause of this slowdown."
+}

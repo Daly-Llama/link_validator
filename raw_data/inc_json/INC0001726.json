@@ -1,0 +1,20 @@
+{
+  "number": "INC0001726",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01695",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to change or add users for Reach Digital Signage display.\n\nfull_description_text:\n- The user is requesting to change or add users who can edit content on their Reach Digital Signage display.  \n- They want to ensure that the right people have access to make updates.  \n- This request was submitted through the self-service form, indicating a need for user management.  \n- The user is familiar with the system but needs assistance with the user permissions.",
+  "short_description": "Request to change or add users for Reach Digital Signage display.",
+  "description": "- The user is requesting to change or add users who can edit content on their Reach Digital Signage display.  \n- They want to ensure that the right people have access to make updates.  \n- This request was submitted through the self-service form, indicating a need for user management.  \n- The user is familiar with the system but needs assistance with the user permissions."
+}

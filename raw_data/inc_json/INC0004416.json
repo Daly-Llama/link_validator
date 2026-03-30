@@ -1,0 +1,20 @@
+{
+  "number": "INC0004416",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08991",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about available leave types for benefit-eligible employees.\n\nfull_description_text:  \nThe user inquired about the various leave types accessible to employees eligible for benefits. They sought clarification on the appropriate usage of these leave types. The discussion took place in the context of the Experience portal, specifically regarding employee benefits and leave accruals. The user expressed a need for detailed information to ensure compliance with company policies.",
+  "short_description": "Inquiry about available leave types for benefit-eligible employees.",
+  "description": "The user inquired about the various leave types accessible to employees eligible for benefits. They sought clarification on the appropriate usage of these leave types. The discussion took place in the context of the Experience portal, specifically regarding employee benefits and leave accruals. The user expressed a need for detailed information to ensure compliance with company policies."
+}

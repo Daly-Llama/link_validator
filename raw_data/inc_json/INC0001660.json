@@ -1,0 +1,20 @@
+{
+  "number": "INC0001660",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01535",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Files deleted in OneDrive with unclear activity log details.\n\nfull_description_text:  \nI was using Microsoft OneDrive to store my important files, but I noticed that some of them are missing. The activity log shows that \"Someone\" deleted these files, but it does not provide any specific information about who did it. This situation is very concerning for me, as I need to understand what happened to my documents. I hope to find a solution to this issue soon.",
+  "short_description": "Files deleted in OneDrive with unclear activity log details.",
+  "description": "I was using Microsoft OneDrive to store my important files, but I noticed that some of them are missing. The activity log shows that \"Someone\" deleted these files, but it does not provide any specific information about who did it. This situation is very concerning for me, as I need to understand what happened to my documents. I hope to find a solution to this issue soon."
+}

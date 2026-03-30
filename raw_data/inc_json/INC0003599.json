@@ -1,0 +1,20 @@
+{
+  "number": "INC0003599",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07674",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a randomized quiz from the question pool.\n\nfull_description_text: \nThe user is attempting to generate a randomized quiz utilizing a designated question pool but is encountering challenges in the process. Despite following the standard procedures, the expected functionality to randomize questions does not seem to be operational. This issue may stem from a lack of clarity in the configuration settings or potential limitations within the quiz creation interface. Further investigation into the specific parameters and options available for quiz randomization is warranted to ascertain the root of the problem.",
+  "short_description": "Difficulty creating a randomized quiz from the question pool.",
+  "description": "The user is attempting to generate a randomized quiz utilizing a designated question pool but is encountering challenges in the process. Despite following the standard procedures, the expected functionality to randomize questions does not seem to be operational. This issue may stem from a lack of clarity in the configuration settings or potential limitations within the quiz creation interface. Further investigation into the specific parameters and options available for quiz randomization is warranted to ascertain the root of the problem."
+}

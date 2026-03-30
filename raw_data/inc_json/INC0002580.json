@@ -1,0 +1,20 @@
+{
+  "number": "INC0002580",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB04247",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about upgrading university computers from Windows 7 to Windows 10\n\nfull_description_text:\n- The user is currently operating a university-owned computer with Windows 7 Professional.  \n- They are seeking clarification on whether all computers need to be upgraded to Windows 10.  \n- The user expressed a desire to update to a more current operating system but was unsure of the process involved in the upgrade.  \n- There was a mention of using the Software Center for the upgrade, but specific details were not provided during the call.",
+  "short_description": "Inquiry about upgrading university computers from Windows 7 to Windows 10",
+  "description": "- The user is currently operating a university-owned computer with Windows 7 Professional.  \n- They are seeking clarification on whether all computers need to be upgraded to Windows 10.  \n- The user expressed a desire to update to a more current operating system but was unsure of the process involved in the upgrade.  \n- There was a mention of using the Software Center for the upgrade, but specific details were not provided during the call."
+}

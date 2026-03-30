@@ -1,0 +1,20 @@
+{
+  "number": "INC0002597",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04295",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues sending calendar invites to a listserv from Outlook\n\nfull_description_text: \nThe user was trying to send a calendar appointment to a listserv using Outlook. They were unsure if it was possible to send an email or a calendar invitation to the listserv. This created confusion during the call, as they needed clarity on the functionality.",
+  "short_description": "Issues sending calendar invites to a listserv from Outlook",
+  "description": "The user was trying to send a calendar appointment to a listserv using Outlook. They were unsure if it was possible to send an email or a calendar invitation to the listserv. This created confusion during the call, as they needed clarity on the functionality."
+}

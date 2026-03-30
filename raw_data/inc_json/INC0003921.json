@@ -1,0 +1,20 @@
+{
+  "number": "INC0003921",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08067",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble creating a meeting request in Outlook\n\nfull_description_text:  \nSo, I was trying to set up a meeting in Outlook, you know, like when you want to get everyone together? But I just couldn't figure out how to make that meeting request thingy work. I clicked around a lot, but nothing happened, and it was really confusing. I think I might have missed something, but I'm not sure what it was!",
+  "short_description": "Trouble creating a meeting request in Outlook",
+  "description": "So, I was trying to set up a meeting in Outlook, you know, like when you want to get everyone together? But I just couldn't figure out how to make that meeting request thingy work. I clicked around a lot, but nothing happened, and it was really confusing. I think I might have missed something, but I'm not sure what it was!"
+}

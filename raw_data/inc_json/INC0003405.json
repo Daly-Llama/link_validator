@@ -1,0 +1,20 @@
+{
+  "number": "INC0003405",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06858",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Preparing computer for NBME exam on Windows.\n\nfull_description_text:  \nThe user is seeking guidance on how to properly set up their personal computer in anticipation of taking the National Board of Medical Examiners (NBME) exam. They are specifically using a Windows environment and want to ensure that everything is configured correctly to avoid any potential issues during the exam. This preparation is crucial as it directly impacts their ability to perform well on the test. The user is looking for detailed instructions to ensure a smooth experience on exam day.",
+  "short_description": "Preparing computer for NBME exam on Windows.",
+  "description": "The user is seeking guidance on how to properly set up their personal computer in anticipation of taking the National Board of Medical Examiners (NBME) exam. They are specifically using a Windows environment and want to ensure that everything is configured correctly to avoid any potential issues during the exam. This preparation is crucial as it directly impacts their ability to perform well on the test. The user is looking for detailed instructions to ensure a smooth experience on exam day."
+}

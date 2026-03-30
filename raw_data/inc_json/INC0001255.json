@@ -1,0 +1,20 @@
+{
+  "number": "INC0001255",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00486",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help updating phone number in Outlook and portal.\n\nfull_description_text: So, the caller was trying to figure out how to change their phone number in Outlook, right? They mentioned something about needing to update their personal info in the MyUSD Portal too, which sounds pretty important. Plus, they were also asking about how to get their new office number to show up in People Search. It’s like a whole thing with multiple places to update, and they just wanted to make sure everything was correct and up to date!",
+  "short_description": "Need help updating phone number in Outlook and portal.",
+  "description": "So, the caller was trying to figure out how to change their phone number in Outlook, right? They mentioned something about needing to update their personal info in the MyUSD Portal too, which sounds pretty important. Plus, they were also asking about how to get their new office number to show up in People Search. It’s like a whole thing with multiple places to update, and they just wanted to make sure everything was correct and up to date!"
+}

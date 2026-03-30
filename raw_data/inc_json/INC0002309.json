@@ -1,0 +1,20 @@
+{
+  "number": "INC0002309",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03503",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty signing up and configuring Duo Multi-Factor Authentication\n\nfull_description_text:  \nUser is attempting to sign up for Duo Multi-Factor Authentication.  \nUser is also trying to configure Duo for their account.  \nThe process is unclear, and user needs guidance on both signing up and configuration steps.  \nUser is seeking detailed instructions to complete the setup successfully.",
+  "short_description": "Difficulty signing up and configuring Duo Multi-Factor Authentication",
+  "description": "User is attempting to sign up for Duo Multi-Factor Authentication.  \nUser is also trying to configure Duo for their account.  \nThe process is unclear, and user needs guidance on both signing up and configuration steps.  \nUser is seeking detailed instructions to complete the setup successfully."
+}

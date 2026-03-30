@@ -1,0 +1,20 @@
+{
+  "number": "INC0003876",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08010",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about formatting tools available in OneNote\n\nfull_description_text:\n- User wants to know what formatting tools are in OneNote.  \n- They are looking for options to enhance their notes.  \n- The request was submitted through self-service form.  \n- There might be confusion about the specific features available.",
+  "short_description": "Inquiry about formatting tools available in OneNote",
+  "description": "- User wants to know what formatting tools are in OneNote.  \n- They are looking for options to enhance their notes.  \n- The request was submitted through self-service form.  \n- There might be confusion about the specific features available."
+}

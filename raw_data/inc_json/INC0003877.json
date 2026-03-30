@@ -1,0 +1,20 @@
+{
+  "number": "INC0003877",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08011",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble saving a OneNote notebook.\n\nfull_description_text:  \nSo, I was trying to save my OneNote notebook, right? But like, I couldn't figure out how to do it at all. I clicked around and nothing happened, and it was super frustrating! I just want to keep my notes safe, but it feels like I'm missing something obvious here.",
+  "short_description": "Trouble saving a OneNote notebook.",
+  "description": "So, I was trying to save my OneNote notebook, right? But like, I couldn't figure out how to do it at all. I clicked around and nothing happened, and it was super frustrating! I just want to keep my notes safe, but it feels like I'm missing something obvious here."
+}

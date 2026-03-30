@@ -1,0 +1,20 @@
+{
+  "number": "INC0003113",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05791",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble accessing Adobe Creative Cloud Express\n\nfull_description_text:  \nEl técnico está intentando entrar a Adobe Spark.  \nNo sabe cómo acceder a Creative Cloud Express.  \nEs un poco confuso y necesita ayuda.  \nTal vez hay un problema con la cuenta o algo así.",
+  "short_description": "Trouble accessing Adobe Creative Cloud Express",
+  "description": "El técnico está intentando entrar a Adobe Spark.  \nNo sabe cómo acceder a Creative Cloud Express.  \nEs un poco confuso y necesita ayuda.  \nTal vez hay un problema con la cuenta o algo así."
+}

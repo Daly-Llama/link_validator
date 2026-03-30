@@ -1,0 +1,20 @@
+{
+  "number": "INC0004422",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08999",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Azure Update Manager setup and maintenance procedures.\n\nfull_description_text: \nDuring a recent phone call, the user expressed confusion regarding Azure Update Manager, specifically its setup and ongoing maintenance. They are seeking detailed information on how to effectively implement and manage this tool within their environment. The user is particularly interested in understanding its role in managing Windows and Linux updates, as well as its integration with vulnerability management in the cloud.",
+  "short_description": "Inquiry about Azure Update Manager setup and maintenance procedures.",
+  "description": "During a recent phone call, the user expressed confusion regarding Azure Update Manager, specifically its setup and ongoing maintenance. They are seeking detailed information on how to effectively implement and manage this tool within their environment. The user is particularly interested in understanding its role in managing Windows and Linux updates, as well as its integration with vulnerability management in the cloud."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001257",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00489",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Email sent from wrong account in Outlook, unable to use department email.\n\nfull_description_text: I sent an email yesterday, but it seems that recipients received it from the wrong account. I am trying to send emails from our department email address, but I am not given the option to send new mail from this second account. This issue is causing confusion among the recipients and is affecting our communication.",
+  "short_description": "Email sent from wrong account in Outlook, unable to use department email.",
+  "description": "I sent an email yesterday, but it seems that recipients received it from the wrong account. I am trying to send emails from our department email address, but I am not given the option to send new mail from this second account. This issue is causing confusion among the recipients and is affecting our communication."
+}

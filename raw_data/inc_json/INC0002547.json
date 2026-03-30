@@ -1,0 +1,20 @@
+{
+  "number": "INC0002547",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB04141",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty submitting midterm grades in Self-Service.\n\nfull_description_text:  \nUser attempted to enter midterm grades via the Self-Service portal. Encountered issues with the submission process, leading to confusion. The interface did not respond as expected, causing frustration. Clarification on the steps to successfully submit grades is required.",
+  "short_description": "Difficulty submitting midterm grades in Self-Service.",
+  "description": "User attempted to enter midterm grades via the Self-Service portal. Encountered issues with the submission process, leading to confusion. The interface did not respond as expected, causing frustration. Clarification on the steps to successfully submit grades is required."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001023",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB00041",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for approval to purchase new hardware and software\n\nfull_description_text:  \nThe School of Ed is looking to acquire new hardware and software. They need to confirm if Articulate software is supported and if dictation software is available. Additionally, the Dean wants to buy Dragon Legal 16, and there's interest in using Zoom Info Community Edition, which requires an email plugin. Help is needed for designing and purchasing a new computer as well.",
+  "short_description": "Request for approval to purchase new hardware and software",
+  "description": "The School of Ed is looking to acquire new hardware and software. They need to confirm if Articulate software is supported and if dictation software is available. Additionally, the Dean wants to buy Dragon Legal 16, and there's interest in using Zoom Info Community Edition, which requires an email plugin. Help is needed for designing and purchasing a new computer as well."
+}

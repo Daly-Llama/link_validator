@@ -1,0 +1,20 @@
+{
+  "number": "INC0004348",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB08795",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cashiers unable to view remaining meal plan swipes.\n\nfull_description_text: Cashiers need to check meal plan swipe counts. They can't see how many meals are left. This affects service at the POS in residential dining. Immediate access to this information is required.",
+  "short_description": "Cashiers unable to view remaining meal plan swipes.",
+  "description": "Cashiers need to check meal plan swipe counts. They can't see how many meals are left. This affects service at the POS in residential dining. Immediate access to this information is required."
+}

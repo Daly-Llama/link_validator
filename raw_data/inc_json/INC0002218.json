@@ -1,0 +1,20 @@
+{
+  "number": "INC0002218",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB03197",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Receiving unwanted emails from ImageNow about workflow queues.\n\nfull_description_text: \nThe user called in to report that they are still receiving emails from ImageNow regarding items in their workflow queue. They mentioned that they should not be getting these alerts anymore, as they have completed the necessary steps to stop them. It seems like there is a glitch or an issue with the settings that is causing these emails to continue. The user is frustrated because they expected the alerts to stop and now they are getting these notifications that they do not want.",
+  "short_description": "Receiving unwanted emails from ImageNow about workflow queues.",
+  "description": "The user called in to report that they are still receiving emails from ImageNow regarding items in their workflow queue. They mentioned that they should not be getting these alerts anymore, as they have completed the necessary steps to stop them. It seems like there is a glitch or an issue with the settings that is causing these emails to continue. The user is frustrated because they expected the alerts to stop and now they are getting these notifications that they do not want."
+}

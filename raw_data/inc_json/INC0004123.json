@@ -1,0 +1,20 @@
+{
+  "number": "INC0004123",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08396",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help inserting Word Art in my document.\n\nfull_description_text: So, I'm trying to add some Word Art to my document. I just can't figure out how to do it. I thought it would be easy, but I'm stuck. Can someone help me with this Word Art thing?",
+  "short_description": "Need help inserting Word Art in my document.",
+  "description": "So, I'm trying to add some Word Art to my document. I just can't figure out how to do it. I thought it would be easy, but I'm stuck. Can someone help me with this Word Art thing?"
+}

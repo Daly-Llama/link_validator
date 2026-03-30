@@ -1,0 +1,20 @@
+{
+  "number": "INC0003211",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06129",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues logging into LastPass Enterprise after account creation email.\n\nfull_description_text: \nDuring a recent call, the user expressed confusion about how to log into LastPass Enterprise. They mentioned receiving an email indicating that their account had been created, but they were unsure of the next steps. The user seemed to be looking for guidance on accessing their new account and was a bit frustrated with the process.",
+  "short_description": "Issues logging into LastPass Enterprise after account creation email.",
+  "description": "During a recent call, the user expressed confusion about how to log into LastPass Enterprise. They mentioned receiving an email indicating that their account had been created, but they were unsure of the next steps. The user seemed to be looking for guidance on accessing their new account and was a bit frustrated with the process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001419",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00815",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Ethernet port activation needed for IP phone setup\n\nfull_description_text:\n- El usuario necesita que se abra un puerto de red para un teléfono IP.  \n- Se instalaron nuevos puertos de red, pero no están funcionando correctamente.  \n- Por favor, verifique que estas salidas de datos funcionen en las habitaciones mencionadas.  \n- Hay caídas de red instaladas, pero no están trabajando como se esperaba.",
+  "short_description": "Ethernet port activation needed for IP phone setup",
+  "description": "- El usuario necesita que se abra un puerto de red para un teléfono IP.  \n- Se instalaron nuevos puertos de red, pero no están funcionando correctamente.  \n- Por favor, verifique que estas salidas de datos funcionen en las habitaciones mencionadas.  \n- Hay caídas de red instaladas, pero no están trabajando como se esperaba."
+}

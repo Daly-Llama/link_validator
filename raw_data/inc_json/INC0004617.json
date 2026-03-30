@@ -1,0 +1,20 @@
+{
+  "number": "INC0004617",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB09493",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need assistance with updating Coyote Connections Notifications\n\nfull_description_text:  \nThe user is looking for guidance on how to update the notifications for Coyote Connections. They seem to be having trouble figuring out the process and are unsure of the steps involved. This issue may be affecting their ability to receive important updates, which could be quite frustrating. If you have any insights or resources that could help clarify this, it would be greatly appreciated!",
+  "short_description": "Need assistance with updating Coyote Connections Notifications",
+  "description": "The user is looking for guidance on how to update the notifications for Coyote Connections. They seem to be having trouble figuring out the process and are unsure of the steps involved. This issue may be affecting their ability to receive important updates, which could be quite frustrating. If you have any insights or resources that could help clarify this, it would be greatly appreciated!"
+}

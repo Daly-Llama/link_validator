@@ -1,0 +1,20 @@
+{
+  "number": "INC0002668",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB04551",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Launchpad shows an expiration notice for my code.\n\nfull_description_text: The user mentioned that while trying to access their nutrition course, they received a notice saying their Launchpad code has expired. This happened unexpectedly during their session. They were just trying to get into the course materials when the issue popped up.",
+  "short_description": "Launchpad shows an expiration notice for my code.",
+  "description": "The user mentioned that while trying to access their nutrition course, they received a notice saying their Launchpad code has expired. This happened unexpectedly during their session. They were just trying to get into the course materials when the issue popped up."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003832",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07965",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty referencing other worksheets in Excel.\n\nfull_description_text: The user is trying to create references to other worksheets within an Excel file but is encountering challenges. They are unsure of the correct method to link data from different sheets. This issue arose during a live support call, and the user expressed their need for clarity on how to perform this task effectively.",
+  "short_description": "Difficulty referencing other worksheets in Excel.",
+  "description": "The user is trying to create references to other worksheets within an Excel file but is encountering challenges. They are unsure of the correct method to link data from different sheets. This issue arose during a live support call, and the user expressed their need for clarity on how to perform this task effectively."
+}

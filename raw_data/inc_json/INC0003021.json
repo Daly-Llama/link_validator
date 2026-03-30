@@ -1,0 +1,20 @@
+{
+  "number": "INC0003021",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB05589",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty installing Microsoft FindTime in Outlook desktop version.\n\nfull_description_text: \nThe user is trying to install Microsoft FindTime in the desktop version of Outlook. They are using Microsoft Office 365 and are unsure of the steps needed to complete the installation. The issue arose during a live phone call with a help desk analyst, who is assisting them with this process. The user is looking for guidance on how to successfully install this feature in their Outlook application.",
+  "short_description": "Difficulty installing Microsoft FindTime in Outlook desktop version.",
+  "description": "The user is trying to install Microsoft FindTime in the desktop version of Outlook. They are using Microsoft Office 365 and are unsure of the steps needed to complete the installation. The issue arose during a live phone call with a help desk analyst, who is assisting them with this process. The user is looking for guidance on how to successfully install this feature in their Outlook application."
+}

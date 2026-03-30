@@ -1,0 +1,20 @@
+{
+  "number": "INC0004538",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB09320",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Receiving unexpected Duo push notifications during use.\n\nfull_description_text: \nThe user reported that they are receiving push notifications from Duo that they did not expect. This situation occurred while they were engaged in their regular activities, leading to confusion about the source of these alerts. The user is unsure why these notifications are appearing and is seeking clarification on how to address this issue.",
+  "short_description": "Receiving unexpected Duo push notifications during use.",
+  "description": "The user reported that they are receiving push notifications from Duo that they did not expect. This situation occurred while they were engaged in their regular activities, leading to confusion about the source of these alerts. The user is unsure why these notifications are appearing and is seeking clarification on how to address this issue."
+}

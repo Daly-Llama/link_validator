@@ -1,0 +1,20 @@
+{
+  "number": "INC0002408",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03769",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to update AutoCAD in the theatre computer lab.\n\nfull_description_text:  \n- So, the computers in the theatre lab, you know, CFA 219, need an update.  \n- We really need to get the latest version of AutoCAD on them.  \n- It's kinda important for what we're doing in there, so can we get that sorted?",
+  "short_description": "Need to update AutoCAD in the theatre computer lab.",
+  "description": "- So, the computers in the theatre lab, you know, CFA 219, need an update.  \n- We really need to get the latest version of AutoCAD on them.  \n- It's kinda important for what we're doing in there, so can we get that sorted?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003962",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08115",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about various question types available in Qualtrics.\n\nfull_description_text:  \nUser seeks clarification on the different types of questions that can be utilized in Qualtrics.  \nThis inquiry arises from a need to understand the capabilities of the platform for effective survey design.  \nThe user is likely preparing to create a survey and requires detailed information on question formats.",
+  "short_description": "Inquiry about various question types available in Qualtrics.",
+  "description": "User seeks clarification on the different types of questions that can be utilized in Qualtrics.  \nThis inquiry arises from a need to understand the capabilities of the platform for effective survey design.  \nThe user is likely preparing to create a survey and requires detailed information on question formats."
+}

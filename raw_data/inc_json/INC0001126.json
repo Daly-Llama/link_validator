@@ -1,0 +1,20 @@
+{
+  "number": "INC0001126",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00243",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: External monitors flickering and not displaying correctly on dock.\n\nfull_description_text: The technician connected the laptop to the docking station, but the external monitors started acting weird. They kept going black and flickering on and off, and sometimes only one monitor would show up. There were also strange lines and a blue box appearing on the screen, making it hard to work.",
+  "short_description": "External monitors flickering and not displaying correctly on dock.",
+  "description": "The technician connected the laptop to the docking station, but the external monitors started acting weird. They kept going black and flickering on and off, and sometimes only one monitor would show up. There were also strange lines and a blue box appearing on the screen, making it hard to work."
+}

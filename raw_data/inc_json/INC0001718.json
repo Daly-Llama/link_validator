@@ -1,0 +1,20 @@
+{
+  "number": "INC0001718",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01684",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: How to request graphics for digital signage displays\n\nfull_description_text:\n- So, the user was trying to figure out how to get a graphic on the digital sign.  \n- They mentioned wanting to post a flyer or maybe an advertisement, but they weren't sure how to go about it.  \n- It seems like they were a bit confused about the whole process, which is totally understandable!  \n- They just want to know the steps to make it happen, you know?",
+  "short_description": "How to request graphics for digital signage displays",
+  "description": "- So, the user was trying to figure out how to get a graphic on the digital sign.  \n- They mentioned wanting to post a flyer or maybe an advertisement, but they weren't sure how to go about it.  \n- It seems like they were a bit confused about the whole process, which is totally understandable!  \n- They just want to know the steps to make it happen, you know?"
+}

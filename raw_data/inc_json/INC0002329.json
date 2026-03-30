@@ -1,0 +1,20 @@
+{
+  "number": "INC0002329",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB03540",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about FAFSA completion deadline\n\nfull_description_text:\n- The user is seeking clarification on the specific deadline for submitting the FAFSA, which is crucial for financial aid eligibility.  \n- They may be feeling a bit overwhelmed with the financial aid process and want to ensure they don’t miss any important dates.  \n- It's important to note that the FAFSA is a key document for students looking to secure funding for their education, and timely submission is essential.  \n- The user’s inquiry reflects a common concern among students navigating the complexities of financial aid applications.",
+  "short_description": "Inquiry about FAFSA completion deadline",
+  "description": "- The user is seeking clarification on the specific deadline for submitting the FAFSA, which is crucial for financial aid eligibility.  \n- They may be feeling a bit overwhelmed with the financial aid process and want to ensure they don’t miss any important dates.  \n- It's important to note that the FAFSA is a key document for students looking to secure funding for their education, and timely submission is essential.  \n- The user’s inquiry reflects a common concern among students navigating the complexities of financial aid applications."
+}

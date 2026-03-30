@@ -1,0 +1,20 @@
+{
+  "number": "INC0004076",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08310",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to add protection to a Word document.\n\nfull_description_text: \nUser is trying to add protection to a Word document. The process is unclear, and they are facing difficulties. They need guidance on how to implement this feature effectively. The user is looking for a straightforward solution to secure their document.",
+  "short_description": "Unable to add protection to a Word document.",
+  "description": "User is trying to add protection to a Word document. The process is unclear, and they are facing difficulties. They need guidance on how to implement this feature effectively. The user is looking for a straightforward solution to secure their document."
+}

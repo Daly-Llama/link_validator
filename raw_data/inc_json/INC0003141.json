@@ -1,0 +1,20 @@
+{
+  "number": "INC0003141",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB05904",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error message when opening specific Excel spreadsheet.\n\nfull_description_text: The user reported encountering a message upon opening a particular Excel spreadsheet. The error indicates that the workbook contains links to external sources that may be unsafe. The user is prompted to either update the links or continue working with the existing data.",
+  "short_description": "Error message when opening specific Excel spreadsheet.",
+  "description": "The user reported encountering a message upon opening a particular Excel spreadsheet. The error indicates that the workbook contains links to external sources that may be unsafe. The user is prompted to either update the links or continue working with the existing data."
+}

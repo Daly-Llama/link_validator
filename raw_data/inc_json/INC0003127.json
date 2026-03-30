@@ -1,0 +1,20 @@
+{
+  "number": "INC0003127",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB05841",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about how to print using USD Print with PaperCut.\n\nfull_description_text:  \nSo, I’m trying to print something, right? But I don’t really get what USD Print is. Like, how do I even print with this PaperCut thing? I’m a student, and I just want to use the multifunction copier, but it’s all kinda confusing. Can someone explain how to print? I just need to know how to do it!",
+  "short_description": "Confusion about how to print using USD Print with PaperCut.",
+  "description": "So, I’m trying to print something, right? But I don’t really get what USD Print is. Like, how do I even print with this PaperCut thing? I’m a student, and I just want to use the multifunction copier, but it’s all kinda confusing. Can someone explain how to print? I just need to know how to do it!"
+}

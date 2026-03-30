@@ -1,0 +1,20 @@
+{
+  "number": "INC0003107",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05781",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need additional storage for South Dakota Data Store allocation.\n\nfull_description_text:  \nThe user is running out of space on their SDDS Sharing Tier Allocation. They mentioned that their SDDS Archive Tier is taking up too much space. They're looking for a way to add more storage to their South Dakota Data Store.",
+  "short_description": "Need additional storage for South Dakota Data Store allocation.",
+  "description": "The user is running out of space on their SDDS Sharing Tier Allocation. They mentioned that their SDDS Archive Tier is taking up too much space. They're looking for a way to add more storage to their South Dakota Data Store."
+}

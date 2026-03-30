@@ -1,0 +1,20 @@
+{
+  "number": "INC0002083",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02782",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to remove courses from D2L homepage.\n\nfull_description_text: User wants to get rid of some courses on their D2L homepage. They’re not taking these courses anymore. They asked how to delete them. It seems like they’re a bit confused about the process.",
+  "short_description": "Need to remove courses from D2L homepage.",
+  "description": "User wants to get rid of some courses on their D2L homepage. They’re not taking these courses anymore. They asked how to delete them. It seems like they’re a bit confused about the process."
+}

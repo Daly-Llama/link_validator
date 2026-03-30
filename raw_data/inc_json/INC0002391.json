@@ -1,0 +1,20 @@
+{
+  "number": "INC0002391",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03698",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help finding where to check overall GPA\n\nfull_description_text: So, the user was trying to figure out where to check their overall GPA. They called in and asked, like, where do I go for that? It seems they just couldn't find the right spot in the system.",
+  "short_description": "Need help finding where to check overall GPA",
+  "description": "So, the user was trying to figure out where to check their overall GPA. They called in and asked, like, where do I go for that? It seems they just couldn't find the right spot in the system."
+}

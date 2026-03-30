@@ -1,0 +1,20 @@
+{
+  "number": "INC0004331",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08768",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Guidance needed for winter weather preparedness.\n\nfull_description_text: User seeks information on how to effectively prepare for winter weather conditions. The inquiry suggests a need for detailed strategies and recommendations. Context implies potential concerns regarding safety and operational readiness during adverse weather events.",
+  "short_description": "Guidance needed for winter weather preparedness.",
+  "description": "User seeks information on how to effectively prepare for winter weather conditions. The inquiry suggests a need for detailed strategies and recommendations. Context implies potential concerns regarding safety and operational readiness during adverse weather events."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003744",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07869",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help clearing cell contents or formats in Excel\n\nfull_description_text:\n- So, I was on the phone with a user who wanted to know how to clear cell contents or formats in Excel.  \n- They were trying to figure out how to get rid of stuff in the cells but got kinda stuck.  \n- It seemed like they just needed a simple way to clear things out, but it was confusing for them.",
+  "short_description": "Need help clearing cell contents or formats in Excel",
+  "description": "- So, I was on the phone with a user who wanted to know how to clear cell contents or formats in Excel.  \n- They were trying to figure out how to get rid of stuff in the cells but got kinda stuck.  \n- It seemed like they just needed a simple way to clear things out, but it was confusing for them."
+}

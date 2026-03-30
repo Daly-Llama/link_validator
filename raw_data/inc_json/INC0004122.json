@@ -1,0 +1,20 @@
+{
+  "number": "INC0004122",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08395",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty inserting a bookmark in Microsoft Word.\n\nfull_description_text: During a live phone call, the user expressed confusion about the process of inserting a bookmark in Microsoft Word. They were attempting to enhance their document navigation but encountered challenges in locating the appropriate feature. The user sought guidance on the specific steps required to successfully add a bookmark, indicating a need for clarity on this functionality.",
+  "short_description": "Difficulty inserting a bookmark in Microsoft Word.",
+  "description": "During a live phone call, the user expressed confusion about the process of inserting a bookmark in Microsoft Word. They were attempting to enhance their document navigation but encountered challenges in locating the appropriate feature. The user sought guidance on the specific steps required to successfully add a bookmark, indicating a need for clarity on this functionality."
+}

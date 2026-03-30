@@ -1,0 +1,20 @@
+{
+  "number": "INC0001056",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00096",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: ImageNow can't detect the connected scanner device.\n\nfull_description_text: So, during our chat, the user mentioned that they were trying to scan some documents using ImageNow, but it just wouldn’t find the scanner at all. They’re on Windows 7 and using Perceptive Content 7.2, which I think is pretty old, right? They’ve got this Fujitsu FI 7260 scanner and Kofax 5.1, but for some reason, it’s like the software just doesn’t see it. It’s kinda frustrating because they really need to get those scans done today!",
+  "short_description": "ImageNow can't detect the connected scanner device.",
+  "description": "So, during our chat, the user mentioned that they were trying to scan some documents using ImageNow, but it just wouldn’t find the scanner at all. They’re on Windows 7 and using Perceptive Content 7.2, which I think is pretty old, right? They’ve got this Fujitsu FI 7260 scanner and Kofax 5.1, but for some reason, it’s like the software just doesn’t see it. It’s kinda frustrating because they really need to get those scans done today!"
+}

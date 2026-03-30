@@ -1,0 +1,20 @@
+{
+  "number": "INC0003768",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB07895",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to convert Numbers spreadsheet to Microsoft Excel format.\n\nfull_description_text: The user was attempting to convert a spreadsheet created in Numbers to the Microsoft Excel format. During the process, they encountered issues that prevented the successful completion of this task. It seems that the conversion functionality is not working as expected, leading to frustration. The user is looking for assistance to resolve this matter promptly.",
+  "short_description": "Unable to convert Numbers spreadsheet to Microsoft Excel format.",
+  "description": "The user was attempting to convert a spreadsheet created in Numbers to the Microsoft Excel format. During the process, they encountered issues that prevented the successful completion of this task. It seems that the conversion functionality is not working as expected, leading to frustration. The user is looking for assistance to resolve this matter promptly."
+}

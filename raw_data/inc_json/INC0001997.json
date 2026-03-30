@@ -1,0 +1,20 @@
+{
+  "number": "INC0001997",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02540",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with grading Scantron tests for a math contest.\n\nfull_description_text:  \nDuring the math contest, which took place from 9 to 10 AM, there were 9 exams administered across approximately a dozen schools, involving around 200 to 250 students. The grading process using Scantron technology encountered unexpected complications. This situation is critical as it affects the timely processing of results, particularly when utilizing SpSS for analysis. The sheer volume of exams and the tight schedule adds to the urgency of resolving these grading issues.",
+  "short_description": "Issues with grading Scantron tests for a math contest.",
+  "description": "During the math contest, which took place from 9 to 10 AM, there were 9 exams administered across approximately a dozen schools, involving around 200 to 250 students. The grading process using Scantron technology encountered unexpected complications. This situation is critical as it affects the timely processing of results, particularly when utilizing SpSS for analysis. The sheer volume of exams and the tight schedule adds to the urgency of resolving these grading issues."
+}

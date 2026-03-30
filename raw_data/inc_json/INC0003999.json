@@ -1,0 +1,20 @@
+{
+  "number": "INC0003999",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08221",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with screen recording on Panopto in Windows\n\nfull_description_text:  \nSo, the user was trying to do a screen capture on Panopto while using Windows. They weren't sure how to get it to work. It seems like they need some help figuring out the steps. Just a bit of confusion on the process, I guess.",
+  "short_description": "Issues with screen recording on Panopto in Windows",
+  "description": "So, the user was trying to do a screen capture on Panopto while using Windows. They weren't sure how to get it to work. It seems like they need some help figuring out the steps. Just a bit of confusion on the process, I guess."
+}

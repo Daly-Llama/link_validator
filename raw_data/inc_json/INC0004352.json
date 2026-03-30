@@ -1,0 +1,20 @@
+{
+  "number": "INC0004352",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08808",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Macros in Office 365 files are blocked due to security settings.\n\nfull_description_text: User tried to open macro enabled files in Word and Excel. They got a message saying macros are blocked. This is because the files are from an untrusted source. Need to check security settings to allow macros.",
+  "short_description": "Macros in Office 365 files are blocked due to security settings.",
+  "description": "User tried to open macro enabled files in Word and Excel. They got a message saying macros are blocked. This is because the files are from an untrusted source. Need to check security settings to allow macros."
+}

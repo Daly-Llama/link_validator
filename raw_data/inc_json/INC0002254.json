@@ -1,0 +1,20 @@
+{
+  "number": "INC0002254",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB03308",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Coyote Connections calendar not syncing with Exchange calendar\n\nfull_description_text:  \nUser reports issue with Coyote Connections calendar. It is not syncing to Exchange calendar anymore. This problem started recently. User needs assistance to resolve this syncing issue.",
+  "short_description": "Coyote Connections calendar not syncing with Exchange calendar",
+  "description": "User reports issue with Coyote Connections calendar. It is not syncing to Exchange calendar anymore. This problem started recently. User needs assistance to resolve this syncing issue."
+}

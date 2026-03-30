@@ -1,0 +1,20 @@
+{
+  "number": "INC0004360",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB08838",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Reporting incidents of sexual harassment, violence, and stalking\n\nfull_description_text:  \nThe user was seeking guidance on how to report incidents of sexual harassment, violence, and stalking. They expressed concern about the process and wanted to ensure their report was handled properly. This situation highlights the need for clear reporting mechanisms for sensitive issues like these. The user seemed anxious and required reassurance about confidentiality and support.",
+  "short_description": "Reporting incidents of sexual harassment, violence, and stalking",
+  "description": "The user was seeking guidance on how to report incidents of sexual harassment, violence, and stalking. They expressed concern about the process and wanted to ensure their report was handled properly. This situation highlights the need for clear reporting mechanisms for sensitive issues like these. The user seemed anxious and required reassurance about confidentiality and support."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002189",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03114",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: B-Line software shows a blank screen instead of patient monitor image.\n\nfull_description_text: During a recent session in the Nursing Simulation Lab, the B-Line Medical SimCapture software failed to display the patient monitor for room 3. Instead of the expected camera feed, users were greeted with a frustrating blank blue rectangle, which is definitely not what anyone wants to see when they're trying to simulate a clinical environment. To make matters worse, the video resolution was all over the place, adding to the confusion and making it difficult for the staff to effectively conduct their training. It's a real hiccup in what should be a seamless experience for everyone involved.",
+  "short_description": "B-Line software shows a blank screen instead of patient monitor image.",
+  "description": "During a recent session in the Nursing Simulation Lab, the B-Line Medical SimCapture software failed to display the patient monitor for room 3. Instead of the expected camera feed, users were greeted with a frustrating blank blue rectangle, which is definitely not what anyone wants to see when they're trying to simulate a clinical environment. To make matters worse, the video resolution was all over the place, adding to the confusion and making it difficult for the staff to effectively conduct their training. It's a real hiccup in what should be a seamless experience for everyone involved."
+}

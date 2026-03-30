@@ -1,0 +1,20 @@
+{
+  "number": "INC0002160",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03012",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Camera display issues during Zoom meetings\n\nfull_description_text:  \nThe user reported problems with their camera when joining a Zoom meeting. They mentioned that the image jumps up and down on the screen, and there are lines through the camera display. Additionally, the user sees a crossed out camera icon even though the camera is enabled in Zoom. The quality of the camera is also not very good during the meeting, causing frustration.",
+  "short_description": "Camera display issues during Zoom meetings",
+  "description": "The user reported problems with their camera when joining a Zoom meeting. They mentioned that the image jumps up and down on the screen, and there are lines through the camera display. Additionally, the user sees a crossed out camera icon even though the camera is enabled in Zoom. The quality of the camera is also not very good during the meeting, causing frustration."
+}

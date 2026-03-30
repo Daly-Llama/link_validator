@@ -1,0 +1,20 @@
+{
+  "number": "INC0003833",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07966",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty referencing other workbooks in Excel.\n\nfull_description_text:  \nThe user is trying to reference other workbooks in Excel but is encountering issues. They are unsure of the correct method to establish these references, which is causing frustration. This problem arises when attempting to link data from multiple Excel files, and the user needs clarity on how to proceed. The situation is impacting their workflow, as they rely on these references for their tasks.",
+  "short_description": "Difficulty referencing other workbooks in Excel.",
+  "description": "The user is trying to reference other workbooks in Excel but is encountering issues. They are unsure of the correct method to establish these references, which is causing frustration. This problem arises when attempting to link data from multiple Excel files, and the user needs clarity on how to proceed. The situation is impacting their workflow, as they rely on these references for their tasks."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001361",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00685",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to delete a discussion post in D2L.\n\nfull_description_text: So, the user was trying to delete a discussion post they accidentally made in the wrong section of their class in D2L. They uploaded a document for an assignment but now want to remove it. They’re not sure if it’s even possible to delete it, and it’s kinda frustrating for them. They just want to fix this mistake and get it sorted out.",
+  "short_description": "Unable to delete a discussion post in D2L.",
+  "description": "So, the user was trying to delete a discussion post they accidentally made in the wrong section of their class in D2L. They uploaded a document for an assignment but now want to remove it. They’re not sure if it’s even possible to delete it, and it’s kinda frustrating for them. They just want to fix this mistake and get it sorted out."
+}

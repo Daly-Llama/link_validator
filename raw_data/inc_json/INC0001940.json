@@ -1,0 +1,20 @@
+{
+  "number": "INC0001940",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB02353",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for annual D-Days or SGA surveys in Qualtrics\n\nfull_description_text: The user is looking to obtain D-Days or SGA voting surveys for the current year. They mentioned that this request is made annually. There seems to be some confusion about the process for acquiring these surveys in Qualtrics.",
+  "short_description": "Request for annual D-Days or SGA surveys in Qualtrics",
+  "description": "The user is looking to obtain D-Days or SGA voting surveys for the current year. They mentioned that this request is made annually. There seems to be some confusion about the process for acquiring these surveys in Qualtrics."
+}

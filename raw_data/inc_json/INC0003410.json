@@ -1,0 +1,20 @@
+{
+  "number": "INC0003410",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06910",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues adding meal plan money to Greek life Coyote Cards\n\nfull_description_text: \nUser wants to add money to Greek life students' Coyote Cards. They are asking how to update the amounts. There is confusion about the process for Coyote Cash. They need help with the meal plan money specifically for Greek life students.",
+  "short_description": "Issues adding meal plan money to Greek life Coyote Cards",
+  "description": "User wants to add money to Greek life students' Coyote Cards. They are asking how to update the amounts. There is confusion about the process for Coyote Cash. They need help with the meal plan money specifically for Greek life students."
+}

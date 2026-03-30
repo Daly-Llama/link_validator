@@ -1,0 +1,20 @@
+{
+  "number": "INC0002402",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03743",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help with renewing or transferring GraphPad Prism license.\n\nfull_description_text:  \nI am trying to renew my GraphPad Prism license but I'm not sure how to do it. Also, I need to transfer it to a new computer. Can someone assist me with the steps for both renewing and transferring the license? I work in the Biomedical and Translational Sciences field and this is important for my work.",
+  "short_description": "Need help with renewing or transferring GraphPad Prism license.",
+  "description": "I am trying to renew my GraphPad Prism license but I'm not sure how to do it. Also, I need to transfer it to a new computer. Can someone assist me with the steps for both renewing and transferring the license? I work in the Biomedical and Translational Sciences field and this is important for my work."
+}

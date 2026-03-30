@@ -1,0 +1,20 @@
+{
+  "number": "INC0001151",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB00298",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble searching for articles and services in TeamDynamix\n\nfull_description_text:\n- User want to find article or service.  \n- They not know how to search in Coyote One Stop.  \n- Help desk analyst on phone trying to assist.  \n- User speak different language, so it hard to explain.",
+  "short_description": "Trouble searching for articles and services in TeamDynamix",
+  "description": "- User want to find article or service.  \n- They not know how to search in Coyote One Stop.  \n- Help desk analyst on phone trying to assist.  \n- User speak different language, so it hard to explain."
+}

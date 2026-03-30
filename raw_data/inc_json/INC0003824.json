@@ -1,0 +1,20 @@
+{
+  "number": "INC0003824",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07957",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Confusion regarding the Order of Operation in Excel\n\nfull_description_text: A field technician is seeking clarification on the Order of Operation in Excel. They are unsure about how Excel prioritizes calculations and what rules apply when multiple operations are present. This uncertainty is affecting their ability to effectively use the software for data analysis tasks.",
+  "short_description": "Confusion regarding the Order of Operation in Excel",
+  "description": "A field technician is seeking clarification on the Order of Operation in Excel. They are unsure about how Excel prioritizes calculations and what rules apply when multiple operations are present. This uncertainty is affecting their ability to effectively use the software for data analysis tasks."
+}

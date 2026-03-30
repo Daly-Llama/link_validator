@@ -1,0 +1,20 @@
+{
+  "number": "INC0002072",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02745",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need confirmation that Exam4 receiver is ready for final exams.\n\nfull_description_text: \nHola, I’m just checking if the Exam4 receiver is all set up for our final exams. I want to make sure everything is good to go when we start. It’s really important for us to have this ready, so I hope to hear back soon!",
+  "short_description": "Need confirmation that Exam4 receiver is ready for final exams.",
+  "description": "Hola, I’m just checking if the Exam4 receiver is all set up for our final exams. I want to make sure everything is good to go when we start. It’s really important for us to have this ready, so I hope to hear back soon!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002228",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03226",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance finding MAC address on various devices.\n\nfull_description_text:  \nThe user is trying to locate their MAC address. They are using different devices, including Windows, MacOS, Android, iOS, and Chrome OS. They expressed some confusion about where to find this information. The user is looking for clear guidance on how to proceed.",
+  "short_description": "Need assistance finding MAC address on various devices.",
+  "description": "The user is trying to locate their MAC address. They are using different devices, including Windows, MacOS, Android, iOS, and Chrome OS. They expressed some confusion about where to find this information. The user is looking for clear guidance on how to proceed."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003437",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB07013",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to log into USD websites using CAS authentication\n\nfull_description_text: \nThe user is experiencing issues logging into various USD web applications, including the Events Calendar and myUSD. They are receiving multiple error messages, such as incorrect login credentials and session timeouts. Additionally, there are indications of problems with the connection to the authentication service, which is preventing access to essential features like room reservations.",
+  "short_description": "Unable to log into USD websites using CAS authentication",
+  "description": "The user is experiencing issues logging into various USD web applications, including the Events Calendar and myUSD. They are receiving multiple error messages, such as incorrect login credentials and session timeouts. Additionally, there are indications of problems with the connection to the authentication service, which is preventing access to essential features like room reservations."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003888",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08022",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty using the time stamp group feature in OneNote.\n\nfull_description_text: During a live chat session, the user inquired about the functionality of the time stamp group in OneNote. They expressed confusion regarding how to effectively utilize this feature within the application. The user, whose primary language is not English, sought clarification on the steps involved in accessing and implementing the time stamp group for their notes.",
+  "short_description": "Difficulty using the time stamp group feature in OneNote.",
+  "description": "During a live chat session, the user inquired about the functionality of the time stamp group in OneNote. They expressed confusion regarding how to effectively utilize this feature within the application. The user, whose primary language is not English, sought clarification on the steps involved in accessing and implementing the time stamp group for their notes."
+}

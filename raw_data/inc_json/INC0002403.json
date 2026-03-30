@@ -1,0 +1,20 @@
+{
+  "number": "INC0002403",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB03750",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Duplicate student records found in Banner Student system.\n\nfull_description_text:  \n- The user has identified a situation where multiple student records exist within the Banner Student system.  \n- Specifically, they have three distinct student ID numbers associated with their profile, which is causing confusion and potential issues with record management.  \n- The user is inquiring about the possibility of consolidating these records into a single student ID number for clarity and efficiency.  \n- This situation may lead to complications in accessing academic information or services linked to their student identity.",
+  "short_description": "Duplicate student records found in Banner Student system.",
+  "description": "- The user has identified a situation where multiple student records exist within the Banner Student system.  \n- Specifically, they have three distinct student ID numbers associated with their profile, which is causing confusion and potential issues with record management.  \n- The user is inquiring about the possibility of consolidating these records into a single student ID number for clarity and efficiency.  \n- This situation may lead to complications in accessing academic information or services linked to their student identity."
+}

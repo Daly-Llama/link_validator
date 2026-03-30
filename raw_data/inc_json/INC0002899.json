@@ -1,0 +1,20 @@
+{
+  "number": "INC0002899",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05249",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Alternate host can't join the scheduled Zoom meeting.\n\nfull_description_text:  \nI set up an alternate host for my Zoom meeting, but they can't get in. It's super frustrating because I thought it would work smoothly. Can you help figure out why they’re locked out?",
+  "short_description": "Alternate host can't join the scheduled Zoom meeting.",
+  "description": "I set up an alternate host for my Zoom meeting, but they can't get in. It's super frustrating because I thought it would work smoothly. Can you help figure out why they’re locked out?"
+}

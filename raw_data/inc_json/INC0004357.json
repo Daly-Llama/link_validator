@@ -1,0 +1,20 @@
+{
+  "number": "INC0004357",
+  "category": "Technology",
+  "subcategory": "Data Governance",
+  "correct_kb": "KB08826",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about data classification categories at the University of South Dakota\n\nfull_description_text:  \nSo, I was trying to figure out what the data classification categories are at the University of South Dakota. I really need to know what they are for my work, but I couldn't find the info anywhere. It's kinda confusing, and I just want to make sure I understand the categories correctly.",
+  "short_description": "Inquiry about data classification categories at the University of South Dakota",
+  "description": "So, I was trying to figure out what the data classification categories are at the University of South Dakota. I really need to know what they are for my work, but I couldn't find the info anywhere. It's kinda confusing, and I just want to make sure I understand the categories correctly."
+}

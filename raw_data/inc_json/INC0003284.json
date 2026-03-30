@@ -1,0 +1,20 @@
+{
+  "number": "INC0003284",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB06348",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions regarding data sources in a Cognos report\n\nfull_description_text:\n- The user is seeking clarification on the origins of the data displayed in a specific Cognos report.\n- They are unsure about the data sources and how they are integrated into the report.\n- This inquiry arose during a live phone call with a help desk analyst, highlighting the user's immediate need for assistance.\n- The user is looking for a better understanding to ensure accurate interpretation of the report's information.",
+  "short_description": "Questions regarding data sources in a Cognos report",
+  "description": "- The user is seeking clarification on the origins of the data displayed in a specific Cognos report.\n- They are unsure about the data sources and how they are integrated into the report.\n- This inquiry arose during a live phone call with a help desk analyst, highlighting the user's immediate need for assistance.\n- The user is looking for a better understanding to ensure accurate interpretation of the report's information."
+}

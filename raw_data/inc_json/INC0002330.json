@@ -1,0 +1,20 @@
+{
+  "number": "INC0002330",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB03542",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: How to accept or decline financial aid award\n\nfull_description_text:  \nUser wants to know how to accept or decline award.  \nThey are confused about the process.  \nNeed help with financial aid.  \nNot sure what to do next.",
+  "short_description": "How to accept or decline financial aid award",
+  "description": "User wants to know how to accept or decline award.  \nThey are confused about the process.  \nNeed help with financial aid.  \nNot sure what to do next."
+}

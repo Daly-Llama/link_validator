@@ -1,0 +1,20 @@
+{
+  "number": "INC0001040",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00063",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access course in D2L platform\n\nfull_description_text: \nEl usuario no puede ver su curso en la plataforma D2L. A pesar de intentar acceder, la clase no aparece en su lista de cursos. Además, el usuario está buscando una manera de obtener las entregas de Dropbox de semestres anteriores, lo que sugiere que necesita acceso a información pasada. Esta situación está causando inconvenientes significativos en su capacidad para participar en el curso.",
+  "short_description": "Unable to access course in D2L platform",
+  "description": "El usuario no puede ver su curso en la plataforma D2L. A pesar de intentar acceder, la clase no aparece en su lista de cursos. Además, el usuario está buscando una manera de obtener las entregas de Dropbox de semestres anteriores, lo que sugiere que necesita acceso a información pasada. Esta situación está causando inconvenientes significativos en su capacidad para participar en el curso."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001579",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01260",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for R and R Studio installation on work computer\n\nfull_description_text:  \nThe user is asking if they can get R and R Studio installed on their work computer. They need these programs for their tasks but aren't sure how to go about it. It seems like they might need some help with the installation process.",
+  "short_description": "Request for R and R Studio installation on work computer",
+  "description": "The user is asking if they can get R and R Studio installed on their work computer. They need these programs for their tasks but aren't sure how to go about it. It seems like they might need some help with the installation process."
+}

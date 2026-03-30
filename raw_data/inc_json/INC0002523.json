@@ -1,0 +1,20 @@
+{
+  "number": "INC0002523",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB04074",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reclassify email link as safe in Outlook Safe Links\n\nfull_description_text: \nSo, the user was saying that they got this email, right? And it has a link in it, but the link is not working because it’s not classified as safe. They really need this link to be re-classed as safe so they can use it, and they said it’s from a known source, like a legit place. It’s kinda important for them to get this done, like, really soon.",
+  "short_description": "Reclassify email link as safe in Outlook Safe Links",
+  "description": "So, the user was saying that they got this email, right? And it has a link in it, but the link is not working because it’s not classified as safe. They really need this link to be re-classed as safe so they can use it, and they said it’s from a known source, like a legit place. It’s kinda important for them to get this done, like, really soon."
+}

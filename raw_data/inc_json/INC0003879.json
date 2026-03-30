@@ -1,0 +1,20 @@
+{
+  "number": "INC0003879",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08013",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to delete a section or page in OneNote.\n\nfull_description_text: The user was trying to remove a section or page in OneNote but encountered difficulties. They mentioned that the option to delete was not responding as expected, which caused some frustration during the call. It seems they were in the middle of organizing their notes and needed to streamline their workspace. This issue could be affecting their productivity significantly.",
+  "short_description": "Unable to delete a section or page in OneNote.",
+  "description": "The user was trying to remove a section or page in OneNote but encountered difficulties. They mentioned that the option to delete was not responding as expected, which caused some frustration during the call. It seems they were in the middle of organizing their notes and needed to streamline their workspace. This issue could be affecting their productivity significantly."
+}

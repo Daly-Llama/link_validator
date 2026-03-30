@@ -1,0 +1,20 @@
+{
+  "number": "INC0003618",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07735",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with adjusting indents in Google Docs.\n\nfull_description_text:  \nA field technician is experiencing difficulties while trying to modify the indents in Google Docs. They are unsure of the available options for adjusting these settings. This situation has caused some frustration, as the technician seeks clarity on how to proceed with their document formatting.",
+  "short_description": "Issues with adjusting indents in Google Docs.",
+  "description": "A field technician is experiencing difficulties while trying to modify the indents in Google Docs. They are unsure of the available options for adjusting these settings. This situation has caused some frustration, as the technician seeks clarity on how to proceed with their document formatting."
+}

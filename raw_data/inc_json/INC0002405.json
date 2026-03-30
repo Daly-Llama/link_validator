@@ -1,0 +1,20 @@
+{
+  "number": "INC0002405",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB03753",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help with student registration override in Self Service.\n\nfull_description_text: \nDuring a live chat, the user asked how to enter a registration override for a student in the Self Service portal. They seemed a bit confused about the process and wanted clear guidance. It was a straightforward question, but they were looking for specific steps to follow.",
+  "short_description": "Need help with student registration override in Self Service.",
+  "description": "During a live chat, the user asked how to enter a registration override for a student in the Self Service portal. They seemed a bit confused about the process and wanted clear guidance. It was a straightforward question, but they were looking for specific steps to follow."
+}

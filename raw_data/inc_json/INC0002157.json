@@ -1,0 +1,20 @@
+{
+  "number": "INC0002157",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB03002",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Locked out of Financial Aid access on USD portal\n\nfull_description_text:\n- I tried to access the financial aid tab on my USD portal.  \n- It says my access is disabled after I entered my ID number and PIN.  \n- The error message states that my web access has been disabled.  \n- I need help to find out why this happened.",
+  "short_description": "Locked out of Financial Aid access on USD portal",
+  "description": "- I tried to access the financial aid tab on my USD portal.  \n- It says my access is disabled after I entered my ID number and PIN.  \n- The error message states that my web access has been disabled.  \n- I need help to find out why this happened."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003934",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB08081",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to download files or folders from OneDrive.\n\nfull_description_text: I'm trying to download a file or folder from OneDrive, but it's not working. I don't know what to do to get it downloaded. Can you help me figure out how to download it?",
+  "short_description": "Unable to download files or folders from OneDrive.",
+  "description": "I'm trying to download a file or folder from OneDrive, but it's not working. I don't know what to do to get it downloaded. Can you help me figure out how to download it?"
+}

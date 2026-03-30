@@ -1,0 +1,20 @@
+{
+  "number": "INC0004231",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08585",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plans for the building\n\nfull_description_text:\n- The user called to ask about the evacuation plan for their building.  \n- They wanted to know what to do in case of severe weather.  \n- The Center for Continuing Education's procedures were specifically mentioned.  \n- The user seemed concerned about safety and needed detailed information.",
+  "short_description": "Inquiry about evacuation and severe weather plans for the building",
+  "description": "- The user called to ask about the evacuation plan for their building.  \n- They wanted to know what to do in case of severe weather.  \n- The Center for Continuing Education's procedures were specifically mentioned.  \n- The user seemed concerned about safety and needed detailed information."
+}

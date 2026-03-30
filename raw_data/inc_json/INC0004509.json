@@ -1,0 +1,20 @@
+{
+  "number": "INC0004509",
+  "category": "Technology",
+  "subcategory": "Panorama (formarly Blackboard Ally)",
+  "correct_kb": "KB09222",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about the schedule and types of Panorama training available.\n\nfull_description_text:  \nThe user is seeking information regarding the timing of Panorama training sessions. They also want to know what specific types of Panorama training are offered. This request indicates a need for clarity on training opportunities related to Panorama.",
+  "short_description": "Inquiry about the schedule and types of Panorama training available.",
+  "description": "The user is seeking information regarding the timing of Panorama training sessions. They also want to know what specific types of Panorama training are offered. This request indicates a need for clarity on training opportunities related to Panorama."
+}

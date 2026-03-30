@@ -1,0 +1,20 @@
+{
+  "number": "INC0004755",
+  "category": "Laundry Responsibilities",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB09949",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about who manages laundry machines in housing.\n\nfull_description_text: La persona que llama no sabe quién es responsable de las máquinas de lavandería. Están en un lugar de vivienda y no están seguros si es Auxiliar Servicios o Facilities Management. Necesitan aclarar quién se encarga de esto.",
+  "short_description": "Confusion about who manages laundry machines in housing.",
+  "description": "La persona que llama no sabe quién es responsable de las máquinas de lavandería. Están en un lugar de vivienda y no están seguros si es Auxiliar Servicios o Facilities Management. Necesitan aclarar quién se encarga de esto."
+}

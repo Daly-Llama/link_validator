@@ -1,0 +1,20 @@
+{
+  "number": "INC0004138",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08413",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: How to insert instructional text in Microsoft Word?\n\nfull_description_text: The user was trying to figure out how to add instructional text in Word. They needed guidance on this specific task. It seems they were unsure about the steps involved in inserting this type of text. The help desk analyst was assisting them during a live chat session.",
+  "short_description": "How to insert instructional text in Microsoft Word?",
+  "description": "The user was trying to figure out how to add instructional text in Word. They needed guidance on this specific task. It seems they were unsure about the steps involved in inserting this type of text. The help desk analyst was assisting them during a live chat session."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003323",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB06530",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty paying for parking using the Passport Parking app.\n\nfull_description_text:  \nUser is trying to pay for parking.  \nThey are using the Passport Parking app.  \nThere seems to be a problem with the payment process.  \nIt is unclear what steps are needed to complete the transaction.",
+  "short_description": "Difficulty paying for parking using the Passport Parking app.",
+  "description": "User is trying to pay for parking.  \nThey are using the Passport Parking app.  \nThere seems to be a problem with the payment process.  \nIt is unclear what steps are needed to complete the transaction."
+}

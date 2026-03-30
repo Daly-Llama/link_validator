@@ -1,0 +1,20 @@
+{
+  "number": "INC0003006",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05517",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Wireless printer causing Wi-Fi interference in dorms.\n\nfull_description_text:  \n- So, there's this wireless printer that's messing with the Wi-Fi in the dorms.  \n- The tech is trying to figure out how to turn it off, but it's not super clear how to do that.  \n- It's a bit of a hassle since everyone relies on the Wi-Fi for their devices, and this printer is just in the way.",
+  "short_description": "Wireless printer causing Wi-Fi interference in dorms.",
+  "description": "- So, there's this wireless printer that's messing with the Wi-Fi in the dorms.  \n- The tech is trying to figure out how to turn it off, but it's not super clear how to do that.  \n- It's a bit of a hassle since everyone relies on the Wi-Fi for their devices, and this printer is just in the way."
+}

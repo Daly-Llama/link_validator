@@ -1,0 +1,20 @@
+{
+  "number": "INC0003678",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07797",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to determine what can be added to Google Sites pages.\n\nfull_description_text: The user is experiencing difficulty in understanding what types of content can be added to their pages within Google Sites. They are seeking clarification on the various elements that can be incorporated into their site, such as text, images, or other media. This confusion is causing a delay in their ability to effectively utilize the platform for their needs. The user has submitted this inquiry through the self-service form, indicating a need for more detailed guidance on the subject.",
+  "short_description": "Unable to determine what can be added to Google Sites pages.",
+  "description": "The user is experiencing difficulty in understanding what types of content can be added to their pages within Google Sites. They are seeking clarification on the various elements that can be incorporated into their site, such as text, images, or other media. This confusion is causing a delay in their ability to effectively utilize the platform for their needs. The user has submitted this inquiry through the self-service form, indicating a need for more detailed guidance on the subject."
+}

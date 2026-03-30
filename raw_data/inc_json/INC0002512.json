@@ -1,0 +1,20 @@
+{
+  "number": "INC0002512",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04026",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for evaluation of USD computers for surplus.\n\nfull_description_text:  \nThe user is inquiring about which USD computers should be considered for surplus. They need assistance in identifying the appropriate devices to remove from service. This request is based on an email sent to the help desk.",
+  "short_description": "Request for evaluation of USD computers for surplus.",
+  "description": "The user is inquiring about which USD computers should be considered for surplus. They need assistance in identifying the appropriate devices to remove from service. This request is based on an email sent to the help desk."
+}

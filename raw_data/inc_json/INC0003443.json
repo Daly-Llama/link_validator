@@ -1,0 +1,20 @@
+{
+  "number": "INC0003443",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB07035",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting laptop to USB-C docking station\n\nfull_description_text:\n- The user is trying to connect their laptop to a USB-C docking station.  \n- They are unsure of the correct steps to establish the connection.  \n- The user is looking for guidance on how to properly set up the docking station with their laptop.  \n- There seems to be confusion regarding the ports and cables needed for the connection.",
+  "short_description": "Difficulty connecting laptop to USB-C docking station",
+  "description": "- The user is trying to connect their laptop to a USB-C docking station.  \n- They are unsure of the correct steps to establish the connection.  \n- The user is looking for guidance on how to properly set up the docking station with their laptop.  \n- There seems to be confusion regarding the ports and cables needed for the connection."
+}

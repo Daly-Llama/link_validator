@@ -1,0 +1,20 @@
+{
+  "number": "INC0004269",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB08659",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Excel 365 not responding when changing highlight colors\n\nfull_description_text: \nUser is working on Excel spreadsheets in Windows 10. When attempting to highlight or change the highlight color, the application does not respond. It either fails to open the color selection or displays it faintly. Additionally, the user is unable to click on any other elements within the program.",
+  "short_description": "Excel 365 not responding when changing highlight colors",
+  "description": "User is working on Excel spreadsheets in Windows 10. When attempting to highlight or change the highlight color, the application does not respond. It either fails to open the color selection or displays it faintly. Additionally, the user is unable to click on any other elements within the program."
+}

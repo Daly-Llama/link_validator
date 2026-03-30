@@ -1,0 +1,20 @@
+{
+  "number": "INC0002347",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03584",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion regarding degree audit results for graduation.\n\nfull_description_text:  \nI just checked my degree audit, and honestly, I'm really confused about what it all means. I thought I was on track for graduation, but now I'm not so sure. The information seems complicated, and I can't figure out if I'm missing any requirements or if everything is okay. It would be great to get some clarity on this!",
+  "short_description": "Confusion regarding degree audit results for graduation.",
+  "description": "I just checked my degree audit, and honestly, I'm really confused about what it all means. I thought I was on track for graduation, but now I'm not so sure. The information seems complicated, and I can't figure out if I'm missing any requirements or if everything is okay. It would be great to get some clarity on this!"
+}

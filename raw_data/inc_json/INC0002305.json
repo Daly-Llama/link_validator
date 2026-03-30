@@ -1,0 +1,20 @@
+{
+  "number": "INC0002305",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03489",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User requests removal of Duo authentication due to lack of access.\n\nfull_description_text: The user called in, saying they can't access their USD resources because they don't have a phone or a security key for Duo. They were pretty frustrated and just wanted to know how to get around the Duo Multi-factor Authentication. They insisted multiple times that they really don’t want to deal with Duo anymore, which is understandable since it can be a hassle without the right tools. It’s like, how are you supposed to log in if you can’t even authenticate, right?",
+  "short_description": "User requests removal of Duo authentication due to lack of access.",
+  "description": "The user called in, saying they can't access their USD resources because they don't have a phone or a security key for Duo. They were pretty frustrated and just wanted to know how to get around the Duo Multi-factor Authentication. They insisted multiple times that they really don’t want to deal with Duo anymore, which is understandable since it can be a hassle without the right tools. It’s like, how are you supposed to log in if you can’t even authenticate, right?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004148",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08423",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble opening an existing PowerPoint presentation.\n\nfull_description_text:\n- So, the user was trying to open a PowerPoint presentation they already had.  \n- They were on the phone, and it seemed like they just couldn't get it to open.  \n- It was a bit frustrating for them, and they needed some help with it.",
+  "short_description": "Trouble opening an existing PowerPoint presentation.",
+  "description": "- So, the user was trying to open a PowerPoint presentation they already had.  \n- They were on the phone, and it seemed like they just couldn't get it to open.  \n- It was a bit frustrating for them, and they needed some help with it."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001869",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB02117",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for ImageNow installation on user’s system.\n\nfull_description_text: \nUser wants to install ImageNow. They asked during a live chat. \nThey need it on their system, but it’s not installed yet. \nUser is looking for help with this installation process.",
+  "short_description": "Request for ImageNow installation on user’s system.",
+  "description": "User wants to install ImageNow. They asked during a live chat. \nThey need it on their system, but it’s not installed yet. \nUser is looking for help with this installation process."
+}

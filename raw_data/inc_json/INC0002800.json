@@ -1,0 +1,20 @@
+{
+  "number": "INC0002800",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04891",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty searching for study abroad programs at Gallagher Center.\n\nfull_description_text:  \nI am having trouble finding study abroad programs through the Gallagher Center. When I try to search, I can't seem to locate the options available. It would be great to get some guidance on how to navigate this process.",
+  "short_description": "Difficulty searching for study abroad programs at Gallagher Center.",
+  "description": "I am having trouble finding study abroad programs through the Gallagher Center. When I try to search, I can't seem to locate the options available. It would be great to get some guidance on how to navigate this process."
+}

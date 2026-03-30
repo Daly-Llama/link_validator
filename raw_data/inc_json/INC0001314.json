@@ -1,0 +1,20 @@
+{
+  "number": "INC0001314",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB00591",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into ImageNow due to connection errors.\n\nfull_description_text:  \nI'm trying to log into Perceptive Content, but I keep getting this annoying error. It says the system can't establish a connection, and I've even tried re-entering my username and password. Plus, there's this message about the network connection to the ImageNow Server being disconnected, and it mentions something about no connection profiles existing. It's really frustrating because I just want to access my documents!",
+  "short_description": "Unable to log into ImageNow due to connection errors.",
+  "description": "I'm trying to log into Perceptive Content, but I keep getting this annoying error. It says the system can't establish a connection, and I've even tried re-entering my username and password. Plus, there's this message about the network connection to the ImageNow Server being disconnected, and it mentions something about no connection profiles existing. It's really frustrating because I just want to access my documents!"
+}

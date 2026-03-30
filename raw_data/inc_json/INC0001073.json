@@ -1,0 +1,20 @@
+{
+  "number": "INC0001073",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00131",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Black line appears on paper during printing and scanning.\n\nfull_description_text:\n- The user reported a black line appearing on the paper when printing or copying documents.  \n- Additionally, lines were observed on scans made with the device.  \n- This issue was discussed during a live chat session with the help desk analyst.",
+  "short_description": "Black line appears on paper during printing and scanning.",
+  "description": "- The user reported a black line appearing on the paper when printing or copying documents.  \n- Additionally, lines were observed on scans made with the device.  \n- This issue was discussed during a live chat session with the help desk analyst."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001372",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB00706",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for ITS presence during computer-based testing sessions\n\nfull_description_text:  \nSo, here's the deal: we really need ITS to be there for our computer-based testing, right? We're using ExamSoft Examplify for the HESI Exam and also the D2L Exam, plus there's the National Board of Medical Examiners stuff going on. It just feels like having their support would make everything smoother, you know? I mean, it’s crucial for us to have that extra layer of help during these exams, especially with all the tech involved.",
+  "short_description": "Request for ITS presence during computer-based testing sessions",
+  "description": "So, here's the deal: we really need ITS to be there for our computer-based testing, right? We're using ExamSoft Examplify for the HESI Exam and also the D2L Exam, plus there's the National Board of Medical Examiners stuff going on. It just feels like having their support would make everything smoother, you know? I mean, it’s crucial for us to have that extra layer of help during these exams, especially with all the tech involved."
+}

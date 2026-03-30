@@ -1,0 +1,20 @@
+{
+  "number": "INC0004794",
+  "category": "Technology",
+  "subcategory": "Slate",
+  "correct_kb": "KB10103",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty running a query in Slate for new inquiries and applicants.\n\nfull_description_text: User is trying to run a query in Slate. They need to find new inquiries, applicants, or enrolled students. The process is unclear to them. Assistance is required to navigate the query function effectively.",
+  "short_description": "Difficulty running a query in Slate for new inquiries and applicants.",
+  "description": "User is trying to run a query in Slate. They need to find new inquiries, applicants, or enrolled students. The process is unclear to them. Assistance is required to navigate the query function effectively."
+}

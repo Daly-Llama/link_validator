@@ -1,0 +1,20 @@
+{
+  "number": "INC0004731",
+  "category": "Run the Report Run History report in Cognos",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB09867",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty running the Report Run History report in Cognos.\n\nfull_description_text:  \nA field technician is attempting to generate the Report Run History report within the Cognos Analytics environment. The report is intended to display the dates and times when reports in a specific folder were executed. However, the technician is unsure of the steps required to successfully run this report.",
+  "short_description": "Difficulty running the Report Run History report in Cognos.",
+  "description": "A field technician is attempting to generate the Report Run History report within the Cognos Analytics environment. The report is intended to display the dates and times when reports in a specific folder were executed. However, the technician is unsure of the steps required to successfully run this report."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003143",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05909",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help locating MAC Address for smart device registration\n\nfull_description_text:  \nI am trying to register my smart device, but I can't find the MAC Address. I don't know where to look for it in the settings or on the device. Can you help me with this?",
+  "short_description": "Need help locating MAC Address for smart device registration",
+  "description": "I am trying to register my smart device, but I can't find the MAC Address. I don't know where to look for it in the settings or on the device. Can you help me with this?"
+}

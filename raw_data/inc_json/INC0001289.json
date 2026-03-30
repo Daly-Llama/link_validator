@@ -1,0 +1,20 @@
+{
+  "number": "INC0001289",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB00551",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with sharing files and folders in OneDrive\n\nfull_description_text: \nEl técnico está intentando compartir archivos o carpetas en OneDrive para Business. Sin embargo, no está claro cómo se puede hacer esto, y hay dudas sobre la posibilidad de editar documentos simultáneamente con otros usuarios. La situación se complica al no tener una comprensión técnica completa de las funciones de compartición en la plataforma.",
+  "short_description": "Issues with sharing files and folders in OneDrive",
+  "description": "El técnico está intentando compartir archivos o carpetas en OneDrive para Business. Sin embargo, no está claro cómo se puede hacer esto, y hay dudas sobre la posibilidad de editar documentos simultáneamente con otros usuarios. La situación se complica al no tener una comprensión técnica completa de las funciones de compartición en la plataforma."
+}

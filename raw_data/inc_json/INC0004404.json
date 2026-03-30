@@ -1,0 +1,20 @@
+{
+  "number": "INC0004404",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08957",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Donated Leave Policy and request process.\n\nfull_description_text:  \nDuring a phone call, the user inquired about USD's Donated Leave Policy for employees. They wanted to understand the guidelines and the steps required to request donated leave. The conversation focused on clarifying the policy details and the procedure for making a request.",
+  "short_description": "Inquiry about USD's Donated Leave Policy and request process.",
+  "description": "During a phone call, the user inquired about USD's Donated Leave Policy for employees. They wanted to understand the guidelines and the steps required to request donated leave. The conversation focused on clarifying the policy details and the procedure for making a request."
+}

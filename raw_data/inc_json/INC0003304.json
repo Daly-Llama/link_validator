@@ -1,0 +1,20 @@
+{
+  "number": "INC0003304",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06460",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to update Valt application and obtain new certificate\n\nfull_description_text:\n- The user was on a call requesting an update to the Valt application to the latest version.  \n- They also needed a new CSR to send to their certificate authority.  \n- Additionally, they asked for a new certificate to be applied, specifying it should be \"Certificate only, PEM encoded.\"  \n- There were some minor confusions during the call about the order of these requests.",
+  "short_description": "Request to update Valt application and obtain new certificate",
+  "description": "- The user was on a call requesting an update to the Valt application to the latest version.  \n- They also needed a new CSR to send to their certificate authority.  \n- Additionally, they asked for a new certificate to be applied, specifying it should be \"Certificate only, PEM encoded.\"  \n- There were some minor confusions during the call about the order of these requests."
+}

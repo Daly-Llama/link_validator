@@ -1,0 +1,20 @@
+{
+  "number": "INC0004636",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB09555",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Duo application is displaying in an incorrect language.\n\nfull_description_text: The user reported that their Duo application is currently set to a language they do not understand. This issue is preventing them from entering their passcode, which is necessary for authentication. The situation arose during a live phone call with the help desk, where the user expressed frustration over the language barrier affecting their access.",
+  "short_description": "Duo application is displaying in an incorrect language.",
+  "description": "The user reported that their Duo application is currently set to a language they do not understand. This issue is preventing them from entering their passcode, which is necessary for authentication. The situation arose during a live phone call with the help desk, where the user expressed frustration over the language barrier affecting their access."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002765",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB04820",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Banner screens from off-campus due to timeouts.\n\nfull_description_text: So, the user was trying to get into Banner, right? They were on that FAAINVE screen, but it just kept timing out. Super frustrating! They mentioned it was happening when they were off-campus, which is odd. I mean, you'd think it would work fine, but nope! Just a total no-go on those screens.",
+  "short_description": "Unable to access Banner screens from off-campus due to timeouts.",
+  "description": "So, the user was trying to get into Banner, right? They were on that FAAINVE screen, but it just kept timing out. Super frustrating! They mentioned it was happening when they were off-campus, which is odd. I mean, you'd think it would work fine, but nope! Just a total no-go on those screens."
+}

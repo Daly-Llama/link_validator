@@ -1,0 +1,20 @@
+{
+  "number": "INC0001711",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01669",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need software installed on classroom or lab computers.\n\nfull_description_text:  \nUser wants software on lab laptops.  \nRequest for installation on classroom computers.  \nNeed to update or install non-standard software.",
+  "short_description": "Need software installed on classroom or lab computers.",
+  "description": "User wants software on lab laptops.  \nRequest for installation on classroom computers.  \nNeed to update or install non-standard software."
+}

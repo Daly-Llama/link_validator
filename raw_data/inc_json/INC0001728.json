@@ -1,0 +1,20 @@
+{
+  "number": "INC0001728",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB01703",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log in to Xtender with Xtender account.\n\nfull_description_text:\n- The user is having trouble logging into Xtender using their Xtender account.  \n- They mentioned that the login attempt fails every time.  \n- This issue is happening in the Banner environment.  \n- It's causing some frustration since they need access right away.",
+  "short_description": "Unable to log in to Xtender with Xtender account.",
+  "description": "- The user is having trouble logging into Xtender using their Xtender account.  \n- They mentioned that the login attempt fails every time.  \n- This issue is happening in the Banner environment.  \n- It's causing some frustration since they need access right away."
+}

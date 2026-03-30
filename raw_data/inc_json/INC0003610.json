@@ -1,0 +1,20 @@
+{
+  "number": "INC0003610",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB07727",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help requesting video download from Respondus\n\nfull_description_text:\n- So, I got this email about downloading a video from Respondus.  \n- The person is asking how to do it, like, what steps to take.  \n- They seem a bit confused, maybe because they speak Spanish and it’s not super clear.  \n- Just trying to figure out what they need to do, you know?",
+  "short_description": "Need help requesting video download from Respondus",
+  "description": "- So, I got this email about downloading a video from Respondus.  \n- The person is asking how to do it, like, what steps to take.  \n- They seem a bit confused, maybe because they speak Spanish and it’s not super clear.  \n- Just trying to figure out what they need to do, you know?"
+}

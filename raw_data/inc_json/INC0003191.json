@@ -1,0 +1,20 @@
+{
+  "number": "INC0003191",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB06075",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User redirected to DSU portal instead of SNAP login.\n\nfull_description_text: The user reported that when attempting to log into SNAP, they are unexpectedly taken to a Dakota State University page. This redirection to the DSU SNAP portal is causing confusion. They were trying to access their account but ended up on a different site entirely. The issue seems to be related to the login process.",
+  "short_description": "User redirected to DSU portal instead of SNAP login.",
+  "description": "The user reported that when attempting to log into SNAP, they are unexpectedly taken to a Dakota State University page. This redirection to the DSU SNAP portal is causing confusion. They were trying to access their account but ended up on a different site entirely. The issue seems to be related to the login process."
+}

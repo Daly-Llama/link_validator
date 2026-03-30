@@ -1,0 +1,20 @@
+{
+  "number": "INC0001574",
+  "category": "Safety and Security",
+  "subcategory": "Safety and Security",
+  "correct_kb": "KB01244",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Lost Student ID on USD Campus, need help locating it.\n\nfull_description_text: So, here's the deal—I've misplaced my Student ID while wandering around the USD Campus, and it's really bumming me out. I mean, I need that ID for so many things, right? I'm just trying to figure out where I can go to see if someone has turned it in. Is there a specific office or person I should talk to about lost items? It would be super helpful to know where to start looking!",
+  "short_description": "Lost Student ID on USD Campus, need help locating it.",
+  "description": "So, here's the deal—I've misplaced my Student ID while wandering around the USD Campus, and it's really bumming me out. I mean, I need that ID for so many things, right? I'm just trying to figure out where I can go to see if someone has turned it in. Is there a specific office or person I should talk to about lost items? It would be super helpful to know where to start looking!"
+}

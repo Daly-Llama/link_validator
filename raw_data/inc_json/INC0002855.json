@@ -1,0 +1,20 @@
+{
+  "number": "INC0002855",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05103",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Assistance needed with issues in McGraw-Hill Connect.\n\nfull_description_text: \nThe user is experiencing difficulties while using McGraw-Hill Connect and is seeking assistance. During a live phone call, they expressed their need for help with specific problems related to the platform. The situation indicates that the user may be encountering obstacles that hinder their ability to effectively utilize the service. Further clarification on the exact nature of the issues would be beneficial for resolution.",
+  "short_description": "Assistance needed with issues in McGraw-Hill Connect.",
+  "description": "The user is experiencing difficulties while using McGraw-Hill Connect and is seeking assistance. During a live phone call, they expressed their need for help with specific problems related to the platform. The situation indicates that the user may be encountering obstacles that hinder their ability to effectively utilize the service. Further clarification on the exact nature of the issues would be beneficial for resolution."
+}

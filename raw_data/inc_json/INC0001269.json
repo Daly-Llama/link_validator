@@ -1,0 +1,20 @@
+{
+  "number": "INC0001269",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB00509",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Adobe Acrobat Pro license expired error when editing PDFs\n\nfull_description_text: \nEl usuario estaba intentando editar un archivo PDF en Adobe Acrobat Pro. Recibió un mensaje de error que indicaba que la licencia ha expirado. Además, al intentar imprimir desde Photoshop, también se encontró con un problema similar relacionado con la activación de Acrobat. Esto impide que el usuario complete sus tareas.",
+  "short_description": "Adobe Acrobat Pro license expired error when editing PDFs",
+  "description": "El usuario estaba intentando editar un archivo PDF en Adobe Acrobat Pro. Recibió un mensaje de error que indicaba que la licencia ha expirado. Además, al intentar imprimir desde Photoshop, también se encontró con un problema similar relacionado con la activación de Acrobat. Esto impide que el usuario complete sus tareas."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001600",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB01328",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Document displays symbols instead of text in Microsoft Word.\n\nfull_description_text: \nWhen opening a document in Microsoft Word, part of the content appears as symbols or codes. This issue disrupts the readability of the document. The problem occurs in the Office365 environment.",
+  "short_description": "Document displays symbols instead of text in Microsoft Word.",
+  "description": "When opening a document in Microsoft Word, part of the content appears as symbols or codes. This issue disrupts the readability of the document. The problem occurs in the Office365 environment."
+}

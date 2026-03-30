@@ -1,0 +1,20 @@
+{
+  "number": "INC0001705",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01653",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to update Chick-Fil-A menu pricing on registers\n\nfull_description_text:\n- The user is seeking assistance with updating the pricing information on the Chick-Fil-A registers.  \n- They expressed a need for changes to the menu items displayed on the Point of Sale system.  \n- The request was made during a phone call, and the user has limited proficiency in English.  \n- Additional context regarding the urgency or specific items was not provided.",
+  "short_description": "Request to update Chick-Fil-A menu pricing on registers",
+  "description": "- The user is seeking assistance with updating the pricing information on the Chick-Fil-A registers.  \n- They expressed a need for changes to the menu items displayed on the Point of Sale system.  \n- The request was made during a phone call, and the user has limited proficiency in English.  \n- Additional context regarding the urgency or specific items was not provided."
+}

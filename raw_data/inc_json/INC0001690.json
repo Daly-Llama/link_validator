@@ -1,0 +1,20 @@
+{
+  "number": "INC0001690",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB01611",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to update email with new legal name after marriage\n\nfull_description_text:  \nI recently got married and need my email address to reflect my new name. Currently, my USD account is showing my parent's first name instead of mine, which is incorrect. It seems that my account was created with bad data, and I would like to have this corrected to avoid any confusion in my academic records.",
+  "short_description": "Request to update email with new legal name after marriage",
+  "description": "I recently got married and need my email address to reflect my new name. Currently, my USD account is showing my parent's first name instead of mine, which is incorrect. It seems that my account was created with bad data, and I would like to have this corrected to avoid any confusion in my academic records."
+}

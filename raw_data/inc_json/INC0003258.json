@@ -1,0 +1,20 @@
+{
+  "number": "INC0003258",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB06269",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Profile picture on Employee Dashboard is showing incorrectly.\n\nfull_description_text:  \nI was just checking my profile on the Employee Dashboard, you know, the one at experience.usd.edu, and I noticed that my profile picture is totally wrong! It’s like, not even close to what it should be. I found it through SNAP, and I’m really not sure how it got messed up like this. Can someone help me get it fixed? It’s kinda important to have the right picture, right?",
+  "short_description": "Profile picture on Employee Dashboard is showing incorrectly.",
+  "description": "I was just checking my profile on the Employee Dashboard, you know, the one at experience.usd.edu, and I noticed that my profile picture is totally wrong! It’s like, not even close to what it should be. I found it through SNAP, and I’m really not sure how it got messed up like this. Can someone help me get it fixed? It’s kinda important to have the right picture, right?"
+}

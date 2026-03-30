@@ -1,0 +1,20 @@
+{
+  "number": "INC0002807",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04905",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues transferring files between desktop and Lawrence HPC.\n\nfull_description_text:\n- User is attempting to transfer files to and from Lawrence HPC using MobaXterm and CyberDuck.\n- They are experiencing difficulties with the file transfer process.\n- The issue arises while using BASH shell command line for these operations.",
+  "short_description": "Issues transferring files between desktop and Lawrence HPC.",
+  "description": "- User is attempting to transfer files to and from Lawrence HPC using MobaXterm and CyberDuck.\n- They are experiencing difficulties with the file transfer process.\n- The issue arises while using BASH shell command line for these operations."
+}

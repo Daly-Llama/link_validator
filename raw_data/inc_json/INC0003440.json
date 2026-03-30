@@ -1,0 +1,20 @@
+{
+  "number": "INC0003440",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07028",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty assigning or reassigning Duo tokens for Facilities Management staff.\n\nfull_description_text: \nThe user is attempting to assign or reassign a Duo hardware token for a new staff member in the Facilities Management department. During the call, they expressed confusion regarding the specific process required to complete this task. The user is currently utilizing Duo Multifactor Authentication and needs clarity on the steps involved in managing token assignments. This situation highlights the need for guidance on the proper procedures for token management within the university's authentication system.",
+  "short_description": "Difficulty assigning or reassigning Duo tokens for Facilities Management staff.",
+  "description": "The user is attempting to assign or reassign a Duo hardware token for a new staff member in the Facilities Management department. During the call, they expressed confusion regarding the specific process required to complete this task. The user is currently utilizing Duo Multifactor Authentication and needs clarity on the steps involved in managing token assignments. This situation highlights the need for guidance on the proper procedures for token management within the university's authentication system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003024",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05592",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Network closet UPS battery has failed and needs attention.\n\nfull_description_text:  \nI noticed that the UPS in the network closet isn't working properly. The battery seems to have failed, which is a bit concerning since it’s supposed to provide backup power. This could lead to issues if there's a power outage, so I wanted to get this looked at as soon as possible.",
+  "short_description": "Network closet UPS battery has failed and needs attention.",
+  "description": "I noticed that the UPS in the network closet isn't working properly. The battery seems to have failed, which is a bit concerning since it’s supposed to provide backup power. This could lead to issues if there's a power outage, so I wanted to get this looked at as soon as possible."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001474",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00964",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty taking a screenshot of a desktop image on Windows.\n\nfull_description_text: \nThe user was attempting to capture a screenshot of a specific picture displayed on their desktop while using either Windows 10 or Windows 7. They expressed confusion about the correct method to take a screenshot, indicating that they were unsure of the key combinations or tools available for this task. During the call, the analyst noted that the user was looking for a straightforward way to save the image as a file, which added to the complexity of the situation. The user seemed to be familiar with basic computer operations but required assistance with this particular function.",
+  "short_description": "Difficulty taking a screenshot of a desktop image on Windows.",
+  "description": "The user was attempting to capture a screenshot of a specific picture displayed on their desktop while using either Windows 10 or Windows 7. They expressed confusion about the correct method to take a screenshot, indicating that they were unsure of the key combinations or tools available for this task. During the call, the analyst noted that the user was looking for a straightforward way to save the image as a file, which added to the complexity of the situation. The user seemed to be familiar with basic computer operations but required assistance with this particular function."
+}

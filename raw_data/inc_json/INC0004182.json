@@ -1,0 +1,20 @@
+{
+  "number": "INC0004182",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB08472",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access PDF link without USD account login\n\nfull_description_text:  \nA prospective student or parent is trying to view the four-year program guide. They copied the PDF link from SharePoint and opened it in an Incognito browser. However, they are prompted to log into a USD account, which they do not have. This makes it impossible for them to access the information they need.",
+  "short_description": "Unable to access PDF link without USD account login",
+  "description": "A prospective student or parent is trying to view the four-year program guide. They copied the PDF link from SharePoint and opened it in an Incognito browser. However, they are prompted to log into a USD account, which they do not have. This makes it impossible for them to access the information they need."
+}

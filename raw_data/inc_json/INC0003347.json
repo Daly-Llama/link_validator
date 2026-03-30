@@ -1,0 +1,20 @@
+{
+  "number": "INC0003347",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06616",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to purchase reMarkable tablet for department use\n\nfull_description_text:\n- The department wants to buy a reMarkable tablet for their work.  \n- They are using the eduroam network during the purchasing process.  \n- There seems to be some confusion about how to proceed with the purchase.  \n- It's important for them to get this tablet soon for their tasks.",
+  "short_description": "Request to purchase reMarkable tablet for department use",
+  "description": "- The department wants to buy a reMarkable tablet for their work.  \n- They are using the eduroam network during the purchasing process.  \n- There seems to be some confusion about how to proceed with the purchase.  \n- It's important for them to get this tablet soon for their tasks."
+}

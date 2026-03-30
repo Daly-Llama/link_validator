@@ -1,0 +1,20 @@
+{
+  "number": "INC0004733",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09875",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble installing multifunction printer on personal Apple device\n\nfull_description_text: The user is trying to install a multifunction printer on their personal Apple device. They mentioned they are using a MacOS and iOS setup, but are unsure of the steps needed. There seems to be confusion about how to get the Papercut Print Deploy Client working properly.",
+  "short_description": "Trouble installing multifunction printer on personal Apple device",
+  "description": "The user is trying to install a multifunction printer on their personal Apple device. They mentioned they are using a MacOS and iOS setup, but are unsure of the steps needed. There seems to be confusion about how to get the Papercut Print Deploy Client working properly."
+}

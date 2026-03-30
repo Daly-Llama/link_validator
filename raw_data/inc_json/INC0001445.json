@@ -1,0 +1,20 @@
+{
+  "number": "INC0001445",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00873",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance with installing Google Chrome on Windows or macOS.\n\nfull_description_text: \nDuring a phone call, the user requested help with installing Google Chrome. They were unsure of the steps needed for both Windows and macOS environments. The analyst noted the user's primary language was Spanish, which may have contributed to the confusion. The installation process seemed to be a barrier for them.",
+  "short_description": "Need assistance with installing Google Chrome on Windows or macOS.",
+  "description": "During a phone call, the user requested help with installing Google Chrome. They were unsure of the steps needed for both Windows and macOS environments. The analyst noted the user's primary language was Spanish, which may have contributed to the confusion. The installation process seemed to be a barrier for them."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002318",
+  "category": "Business Office",
+  "subcategory": "Business Office",
+  "correct_kb": "KB03522",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about setting up a payment plan.\n\nfull_description_text:  \nThe user is seeking information on whether they can enroll in a payment plan. They are also asking for guidance on the steps required to establish this payment plan. The context involves the Payment Plan feature within SDePay and Nelnet Business Solutions.",
+  "short_description": "Inquiry about setting up a payment plan.",
+  "description": "The user is seeking information on whether they can enroll in a payment plan. They are also asking for guidance on the steps required to establish this payment plan. The context involves the Payment Plan feature within SDePay and Nelnet Business Solutions."
+}

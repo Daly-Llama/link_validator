@@ -1,0 +1,20 @@
+{
+  "number": "INC0003637",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07756",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about supported file types in Google Docs viewer\n\nfull_description_text:\n- The user is seeking clarification on the various file types that are compatible with the Google Docs viewer.  \n- They have encountered difficulties in understanding which formats can be uploaded and viewed effectively.  \n- This inquiry is crucial for ensuring proper document management and utilization of the Google Docs platform.  \n- The user expects a comprehensive list of supported file types to avoid any future issues with document accessibility.",
+  "short_description": "Inquiry about supported file types in Google Docs viewer",
+  "description": "- The user is seeking clarification on the various file types that are compatible with the Google Docs viewer.  \n- They have encountered difficulties in understanding which formats can be uploaded and viewed effectively.  \n- This inquiry is crucial for ensuring proper document management and utilization of the Google Docs platform.  \n- The user expects a comprehensive list of supported file types to avoid any future issues with document accessibility."
+}

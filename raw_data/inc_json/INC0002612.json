@@ -1,0 +1,20 @@
+{
+  "number": "INC0002612",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB04365",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing video in Panopto classroom recording\n\nfull_description_text: \nEl usuario reportó que la grabación de Panopto en el aula no incluye el video de la presentación o de la cámara. Además, el indicador de grabación de Panopto no se encendió en el momento de la grabación, lo que sugiere que no se registró correctamente. Esto ocurrió durante una clase en vivo, lo que es crítico para la revisión posterior.",
+  "short_description": "Missing video in Panopto classroom recording",
+  "description": "El usuario reportó que la grabación de Panopto en el aula no incluye el video de la presentación o de la cámara. Además, el indicador de grabación de Panopto no se encendió en el momento de la grabación, lo que sugiere que no se registró correctamente. Esto ocurrió durante una clase en vivo, lo que es crítico para la revisión posterior."
+}

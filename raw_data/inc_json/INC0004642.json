@@ -1,0 +1,20 @@
+{
+  "number": "INC0004642",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09587",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to update or create a document on USD Portal\n\nfull_description_text:  \nI want to know how to request an update for a document on the USD Portal. Also, I need help with how to create a new item for the document. It’s confusing because I don’t see where to do this. Can someone please explain the steps to me?",
+  "short_description": "Request to update or create a document on USD Portal",
+  "description": "I want to know how to request an update for a document on the USD Portal. Also, I need help with how to create a new item for the document. It’s confusing because I don’t see where to do this. Can someone please explain the steps to me?"
+}

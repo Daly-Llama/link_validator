@@ -1,0 +1,20 @@
+{
+  "number": "INC0003254",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06256",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access LastPass due to federated login issue.\n\nfull_description_text:\n- The user is attempting to access LastPass on their browser for the first time.  \n- They are encountering an error message indicating that federated login is not available for web login.  \n- This issue is preventing the user from utilizing LastPass as intended.",
+  "short_description": "Unable to access LastPass due to federated login issue.",
+  "description": "- The user is attempting to access LastPass on their browser for the first time.  \n- They are encountering an error message indicating that federated login is not available for web login.  \n- This issue is preventing the user from utilizing LastPass as intended."
+}

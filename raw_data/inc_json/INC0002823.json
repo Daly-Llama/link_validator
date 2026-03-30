@@ -1,0 +1,20 @@
+{
+  "number": "INC0002823",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB04963",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues connecting to USD's VPN while traveling.\n\nfull_description_text: The user was attempting to connect to the USD network remotely while traveling, needing access to their office computer via remote desktop. They encountered a Network Security Alert during the process, which raised concerns about their connection. Additionally, they inquired about the possibility of using macOS' built-in VPN client for this purpose, indicating some uncertainty about the compatibility of their setup with USD's VPN requirements.",
+  "short_description": "Issues connecting to USD's VPN while traveling.",
+  "description": "The user was attempting to connect to the USD network remotely while traveling, needing access to their office computer via remote desktop. They encountered a Network Security Alert during the process, which raised concerns about their connection. Additionally, they inquired about the possibility of using macOS' built-in VPN client for this purpose, indicating some uncertainty about the compatibility of their setup with USD's VPN requirements."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003570",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07512",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble accessing a specific course in D2L.\n\nfull_description_text:  \nSo, I was trying to get into a specific course in D2L, but I just couldn't figure it out. I mean, I clicked around and nothing seemed to work. It's kinda frustrating when you know the course is there, but you just can't access it. Anyone else had this issue?",
+  "short_description": "Trouble accessing a specific course in D2L.",
+  "description": "So, I was trying to get into a specific course in D2L, but I just couldn't figure it out. I mean, I clicked around and nothing seemed to work. It's kinda frustrating when you know the course is there, but you just can't access it. Anyone else had this issue?"
+}

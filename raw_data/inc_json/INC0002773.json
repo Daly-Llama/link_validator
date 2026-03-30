@@ -1,0 +1,20 @@
+{
+  "number": "INC0002773",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB04840",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance with writing in D2L.\n\nfull_description_text:  \nUser is looking for help with writing.  \nThey want to submit work to the Online Writing Center in D2L.  \nClarification on the submission process is needed.  \nFeedback on writing is the main goal.",
+  "short_description": "Need assistance with writing in D2L.",
+  "description": "User is looking for help with writing.  \nThey want to submit work to the Online Writing Center in D2L.  \nClarification on the submission process is needed.  \nFeedback on writing is the main goal."
+}

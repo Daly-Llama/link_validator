@@ -1,0 +1,20 @@
+{
+  "number": "INC0002984",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05456",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues connecting Telepresence robots to university network.\n\nfull_description_text:  \nThe user was attempting to connect the Telepresence robots to the university's network using WiFi. During this process, they encountered an error message stating, \"You have been quarantine, NAT Device detected.\" This issue is preventing the robots from functioning properly on the network. The user expressed frustration as they were trying to get the robots operational for their intended use.",
+  "short_description": "Issues connecting Telepresence robots to university network.",
+  "description": "The user was attempting to connect the Telepresence robots to the university's network using WiFi. During this process, they encountered an error message stating, \"You have been quarantine, NAT Device detected.\" This issue is preventing the robots from functioning properly on the network. The user expressed frustration as they were trying to get the robots operational for their intended use."
+}

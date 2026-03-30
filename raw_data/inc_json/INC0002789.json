@@ -1,0 +1,20 @@
+{
+  "number": "INC0002789",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04879",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty selling back textbooks on Charlie's Bookstore website.\n\nfull_description_text: \nEl usuario está intentando vender sus libros de texto al final del semestre. Sin embargo, no está claro cómo proceder en el sitio web de Charlie's Bookstore. La información sobre el proceso de venta no es fácil de encontrar, lo que causa confusión. Necesita asistencia para entender los pasos necesarios para completar la transacción.",
+  "short_description": "Difficulty selling back textbooks on Charlie's Bookstore website.",
+  "description": "El usuario está intentando vender sus libros de texto al final del semestre. Sin embargo, no está claro cómo proceder en el sitio web de Charlie's Bookstore. La información sobre el proceso de venta no es fácil de encontrar, lo que causa confusión. Necesita asistencia para entender los pasos necesarios para completar la transacción."
+}

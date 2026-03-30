@@ -1,0 +1,20 @@
+{
+  "number": "INC0001290",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00552",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Student reports lost cell phone, requests location assistance.\n\nfull_description_text: A USD student is reporting a lost cell phone. The device was previously connected to the university's network. The student is asking if IT can locate the device. They also want to notify University Police Department about the lost item.",
+  "short_description": "Student reports lost cell phone, requests location assistance.",
+  "description": "A USD student is reporting a lost cell phone. The device was previously connected to the university's network. The student is asking if IT can locate the device. They also want to notify University Police Department about the lost item."
+}

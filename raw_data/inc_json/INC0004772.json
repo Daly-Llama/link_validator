@@ -1,0 +1,20 @@
+{
+  "number": "INC0004772",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB10031",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Color printing issue with PaperCut on Sharp Copier\n\nfull_description_text: The user was trying to print a document in color using the Sharp Copier. They selected the color option when sending the job, and the copier even showed that it would print in color. However, when the document came out, it was printed in black and white instead. This has caused some frustration, as they expected the printout to match their selection.",
+  "short_description": "Color printing issue with PaperCut on Sharp Copier",
+  "description": "The user was trying to print a document in color using the Sharp Copier. They selected the color option when sending the job, and the copier even showed that it would print in color. However, when the document came out, it was printed in black and white instead. This has caused some frustration, as they expected the printout to match their selection."
+}

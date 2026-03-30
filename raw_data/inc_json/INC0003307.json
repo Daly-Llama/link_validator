@@ -1,0 +1,20 @@
+{
+  "number": "INC0003307",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06478",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request to unsubscribe from Scam of the Week emails\n\nfull_description_text:\n- User wants to be removed from the Scam of the Week email list.  \n- This request was made via email to the help desk.  \n- The user is using Outlook for their emails.  \n- There is no further context provided about the issue.",
+  "short_description": "Request to unsubscribe from Scam of the Week emails",
+  "description": "- User wants to be removed from the Scam of the Week email list.  \n- This request was made via email to the help desk.  \n- The user is using Outlook for their emails.  \n- There is no further context provided about the issue."
+}

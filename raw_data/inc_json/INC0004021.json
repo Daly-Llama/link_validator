@@ -1,0 +1,20 @@
+{
+  "number": "INC0004021",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08245",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to install software due to admin credentials requirement.\n\nfull_description_text: The user was trying to install a software on their Windows 10 or MacOS. They hit a roadblock when it asked for admin account and password. This is a common issue, especially for users without admin rights. They seemed a bit frustrated during the call, wanting to get the software up and running quickly.",
+  "short_description": "Unable to install software due to admin credentials requirement.",
+  "description": "The user was trying to install a software on their Windows 10 or MacOS. They hit a roadblock when it asked for admin account and password. This is a common issue, especially for users without admin rights. They seemed a bit frustrated during the call, wanting to get the software up and running quickly."
+}

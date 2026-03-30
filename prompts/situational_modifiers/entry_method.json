@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "items": {
+    "1": { "name": "phone", "value": "by a help desk analyst during a live phone call", "weight": 0.40 },
+    "2": { "name": "self_service", "value": "by an end user through a self-service form submission", "weight": 0.30 },
+    "3": { "name": "chat", "value": "by a help desk analyst during a live chat session", "weight": 0.15 },
+    "4": { "name": "email", "value": "by a help desk analyst in response to an email", "weight": 0.05 },
+    "5": { "name": "in_field", "value": "by a field technician", "weight": 0.10 }
+  }
+}

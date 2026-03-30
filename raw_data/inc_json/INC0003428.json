@@ -1,0 +1,20 @@
+{
+  "number": "INC0003428",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06969",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help adding Slido to PowerPoint.\n\nfull_description_text: User wants to add Slido to their PowerPoint. They are not sure how to do it. This is for a presentation they are working on. They called for assistance during the process.",
+  "short_description": "Need help adding Slido to PowerPoint.",
+  "description": "User wants to add Slido to their PowerPoint. They are not sure how to do it. This is for a presentation they are working on. They called for assistance during the process."
+}

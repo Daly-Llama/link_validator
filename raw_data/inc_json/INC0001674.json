@@ -1,0 +1,20 @@
+{
+  "number": "INC0001674",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB01567",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into K2 website or reset password\n\nfull_description_text:\n- User is trying to access the K2 website but cannot log in.  \n- They also attempted to reset their password without success.  \n- An error message appears stating that the worklist item cannot be opened.  \n- The specific error code is 24411 K2:USDLOCAL\\<name> is not allowed to open the worklist item with SN=1813_41.",
+  "short_description": "Unable to log into K2 website or reset password",
+  "description": "- User is trying to access the K2 website but cannot log in.  \n- They also attempted to reset their password without success.  \n- An error message appears stating that the worklist item cannot be opened.  \n- The specific error code is 24411 K2:USDLOCAL\\<name> is not allowed to open the worklist item with SN=1813_41."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001003",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB00016",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues logging into Experience portal and Self Service.\n\nfull_description_text:  \nThe user attempted to log into the SNAP system via the Experience portal but encountered multiple errors. Initially, they faced a Single Sign-on failure, which led to a message indicating that the username was not found. After several attempts, including a password reset, the user received an authorization error stating they were not permitted to view the requested page. This situation has caused frustration as the user is unable to access necessary services through the Self Service banner.",
+  "short_description": "Issues logging into Experience portal and Self Service.",
+  "description": "The user attempted to log into the SNAP system via the Experience portal but encountered multiple errors. Initially, they faced a Single Sign-on failure, which led to a message indicating that the username was not found. After several attempts, including a password reset, the user received an authorization error stating they were not permitted to view the requested page. This situation has caused frustration as the user is unable to access necessary services through the Self Service banner."
+}

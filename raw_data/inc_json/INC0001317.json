@@ -1,0 +1,20 @@
+{
+  "number": "INC0001317",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00596",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Word application crashes frequently, causing document loss.\n\nfull_description_text: The user reported that Microsoft Word 2011 on their macOS has crashed three separate times. Each time this occurred, they experienced the loss of the document they were currently working on. This situation has caused frustration as the user is unable to save their progress effectively. The crashes seem to happen unexpectedly during their work sessions.",
+  "short_description": "Word application crashes frequently, causing document loss.",
+  "description": "The user reported that Microsoft Word 2011 on their macOS has crashed three separate times. Each time this occurred, they experienced the loss of the document they were currently working on. This situation has caused frustration as the user is unable to save their progress effectively. The crashes seem to happen unexpectedly during their work sessions."
+}

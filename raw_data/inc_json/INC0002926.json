@@ -1,0 +1,20 @@
+{
+  "number": "INC0002926",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05308",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Audio and video delay issue during Zoom calls.\n\nfull_description_text: \nThe user is experiencing a noticeable delay between the audio and video while using a webcam in Zoom, which is causing significant frustration. This issue occurs during live meetings, making it difficult to communicate effectively. The webcam is connected via USB, and the user has already checked their internet connection, which seems stable. It's important to note that the user prefers to communicate in Spanish, and this might add to the complexity of the situation.",
+  "short_description": "Audio and video delay issue during Zoom calls.",
+  "description": "The user is experiencing a noticeable delay between the audio and video while using a webcam in Zoom, which is causing significant frustration. This issue occurs during live meetings, making it difficult to communicate effectively. The webcam is connected via USB, and the user has already checked their internet connection, which seems stable. It's important to note that the user prefers to communicate in Spanish, and this might add to the complexity of the situation."
+}

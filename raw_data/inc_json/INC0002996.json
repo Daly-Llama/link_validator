@@ -1,0 +1,20 @@
+{
+  "number": "INC0002996",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB05484",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to restore Google Drive documents from trash\n\nfull_description_text: User is trying to get back Google Drive Docs. They say the files can't be recovered. They checked the trash but no luck. Need help with this issue.",
+  "short_description": "Unable to restore Google Drive documents from trash",
+  "description": "User is trying to get back Google Drive Docs. They say the files can't be recovered. They checked the trash but no luck. Need help with this issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001497",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01036",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty installing or upgrading Examplify software on multiple operating systems.\n\nfull_description_text: The user is experiencing challenges with the installation or upgrade of Examplify software on their device. This issue arises while attempting to set up the application on either Windows 10, Windows 11, or Mac OS within a medical school environment. The user is seeking guidance on how to successfully obtain and install the necessary software.",
+  "short_description": "Difficulty installing or upgrading Examplify software on multiple operating systems.",
+  "description": "The user is experiencing challenges with the installation or upgrade of Examplify software on their device. This issue arises while attempting to set up the application on either Windows 10, Windows 11, or Mac OS within a medical school environment. The user is seeking guidance on how to successfully obtain and install the necessary software."
+}

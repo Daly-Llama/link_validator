@@ -1,0 +1,20 @@
+{
+  "number": "INC0003260",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06274",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about computer requirements for incoming students at USD\n\nfull_description_text:\n- I am a new student and I have questions about the computer requirements.  \n- What are the system requirements for laptops I should buy for school?  \n- I want to know what USD recommends for bringing my own computer.  \n- What is the minimum recommended computer for students at USD?",
+  "short_description": "Questions about computer requirements for incoming students at USD",
+  "description": "- I am a new student and I have questions about the computer requirements.  \n- What are the system requirements for laptops I should buy for school?  \n- I want to know what USD recommends for bringing my own computer.  \n- What is the minimum recommended computer for students at USD?"
+}

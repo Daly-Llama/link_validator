@@ -1,0 +1,20 @@
+{
+  "number": "INC0002706",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB04683",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Adobe Creative Cloud asking for login instead of using device license\n\nfull_description_text: \nSo, the user was trying to use Adobe Creative Cloud on their Windows workstation, right? And then it just popped up asking for a login, which is really confusing because they don’t have a login. They mentioned that it’s supposed to be a machine specific license, not a user one, so it’s like, why is it asking for this? It’s really frustrating when the software doesn’t work as expected, especially when it’s supposed to be set up for the device.",
+  "short_description": "Adobe Creative Cloud asking for login instead of using device license",
+  "description": "So, the user was trying to use Adobe Creative Cloud on their Windows workstation, right? And then it just popped up asking for a login, which is really confusing because they don’t have a login. They mentioned that it’s supposed to be a machine specific license, not a user one, so it’s like, why is it asking for this? It’s really frustrating when the software doesn’t work as expected, especially when it’s supposed to be set up for the device."
+}

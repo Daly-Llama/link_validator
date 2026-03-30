@@ -1,0 +1,20 @@
+{
+  "number": "INC0002490",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03968",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble switching between 25Live Simplified and 25Live Pro\n\nfull_description_text:  \nHola, estoy tratando de moverme entre 25Live Simplified y 25Live Pro, pero no sé cómo hacerlo. He estado usando 25Live, y me parece que hay una forma de cambiar entre las dos versiones, pero no puedo encontrar la opción. ¿Alguien puede ayudarme con esto?",
+  "short_description": "Trouble switching between 25Live Simplified and 25Live Pro",
+  "description": "Hola, estoy tratando de moverme entre 25Live Simplified y 25Live Pro, pero no sé cómo hacerlo. He estado usando 25Live, y me parece que hay una forma de cambiar entre las dos versiones, pero no puedo encontrar la opción. ¿Alguien puede ayudarme con esto?"
+}

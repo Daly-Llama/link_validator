@@ -1,0 +1,20 @@
+{
+  "number": "INC0001159",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00311",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Folders unexpectedly disappearing in Microsoft Outlook.\n\nfull_description_text:  \n- The user reported that they experienced an issue where folders in Outlook vanished unexpectedly.  \n- This occurred while they were attempting to rearrange other folders within the application.  \n- The user is unsure how the deletion happened and is seeking assistance to recover the missing folders.  \n- It is important to note that this issue may affect their organization of emails and overall productivity.",
+  "short_description": "Folders unexpectedly disappearing in Microsoft Outlook.",
+  "description": "- The user reported that they experienced an issue where folders in Outlook vanished unexpectedly.  \n- This occurred while they were attempting to rearrange other folders within the application.  \n- The user is unsure how the deletion happened and is seeking assistance to recover the missing folders.  \n- It is important to note that this issue may affect their organization of emails and overall productivity."
+}

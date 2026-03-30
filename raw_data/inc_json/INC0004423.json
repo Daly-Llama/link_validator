@@ -1,0 +1,20 @@
+{
+  "number": "INC0004423",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB09006",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to change the requestor on a submitted ticket.\n\nfull_description_text:  \n- An end user submitted a ticket via the self-service form, initiating a request for assistance.  \n- The user is now seeking to modify the requestor details associated with that ticket, which may involve navigating through the TeamDynamix interface.  \n- There appears to be some uncertainty regarding the process or permissions required to effectuate this change, leading to confusion.  \n- The user is primarily communicating in English and expects a clear resolution to their inquiry.",
+  "short_description": "Unable to change the requestor on a submitted ticket.",
+  "description": "- An end user submitted a ticket via the self-service form, initiating a request for assistance.  \n- The user is now seeking to modify the requestor details associated with that ticket, which may involve navigating through the TeamDynamix interface.  \n- There appears to be some uncertainty regarding the process or permissions required to effectuate this change, leading to confusion.  \n- The user is primarily communicating in English and expects a clear resolution to their inquiry."
+}

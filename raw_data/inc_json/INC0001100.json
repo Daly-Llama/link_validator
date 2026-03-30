@@ -1,0 +1,20 @@
+{
+  "number": "INC0001100",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00189",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Computer performance is significantly degraded despite multiple restarts.\n\nfull_description_text: The user has reported that their laptop is experiencing persistent performance issues, running slowly even after several attempts to restart the system. This ongoing slowness is affecting their ability to work efficiently. The user has expressed frustration, as they expected a restart to resolve the problem, but the computer continues to operate at a suboptimal speed.",
+  "short_description": "Computer performance is significantly degraded despite multiple restarts.",
+  "description": "The user has reported that their laptop is experiencing persistent performance issues, running slowly even after several attempts to restart the system. This ongoing slowness is affecting their ability to work efficiently. The user has expressed frustration, as they expected a restart to resolve the problem, but the computer continues to operate at a suboptimal speed."
+}

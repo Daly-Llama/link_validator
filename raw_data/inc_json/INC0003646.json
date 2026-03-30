@@ -1,0 +1,20 @@
+{
+  "number": "INC0003646",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07765",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Grackle Docs features and functionality.\n\nfull_description_text:\n- The user is asking what Grackle Docs is all about.  \n- They want to know what they can do with it.  \n- The conversation is happening over the phone, and the user is not a native English speaker.",
+  "short_description": "Inquiry about Grackle Docs features and functionality.",
+  "description": "- The user is asking what Grackle Docs is all about.  \n- They want to know what they can do with it.  \n- The conversation is happening over the phone, and the user is not a native English speaker."
+}

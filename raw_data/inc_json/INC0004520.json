@@ -1,0 +1,20 @@
+{
+  "number": "INC0004520",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB09251",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security warning when opening files in Microsoft Teams.\n\nfull_description_text: \nThe user reported that they receive a security warning message every time they try to open a file in Microsoft Teams. They mentioned that the error states there is a potential security issue and asked if they should be concerned. Interestingly, they noted that no one else in their team is experiencing this problem.",
+  "short_description": "Security warning when opening files in Microsoft Teams.",
+  "description": "The user reported that they receive a security warning message every time they try to open a file in Microsoft Teams. They mentioned that the error states there is a potential security issue and asked if they should be concerned. Interestingly, they noted that no one else in their team is experiencing this problem."
+}

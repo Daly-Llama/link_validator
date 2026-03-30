@@ -1,0 +1,20 @@
+{
+  "number": "INC0003905",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08051",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: How to set up and use rules in Outlook\n\nfull_description_text:  \n- So, the user was trying to figure out how to use rules in Outlook, right?  \n- They were on the phone, and it seemed like they just wanted to make things easier, you know?  \n- But then, they got all confused about how to actually set it up, which is kind of a bummer.  \n- It’s like, they thought it would be simple, but it turned into a whole thing!",
+  "short_description": "How to set up and use rules in Outlook",
+  "description": "- So, the user was trying to figure out how to use rules in Outlook, right?  \n- They were on the phone, and it seemed like they just wanted to make things easier, you know?  \n- But then, they got all confused about how to actually set it up, which is kind of a bummer.  \n- It’s like, they thought it would be simple, but it turned into a whole thing!"
+}

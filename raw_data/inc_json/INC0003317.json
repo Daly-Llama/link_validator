@@ -1,0 +1,20 @@
+{
+  "number": "INC0003317",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB06510",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with bicycle registration process\n\nfull_description_text:\n- So, the caller was trying to figure out how to register their bike.  \n- They mentioned something about needing to do it with the University Police, but they weren't sure how.  \n- It sounded like they were a bit confused about the steps involved in the registration.",
+  "short_description": "Need help with bicycle registration process",
+  "description": "- So, the caller was trying to figure out how to register their bike.  \n- They mentioned something about needing to do it with the University Police, but they weren't sure how.  \n- It sounded like they were a bit confused about the steps involved in the registration."
+}

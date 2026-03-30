@@ -1,0 +1,20 @@
+{
+  "number": "INC0001301",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00576",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook email is offline and not syncing properly.\n\nfull_description_text:  \nI’m having a problem with my Outlook email. It keeps saying that it’s working offline, and I can’t seem to download any new emails. There’s even a red x on the Outlook icon, which makes it clear that it’s not syncing or updating like it should. It’s really frustrating because I rely on my email for work!",
+  "short_description": "Outlook email is offline and not syncing properly.",
+  "description": "I’m having a problem with my Outlook email. It keeps saying that it’s working offline, and I can’t seem to download any new emails. There’s even a red x on the Outlook icon, which makes it clear that it’s not syncing or updating like it should. It’s really frustrating because I rely on my email for work!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004275",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB08670",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Students encountering a blank page when accessing D2L links.\n\nfull_description_text: During a call, a help desk analyst reported that students are unable to open links in D2L. When they click on a course link, a blank white page appears instead of the expected content. This issue has been observed on various devices, including Mac, Windows, and iOS, across different browsers like Firefox, Safari, and Chrome.",
+  "short_description": "Students encountering a blank page when accessing D2L links.",
+  "description": "During a call, a help desk analyst reported that students are unable to open links in D2L. When they click on a course link, a blank white page appears instead of the expected content. This issue has been observed on various devices, including Mac, Windows, and iOS, across different browsers like Firefox, Safari, and Chrome."
+}

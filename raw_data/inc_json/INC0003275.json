@@ -1,0 +1,20 @@
+{
+  "number": "INC0003275",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB06312",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with the Open Enrollment process in the Employee Space Portal\n\nfull_description_text:  \nI was trying to go through the Open Enrollment process in the Employee Space Portal, but it just wasn’t working for me. I clicked on everything, but nothing seemed to happen, and I couldn’t figure out what to do next. It’s kind of frustrating because I really need to get this sorted out before the deadline.",
+  "short_description": "Issues with the Open Enrollment process in the Employee Space Portal",
+  "description": "I was trying to go through the Open Enrollment process in the Employee Space Portal, but it just wasn’t working for me. I clicked on everything, but nothing seemed to happen, and I couldn’t figure out what to do next. It’s kind of frustrating because I really need to get this sorted out before the deadline."
+}

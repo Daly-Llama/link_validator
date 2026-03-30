@@ -1,0 +1,20 @@
+{
+  "number": "INC0002572",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04212",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error message in ILLiad Docline prevents receiving requests\n\nfull_description_text: \nEl usuario está recibiendo un mensaje de error en ILLiad Docline. Dice \"Lua Script Error\" y no puede recibir solicitudes. Esto está causando problemas en su trabajo.",
+  "short_description": "Error message in ILLiad Docline prevents receiving requests",
+  "description": "El usuario está recibiendo un mensaje de error en ILLiad Docline. Dice \"Lua Script Error\" y no puede recibir solicitudes. Esto está causando problemas en su trabajo."
+}

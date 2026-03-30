@@ -1,0 +1,20 @@
+{
+  "number": "INC0004639",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09563",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to find the Objective Selection Form in CampusLabs.\n\nfull_description_text: A user is trying to select learning objectives for their IDEA course evaluations in CampusLabs. However, they can't locate the Objective Selection Form button in their portal. This issue is preventing them from completing their task, and they need assistance to move forward.",
+  "short_description": "Unable to find the Objective Selection Form in CampusLabs.",
+  "description": "A user is trying to select learning objectives for their IDEA course evaluations in CampusLabs. However, they can't locate the Objective Selection Form button in their portal. This issue is preventing them from completing their task, and they need assistance to move forward."
+}

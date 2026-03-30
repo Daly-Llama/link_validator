@@ -1,0 +1,20 @@
+{
+  "number": "INC0002740",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB04760",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about Federal Direct Subsidized Loan details.\n\nfull_description_text:\n- The user was seeking information regarding a Federal Direct Subsidized Loan.  \n- They wanted to understand what this type of loan entails.  \n- The context was within the Financial Aid and Federal Loans environment.  \n- The inquiry was made during a live chat session with a help desk analyst.",
+  "short_description": "Inquiry about Federal Direct Subsidized Loan details.",
+  "description": "- The user was seeking information regarding a Federal Direct Subsidized Loan.  \n- They wanted to understand what this type of loan entails.  \n- The context was within the Financial Aid and Federal Loans environment.  \n- The inquiry was made during a live chat session with a help desk analyst."
+}

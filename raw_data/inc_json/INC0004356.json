@@ -1,0 +1,20 @@
+{
+  "number": "INC0004356",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB08817",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with filing a protection order.\n\nfull_description_text: \nEl usuario está buscando información sobre cómo presentar una orden de protección. Se siente un poco confundido y no está seguro de los pasos a seguir. Es importante que reciba la ayuda adecuada para poder avanzar con su solicitud.",
+  "short_description": "Need help with filing a protection order.",
+  "description": "El usuario está buscando información sobre cómo presentar una orden de protección. Se siente un poco confundido y no está seguro de los pasos a seguir. Es importante que reciba la ayuda adecuada para poder avanzar con su solicitud."
+}

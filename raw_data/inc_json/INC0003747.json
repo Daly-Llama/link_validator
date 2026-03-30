@@ -1,0 +1,20 @@
+{
+  "number": "INC0003747",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07872",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble adding headers and footers in Excel.\n\nfull_description_text: I was trying to add headers and footers in Excel but I couldn't figure it out. I looked for options but nothing seemed to work right. It was really frustrating because I needed it for my report and I just couldn't get it done. I kept going in circles trying to find the right way to do it.",
+  "short_description": "Trouble adding headers and footers in Excel.",
+  "description": "I was trying to add headers and footers in Excel but I couldn't figure it out. I looked for options but nothing seemed to work right. It was really frustrating because I needed it for my report and I just couldn't get it done. I kept going in circles trying to find the right way to do it."
+}

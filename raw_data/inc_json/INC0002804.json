@@ -1,0 +1,20 @@
+{
+  "number": "INC0002804",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04901",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty logging into Lawrence HPC from Mac or Linux.\n\nfull_description_text:\n- The user is trying to access Lawrence HPC using a Mac or Linux system.  \n- They are unsure about the correct login process in the BASH terminal.  \n- The situation was discussed during a phone call with a help desk analyst.",
+  "short_description": "Difficulty logging into Lawrence HPC from Mac or Linux.",
+  "description": "- The user is trying to access Lawrence HPC using a Mac or Linux system.  \n- They are unsure about the correct login process in the BASH terminal.  \n- The situation was discussed during a phone call with a help desk analyst."
+}

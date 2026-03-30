@@ -1,0 +1,20 @@
+{
+  "number": "INC0004153",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08428",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: What is a theme in PowerPoint?\n\nfull_description_text:  \nSo, I was trying to figure out what a theme is in PowerPoint. Like, what does it do? I just need a simple explanation, you know?",
+  "short_description": "What is a theme in PowerPoint?",
+  "description": "So, I was trying to figure out what a theme is in PowerPoint. Like, what does it do? I just need a simple explanation, you know?"
+}

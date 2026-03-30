@@ -1,0 +1,20 @@
+{
+  "number": "INC0001599",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01323",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need assistance with installing Wingx, Ortep3, and Mercury software.\n\nfull_description_text:\n- The technician is attempting to install free software: Wingx, Ortep3, and Mercury on a Windows environment.  \n- They are unsure of the installation process and require guidance on how to proceed.  \n- There may be specific dependencies or configurations needed that are not clear to them.",
+  "short_description": "Need assistance with installing Wingx, Ortep3, and Mercury software.",
+  "description": "- The technician is attempting to install free software: Wingx, Ortep3, and Mercury on a Windows environment.  \n- They are unsure of the installation process and require guidance on how to proceed.  \n- There may be specific dependencies or configurations needed that are not clear to them."
+}

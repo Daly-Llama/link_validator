@@ -1,0 +1,20 @@
+{
+  "number": "INC0001144",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB00288",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in creating a new knowledge base article in TeamDynamix\n\nfull_description_text:  \nDuring a live call, the help desk analyst was trying to assist a user with creating a new knowledge base article in TeamDynamix. The user seemed confused about the steps involved, and there were several pauses as they discussed the process. The analyst noted that the interface was a bit cluttered, which might have contributed to the confusion. They also mentioned that they had just had coffee, which made them feel a bit jittery while trying to explain the steps.",
+  "short_description": "Difficulty in creating a new knowledge base article in TeamDynamix",
+  "description": "During a live call, the help desk analyst was trying to assist a user with creating a new knowledge base article in TeamDynamix. The user seemed confused about the steps involved, and there were several pauses as they discussed the process. The analyst noted that the interface was a bit cluttered, which might have contributed to the confusion. They also mentioned that they had just had coffee, which made them feel a bit jittery while trying to explain the steps."
+}

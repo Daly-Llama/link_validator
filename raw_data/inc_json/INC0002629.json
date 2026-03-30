@@ -1,0 +1,20 @@
+{
+  "number": "INC0002629",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB04439",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to check student access history in D2L.\n\nfull_description_text:\n- El usuario desea saber cuándo un estudiante accedió a la información en D2L.  \n- También pregunta si es posible ver el progreso del curso de sus estudiantes.  \n- La consulta se realiza en el contexto de un curso específico en D2L.",
+  "short_description": "Need to check student access history in D2L.",
+  "description": "- El usuario desea saber cuándo un estudiante accedió a la información en D2L.  \n- También pregunta si es posible ver el progreso del curso de sus estudiantes.  \n- La consulta se realiza en el contexto de un curso específico en D2L."
+}

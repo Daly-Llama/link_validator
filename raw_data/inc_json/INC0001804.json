@@ -1,0 +1,20 @@
+{
+  "number": "INC0001804",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01938",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Advanced Bionics software unable to connect to the server.\n\nfull_description_text: \nThe user reported that the Advanced Bionics software is showing a message that it cannot access the server. This issue is preventing the software from connecting to the network database, which is essential for the Advanced Bionics Sound Wave software to function properly. The user mentioned that they have previously connected to this server without any problems, so this sudden inability to connect is concerning. It seems like there might be a network issue or a configuration problem that needs to be addressed.",
+  "short_description": "Advanced Bionics software unable to connect to the server.",
+  "description": "The user reported that the Advanced Bionics software is showing a message that it cannot access the server. This issue is preventing the software from connecting to the network database, which is essential for the Advanced Bionics Sound Wave software to function properly. The user mentioned that they have previously connected to this server without any problems, so this sudden inability to connect is concerning. It seems like there might be a network issue or a configuration problem that needs to be addressed."
+}

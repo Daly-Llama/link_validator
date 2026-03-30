@@ -1,0 +1,20 @@
+{
+  "number": "INC0004497",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09203",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to change assigned room during the academic year.\n\nfull_description_text:  \n- User wants to change their room after semester starts.  \n- They are not sure who to contact for this request.  \n- There is also a question about changing roommates after move-in.",
+  "short_description": "Request to change assigned room during the academic year.",
+  "description": "- User wants to change their room after semester starts.  \n- They are not sure who to contact for this request.  \n- There is also a question about changing roommates after move-in."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001101",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00190",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance adding a new scanner to TeamDynamix inventory.\n\nfull_description_text:\n- The user recently acquired a Galaxy Tab and is seeking guidance on how to input it into Team Dynamix.  \n- They specifically mentioned the need to associate it with the University inventory tag.  \n- During the call, the analyst noted that the user was unfamiliar with the process and required step-by-step instructions.  \n- There were some distractions in the background, which may have affected the clarity of the conversation.",
+  "short_description": "Need assistance adding a new scanner to TeamDynamix inventory.",
+  "description": "- The user recently acquired a Galaxy Tab and is seeking guidance on how to input it into Team Dynamix.  \n- They specifically mentioned the need to associate it with the University inventory tag.  \n- During the call, the analyst noted that the user was unfamiliar with the process and required step-by-step instructions.  \n- There were some distractions in the background, which may have affected the clarity of the conversation."
+}

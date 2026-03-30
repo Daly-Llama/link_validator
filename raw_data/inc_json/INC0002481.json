@@ -1,0 +1,20 @@
+{
+  "number": "INC0002481",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03946",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's access to LinkedIn Learning training videos\n\nfull_description_text:\n- A user called in asking if USD has access to the training videos on LinkedIn Learning.  \n- They mentioned that LinkedIn Learning was previously known as Lynda.com, which was acquired by LinkedIn.  \n- The user seemed a bit confused and wanted to confirm if they could access the training resources available on that platform.",
+  "short_description": "Inquiry about USD's access to LinkedIn Learning training videos",
+  "description": "- A user called in asking if USD has access to the training videos on LinkedIn Learning.  \n- They mentioned that LinkedIn Learning was previously known as Lynda.com, which was acquired by LinkedIn.  \n- The user seemed a bit confused and wanted to confirm if they could access the training resources available on that platform."
+}

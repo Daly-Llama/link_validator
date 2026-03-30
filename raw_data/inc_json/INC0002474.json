@@ -1,0 +1,20 @@
+{
+  "number": "INC0002474",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB03932",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Changes in 25Live Simplified features and functionalities\n\nfull_description_text: \nThe user is inquiring about the modifications related to the 25Live Simplified platform. They are specifically interested in understanding what features are changing and what will remain the same. This request indicates a need for clarity on the upcoming updates to ensure proper usage and adaptation to the new system.",
+  "short_description": "Changes in 25Live Simplified features and functionalities",
+  "description": "The user is inquiring about the modifications related to the 25Live Simplified platform. They are specifically interested in understanding what features are changing and what will remain the same. This request indicates a need for clarity on the upcoming updates to ensure proper usage and adaptation to the new system."
+}

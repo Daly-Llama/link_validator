@@ -1,0 +1,20 @@
+{
+  "number": "INC0002340",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB03573",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with Salesforce and Banner integration update for ACT Test Scores\n\nfull_description_text: So, we were trying to update the integration between Salesforce and Banner, right? The thing is, we want to exclude some applications that have certain Current Application Statuses. Also, for the ACT Test Score Loads, can we just match on Name and DOB and not worry about the City matching? It’s kinda confusing, but that’s what we need help with.",
+  "short_description": "Issues with Salesforce and Banner integration update for ACT Test Scores",
+  "description": "So, we were trying to update the integration between Salesforce and Banner, right? The thing is, we want to exclude some applications that have certain Current Application Statuses. Also, for the ACT Test Score Loads, can we just match on Name and DOB and not worry about the City matching? It’s kinda confusing, but that’s what we need help with."
+}

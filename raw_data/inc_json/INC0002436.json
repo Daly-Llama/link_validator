@@ -1,0 +1,20 @@
+{
+  "number": "INC0002436",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03829",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Student unable to access email due to mailbox error.\n\nfull_description_text:\n- The student attempted to access their email through my.usd.edu but encountered an error message.  \n- The error indicated that a mailbox could not be found for the recipient, suggesting that either the mailbox does not exist or a license has not been assigned.  \n- Additionally, the message stated that the user account does not exist in the directory, which is necessary for signing into the application.  \n- This issue prevents the student from accessing their email, impacting their ability to communicate effectively.",
+  "short_description": "Student unable to access email due to mailbox error.",
+  "description": "- The student attempted to access their email through my.usd.edu but encountered an error message.  \n- The error indicated that a mailbox could not be found for the recipient, suggesting that either the mailbox does not exist or a license has not been assigned.  \n- Additionally, the message stated that the user account does not exist in the directory, which is necessary for signing into the application.  \n- This issue prevents the student from accessing their email, impacting their ability to communicate effectively."
+}

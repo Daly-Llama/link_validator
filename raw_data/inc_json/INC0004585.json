@@ -1,0 +1,20 @@
+{
+  "number": "INC0004585",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09411",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty publishing Azure Labs Template for B-School classes\n\nfull_description_text:  \nDuring a call, the user mentioned they were trying to publish an Azure Labs Template for several B-School courses, including ACCT 320/720 and DSCI 723. They expressed frustration as the process wasn't going smoothly, and they were unsure if they were following the correct steps. The user needed this template to be available for their classes, but it seems there was a hiccup in the publishing process.",
+  "short_description": "Difficulty publishing Azure Labs Template for B-School classes",
+  "description": "During a call, the user mentioned they were trying to publish an Azure Labs Template for several B-School courses, including ACCT 320/720 and DSCI 723. They expressed frustration as the process wasn't going smoothly, and they were unsure if they were following the correct steps. The user needed this template to be available for their classes, but it seems there was a hiccup in the publishing process."
+}

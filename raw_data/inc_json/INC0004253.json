@@ -1,0 +1,20 @@
+{
+  "number": "INC0004253",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08620",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to check meal plan swipes or Coyote Card balance\n\nfull_description_text:\n- The user was trying to find out how many meals they have left on their meal plan.  \n- They also wanted to check their Coyote Card balance.  \n- It seems like they couldn't access this info easily.",
+  "short_description": "Unable to check meal plan swipes or Coyote Card balance",
+  "description": "- The user was trying to find out how many meals they have left on their meal plan.  \n- They also wanted to check their Coyote Card balance.  \n- It seems like they couldn't access this info easily."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002011",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02574",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to upload documents in Web Extender due to user setup error.\n\nfull_description_text: The user was attempting to upload documents in Web Extender while accessing attachments related to Banner. They successfully logged in and could view invoices uploaded by others, but encountered an error message stating that they are not set up as a user in the Banner Document Management system. This issue prevents them from completing their task, and they were advised to contact their Administrator for further assistance.",
+  "short_description": "Unable to upload documents in Web Extender due to user setup error.",
+  "description": "The user was attempting to upload documents in Web Extender while accessing attachments related to Banner. They successfully logged in and could view invoices uploaded by others, but encountered an error message stating that they are not set up as a user in the Banner Document Management system. This issue prevents them from completing their task, and they were advised to contact their Administrator for further assistance."
+}

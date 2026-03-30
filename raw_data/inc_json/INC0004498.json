@@ -1,0 +1,20 @@
+{
+  "number": "INC0004498",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09205",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to change password due to unfamiliar email address.\n\nfull_description_text:  \nThe user has successfully logged into the Muscle and Motion software and is attempting to change her password. However, she received a message indicating that information was sent to the email address usd23@usd.edu, which she does not recognize. This situation has caused confusion, and she is seeking guidance on how to proceed with the password change. It is unclear why this email address is associated with her account.",
+  "short_description": "Unable to change password due to unfamiliar email address.",
+  "description": "The user has successfully logged into the Muscle and Motion software and is attempting to change her password. However, she received a message indicating that information was sent to the email address usd23@usd.edu, which she does not recognize. This situation has caused confusion, and she is seeking guidance on how to proceed with the password change. It is unclear why this email address is associated with her account."
+}

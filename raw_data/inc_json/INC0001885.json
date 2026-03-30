@@ -1,0 +1,20 @@
+{
+  "number": "INC0001885",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02173",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Lab computer in Farber Hall is slow and lacks internet connection.\n\nfull_description_text: The instructor is experiencing significant delays with the lab computer. It is very slow to connect and currently has no internet access. Assistance is needed to resolve these issues. The request is specifically for the computer located in Farber Hall.",
+  "short_description": "Lab computer in Farber Hall is slow and lacks internet connection.",
+  "description": "The instructor is experiencing significant delays with the lab computer. It is very slow to connect and currently has no internet access. Assistance is needed to resolve these issues. The request is specifically for the computer located in Farber Hall."
+}

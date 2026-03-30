@@ -1,0 +1,20 @@
+{
+  "number": "INC0001809",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01956",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Assistance required for Citrix and NSVE account issues.\n\nfull_description_text:\n- The user called in seeking help with their Citrix and NSVE accounts.  \n- They mentioned difficulties accessing their accounts and navigating the Citrix environment.  \n- The issue seems to be impacting their ability to work effectively.  \n- Additional context about their account setup was provided during the call.",
+  "short_description": "Assistance required for Citrix and NSVE account issues.",
+  "description": "- The user called in seeking help with their Citrix and NSVE accounts.  \n- They mentioned difficulties accessing their accounts and navigating the Citrix environment.  \n- The issue seems to be impacting their ability to work effectively.  \n- Additional context about their account setup was provided during the call."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002364",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB03613",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Scan to email feature on copier is malfunctioning.\n\nfull_description_text:  \n- So, the user was trying to scan some documents to email, but it was super slow.  \n- They mentioned getting this annoying error message saying \"Network Initializing,\" which is definitely not what you want to see.  \n- Plus, they can't even set a password for the Scan to Email feature, and there's another error about \"selected servers not found.\" Sounds like a network issue, right?",
+  "short_description": "Scan to email feature on copier is malfunctioning.",
+  "description": "- So, the user was trying to scan some documents to email, but it was super slow.  \n- They mentioned getting this annoying error message saying \"Network Initializing,\" which is definitely not what you want to see.  \n- Plus, they can't even set a password for the Scan to Email feature, and there's another error about \"selected servers not found.\" Sounds like a network issue, right?"
+}

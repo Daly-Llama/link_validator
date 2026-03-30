@@ -1,0 +1,20 @@
+{
+  "number": "INC0004358",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB08827",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Students inquiring about winter break dormitory availability.\n\nfull_description_text: \nCaller asked if students can stay in the dorms over winter break. They were unsure about the housing policy. Need to clarify if there are any restrictions or requirements for staying. This is a common question during this time of year.",
+  "short_description": "Students inquiring about winter break dormitory availability.",
+  "description": "Caller asked if students can stay in the dorms over winter break. They were unsure about the housing policy. Need to clarify if there are any restrictions or requirements for staying. This is a common question during this time of year."
+}

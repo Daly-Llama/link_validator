@@ -1,0 +1,20 @@
+{
+  "number": "INC0002695",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04636",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need guidance on AV installation information for new construction projects.\n\nfull_description_text:  \nThe user is seeking clarification on the specific information required by Facilities Management regarding audiovisual installations in newly constructed or remodeled spaces. This inquiry pertains to various environments, including classrooms and conference rooms, as well as digital signage setups. The user aims to ensure that all necessary details are communicated effectively to facilitate proper AV integration in these projects.",
+  "short_description": "Need guidance on AV installation information for new construction projects.",
+  "description": "The user is seeking clarification on the specific information required by Facilities Management regarding audiovisual installations in newly constructed or remodeled spaces. This inquiry pertains to various environments, including classrooms and conference rooms, as well as digital signage setups. The user aims to ensure that all necessary details are communicated effectively to facilitate proper AV integration in these projects."
+}

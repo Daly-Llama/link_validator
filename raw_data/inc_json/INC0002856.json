@@ -1,0 +1,20 @@
+{
+  "number": "INC0002856",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB05104",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view shared envelopes in DocuSign.\n\nfull_description_text:\n- The user is attempting to access their shared envelopes within the DocuSign platform. \n- They are experiencing difficulties in locating these envelopes, which are essential for their document management and collaboration needs. \n- This issue may hinder their ability to effectively track and manage shared documents, impacting their workflow. \n- The user seeks guidance on how to resolve this visibility problem in DocuSign.",
+  "short_description": "Unable to view shared envelopes in DocuSign.",
+  "description": "- The user is attempting to access their shared envelopes within the DocuSign platform. \n- They are experiencing difficulties in locating these envelopes, which are essential for their document management and collaboration needs. \n- This issue may hinder their ability to effectively track and manage shared documents, impacting their workflow. \n- The user seeks guidance on how to resolve this visibility problem in DocuSign."
+}

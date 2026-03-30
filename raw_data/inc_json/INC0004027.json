@@ -1,0 +1,20 @@
+{
+  "number": "INC0004027",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08255",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to display non-printing characters in Word.\n\nfull_description_text: The user was trying to figure out how to show non-printing characters in Word. They mentioned that they couldn't see these characters and wanted to know how to make them visible. It seems like they were looking for a quick way to toggle this feature on during our call.",
+  "short_description": "Unable to display non-printing characters in Word.",
+  "description": "The user was trying to figure out how to show non-printing characters in Word. They mentioned that they couldn't see these characters and wanted to know how to make them visible. It seems like they were looking for a quick way to toggle this feature on during our call."
+}

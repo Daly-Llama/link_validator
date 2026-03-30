@@ -1,0 +1,20 @@
+{
+  "number": "INC0004011",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08233",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with editing captions in Panopto.\n\nfull_description_text: User wants to edit captions in Panopto. They are not sure how to do it. They called for help during a live call. The process is confusing for them.",
+  "short_description": "Need help with editing captions in Panopto.",
+  "description": "User wants to edit captions in Panopto. They are not sure how to do it. They called for help during a live call. The process is confusing for them."
+}

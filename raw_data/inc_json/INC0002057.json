@@ -1,0 +1,20 @@
+{
+  "number": "INC0002057",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02703",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Internal error when using D2L features like Dropbox and Grades.\n\nfull_description_text:\n- The user is experiencing an internal error in D2L.  \n- They receive a \"Bad Request - Header Field Too Long\" message.  \n- This happens when they click on Dropbox, Grades, or try to update their Profile.  \n- The error prevents them from accessing important features in the platform.",
+  "short_description": "Internal error when using D2L features like Dropbox and Grades.",
+  "description": "- The user is experiencing an internal error in D2L.  \n- They receive a \"Bad Request - Header Field Too Long\" message.  \n- This happens when they click on Dropbox, Grades, or try to update their Profile.  \n- The error prevents them from accessing important features in the platform."
+}

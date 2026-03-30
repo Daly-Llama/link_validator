@@ -1,0 +1,20 @@
+{
+  "number": "INC0001631",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB01425",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Cognos report fails to run due to access and connection errors.\n\nfull_description_text:  \nThe user is trying to run a Cognos report but encounters multiple errors. They receive messages indicating a lack of access to the report content and issues with the connection to ODS in the content store. Additionally, when attempting to run the report, the prompts do not appear, and they are redirected to a login page instead.",
+  "short_description": "Cognos report fails to run due to access and connection errors.",
+  "description": "The user is trying to run a Cognos report but encounters multiple errors. They receive messages indicating a lack of access to the report content and issues with the connection to ODS in the content store. Additionally, when attempting to run the report, the prompts do not appear, and they are redirected to a login page instead."
+}

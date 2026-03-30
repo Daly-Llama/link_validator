@@ -1,0 +1,20 @@
+{
+  "number": "INC0003280",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06332",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about equipment return drop-off location\n\nfull_description_text:  \nThe user contacted the help desk during a live phone call to inquire about the procedure for returning equipment. They expressed uncertainty regarding the specific drop-off location for the equipment they had checked out. The conversation highlighted the need for clear guidance on the return process within the Cheqroom environment, particularly for users unfamiliar with the equipment return protocol. This situation underscores the importance of providing accessible information for equipment management in the checkout system.",
+  "short_description": "Inquiry about equipment return drop-off location",
+  "description": "The user contacted the help desk during a live phone call to inquire about the procedure for returning equipment. They expressed uncertainty regarding the specific drop-off location for the equipment they had checked out. The conversation highlighted the need for clear guidance on the return process within the Cheqroom environment, particularly for users unfamiliar with the equipment return protocol. This situation underscores the importance of providing accessible information for equipment management in the checkout system."
+}

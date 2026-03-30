@@ -1,0 +1,20 @@
+{
+  "number": "INC0001395",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00753",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Document stuck in Working status, batch error message received.\n\nfull_description_text: User is trying to leave the batch. But it is not working. The document is stuck in Working status. Error says batch is waiting for processing by batch agent.",
+  "short_description": "Document stuck in Working status, batch error message received.",
+  "description": "User is trying to leave the batch. But it is not working. The document is stuck in Working status. Error says batch is waiting for processing by batch agent."
+}

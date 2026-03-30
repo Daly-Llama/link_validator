@@ -1,0 +1,20 @@
+{
+  "number": "INC0003301",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06434",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to log into SSH Secure Shell Client due to error.\n\nfull_description_text:  \nI am trying to log into the SSH Secure Shell but it is not working. The error message says \"Algorithm negotiation failed.\" I think this might be because the remote host does not support the algorithms that are selected.",
+  "short_description": "Unable to log into SSH Secure Shell Client due to error.",
+  "description": "I am trying to log into the SSH Secure Shell but it is not working. The error message says \"Algorithm negotiation failed.\" I think this might be because the remote host does not support the algorithms that are selected."
+}

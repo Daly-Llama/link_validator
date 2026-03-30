@@ -1,0 +1,20 @@
+{
+  "number": "INC0003152",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB05943",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to add and update route and inspection forms in TMA\n\nfull_description_text:  \nThe user is requesting the addition of a new route in TMA. They also seek to review and update the Custodial Inspection Form to ensure that the areas inspected are consistently modified. This request involves both the creation of new routes and the necessary adjustments to existing inspection forms.",
+  "short_description": "Request to add and update route and inspection forms in TMA",
+  "description": "The user is requesting the addition of a new route in TMA. They also seek to review and update the Custodial Inspection Form to ensure that the areas inspected are consistently modified. This request involves both the creation of new routes and the necessary adjustments to existing inspection forms."
+}

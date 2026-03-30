@@ -1,0 +1,20 @@
+{
+  "number": "INC0001590",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01300",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Maestro update requires database connection for patient info access.\n\nfull_description_text: The new Maestro update is not connected to the database. This is preventing access to patient information. Immediate attention is needed to resolve this connectivity issue.",
+  "short_description": "Maestro update requires database connection for patient info access.",
+  "description": "The new Maestro update is not connected to the database. This is preventing access to patient information. Immediate attention is needed to resolve this connectivity issue."
+}

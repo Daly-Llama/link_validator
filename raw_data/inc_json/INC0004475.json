@@ -1,0 +1,20 @@
+{
+  "number": "INC0004475",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09145",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the services provided by c-stores.\n\nfull_description_text:  \nUser is asking what c-stores are and what they offer. There seems to be confusion regarding their purpose. Need clarification on the services available in these locations.",
+  "short_description": "Inquiry about the services provided by c-stores.",
+  "description": "User is asking what c-stores are and what they offer. There seems to be confusion regarding their purpose. Need clarification on the services available in these locations."
+}

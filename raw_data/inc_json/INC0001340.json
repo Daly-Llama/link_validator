@@ -1,0 +1,20 @@
+{
+  "number": "INC0001340",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00651",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for student access to SQL Server VM\n\nfull_description_text:\n- A student needs access to a SQL Server instance.  \n- The help desk analyst received a request during a call.  \n- An attached list of students was provided for access.  \n- The request is specifically for a SQL Virtual Machine.",
+  "short_description": "Request for student access to SQL Server VM",
+  "description": "- A student needs access to a SQL Server instance.  \n- The help desk analyst received a request during a call.  \n- An attached list of students was provided for access.  \n- The request is specifically for a SQL Virtual Machine."
+}

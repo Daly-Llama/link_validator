@@ -1,0 +1,20 @@
+{
+  "number": "INC0004140",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08415",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Protecting all contents of a Word form is needed.\n\nfull_description_text: A user is looking for assistance on how to protect all the contents of a form in Word. They want to ensure that the information within the form remains secure and uneditable. This request was made via email to the help desk, indicating a need for clarity on the process. The user seems to be unfamiliar with the specific steps required to achieve this protection.",
+  "short_description": "Protecting all contents of a Word form is needed.",
+  "description": "A user is looking for assistance on how to protect all the contents of a form in Word. They want to ensure that the information within the form remains secure and uneditable. This request was made via email to the help desk, indicating a need for clarity on the process. The user seems to be unfamiliar with the specific steps required to achieve this protection."
+}

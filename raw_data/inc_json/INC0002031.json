@@ -1,0 +1,20 @@
+{
+  "number": "INC0002031",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02621",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Blurry and pixelated projector image in USD classroom\n\nfull_description_text: \nThe user reported that the classroom projector is displaying a blurry image, making it impossible to read PowerPoint presentations. Additionally, the image appears yellow and pixelated, further complicating visibility. There are also noticeable lines running across the projected image, and the overall display is shaky or vibrating, which detracts from the learning experience. This issue was encountered while attempting to use the smart cart projector in the USD classroom environment.",
+  "short_description": "Blurry and pixelated projector image in USD classroom",
+  "description": "The user reported that the classroom projector is displaying a blurry image, making it impossible to read PowerPoint presentations. Additionally, the image appears yellow and pixelated, further complicating visibility. There are also noticeable lines running across the projected image, and the overall display is shaky or vibrating, which detracts from the learning experience. This issue was encountered while attempting to use the smart cart projector in the USD classroom environment."
+}

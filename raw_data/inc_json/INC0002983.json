@@ -1,0 +1,20 @@
+{
+  "number": "INC0002983",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05455",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble uploading a file to D2L DropBox for class.\n\nfull_description_text:  \nThe user was trying to upload a file to their class. They needed to copy and paste it from their computer. But something went wrong with the DropBox. They couldn't get it to work as expected.",
+  "short_description": "Trouble uploading a file to D2L DropBox for class.",
+  "description": "The user was trying to upload a file to their class. They needed to copy and paste it from their computer. But something went wrong with the DropBox. They couldn't get it to work as expected."
+}

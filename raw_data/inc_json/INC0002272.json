@@ -1,0 +1,20 @@
+{
+  "number": "INC0002272",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03362",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Hard drive is grinding and producing excessive noise.\n\nfull_description_text: The user reported that their hard drive is making a loud grinding noise. This issue occurred while they were using the computer, and the noise has become increasingly concerning. They mentioned that the sound is persistent and seems to be getting worse over time.",
+  "short_description": "Hard drive is grinding and producing excessive noise.",
+  "description": "The user reported that their hard drive is making a loud grinding noise. This issue occurred while they were using the computer, and the noise has become increasingly concerning. They mentioned that the sound is persistent and seems to be getting worse over time."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003512",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB07303",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need secure file sharing for accreditation with external entities.\n\nfull_description_text:  \nWe require a secure method to share sensitive information for accreditation activities. Collaboration with outside entities is also necessary during this process. It is important to ensure that all data shared complies with regulations such as FERPA, PII, HIPAA, GLBA, and GDPR. We seek guidance on supported methods and services for secure file sharing.",
+  "short_description": "Need secure file sharing for accreditation with external entities.",
+  "description": "We require a secure method to share sensitive information for accreditation activities. Collaboration with outside entities is also necessary during this process. It is important to ensure that all data shared complies with regulations such as FERPA, PII, HIPAA, GLBA, and GDPR. We seek guidance on supported methods and services for secure file sharing."
+}

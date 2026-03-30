@@ -1,0 +1,20 @@
+{
+  "number": "INC0004615",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB09490",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help joining a student group for class.\n\nfull_description_text:  \nUser wants to join a student group for their class. They’re unsure about the process. It seems like they’re looking for guidance on how to connect with others in the Coyote Connection. Just need some clear steps to get involved!",
+  "short_description": "Need help joining a student group for class.",
+  "description": "User wants to join a student group for their class. They’re unsure about the process. It seems like they’re looking for guidance on how to connect with others in the Coyote Connection. Just need some clear steps to get involved!"
+}

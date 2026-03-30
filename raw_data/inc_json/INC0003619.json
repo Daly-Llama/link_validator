@@ -1,0 +1,20 @@
+{
+  "number": "INC0003619",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07736",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Understanding tab stops in Google Docs\n\nfull_description_text: User wants to know what tab stops are in Google Docs. They are confused about how to use them. The user is looking for a clear explanation of this feature. It seems they need help with formatting their document.",
+  "short_description": "Understanding tab stops in Google Docs",
+  "description": "User wants to know what tab stops are in Google Docs. They are confused about how to use them. The user is looking for a clear explanation of this feature. It seems they need help with formatting their document."
+}

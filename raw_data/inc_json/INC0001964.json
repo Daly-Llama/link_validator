@@ -1,0 +1,20 @@
+{
+  "number": "INC0001964",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB02414",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to set default printer on Windows 10 or 11 laptop.\n\nfull_description_text: The user is experiencing difficulty in setting a default printer on their laptop running Windows 10 or 11. Despite following the necessary steps, the printer cannot be designated as the default option. This issue is impacting their ability to print documents efficiently, as they require a specific printer to be set as default for regular use.",
+  "short_description": "Unable to set default printer on Windows 10 or 11 laptop.",
+  "description": "The user is experiencing difficulty in setting a default printer on their laptop running Windows 10 or 11. Despite following the necessary steps, the printer cannot be designated as the default option. This issue is impacting their ability to print documents efficiently, as they require a specific printer to be set as default for regular use."
+}

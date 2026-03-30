@@ -1,0 +1,20 @@
+{
+  "number": "INC0003913",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08059",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty using colors for organization in Outlook.\n\nfull_description_text: \nThe user is trying to utilize colors in Outlook to enhance their organizational skills but is encountering issues. They are unsure of the steps required to effectively implement color coding within their email or calendar. This situation is causing confusion and hindering their ability to manage tasks and appointments efficiently. The user seeks guidance on how to properly apply colors for better organization in their Outlook environment.",
+  "short_description": "Difficulty using colors for organization in Outlook.",
+  "description": "The user is trying to utilize colors in Outlook to enhance their organizational skills but is encountering issues. They are unsure of the steps required to effectively implement color coding within their email or calendar. This situation is causing confusion and hindering their ability to manage tasks and appointments efficiently. The user seeks guidance on how to properly apply colors for better organization in their Outlook environment."
+}

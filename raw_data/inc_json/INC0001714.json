@@ -1,0 +1,20 @@
+{
+  "number": "INC0001714",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB01676",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance generating various student reports in Cognos.\n\nfull_description_text: The user is looking to obtain a departmental report specifically for students within the academic department. They have multiple requests, including a faculty/staff list and a rewritten report, as well as a new report in Banner. Additionally, they require Program/Major data for a specific list of 20 students. The user is also interested in understanding how to create a specification in the Data Cookbook, indicating a moderate level of familiarity with the tools involved.",
+  "short_description": "Need assistance generating various student reports in Cognos.",
+  "description": "The user is looking to obtain a departmental report specifically for students within the academic department. They have multiple requests, including a faculty/staff list and a rewritten report, as well as a new report in Banner. Additionally, they require Program/Major data for a specific list of 20 students. The user is also interested in understanding how to create a specification in the Data Cookbook, indicating a moderate level of familiarity with the tools involved."
+}

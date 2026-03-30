@@ -1,0 +1,20 @@
+{
+  "number": "INC0004739",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB09894",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the University of South Dakota's emergency operations plan.\n\nfull_description_text: During a call, the user asked about the emergency operations plan for the University of South Dakota. They seemed a bit anxious, wanting to understand the procedures in place for unexpected situations. It’s important to have clarity on these plans, especially in a university setting, where safety is a priority. The conversation flowed, but the main focus was definitely on that emergency plan.",
+  "short_description": "Inquiry about the University of South Dakota's emergency operations plan.",
+  "description": "During a call, the user asked about the emergency operations plan for the University of South Dakota. They seemed a bit anxious, wanting to understand the procedures in place for unexpected situations. It’s important to have clarity on these plans, especially in a university setting, where safety is a priority. The conversation flowed, but the main focus was definitely on that emergency plan."
+}

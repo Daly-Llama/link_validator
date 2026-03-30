@@ -1,0 +1,20 @@
+{
+  "number": "INC0002808",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB04910",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Camera issues preventing Lockdown Browser from loading tests\n\nfull_description_text: The user was trying to take a test in Brightspace using the Respondus Lockdown Browser. They mentioned that the camera isn't working at all, which is a big problem since it’s required for the test. They were on a Windows machine, but I also noted they might have tried it on MacOS too. It’s frustrating when the tech doesn’t cooperate, especially during an important exam!",
+  "short_description": "Camera issues preventing Lockdown Browser from loading tests",
+  "description": "The user was trying to take a test in Brightspace using the Respondus Lockdown Browser. They mentioned that the camera isn't working at all, which is a big problem since it’s required for the test. They were on a Windows machine, but I also noted they might have tried it on MacOS too. It’s frustrating when the tech doesn’t cooperate, especially during an important exam!"
+}

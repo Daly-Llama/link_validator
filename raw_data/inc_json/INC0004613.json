@@ -1,0 +1,20 @@
+{
+  "number": "INC0004613",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB09488",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with Coyote Connections To-Dos and Events functionality\n\nfull_description_text:  \nThe user was attempting to utilize the Coyote Connections To-Dos and Events feature but encountered problems. During the live chat, they expressed frustration over the functionality not working as expected. This issue seems to be affecting their ability to manage tasks effectively within the application. Further details on the specific errors or behaviors were not provided during the session.",
+  "short_description": "Issues with Coyote Connections To-Dos and Events functionality",
+  "description": "The user was attempting to utilize the Coyote Connections To-Dos and Events feature but encountered problems. During the live chat, they expressed frustration over the functionality not working as expected. This issue seems to be affecting their ability to manage tasks effectively within the application. Further details on the specific errors or behaviors were not provided during the session."
+}

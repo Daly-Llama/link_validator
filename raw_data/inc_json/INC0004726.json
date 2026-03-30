@@ -1,0 +1,20 @@
+{
+  "number": "INC0004726",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB09861",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to know Cook House evacuation and severe weather plan.\n\nfull_description_text: I want to know what is the evacuation plan for Cook House. Also, I need to know what to do in severe weather. I am not sure about the plans and need this information. Please help me with this.",
+  "short_description": "Need to know Cook House evacuation and severe weather plan.",
+  "description": "I want to know what is the evacuation plan for Cook House. Also, I need to know what to do in severe weather. I am not sure about the plans and need this information. Please help me with this."
+}

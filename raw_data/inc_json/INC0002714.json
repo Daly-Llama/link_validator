@@ -1,0 +1,20 @@
+{
+  "number": "INC0002714",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB04695",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about availability of legal aid for students\n\nfull_description_text:  \nA student is seeking clarification on whether legal aid services are accessible to them through the Student Government Association. They are unsure of the process and eligibility criteria for obtaining assistance. This inquiry reflects a need for information regarding the support available to students facing legal issues.",
+  "short_description": "Inquiry about availability of legal aid for students",
+  "description": "A student is seeking clarification on whether legal aid services are accessible to them through the Student Government Association. They are unsure of the process and eligibility criteria for obtaining assistance. This inquiry reflects a need for information regarding the support available to students facing legal issues."
+}

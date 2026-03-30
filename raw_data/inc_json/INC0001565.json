@@ -1,0 +1,20 @@
+{
+  "number": "INC0001565",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB01221",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help installing Adobe Creative Cloud device license on Windows or macOS.\n\nfull_description_text: \nSo, like, the user got this Adobe Creative Cloud Complete license, right? They’re really wanting to get it installed on their Windows or macOS device, but they’re not sure how to go about it. They sent an email asking for some assistance, and it seems like they might be a bit confused with the whole installation process. It’s important to help them out since they’re not super fluent in English, and we want to make sure they get it set up properly without any hiccups!",
+  "short_description": "Need help installing Adobe Creative Cloud device license on Windows or macOS.",
+  "description": "So, like, the user got this Adobe Creative Cloud Complete license, right? They’re really wanting to get it installed on their Windows or macOS device, but they’re not sure how to go about it. They sent an email asking for some assistance, and it seems like they might be a bit confused with the whole installation process. It’s important to help them out since they’re not super fluent in English, and we want to make sure they get it set up properly without any hiccups!"
+}

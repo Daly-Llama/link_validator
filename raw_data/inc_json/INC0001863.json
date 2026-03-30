@@ -1,0 +1,20 @@
+{
+  "number": "INC0001863",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02105",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to send emails from department account, receiving undeliverable errors.\n\nfull_description_text: So, the user is getting emails just fine, but when they try to reply or forward, it just bounces back. They’re the admin for this email account, and it says something about not having permission to send on behalf of someone else. The error codes are a bit confusing, but it’s clear they can’t send anything out, which is a big problem for them.",
+  "short_description": "Unable to send emails from department account, receiving undeliverable errors.",
+  "description": "So, the user is getting emails just fine, but when they try to reply or forward, it just bounces back. They’re the admin for this email account, and it says something about not having permission to send on behalf of someone else. The error codes are a bit confusing, but it’s clear they can’t send anything out, which is a big problem for them."
+}

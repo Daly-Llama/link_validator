@@ -1,0 +1,20 @@
+{
+  "number": "INC0004178",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08454",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Converting PowerPoint presentations into video conversations.\n\nfull_description_text: The user is looking to transform their PowerPoint presentation into a video format suitable for conversation. They expressed confusion about the steps involved in this process during a live call. It seems they want to enhance their presentation by making it more engaging through video, but they are unsure how to proceed.",
+  "short_description": "Converting PowerPoint presentations into video conversations.",
+  "description": "The user is looking to transform their PowerPoint presentation into a video format suitable for conversation. They expressed confusion about the steps involved in this process during a live call. It seems they want to enhance their presentation by making it more engaging through video, but they are unsure how to proceed."
+}

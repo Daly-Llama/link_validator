@@ -1,0 +1,20 @@
+{
+  "number": "INC0001775",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01843",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: XPanel and Touch Panel are unresponsive in the smart classroom.\n\nfull_description_text:  \nI was trying to use the Crestron XPanel and Touch Panel in the conference room, but nothing happened when I touched the screen. The XPanel kept saying it couldn't connect, and the Touch Panel just stayed blank or showed a white screen. It felt like the system was offline, and I even got an error message about the connection being disconnected. It’s really frustrating because I just wanted to get things started!",
+  "short_description": "XPanel and Touch Panel are unresponsive in the smart classroom.",
+  "description": "I was trying to use the Crestron XPanel and Touch Panel in the conference room, but nothing happened when I touched the screen. The XPanel kept saying it couldn't connect, and the Touch Panel just stayed blank or showed a white screen. It felt like the system was offline, and I even got an error message about the connection being disconnected. It’s really frustrating because I just wanted to get things started!"
+}

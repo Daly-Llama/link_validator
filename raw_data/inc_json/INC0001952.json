@@ -1,0 +1,20 @@
+{
+  "number": "INC0001952",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02389",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Projector powers on but stops working after a few minutes.\n\nfull_description_text: During a live chat session, the user reported that the portable projector in the conference room turns on but ceases to function after about 60 seconds. They mentioned that the image occasionally flashes on and off, and at times, the top quarter of the screen fails to display properly. This issue has been persistent, causing disruptions during presentations and classroom activities.",
+  "short_description": "Projector powers on but stops working after a few minutes.",
+  "description": "During a live chat session, the user reported that the portable projector in the conference room turns on but ceases to function after about 60 seconds. They mentioned that the image occasionally flashes on and off, and at times, the top quarter of the screen fails to display properly. This issue has been persistent, causing disruptions during presentations and classroom activities."
+}

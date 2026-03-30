@@ -1,0 +1,20 @@
+{
+  "number": "INC0001695",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01619",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cannot open any PDFs in Adobe Acrobat Pro on Windows.\n\nfull_description_text:  \nThe user is experiencing an issue where Adobe Acrobat Pro fails to open any PDF files. This problem occurs on a Windows environment, preventing access to important documents. The inability to open PDFs is impacting the user's workflow and productivity.",
+  "short_description": "Cannot open any PDFs in Adobe Acrobat Pro on Windows.",
+  "description": "The user is experiencing an issue where Adobe Acrobat Pro fails to open any PDF files. This problem occurs on a Windows environment, preventing access to important documents. The inability to open PDFs is impacting the user's workflow and productivity."
+}

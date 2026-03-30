@@ -1,0 +1,20 @@
+{
+  "number": "INC0001079",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB00145",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Uncertainty about installing 32-bit or 64-bit DocuSign driver on Windows 11.\n\nfull_description_text:\n- The user is attempting to update the DocuSign print driver on a Windows 11 system.  \n- They are unsure whether to install the 32-bit or 64-bit version of the driver.  \n- This confusion may stem from the system architecture or compatibility considerations.  \n- Clarification on the appropriate driver version is needed to proceed with the installation.",
+  "short_description": "Uncertainty about installing 32-bit or 64-bit DocuSign driver on Windows 11.",
+  "description": "- The user is attempting to update the DocuSign print driver on a Windows 11 system.  \n- They are unsure whether to install the 32-bit or 64-bit version of the driver.  \n- This confusion may stem from the system architecture or compatibility considerations.  \n- Clarification on the appropriate driver version is needed to proceed with the installation."
+}

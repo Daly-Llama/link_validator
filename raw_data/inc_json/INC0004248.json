@@ -1,0 +1,20 @@
+{
+  "number": "INC0004248",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB08611",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about available meal plan options.\n\nfull_description_text:  \nThe technician is looking for information regarding the different meal plan options available. There seems to be a lack of clarity on what choices are offered. This information is needed to proceed with planning and coordination.",
+  "short_description": "Inquiry about available meal plan options.",
+  "description": "The technician is looking for information regarding the different meal plan options available. There seems to be a lack of clarity on what choices are offered. This information is needed to proceed with planning and coordination."
+}

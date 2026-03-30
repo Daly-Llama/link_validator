@@ -1,0 +1,20 @@
+{
+  "number": "INC0002278",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03372",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with Duo authentication due to unavailable phone.\n\nfull_description_text:  \nThe user is experiencing difficulties signing in through Duo Mobile, as they do not have their phone available for authentication. They are not receiving push notifications and are unable to scan the Duo code. Additionally, the user has encountered error messages indicating an incorrect passcode and NSURLErrorDomain errors, which further complicates the authentication process.",
+  "short_description": "Issues with Duo authentication due to unavailable phone.",
+  "description": "The user is experiencing difficulties signing in through Duo Mobile, as they do not have their phone available for authentication. They are not receiving push notifications and are unable to scan the Duo code. Additionally, the user has encountered error messages indicating an incorrect passcode and NSURLErrorDomain errors, which further complicates the authentication process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004391",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08942",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about USD IT security policy on malware defenses\n\nfull_description_text: User was asking about the specific policy regarding malware defenses under CIS Control 10. They seemed unsure about the current guidelines and how they apply to their work. The chat was a bit disorganized, with some unrelated questions mixed in.",
+  "short_description": "Inquiry about USD IT security policy on malware defenses",
+  "description": "User was asking about the specific policy regarding malware defenses under CIS Control 10. They seemed unsure about the current guidelines and how they apply to their work. The chat was a bit disorganized, with some unrelated questions mixed in."
+}

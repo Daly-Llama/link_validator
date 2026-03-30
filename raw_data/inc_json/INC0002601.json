@@ -1,0 +1,20 @@
+{
+  "number": "INC0002601",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04311",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Microsoft Access is not displaying student records correctly.\n\nfull_description_text: During a call, the user reported that Microsoft Access is generating errors and not functioning as expected. Specifically, the student record on the main page is failing to pull into the Program of Study. This issue is impacting their ability to access necessary information.",
+  "short_description": "Microsoft Access is not displaying student records correctly.",
+  "description": "During a call, the user reported that Microsoft Access is generating errors and not functioning as expected. Specifically, the student record on the main page is failing to pull into the Program of Study. This issue is impacting their ability to access necessary information."
+}

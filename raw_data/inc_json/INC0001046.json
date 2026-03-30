@@ -1,0 +1,20 @@
+{
+  "number": "INC0001046",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00073",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Printer is not functioning and prints to the wrong device.\n\nfull_description_text:\n- The user attempted to print a PDF document but encountered issues.  \n- Instead of printing, the document was directed to a save option.  \n- Additionally, the user reported that their printing consistently goes to an incorrect printer.  \n- This situation is occurring in a Windows 10 environment with both network and local printers involved.",
+  "short_description": "Printer is not functioning and prints to the wrong device.",
+  "description": "- The user attempted to print a PDF document but encountered issues.  \n- Instead of printing, the document was directed to a save option.  \n- Additionally, the user reported that their printing consistently goes to an incorrect printer.  \n- This situation is occurring in a Windows 10 environment with both network and local printers involved."
+}

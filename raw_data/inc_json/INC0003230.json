@@ -1,0 +1,20 @@
+{
+  "number": "INC0003230",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06185",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Syncing Outlook calendar with Calendly for scheduling purposes.\n\nfull_description_text:  \nUser inquired about syncing their Outlook calendar with Calendly.  \nThey were exploring whether Outlook could replicate the functionalities of Calendly.  \nAdditionally, they requested permissions for using or purchasing Calendly.  \nThe conversation took place during a live chat session, highlighting the urgency of the request.",
+  "short_description": "Syncing Outlook calendar with Calendly for scheduling purposes.",
+  "description": "User inquired about syncing their Outlook calendar with Calendly.  \nThey were exploring whether Outlook could replicate the functionalities of Calendly.  \nAdditionally, they requested permissions for using or purchasing Calendly.  \nThe conversation took place during a live chat session, highlighting the urgency of the request."
+}

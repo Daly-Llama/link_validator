@@ -1,0 +1,20 @@
+{
+  "number": "INC0004114",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08377",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble with printing and previewing a Word document\n\nfull_description_text: \nSo, the user was trying to print and see a document in Word, but it just wasn't working. They were on the phone, and I could tell they were a bit confused about how to do it. They kept saying something about not seeing the preview right, and it was hard to understand with the language barrier.",
+  "short_description": "Trouble with printing and previewing a Word document",
+  "description": "So, the user was trying to print and see a document in Word, but it just wasn't working. They were on the phone, and I could tell they were a bit confused about how to do it. They kept saying something about not seeing the preview right, and it was hard to understand with the language barrier."
+}

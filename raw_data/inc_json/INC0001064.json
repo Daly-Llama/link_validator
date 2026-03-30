@@ -1,0 +1,20 @@
+{
+  "number": "INC0001064",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00112",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble connecting to department printer on Windows 7\n\nfull_description_text: So, the user was trying to get their computer to talk to the department printer, right? They were on Windows 7, and it just wasn’t working out for them. They mentioned something about needing to print some important documents, but the printer wasn’t showing up or something like that. It’s like, you know, when you really need to print and then the tech just decides to be difficult? Super frustrating!",
+  "short_description": "Trouble connecting to department printer on Windows 7",
+  "description": "So, the user was trying to get their computer to talk to the department printer, right? They were on Windows 7, and it just wasn’t working out for them. They mentioned something about needing to print some important documents, but the printer wasn’t showing up or something like that. It’s like, you know, when you really need to print and then the tech just decides to be difficult? Super frustrating!"
+}

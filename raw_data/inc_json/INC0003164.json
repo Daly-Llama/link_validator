@@ -1,0 +1,20 @@
+{
+  "number": "INC0003164",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05969",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Restarting Flex LM on USD-Key for Topspin issue\n\nfull_description_text: \nThe user is trying to restart Flex LM on the USD-Key for Topspin. They are not sure how to do this correctly. There seems to be a problem with the licensing process.",
+  "short_description": "Restarting Flex LM on USD-Key for Topspin issue",
+  "description": "The user is trying to restart Flex LM on the USD-Key for Topspin. They are not sure how to do this correctly. There seems to be a problem with the licensing process."
+}

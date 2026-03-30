@@ -1,0 +1,20 @@
+{
+  "number": "INC0001007",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00020",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Multiple acceptance emails received for a calendar invite.\n\nfull_description_text: The user is experiencing an issue where they receive several emails confirming the acceptance of a calendar invite. This happens when they accept invites through Microsoft Outlook 2016 on their iOS device. It seems to be a recurring problem that affects their email notifications. The user is looking for assistance to resolve this matter.",
+  "short_description": "Multiple acceptance emails received for a calendar invite.",
+  "description": "The user is experiencing an issue where they receive several emails confirming the acceptance of a calendar invite. This happens when they accept invites through Microsoft Outlook 2016 on their iOS device. It seems to be a recurring problem that affects their email notifications. The user is looking for assistance to resolve this matter."
+}

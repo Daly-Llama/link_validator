@@ -1,0 +1,20 @@
+{
+  "number": "INC0001383",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB00725",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need updates and new dashboards for TMA application.\n\nfull_description_text: \nThe user is looking for some changes to the TMA dashboards. They mentioned needing new dashboards and updates to the current ones, like adding or removing users from the WO bar graph. There’s also a request to fix an invalid email address and some modifications to the tabs in TMA. It seems like they want everything to be more organized and user-friendly!",
+  "short_description": "Need updates and new dashboards for TMA application.",
+  "description": "The user is looking for some changes to the TMA dashboards. They mentioned needing new dashboards and updates to the current ones, like adding or removing users from the WO bar graph. There’s also a request to fix an invalid email address and some modifications to the tabs in TMA. It seems like they want everything to be more organized and user-friendly!"
+}

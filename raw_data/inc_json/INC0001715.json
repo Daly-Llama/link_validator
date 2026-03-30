@@ -1,0 +1,20 @@
+{
+  "number": "INC0001715",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB01678",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to deposit funds into Coyote Card account.\n\nfull_description_text:\n- The user attempted to add funds to their Coyote Card through the Blackboard website.  \n- They encountered an issue where the page did not display the necessary fields for entering account information.  \n- Additionally, error messages indicated that they were not authorized and that there was a problem with the campus transaction system registration information.  \n- The user is unable to access SNAP services due to this issue.",
+  "short_description": "Unable to deposit funds into Coyote Card account.",
+  "description": "- The user attempted to add funds to their Coyote Card through the Blackboard website.  \n- They encountered an issue where the page did not display the necessary fields for entering account information.  \n- Additionally, error messages indicated that they were not authorized and that there was a problem with the campus transaction system registration information.  \n- The user is unable to access SNAP services due to this issue."
+}

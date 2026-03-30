@@ -1,0 +1,20 @@
+{
+  "number": "INC0003984",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08168",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need ETS Unify software for CLEP testing at the center.\n\nfull_description_text:  \nI’m at the testing center and I’ve run into a bit of a snag. The workstation I’m using doesn’t have the ETS Unify software installed, which I need for the CLEP testing. It’s kind of a hassle because I can’t proceed without it, and I’m not sure how to get it set up.",
+  "short_description": "Need ETS Unify software for CLEP testing at the center.",
+  "description": "I’m at the testing center and I’ve run into a bit of a snag. The workstation I’m using doesn’t have the ETS Unify software installed, which I need for the CLEP testing. It’s kind of a hassle because I can’t proceed without it, and I’m not sure how to get it set up."
+}

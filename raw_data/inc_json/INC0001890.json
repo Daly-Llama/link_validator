@@ -1,0 +1,20 @@
+{
+  "number": "INC0001890",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02184",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about Portlet information on the myUSD Portal\n\nfull_description_text:  \nSo, I got this email asking about the Portlets on the myUSD Portal. The user wants to know more details about them, like what they do and how they work. It seems they’re a bit confused and need some clarity. Just a simple request for info, but it’s important to get it right!",
+  "short_description": "Inquiry about Portlet information on the myUSD Portal",
+  "description": "So, I got this email asking about the Portlets on the myUSD Portal. The user wants to know more details about them, like what they do and how they work. It seems they’re a bit confused and need some clarity. Just a simple request for info, but it’s important to get it right!"
+}

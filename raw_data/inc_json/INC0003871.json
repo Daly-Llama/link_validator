@@ -1,0 +1,20 @@
+{
+  "number": "INC0003871",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08005",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new section and page in OneNote.\n\nfull_description_text: \nSo, during this live chat, the user was trying to figure out how to create a new section and page in OneNote, you know, that app where you can take notes and stuff? They were really struggling with it, like, they kept asking questions in Spanish, which was kinda cool but also made it a bit tricky to understand everything. They mentioned something about wanting to organize their notes better for school, but it just wasn’t clicking for them, and they were getting a bit frustrated, which is totally understandable!",
+  "short_description": "Difficulty creating a new section and page in OneNote.",
+  "description": "So, during this live chat, the user was trying to figure out how to create a new section and page in OneNote, you know, that app where you can take notes and stuff? They were really struggling with it, like, they kept asking questions in Spanish, which was kinda cool but also made it a bit tricky to understand everything. They mentioned something about wanting to organize their notes better for school, but it just wasn’t clicking for them, and they were getting a bit frustrated, which is totally understandable!"
+}

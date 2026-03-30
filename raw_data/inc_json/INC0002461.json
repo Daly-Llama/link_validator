@@ -1,0 +1,20 @@
+{
+  "number": "INC0002461",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB03907",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty logging into ImageNow due to password issues.\n\nfull_description_text: The user is experiencing problems accessing ImageNow, specifically related to their password. They are unsure how to set or reset their password, which is preventing them from logging in. During the call, they mentioned that they have been trying to access their account for several minutes without success. The user is familiar with the system but is currently stuck at the login screen, which is causing frustration.",
+  "short_description": "Difficulty logging into ImageNow due to password issues.",
+  "description": "The user is experiencing problems accessing ImageNow, specifically related to their password. They are unsure how to set or reset their password, which is preventing them from logging in. During the call, they mentioned that they have been trying to access their account for several minutes without success. The user is familiar with the system but is currently stuck at the login screen, which is causing frustration."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002752",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04789",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Accessing teaching and administrative resources off-campus\n\nfull_description_text:  \n- The user is planning to be off-campus for a while and needs to stay connected.  \n- They want to know how to access various teaching and learning tools like D2L, Zoom, and Panopto while away.  \n- Additionally, they’re curious about accessing administrative resources such as Banner Finance and SNAP from a remote location.  \n- It’s important for them to maintain their workflow seamlessly, even when not physically present on campus.",
+  "short_description": "Accessing teaching and administrative resources off-campus",
+  "description": "- The user is planning to be off-campus for a while and needs to stay connected.  \n- They want to know how to access various teaching and learning tools like D2L, Zoom, and Panopto while away.  \n- Additionally, they’re curious about accessing administrative resources such as Banner Finance and SNAP from a remote location.  \n- It’s important for them to maintain their workflow seamlessly, even when not physically present on campus."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003433",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06993",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for updates to an existing Python script on GitHub.\n\nfull_description_text:\n- The user was on the phone, asking for some changes to a Python script they’re working on.  \n- They mentioned that the script is hosted on GitHub and needs a few updates to improve its functionality.  \n- It sounds like they have specific features in mind but didn’t go into too much detail during the call.  \n- Overall, they’re looking to enhance the script to better meet their needs.",
+  "short_description": "Request for updates to an existing Python script on GitHub.",
+  "description": "- The user was on the phone, asking for some changes to a Python script they’re working on.  \n- They mentioned that the script is hosted on GitHub and needs a few updates to improve its functionality.  \n- It sounds like they have specific features in mind but didn’t go into too much detail during the call.  \n- Overall, they’re looking to enhance the script to better meet their needs."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003081",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05726",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Annual Leave Policy and usage.\n\nfull_description_text:\n- The user is asking about the Annual Leave Policy at USD.  \n- They want to know how to utilize their Annual Leave.  \n- This inquiry was made during a phone call with a help desk analyst.",
+  "short_description": "Inquiry about USD's Annual Leave Policy and usage.",
+  "description": "- The user is asking about the Annual Leave Policy at USD.  \n- They want to know how to utilize their Annual Leave.  \n- This inquiry was made during a phone call with a help desk analyst."
+}

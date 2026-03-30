@@ -1,0 +1,20 @@
+{
+  "number": "INC0004763",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09983",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to print flyers to USD-Print using Papercut.\n\nfull_description_text: \nUser is trying to print flyers but they not show up at the printer. The printer is called USD-Print and it is connected with Papercut. This issue happens on Windows system. User is confused and need help to fix this problem.",
+  "short_description": "Unable to print flyers to USD-Print using Papercut.",
+  "description": "User is trying to print flyers but they not show up at the printer. The printer is called USD-Print and it is connected with Papercut. This issue happens on Windows system. User is confused and need help to fix this problem."
+}

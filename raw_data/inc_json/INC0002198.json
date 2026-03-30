@@ -1,0 +1,20 @@
+{
+  "number": "INC0002198",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03145",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Ethernet connection issues causing internet access failure\n\nfull_description_text: \nUser is experiencing problems with the wired network connection. The computer is not able to connect to the internet, showing multiple error messages. Errors include \"Not connected to the internet\" and \"A network cable is not properly plugged in.\" This situation is critical as the user is a student taking a test, and the network drops are affecting their ability to complete the exam.",
+  "short_description": "Ethernet connection issues causing internet access failure",
+  "description": "User is experiencing problems with the wired network connection. The computer is not able to connect to the internet, showing multiple error messages. Errors include \"Not connected to the internet\" and \"A network cable is not properly plugged in.\" This situation is critical as the user is a student taking a test, and the network drops are affecting their ability to complete the exam."
+}

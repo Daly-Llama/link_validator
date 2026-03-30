@@ -1,0 +1,20 @@
+{
+  "number": "INC0002589",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04267",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to update email settings on Toshiba printers for Faculty.\n\nfull_description_text:  \nDuring a live chat, the user mentioned they want to add a Faculty email to the Toshiba printers. They also asked to remove a Faculty name that’s currently set up. It seems like there’s some confusion about the email setup process, and they’re looking for help to get it sorted out.",
+  "short_description": "Need to update email settings on Toshiba printers for Faculty.",
+  "description": "During a live chat, the user mentioned they want to add a Faculty email to the Toshiba printers. They also asked to remove a Faculty name that’s currently set up. It seems like there’s some confusion about the email setup process, and they’re looking for help to get it sorted out."
+}

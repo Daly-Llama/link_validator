@@ -1,0 +1,20 @@
+{
+  "number": "INC0004379",
+  "category": "Human Resources",
+  "subcategory": "Compensation and Classification",
+  "correct_kb": "KB08924",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about annual salary increase calculation for CSA employees.\n\nfull_description_text:  \nDuring a recent phone call, a Civil Service employee inquired about how their annual salary increase is calculated. They expressed confusion regarding the determination process for these increases. The employee is seeking clarity on the specific factors that influence their salary adjustments as a CSA. This inquiry highlights the need for a better understanding of the salary policy in place.",
+  "short_description": "Inquiry about annual salary increase calculation for CSA employees.",
+  "description": "During a recent phone call, a Civil Service employee inquired about how their annual salary increase is calculated. They expressed confusion regarding the determination process for these increases. The employee is seeking clarity on the specific factors that influence their salary adjustments as a CSA. This inquiry highlights the need for a better understanding of the salary policy in place."
+}

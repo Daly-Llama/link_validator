@@ -1,0 +1,20 @@
+{
+  "number": "INC0003641",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07760",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with Print Preview and Printing Google Docs in Firefox or Safari\n\nfull_description_text:\n- Quiero imprimir un Google Doc pero no puedo ver la vista previa.  \n- Estoy usando Firefox o Safari y no sé cómo hacerlo.  \n- También quiero saber si puedo descargar el documento.",
+  "short_description": "Issues with Print Preview and Printing Google Docs in Firefox or Safari",
+  "description": "- Quiero imprimir un Google Doc pero no puedo ver la vista previa.  \n- Estoy usando Firefox o Safari y no sé cómo hacerlo.  \n- También quiero saber si puedo descargar el documento."
+}

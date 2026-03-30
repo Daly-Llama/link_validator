@@ -1,0 +1,20 @@
+{
+  "number": "INC0001435",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00851",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Ethernet ports in dorm room are no longer functioning.\n\nfull_description_text: The user reported that the ethernet ports in their dorm room were previously operational but have ceased to function. This issue has rendered their internet connectivity ineffective, impacting their ability to access online resources. The user suspects that the dorm ethernet port may be damaged, which is contributing to the connectivity problem.",
+  "short_description": "Ethernet ports in dorm room are no longer functioning.",
+  "description": "The user reported that the ethernet ports in their dorm room were previously operational but have ceased to function. This issue has rendered their internet connectivity ineffective, impacting their ability to access online resources. The user suspects that the dorm ethernet port may be damaged, which is contributing to the connectivity problem."
+}

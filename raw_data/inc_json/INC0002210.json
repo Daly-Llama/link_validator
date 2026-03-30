@@ -1,0 +1,20 @@
+{
+  "number": "INC0002210",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB03179",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to create a shared folder in DocuSign for templates.\n\nfull_description_text: \nI want to make a folder in DocuSign. It is for our group, so we can use and share templates. I don’t know how to do this, and it is important for our work. Please help with this folder creation, it is very needed.",
+  "short_description": "Need to create a shared folder in DocuSign for templates.",
+  "description": "I want to make a folder in DocuSign. It is for our group, so we can use and share templates. I don’t know how to do this, and it is important for our work. Please help with this folder creation, it is very needed."
+}

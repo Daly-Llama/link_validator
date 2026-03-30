@@ -1,0 +1,20 @@
+{
+  "number": "INC0002203",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03160",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: DDN video conference disconnected and won't reconnect.\n\nfull_description_text: So, during the video call on DDN, it just dropped out, right? We can't see the instructor anymore, and it’s like, super frustrating. I mean, we were in the middle of the meeting, and now it’s just not working at all. What’s going on with that?",
+  "short_description": "DDN video conference disconnected and won't reconnect.",
+  "description": "So, during the video call on DDN, it just dropped out, right? We can't see the instructor anymore, and it’s like, super frustrating. I mean, we were in the middle of the meeting, and now it’s just not working at all. What’s going on with that?"
+}

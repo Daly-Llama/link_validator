@@ -1,0 +1,20 @@
+{
+  "number": "INC0001827",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02016",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to export Word documents to PDF due to file path error.\n\nfull_description_text:\n- The user was attempting to convert a Word document into a PDF using Adobe Acrobat.  \n- They encountered an error message indicating that the Adobe PDF path was too long.  \n- The user was advised to shorten the file path to resolve the issue.  \n- This problem occurred during a live support call with the help desk analyst.",
+  "short_description": "Unable to export Word documents to PDF due to file path error.",
+  "description": "- The user was attempting to convert a Word document into a PDF using Adobe Acrobat.  \n- They encountered an error message indicating that the Adobe PDF path was too long.  \n- The user was advised to shorten the file path to resolve the issue.  \n- This problem occurred during a live support call with the help desk analyst."
+}

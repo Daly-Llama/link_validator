@@ -1,0 +1,20 @@
+{
+  "number": "INC0001761",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01812",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Register is unable to connect to the internet and perform updates.\n\nfull_description_text: \nDuring a call, the user reported that the register is not connecting to the internet. This issue is preventing the device from completing an available update, which is causing several problems, including the inability to print receipts and open the drawer. Additionally, the time displayed on the register is incorrect, and the KDS is not functioning properly.",
+  "short_description": "Register is unable to connect to the internet and perform updates.",
+  "description": "During a call, the user reported that the register is not connecting to the internet. This issue is preventing the device from completing an available update, which is causing several problems, including the inability to print receipts and open the drawer. Additionally, the time displayed on the register is incorrect, and the KDS is not functioning properly."
+}

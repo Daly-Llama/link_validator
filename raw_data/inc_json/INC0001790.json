@@ -1,0 +1,20 @@
+{
+  "number": "INC0001790",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB01894",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Email account created with incorrect capitalization of first name.\n\nfull_description_text:  \nSo, I just noticed that my USD email has the i in my first name capitalized, but it should be lowercase. It's kinda annoying because it doesn't match how I usually write it. Can you help fix this? Thanks!",
+  "short_description": "Email account created with incorrect capitalization of first name.",
+  "description": "So, I just noticed that my USD email has the i in my first name capitalized, but it should be lowercase. It's kinda annoying because it doesn't match how I usually write it. Can you help fix this? Thanks!"
+}

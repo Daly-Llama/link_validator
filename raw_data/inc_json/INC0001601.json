@@ -1,0 +1,20 @@
+{
+  "number": "INC0001601",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB01329",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Shared Outlook calendar not showing all upcoming appointments.\n\nfull_description_text: So, I was on the phone with the user, and they mentioned that their shared Outlook calendar isn’t syncing right. They used to see all the appointments, but today it just disappeared, like poof! They were really confused because they need to keep track of everything, and now it’s like the calendar is playing hide and seek.",
+  "short_description": "Shared Outlook calendar not showing all upcoming appointments.",
+  "description": "So, I was on the phone with the user, and they mentioned that their shared Outlook calendar isn’t syncing right. They used to see all the appointments, but today it just disappeared, like poof! They were really confused because they need to keep track of everything, and now it’s like the calendar is playing hide and seek."
+}

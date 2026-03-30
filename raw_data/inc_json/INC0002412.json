@@ -1,0 +1,20 @@
+{
+  "number": "INC0002412",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03777",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding rules to a shared mailbox in Outlook\n\nfull_description_text: \nEl usuario estaba tratando de agregar reglas a un buzón compartido en Outlook 2016. Sin embargo, no pudo encontrar la opción para hacerlo en la configuración. Estaba usando Exchange Online y Office 365 en Windows 10, y mencionó que esto le estaba causando problemas en su trabajo diario. La llamada fue en español y el analista de soporte estaba tratando de ayudarlo a resolverlo.",
+  "short_description": "Difficulty adding rules to a shared mailbox in Outlook",
+  "description": "El usuario estaba tratando de agregar reglas a un buzón compartido en Outlook 2016. Sin embargo, no pudo encontrar la opción para hacerlo en la configuración. Estaba usando Exchange Online y Office 365 en Windows 10, y mencionó que esto le estaba causando problemas en su trabajo diario. La llamada fue en español y el analista de soporte estaba tratando de ayudarlo a resolverlo."
+}

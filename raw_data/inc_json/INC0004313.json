@@ -1,0 +1,20 @@
+{
+  "number": "INC0004313",
+  "category": "Opportunity Center",
+  "subcategory": "Opportunity Center",
+  "correct_kb": "KB08746",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: External research funding opportunities for graduate students\n\nfull_description_text:\n- A graduate student is looking for research fellowship opportunities.  \n- They want to find external funding options to support their studies.  \n- It seems they need help navigating available resources for these fellowships.  \n- This is important for their academic progress and research goals.",
+  "short_description": "External research funding opportunities for graduate students",
+  "description": "- A graduate student is looking for research fellowship opportunities.  \n- They want to find external funding options to support their studies.  \n- It seems they need help navigating available resources for these fellowships.  \n- This is important for their academic progress and research goals."
+}

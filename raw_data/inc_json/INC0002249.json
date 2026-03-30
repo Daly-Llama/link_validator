@@ -1,0 +1,20 @@
+{
+  "number": "INC0002249",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB03292",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to confirm attendance for the upcoming school year.\n\nfull_description_text: The user was trying to confirm their attendance for the next school year but ran into issues. They only got a message saying there are no pending items for them, which seems like a placeholder. Also, when they tried to register for classes, they got an error saying the page isn’t working and something about an invalid response.",
+  "short_description": "Unable to confirm attendance for the upcoming school year.",
+  "description": "The user was trying to confirm their attendance for the next school year but ran into issues. They only got a message saying there are no pending items for them, which seems like a placeholder. Also, when they tried to register for classes, they got an error saying the page isn’t working and something about an invalid response."
+}

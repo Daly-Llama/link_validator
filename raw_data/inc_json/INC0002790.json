@@ -1,0 +1,20 @@
+{
+  "number": "INC0002790",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04880",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about returning rental textbooks from home.\n\nfull_description_text:\n- So, the caller was trying to figure out how to send back their rental textbooks without heading to the bookstore.  \n- They asked a bunch of questions like where to drop off the books and when they need to be returned.  \n- It seems like they were hoping for a simple way to handle the return process from home, but it wasn't clear to them.  \n- They really wanted to make sure they didn’t miss any deadlines or drop-off locations, which is totally understandable!",
+  "short_description": "Confusion about returning rental textbooks from home.",
+  "description": "- So, the caller was trying to figure out how to send back their rental textbooks without heading to the bookstore.  \n- They asked a bunch of questions like where to drop off the books and when they need to be returned.  \n- It seems like they were hoping for a simple way to handle the return process from home, but it wasn't clear to them.  \n- They really wanted to make sure they didn’t miss any deadlines or drop-off locations, which is totally understandable!"
+}

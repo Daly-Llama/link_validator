@@ -1,0 +1,20 @@
+{
+  "number": "INC0002761",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB04815",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to launch WebEx due to access error message.\n\nfull_description_text:  \nSo, I was just trying to set up a WebEx meeting using USD, right? Everything seemed fine until I hit the launch button, and then bam! This error popped up saying, \"your account does not have access to this webex site.\" I mean, I thought I had everything sorted out, but clearly, something's not right with the access. It's just super frustrating when you're all set to go and then hit a wall like this!",
+  "short_description": "Unable to launch WebEx due to access error message.",
+  "description": "So, I was just trying to set up a WebEx meeting using USD, right? Everything seemed fine until I hit the launch button, and then bam! This error popped up saying, \"your account does not have access to this webex site.\" I mean, I thought I had everything sorted out, but clearly, something's not right with the access. It's just super frustrating when you're all set to go and then hit a wall like this!"
+}

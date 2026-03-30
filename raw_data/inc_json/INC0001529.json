@@ -1,0 +1,20 @@
+{
+  "number": "INC0001529",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01126",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance with installing or updating Mozilla Firefox.\n\nfull_description_text: \nThe user is currently facing difficulties with the installation or updating process of Mozilla Firefox on their computer. They have expressed a desire to have the latest version of Firefox, which is essential for their browsing needs. This situation arises in the context of using either Microsoft Windows or Apple macOS, which are both popular operating systems. The user may not have a clear understanding of the steps involved in this process, leading to their request for assistance.",
+  "short_description": "Need assistance with installing or updating Mozilla Firefox.",
+  "description": "The user is currently facing difficulties with the installation or updating process of Mozilla Firefox on their computer. They have expressed a desire to have the latest version of Firefox, which is essential for their browsing needs. This situation arises in the context of using either Microsoft Windows or Apple macOS, which are both popular operating systems. The user may not have a clear understanding of the steps involved in this process, leading to their request for assistance."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004641",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09577",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to update text on the USD portal\n\nfull_description_text:\n- The user wants to change some text on the USD portal.  \n- They are unsure how to request updates for adding or removing information.  \n- The request involves marketing-related content on the portal.  \n- The user is looking for guidance on this process.",
+  "short_description": "Request to update text on the USD portal",
+  "description": "- The user wants to change some text on the USD portal.  \n- They are unsure how to request updates for adding or removing information.  \n- The request involves marketing-related content on the portal.  \n- The user is looking for guidance on this process."
+}

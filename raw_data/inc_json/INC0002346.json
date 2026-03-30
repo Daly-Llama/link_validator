@@ -1,0 +1,20 @@
+{
+  "number": "INC0002346",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03583",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with the graduation application process on myUSD Portal.\n\nfull_description_text:  \nI'm trying to figure out how to apply for graduation through the myUSD Portal, but I'm not sure where to start. I want to make sure I complete everything correctly, but the steps aren't clear to me. Can someone guide me on how to navigate this process?",
+  "short_description": "Need help with the graduation application process on myUSD Portal.",
+  "description": "I'm trying to figure out how to apply for graduation through the myUSD Portal, but I'm not sure where to start. I want to make sure I complete everything correctly, but the steps aren't clear to me. Can someone guide me on how to navigate this process?"
+}

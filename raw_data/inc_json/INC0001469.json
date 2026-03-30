@@ -1,0 +1,20 @@
+{
+  "number": "INC0001469",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB00950",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to modify document types or custom properties in ImageNow\n\nfull_description_text:  \nThe user is looking to make changes to document types or custom properties in ImageNow. They want to add new doc types, change existing ones to non-USD objects, and also remove some doc types from the USD application plans. This request seems to be part of their ongoing work with Perceptive Content.",
+  "short_description": "Request to modify document types or custom properties in ImageNow",
+  "description": "The user is looking to make changes to document types or custom properties in ImageNow. They want to add new doc types, change existing ones to non-USD objects, and also remove some doc types from the USD application plans. This request seems to be part of their ongoing work with Perceptive Content."
+}

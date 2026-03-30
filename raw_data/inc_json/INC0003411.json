@@ -1,0 +1,20 @@
+{
+  "number": "INC0003411",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB06911",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to search screens in Banner application.\n\nfull_description_text: I'm having trouble searching for screens in Banner. I can't seem to navigate through the system applications at all. It feels like there's no search functionality available, and it's really frustrating.",
+  "short_description": "Unable to search screens in Banner application.",
+  "description": "I'm having trouble searching for screens in Banner. I can't seem to navigate through the system applications at all. It feels like there's no search functionality available, and it's really frustrating."
+}

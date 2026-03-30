@@ -1,0 +1,20 @@
+{
+  "number": "INC0003936",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08084",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Microsoft Teams.\n\nfull_description_text:\n- The user was trying to access Microsoft Teams but ran into some issues.  \n- They were on a call with me, and it seemed like they weren't sure how to get in.  \n- We discussed their environment briefly, but they still couldn't find the right way to log in.  \n- It’s important for them to get connected, especially for their ongoing projects.",
+  "short_description": "Difficulty accessing Microsoft Teams.",
+  "description": "- The user was trying to access Microsoft Teams but ran into some issues.  \n- They were on a call with me, and it seemed like they weren't sure how to get in.  \n- We discussed their environment briefly, but they still couldn't find the right way to log in.  \n- It’s important for them to get connected, especially for their ongoing projects."
+}

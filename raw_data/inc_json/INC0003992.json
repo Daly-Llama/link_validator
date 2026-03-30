@@ -1,0 +1,20 @@
+{
+  "number": "INC0003992",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08211",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Confusion about what Panopto actually is.\n\nfull_description_text: So, I was just trying to figure out Panopto, right? Like, what even is it? I mean, I heard it’s something to do with video stuff, but not sure how it works. It’s kinda weird, like, do I need to download something or is it all online?",
+  "short_description": "Confusion about what Panopto actually is.",
+  "description": "So, I was just trying to figure out Panopto, right? Like, what even is it? I mean, I heard it’s something to do with video stuff, but not sure how it works. It’s kinda weird, like, do I need to download something or is it all online?"
+}

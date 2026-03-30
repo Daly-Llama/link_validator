@@ -1,0 +1,20 @@
+{
+  "number": "INC0004320",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB08755",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cashiers unable to view remaining meal plan swipes.\n\nfull_description_text: The cashiers at Sodexo are having trouble seeing how many meals are left on the meal plan. This is causing confusion during transactions in the Residential Dining area. They need a way to check the remaining swipes for meal plan participants, but currently, it seems they can't access that information. This issue is affecting the service provided to customers.",
+  "short_description": "Cashiers unable to view remaining meal plan swipes.",
+  "description": "The cashiers at Sodexo are having trouble seeing how many meals are left on the meal plan. This is causing confusion during transactions in the Residential Dining area. They need a way to check the remaining swipes for meal plan participants, but currently, it seems they can't access that information. This issue is affecting the service provided to customers."
+}

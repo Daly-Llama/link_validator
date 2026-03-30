@@ -1,0 +1,20 @@
+{
+  "number": "INC0002498",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB03985",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Early alerts for students of concern in Coyote Connections.\n\nfull_description_text: There is a need to raise alerts for students who are concerning. The user was trying to set up early alerts in Coyote Connections but encountered issues. This is important for monitoring student performance and well-being.",
+  "short_description": "Early alerts for students of concern in Coyote Connections.",
+  "description": "There is a need to raise alerts for students who are concerning. The user was trying to set up early alerts in Coyote Connections but encountered issues. This is important for monitoring student performance and well-being."
+}

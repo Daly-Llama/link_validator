@@ -1,0 +1,20 @@
+{
+  "number": "INC0004734",
+  "category": "Cannot assign faculty to sections - \"not a professor\" message",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB09877",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to assign faculty to sections due to error message\n\nfull_description_text:\n- User was trying to assign a faculty member to a section in Banner.  \n- They encountered a \"not a professor\" error message.  \n- This issue is preventing the assignment from being completed.  \n- The user is looking for assistance to resolve this problem.",
+  "short_description": "Unable to assign faculty to sections due to error message",
+  "description": "- User was trying to assign a faculty member to a section in Banner.  \n- They encountered a \"not a professor\" error message.  \n- This issue is preventing the assignment from being completed.  \n- The user is looking for assistance to resolve this problem."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004370",
+  "category": "Reporting and Investigating Academic Misconduct",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB08879",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with reporting academic misconduct issues\n\nfull_description_text:  \nI’m trying to figure out how to report some academic misconduct I’ve noticed. It seems like there’s a process for investigating these kinds of issues, but I’m not really sure where to start. Can someone guide me on what steps I need to take?",
+  "short_description": "Need help with reporting academic misconduct issues",
+  "description": "I’m trying to figure out how to report some academic misconduct I’ve noticed. It seems like there’s a process for investigating these kinds of issues, but I’m not really sure where to start. Can someone guide me on what steps I need to take?"
+}

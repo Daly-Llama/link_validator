@@ -1,0 +1,20 @@
+{
+  "number": "INC0003798",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07931",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Question about the SUMIF function in Excel\n\nfull_description_text:  \n- User asked what the SUMIF function is in Excel.  \n- They seemed unsure about its purpose and usage.  \n- This was during a live chat with a help desk analyst.",
+  "short_description": "Question about the SUMIF function in Excel",
+  "description": "- User asked what the SUMIF function is in Excel.  \n- They seemed unsure about its purpose and usage.  \n- This was during a live chat with a help desk analyst."
+}

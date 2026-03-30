@@ -1,0 +1,20 @@
+{
+  "number": "INC0003552",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07415",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open Excel files or experiencing freezes\n\nfull_description_text:\n- I am having a problem with Excel on my Windows computer.  \n- Sometimes it will not open any files from One Drive and it just freezes.  \n- Other times, when I am working on a document, Excel locks up and I can't do anything.  \n- This is really frustrating because I need to use Excel for my work.",
+  "short_description": "Unable to open Excel files or experiencing freezes",
+  "description": "- I am having a problem with Excel on my Windows computer.  \n- Sometimes it will not open any files from One Drive and it just freezes.  \n- Other times, when I am working on a document, Excel locks up and I can't do anything.  \n- This is really frustrating because I need to use Excel for my work."
+}

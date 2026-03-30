@@ -1,0 +1,20 @@
+{
+  "number": "INC0004649",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09638",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty accessing faculty course evaluation results for IDEA scores.\n\nfull_description_text:\n- The user is seeking to view the IDEA course evaluation scores for their faculty members.  \n- They are unsure of where to find the evaluation results for their department's instructors.  \n- The user wishes to review student feedback regarding the courses and teaching effectiveness of their faculty.  \n- They are looking for a way to access comments and evaluations related to their school's courses.",
+  "short_description": "Difficulty accessing faculty course evaluation results for IDEA scores.",
+  "description": "- The user is seeking to view the IDEA course evaluation scores for their faculty members.  \n- They are unsure of where to find the evaluation results for their department's instructors.  \n- The user wishes to review student feedback regarding the courses and teaching effectiveness of their faculty.  \n- They are looking for a way to access comments and evaluations related to their school's courses."
+}

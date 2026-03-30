@@ -1,0 +1,20 @@
+{
+  "number": "INC0002931",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB05318",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need contact info for Charlie's Bookstore & Fan Shop\n\nfull_description_text:\n- Caller needs help with textbooks and wants to know how to contact the Online Bookstore.  \n- They also have a question for the Fan Shop.  \n- They are looking for Charlie's contact details.",
+  "short_description": "Need contact info for Charlie's Bookstore & Fan Shop",
+  "description": "- Caller needs help with textbooks and wants to know how to contact the Online Bookstore.  \n- They also have a question for the Fan Shop.  \n- They are looking for Charlie's contact details."
+}

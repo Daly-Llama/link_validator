@@ -1,0 +1,20 @@
+{
+  "number": "INC0003769",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB07896",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with entering or submitting timesheets in the experience portal.\n\nfull_description_text: \nUser is trying to enter timesheets but is having problems. They say they cannot submit timesheets correctly. This is happening in the experience portal for employees. There is some confusion about the process and how to complete it.",
+  "short_description": "Issues with entering or submitting timesheets in the experience portal.",
+  "description": "User is trying to enter timesheets but is having problems. They say they cannot submit timesheets correctly. This is happening in the experience portal for employees. There is some confusion about the process and how to complete it."
+}

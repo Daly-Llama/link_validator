@@ -1,0 +1,20 @@
+{
+  "number": "INC0003365",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06690",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: User receives overdue training notification after name change.\n\nfull_description_text: The user is still getting reminders about overdue training on SafeColleges after they changed their legal name. This notification keeps popping up, even though their name has been updated in the system. It's causing some confusion and frustration for the user.",
+  "short_description": "User receives overdue training notification after name change.",
+  "description": "The user is still getting reminders about overdue training on SafeColleges after they changed their legal name. This notification keeps popping up, even though their name has been updated in the system. It's causing some confusion and frustration for the user."
+}

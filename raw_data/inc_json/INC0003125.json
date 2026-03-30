@@ -1,0 +1,20 @@
+{
+  "number": "INC0003125",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB05837",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to enable Analysis Toolpak add-in for Excel.\n\nfull_description_text: User attempted to enable the Analysis Toolpak add-in in Excel. Encountered an error message indicating that Office 365 is configured to prevent individual acquisition of Office Add-ins. This issue requires further investigation to understand the configuration settings. User is seeking assistance to resolve this matter.",
+  "short_description": "Unable to enable Analysis Toolpak add-in for Excel.",
+  "description": "User attempted to enable the Analysis Toolpak add-in in Excel. Encountered an error message indicating that Office 365 is configured to prevent individual acquisition of Office Add-ins. This issue requires further investigation to understand the configuration settings. User is seeking assistance to resolve this matter."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003188",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB06064",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error signing into Adobe Acrobat Pro with access denied message.\n\nfull_description_text: \nThe field technician was trying to log into Adobe Acrobat Pro but encountered an error. The message stated that access was denied, which is frustrating. This issue is preventing them from using the software as needed. It's important to resolve this so they can continue their work without interruptions.",
+  "short_description": "Error signing into Adobe Acrobat Pro with access denied message.",
+  "description": "The field technician was trying to log into Adobe Acrobat Pro but encountered an error. The message stated that access was denied, which is frustrating. This issue is preventing them from using the software as needed. It's important to resolve this so they can continue their work without interruptions."
+}

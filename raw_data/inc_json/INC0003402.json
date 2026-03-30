@@ -1,0 +1,20 @@
+{
+  "number": "INC0003402",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB06849",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Laptop audio output is not functioning properly.\n\nfull_description_text:\n- The user is experiencing a frustrating issue where their Lenovo T590 laptop, running Windows 10, is completely silent. \n- Despite being docked, there is no audio output, which is particularly concerning for someone who relies on sound for various tasks. \n- This situation has led to a significant disruption in their workflow, as they cannot hear any audio from the system. \n- The user is seeking assistance to resolve this sound issue promptly, as it is impacting their productivity.",
+  "short_description": "Laptop audio output is not functioning properly.",
+  "description": "- The user is experiencing a frustrating issue where their Lenovo T590 laptop, running Windows 10, is completely silent. \n- Despite being docked, there is no audio output, which is particularly concerning for someone who relies on sound for various tasks. \n- This situation has led to a significant disruption in their workflow, as they cannot hear any audio from the system. \n- The user is seeking assistance to resolve this sound issue promptly, as it is impacting their productivity."
+}

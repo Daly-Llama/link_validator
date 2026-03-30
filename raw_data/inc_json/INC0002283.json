@@ -1,0 +1,20 @@
+{
+  "number": "INC0002283",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03388",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Redirecting a worklist item to another user's workspace in K2 Blackpearl\n\nfull_description_text:\n- User wants to redirect a worklist item to a different user's workspace.  \n- This request was made during a live call with the help desk.  \n- The issue is specific to the K2 Blackpearl application environment.  \n- No additional context was provided about the worklist item itself.",
+  "short_description": "Redirecting a worklist item to another user's workspace in K2 Blackpearl",
+  "description": "- User wants to redirect a worklist item to a different user's workspace.  \n- This request was made during a live call with the help desk.  \n- The issue is specific to the K2 Blackpearl application environment.  \n- No additional context was provided about the worklist item itself."
+}

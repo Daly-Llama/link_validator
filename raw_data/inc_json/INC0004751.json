@@ -1,0 +1,20 @@
+{
+  "number": "INC0004751",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB09930",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need guidance on initiating a Group Travel Experience for USD students.\n\nfull_description_text: \nThe user is seeking assistance on how to begin the process of planning and creating a Group Travel Experience or Faculty-Led Program for USD students. They are currently at the Gallagher Center and are looking for specific steps or guidelines to follow. The inquiry suggests a need for clarity on the procedures involved in organizing such travel experiences, indicating a potential lack of information on the topic.",
+  "short_description": "Need guidance on initiating a Group Travel Experience for USD students.",
+  "description": "The user is seeking assistance on how to begin the process of planning and creating a Group Travel Experience or Faculty-Led Program for USD students. They are currently at the Gallagher Center and are looking for specific steps or guidelines to follow. The inquiry suggests a need for clarity on the procedures involved in organizing such travel experiences, indicating a potential lack of information on the topic."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003431",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06982",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need list of users assigned to access plan in Transact\n\nfull_description_text: I'm looking for a list of all the users who have the [plan name] access plan in Transact. It’s important to know who’s currently assigned to it. Can you get this info? Thanks.",
+  "short_description": "Need list of users assigned to access plan in Transact",
+  "description": "I'm looking for a list of all the users who have the [plan name] access plan in Transact. It’s important to know who’s currently assigned to it. Can you get this info? Thanks."
+}

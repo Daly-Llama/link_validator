@@ -1,0 +1,20 @@
+{
+  "number": "INC0003669",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07788",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help with editing a Google Site\n\nfull_description_text:\n- So, the user was trying to edit their Google Site.  \n- They weren't sure how to do it and asked for help.  \n- Just looking for some quick tips on editing, you know?",
+  "short_description": "Need help with editing a Google Site",
+  "description": "- So, the user was trying to edit their Google Site.  \n- They weren't sure how to do it and asked for help.  \n- Just looking for some quick tips on editing, you know?"
+}

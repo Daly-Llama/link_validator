@@ -1,0 +1,20 @@
+{
+  "number": "INC0002818",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB04952",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble accessing Qualtrics and requesting a license.\n\nfull_description_text: \nSo, I was trying to get into Qualtrics, you know, the Research Suite thing, and I just couldn't figure it out. I really need to create a Qualtrics account, but it’s like, where do I even start? I’m not sure if I need a license or what, but I just want to access it, like, really bad. Can someone help me with this? It’s kinda confusing for me, and I just want to get it sorted out.",
+  "short_description": "Trouble accessing Qualtrics and requesting a license.",
+  "description": "So, I was trying to get into Qualtrics, you know, the Research Suite thing, and I just couldn't figure it out. I really need to create a Qualtrics account, but it’s like, where do I even start? I’m not sure if I need a license or what, but I just want to access it, like, really bad. Can someone help me with this? It’s kinda confusing for me, and I just want to get it sorted out."
+}

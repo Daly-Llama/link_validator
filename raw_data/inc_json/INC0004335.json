@@ -1,0 +1,20 @@
+{
+  "number": "INC0004335",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08772",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Guidance needed for handling hazardous spills and accidents.\n\nfull_description_text:  \n- User inquired about procedures for hazardous spills.  \n- They were unsure of the correct steps to take.  \n- The situation seemed urgent and required immediate attention.  \n- No specific details about the spill were provided.",
+  "short_description": "Guidance needed for handling hazardous spills and accidents.",
+  "description": "- User inquired about procedures for hazardous spills.  \n- They were unsure of the correct steps to take.  \n- The situation seemed urgent and required immediate attention.  \n- No specific details about the spill were provided."
+}

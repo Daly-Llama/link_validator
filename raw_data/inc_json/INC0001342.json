@@ -1,0 +1,20 @@
+{
+  "number": "INC0001342",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00654",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to print to connected printers on Windows 10.\n\nfull_description_text:  \nI am having a really frustrating issue where I cannot print to two out of my three printers. The print settings that I need do not show up at all, and I keep getting this annoying message that says, \"Windows cannot access the specified device, path or file.\" It also mentions something about permissions, which I don't really understand. When I try to look for my printer, it is just not listed anywhere, and I am completely unable to print anything at this time. I even got a message saying, \"Unable to connect to the printer. Make sure your printer is properly connected and powered on,\" but I have checked everything and it seems fine.",
+  "short_description": "Unable to print to connected printers on Windows 10.",
+  "description": "I am having a really frustrating issue where I cannot print to two out of my three printers. The print settings that I need do not show up at all, and I keep getting this annoying message that says, \"Windows cannot access the specified device, path or file.\" It also mentions something about permissions, which I don't really understand. When I try to look for my printer, it is just not listed anywhere, and I am completely unable to print anything at this time. I even got a message saying, \"Unable to connect to the printer. Make sure your printer is properly connected and powered on,\" but I have checked everything and it seems fine."
+}

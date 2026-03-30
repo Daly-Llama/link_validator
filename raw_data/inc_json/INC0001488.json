@@ -1,0 +1,20 @@
+{
+  "number": "INC0001488",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB01011",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for Ethernet port installation in dorm room\n\nfull_description_text:  \nI am currently residing in a dorm room at USD Campus and I have noticed that there is no ethernet port available in my room. The outlet I found seems to be a phone port, specifically an RJ11, which is not what I need for my internet connection. I would like to formally request the installation of an ethernet port so that I can have a reliable internet connection for my studies and other online activities.",
+  "short_description": "Request for Ethernet port installation in dorm room",
+  "description": "I am currently residing in a dorm room at USD Campus and I have noticed that there is no ethernet port available in my room. The outlet I found seems to be a phone port, specifically an RJ11, which is not what I need for my internet connection. I would like to formally request the installation of an ethernet port so that I can have a reliable internet connection for my studies and other online activities."
+}

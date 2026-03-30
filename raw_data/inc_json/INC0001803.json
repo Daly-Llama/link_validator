@@ -1,0 +1,20 @@
+{
+  "number": "INC0001803",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB01936",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty pairing Bluetooth device with Cisco VoIP phone\n\nfull_description_text:\n- The user was trying to connect a Bluetooth device to their Cisco VoIP phone.  \n- They asked how to do this during a live chat, which was very helpful.  \n- It seems like they were not sure about the steps, and there was some confusion.  \n- The phone is supposed to work with Bluetooth, but it just wasn't connecting right.",
+  "short_description": "Difficulty pairing Bluetooth device with Cisco VoIP phone",
+  "description": "- The user was trying to connect a Bluetooth device to their Cisco VoIP phone.  \n- They asked how to do this during a live chat, which was very helpful.  \n- It seems like they were not sure about the steps, and there was some confusion.  \n- The phone is supposed to work with Bluetooth, but it just wasn't connecting right."
+}

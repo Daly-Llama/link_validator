@@ -1,0 +1,20 @@
+{
+  "number": "INC0001462",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB00932",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with saving files to OneDrive for students\n\nfull_description_text: \nSo, during the call, the student mentioned they were trying to save some important files to OneDrive, you know, the cloud storage thing, but it just wasn’t working at all. They kept getting this weird error message pop-up, and it was super frustrating because they really needed to submit their assignment on time. I mean, they were on Windows and using SharePoint too, but it seemed like OneDrive was just not cooperating, which is a bummer for students who rely on it for their schoolwork. It’s like, come on, how can you not save a file? That’s just basic stuff!",
+  "short_description": "Issues with saving files to OneDrive for students",
+  "description": "So, during the call, the student mentioned they were trying to save some important files to OneDrive, you know, the cloud storage thing, but it just wasn’t working at all. They kept getting this weird error message pop-up, and it was super frustrating because they really needed to submit their assignment on time. I mean, they were on Windows and using SharePoint too, but it seemed like OneDrive was just not cooperating, which is a bummer for students who rely on it for their schoolwork. It’s like, come on, how can you not save a file? That’s just basic stuff!"
+}

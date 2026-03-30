@@ -1,0 +1,20 @@
+{
+  "number": "INC0003801",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07934",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the ROUNDDOWN function in Excel\n\nfull_description_text:  \nThe user is seeking clarification on the ROUNDDOWN function in Excel. They are unsure about its purpose and how it operates within the application. This inquiry suggests a need for basic understanding of Excel functions and their applications.",
+  "short_description": "Inquiry about the ROUNDDOWN function in Excel",
+  "description": "The user is seeking clarification on the ROUNDDOWN function in Excel. They are unsure about its purpose and how it operates within the application. This inquiry suggests a need for basic understanding of Excel functions and their applications."
+}

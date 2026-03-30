@@ -1,0 +1,20 @@
+{
+  "number": "INC0002645",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB04486",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about attendance tracking in Coyote Connections\n\nfull_description_text:  \nThe user is seeking clarification on whether attendance can be maintained within the Coyote Connections platform. They are unsure of the functionality available for tracking attendance and require guidance on this matter. This inquiry suggests a need for better understanding of the system's capabilities regarding attendance management.",
+  "short_description": "Inquiry about attendance tracking in Coyote Connections",
+  "description": "The user is seeking clarification on whether attendance can be maintained within the Coyote Connections platform. They are unsure of the functionality available for tracking attendance and require guidance on this matter. This inquiry suggests a need for better understanding of the system's capabilities regarding attendance management."
+}

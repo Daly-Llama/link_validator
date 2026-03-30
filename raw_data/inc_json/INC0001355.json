@@ -1,0 +1,20 @@
+{
+  "number": "INC0001355",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB00673",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for a Microsoft Teams site for graduates and faculty\n\nfull_description_text:\n- The user called to request assistance in creating a Microsoft Teams site.  \n- They mentioned that the site is intended for graduates and former faculty members.  \n- The user expressed concerns about using an individual employee's Office 365 account for this purpose.  \n- They are interested in utilizing Microsoft Teams for their department's needs.",
+  "short_description": "Request for a Microsoft Teams site for graduates and faculty",
+  "description": "- The user called to request assistance in creating a Microsoft Teams site.  \n- They mentioned that the site is intended for graduates and former faculty members.  \n- The user expressed concerns about using an individual employee's Office 365 account for this purpose.  \n- They are interested in utilizing Microsoft Teams for their department's needs."
+}

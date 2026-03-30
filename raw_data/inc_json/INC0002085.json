@@ -1,0 +1,20 @@
+{
+  "number": "INC0002085",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB02785",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to create events in 25Live due to access restrictions.\n\nfull_description_text:  \n- I was trying to create an event in 25Live but it didn't work.  \n- I got a message saying I'm not allowed to schedule events or reserve a room.  \n- It’s really frustrating because I need to set up an event and I can't do it on the 25Live app.  \n- Can someone help me get the right access to do this?",
+  "short_description": "Unable to create events in 25Live due to access restrictions.",
+  "description": "- I was trying to create an event in 25Live but it didn't work.  \n- I got a message saying I'm not allowed to schedule events or reserve a room.  \n- It’s really frustrating because I need to set up an event and I can't do it on the 25Live app.  \n- Can someone help me get the right access to do this?"
+}

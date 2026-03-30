@@ -1,0 +1,20 @@
+{
+  "number": "INC0003965",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08118",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with organizing and searching projects in Qualtrics\n\nfull_description_text:  \nSo, during the chat, the user was trying to figure out how to organize their projects in Qualtrics, but they were having a tough time. They also wanted to know how to search for their projects effectively, but it seemed like they were getting a bit lost in the interface. It’s clear they need some help navigating these features, as they were looking for a way to manage their projects better.",
+  "short_description": "Issues with organizing and searching projects in Qualtrics",
+  "description": "So, during the chat, the user was trying to figure out how to organize their projects in Qualtrics, but they were having a tough time. They also wanted to know how to search for their projects effectively, but it seemed like they were getting a bit lost in the interface. It’s clear they need some help navigating these features, as they were looking for a way to manage their projects better."
+}

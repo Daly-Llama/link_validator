@@ -1,0 +1,20 @@
+{
+  "number": "INC0001335",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00635",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: PDF printing issue prompts Save File dialog instead of printing.\n\nfull_description_text: \nEl usuario estaba intentando imprimir un PDF en Acrobat Reader. En lugar de imprimir, apareció un cuadro de diálogo que le pedía guardar el archivo. Esto causó confusión, ya que esperaba que el documento se imprimiera directamente.",
+  "short_description": "PDF printing issue prompts Save File dialog instead of printing.",
+  "description": "El usuario estaba intentando imprimir un PDF en Acrobat Reader. En lugar de imprimir, apareció un cuadro de diálogo que le pedía guardar el archivo. Esto causó confusión, ya que esperaba que el documento se imprimiera directamente."
+}

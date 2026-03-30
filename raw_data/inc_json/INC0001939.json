@@ -1,0 +1,20 @@
+{
+  "number": "INC0001939",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02351",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Missing course in the MBM system for Medical Student Affairs\n\nfull_description_text:\n- A course is not appearing in the Mission Based Management (MBM) system.  \n- The user is requesting the addition of specific 4th year online courses to the MBM database.  \n- This issue pertains to the elective courses for Medical Student Affairs within Pillar 3.",
+  "short_description": "Missing course in the MBM system for Medical Student Affairs",
+  "description": "- A course is not appearing in the Mission Based Management (MBM) system.  \n- The user is requesting the addition of specific 4th year online courses to the MBM database.  \n- This issue pertains to the elective courses for Medical Student Affairs within Pillar 3."
+}

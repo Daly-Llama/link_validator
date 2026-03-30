@@ -1,0 +1,20 @@
+{
+  "number": "INC0003548",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB07394",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to modify acknowledgment of Financial Terms and Conditions.\n\nfull_description_text: The user attempted to change their acknowledgment of the Financial Terms and Conditions for the current academic year through the Self Service portal. However, they encountered an error message stating that modifications are not permitted since they have already acknowledged the form. This situation has led to confusion regarding their ability to update their response.",
+  "short_description": "Unable to modify acknowledgment of Financial Terms and Conditions.",
+  "description": "The user attempted to change their acknowledgment of the Financial Terms and Conditions for the current academic year through the Self Service portal. However, they encountered an error message stating that modifications are not permitted since they have already acknowledged the form. This situation has led to confusion regarding their ability to update their response."
+}

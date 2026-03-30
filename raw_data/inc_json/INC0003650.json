@@ -1,0 +1,20 @@
+{
+  "number": "INC0003650",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07769",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with setting document title and language in Grackle Docs\n\nfull_description_text:\n- So, I was on the phone with a user who needed help with Grackle Docs.  \n- They wanted to know how to set the document title and also the language, but it was kinda confusing for them.  \n- They kept asking the same questions about the title and language settings, like, how do I do this?  \n- It seems like they just need a little guidance on these basic settings in Grackle Docs.",
+  "short_description": "Issues with setting document title and language in Grackle Docs",
+  "description": "- So, I was on the phone with a user who needed help with Grackle Docs.  \n- They wanted to know how to set the document title and also the language, but it was kinda confusing for them.  \n- They kept asking the same questions about the title and language settings, like, how do I do this?  \n- It seems like they just need a little guidance on these basic settings in Grackle Docs."
+}

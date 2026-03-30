@@ -1,0 +1,20 @@
+{
+  "number": "INC0002611",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04363",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Listserv not sending messages after submission.\n\nfull_description_text: I sent a message to the listserv. But it’s not sending out. No one is getting the emails. This is really confusing and I need help.",
+  "short_description": "Listserv not sending messages after submission.",
+  "description": "I sent a message to the listserv. But it’s not sending out. No one is getting the emails. This is really confusing and I need help."
+}

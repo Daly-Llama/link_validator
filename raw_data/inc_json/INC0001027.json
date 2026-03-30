@@ -1,0 +1,20 @@
+{
+  "number": "INC0001027",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00047",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to change account access for an employee\n\nfull_description_text:  \nSo, I was on the phone with someone. They need to change account access for an employee. It’s for a bunch of stuff like Banner and Calendar. Just a simple access change, but they seemed a bit confused about what was needed.",
+  "short_description": "Request to change account access for an employee",
+  "description": "So, I was on the phone with someone. They need to change account access for an employee. It’s for a bunch of stuff like Banner and Calendar. Just a simple access change, but they seemed a bit confused about what was needed."
+}

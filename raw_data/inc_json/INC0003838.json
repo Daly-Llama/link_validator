@@ -1,0 +1,20 @@
+{
+  "number": "INC0003838",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07972",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about the function and use of Pivot Tables in Excel\n\nfull_description_text:\n- The user is seeking clarification on what Pivot Tables are within the context of Excel.  \n- They are specifically interested in understanding the functionality and applications of Pivot Tables.  \n- This inquiry suggests a need for a deeper comprehension of data analysis tools available in Excel.  \n- The request indicates that the user may be looking to enhance their skills in data manipulation and reporting.",
+  "short_description": "Inquiry about the function and use of Pivot Tables in Excel",
+  "description": "- The user is seeking clarification on what Pivot Tables are within the context of Excel.  \n- They are specifically interested in understanding the functionality and applications of Pivot Tables.  \n- This inquiry suggests a need for a deeper comprehension of data analysis tools available in Excel.  \n- The request indicates that the user may be looking to enhance their skills in data manipulation and reporting."
+}

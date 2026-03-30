@@ -1,0 +1,20 @@
+{
+  "number": "INC0001207",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00387",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting to the SDVisitor wireless network.\n\nfull_description_text: The user was attempting to connect their device to the SDVisitor wireless network but encountered issues. They were unsure of the correct steps to take for their specific operating system. This problem arose during a live call with the help desk, indicating a need for immediate assistance.",
+  "short_description": "Difficulty connecting to the SDVisitor wireless network.",
+  "description": "The user was attempting to connect their device to the SDVisitor wireless network but encountered issues. They were unsure of the correct steps to take for their specific operating system. This problem arose during a live call with the help desk, indicating a need for immediate assistance."
+}

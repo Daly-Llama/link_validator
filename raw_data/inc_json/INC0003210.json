@@ -1,0 +1,20 @@
+{
+  "number": "INC0003210",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB06123",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Change email recipient for scheduled Cognos report.\n\nfull_description_text:\n- The technician is requesting a modification to the email recipient for a scheduled report in Cognos.  \n- The current recipient needs to be updated to ensure the right person receives the report.  \n- This change is necessary for maintaining accurate communication and reporting within the team.  \n- The technician is familiar with the Cognos environment and is looking for a straightforward update.",
+  "short_description": "Change email recipient for scheduled Cognos report.",
+  "description": "- The technician is requesting a modification to the email recipient for a scheduled report in Cognos.  \n- The current recipient needs to be updated to ensure the right person receives the report.  \n- This change is necessary for maintaining accurate communication and reporting within the team.  \n- The technician is familiar with the Cognos environment and is looking for a straightforward update."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004115",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB08378",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for elevated access in Desire2Learn for new employees\n\nfull_description_text: \nDuring a live chat, the help desk analyst was assisting with a request for elevated permissions in Desire2Learn. The user needed access for new employees who are taking on administrative roles. There was some confusion regarding the specific steps to request this elevated access, leading to a need for clarification.",
+  "short_description": "Request for elevated access in Desire2Learn for new employees",
+  "description": "During a live chat, the help desk analyst was assisting with a request for elevated permissions in Desire2Learn. The user needed access for new employees who are taking on administrative roles. There was some confusion regarding the specific steps to request this elevated access, leading to a need for clarification."
+}

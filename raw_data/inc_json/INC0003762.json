@@ -1,0 +1,20 @@
+{
+  "number": "INC0003762",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07887",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty splitting merged cells in Excel.\n\nfull_description_text:  \nSo, I was just trying to work on this Excel sheet, you know, the one with all the data for our project. I had some cells that were merged together, and I thought it would be super easy to just split them apart. But for some reason, I couldn't figure out how to do it! It’s like the option just vanished or something, and I really need to get this sorted out to move forward with my work.",
+  "short_description": "Difficulty splitting merged cells in Excel.",
+  "description": "So, I was just trying to work on this Excel sheet, you know, the one with all the data for our project. I had some cells that were merged together, and I thought it would be super easy to just split them apart. But for some reason, I couldn't figure out how to do it! It’s like the option just vanished or something, and I really need to get this sorted out to move forward with my work."
+}

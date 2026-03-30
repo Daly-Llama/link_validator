@@ -1,0 +1,20 @@
+{
+  "number": "INC0001843",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02050",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for graphic placement on digital signage.\n\nfull_description_text:\n- The user inquired about the process for requesting a graphic to be displayed on a digital signage TV.  \n- They specifically mentioned wanting to post a flyer or advertisement on the digital sign.  \n- The request was made during a live phone call with a help desk analyst, indicating an immediate need for assistance.  \n- Clarification on the submission process and any required specifications for the graphic was sought.",
+  "short_description": "Request for graphic placement on digital signage.",
+  "description": "- The user inquired about the process for requesting a graphic to be displayed on a digital signage TV.  \n- They specifically mentioned wanting to post a flyer or advertisement on the digital sign.  \n- The request was made during a live phone call with a help desk analyst, indicating an immediate need for assistance.  \n- Clarification on the submission process and any required specifications for the graphic was sought."
+}

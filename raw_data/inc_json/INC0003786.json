@@ -1,0 +1,20 @@
+{
+  "number": "INC0003786",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07918",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help modifying chart properties in Excel.\n\nfull_description_text: \nSo, the user is trying to change the properties of a chart in Excel. They don’t know how to do it, and it’s causing some frustration. They asked specifically about modifying the chart settings, like colors or labels. It’s important for their work, but they are stuck right now.",
+  "short_description": "Need help modifying chart properties in Excel.",
+  "description": "So, the user is trying to change the properties of a chart in Excel. They don’t know how to do it, and it’s causing some frustration. They asked specifically about modifying the chart settings, like colors or labels. It’s important for their work, but they are stuck right now."
+}

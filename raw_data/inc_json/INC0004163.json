@@ -1,0 +1,20 @@
+{
+  "number": "INC0004163",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08438",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing alt text in a PowerPoint table\n\nfull_description_text: So, I was on the phone with a user, and they mentioned that their PowerPoint table is missing alt text. They were trying to make it accessible, but couldn’t figure out how to add it. It’s kinda frustrating for them, and they just want to fix it quickly.",
+  "short_description": "Missing alt text in a PowerPoint table",
+  "description": "So, I was on the phone with a user, and they mentioned that their PowerPoint table is missing alt text. They were trying to make it accessible, but couldn’t figure out how to add it. It’s kinda frustrating for them, and they just want to fix it quickly."
+}

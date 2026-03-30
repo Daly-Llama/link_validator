@@ -1,0 +1,20 @@
+{
+  "number": "INC0001703",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB01649",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to find and address article feedback from users.\n\nfull_description_text: So, like, I was chatting with a user, right? They wanna know how to find that article feedback they gotta deal with. And, like, if non-ITS customers can leave feedback, what's the whole process for addressing that with them? It's all about updating that feedback, you know? Just trying to figure out how to make it all work smoothly.",
+  "short_description": "Need to find and address article feedback from users.",
+  "description": "So, like, I was chatting with a user, right? They wanna know how to find that article feedback they gotta deal with. And, like, if non-ITS customers can leave feedback, what's the whole process for addressing that with them? It's all about updating that feedback, you know? Just trying to figure out how to make it all work smoothly."
+}

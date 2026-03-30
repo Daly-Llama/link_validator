@@ -1,0 +1,20 @@
+{
+  "number": "INC0003594",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB07655",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with creating annual performance reviews for CSA and NFE employees.\n\nfull_description_text:  \nI'm having trouble figuring out how to create the annual performance review for Non Faculty/Exempt and Civil Service employees. I also need to know when employees can review and acknowledge their annual reviews. It seems like there might be some steps I'm missing, and I'm not sure if I'm looking in the right place on YourFuture.",
+  "short_description": "Issues with creating annual performance reviews for CSA and NFE employees.",
+  "description": "I'm having trouble figuring out how to create the annual performance review for Non Faculty/Exempt and Civil Service employees. I also need to know when employees can review and acknowledge their annual reviews. It seems like there might be some steps I'm missing, and I'm not sure if I'm looking in the right place on YourFuture."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003648",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07767",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Grackle Docs.\n\nfull_description_text:  \nThe user is experiencing challenges when trying to access Grackle Docs, which is a crucial resource for their tasks. They have submitted a request through the self-service form, indicating that they are unsure of the steps needed to reach the documentation. This situation may be causing some frustration, especially as they navigate the process in a language that is not their first. It is important to ensure that they receive the necessary guidance to access the information they need.",
+  "short_description": "Difficulty accessing Grackle Docs.",
+  "description": "The user is experiencing challenges when trying to access Grackle Docs, which is a crucial resource for their tasks. They have submitted a request through the self-service form, indicating that they are unsure of the steps needed to reach the documentation. This situation may be causing some frustration, especially as they navigate the process in a language that is not their first. It is important to ensure that they receive the necessary guidance to access the information they need."
+}

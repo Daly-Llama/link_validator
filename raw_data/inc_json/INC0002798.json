@@ -1,0 +1,20 @@
+{
+  "number": "INC0002798",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04889",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about financial resources for study away programs\n\nfull_description_text:  \nThe caller was curious about what financial options they could tap into for their study away experience. They mentioned scholarships and seemed a bit confused about which resources were available to them. It sounded like they were really eager to make the most of their time away, but just needed some clarity on funding. There was a lot of back and forth, and they really wanted to ensure they had everything sorted out before making any commitments.",
+  "short_description": "Inquiry about financial resources for study away programs",
+  "description": "The caller was curious about what financial options they could tap into for their study away experience. They mentioned scholarships and seemed a bit confused about which resources were available to them. It sounded like they were really eager to make the most of their time away, but just needed some clarity on funding. There was a lot of back and forth, and they really wanted to ensure they had everything sorted out before making any commitments."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001272",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00516",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: University tablet not charging during use.\n\nfull_description_text: So, the user was trying to charge their tablet, right? But it just wouldn’t charge at all. They mentioned it’s a university tablet, and it’s like, super important for their classes. It’s kinda weird because they plugged it in, but nothing happened, like, at all.",
+  "short_description": "University tablet not charging during use.",
+  "description": "So, the user was trying to charge their tablet, right? But it just wouldn’t charge at all. They mentioned it’s a university tablet, and it’s like, super important for their classes. It’s kinda weird because they plugged it in, but nothing happened, like, at all."
+}

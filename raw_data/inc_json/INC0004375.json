@@ -1,0 +1,20 @@
+{
+  "number": "INC0004375",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB08915",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Update needed for med school laptop system requirements\n\nfull_description_text:  \nI’m requesting an update to the minimum system requirements for laptops used in the med school. Currently, the specs seem outdated, and it’s causing issues for students trying to run necessary software. This affects both Windows and Mac users, and it’s important for us to have the right info.",
+  "short_description": "Update needed for med school laptop system requirements",
+  "description": "I’m requesting an update to the minimum system requirements for laptops used in the med school. Currently, the specs seem outdated, and it’s causing issues for students trying to run necessary software. This affects both Windows and Mac users, and it’s important for us to have the right info."
+}

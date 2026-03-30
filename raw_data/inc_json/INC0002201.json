@@ -1,0 +1,20 @@
+{
+  "number": "INC0002201",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03157",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reach digital sign ticker not updating with new content\n\nfull_description_text: The user was trying to see new information on the Reach digital sign. They said the ticker is not showing any updates. This is important because they need the latest content to be displayed for the audience. The analyst noted that the issue happened during a live event, which makes it more urgent.",
+  "short_description": "Reach digital sign ticker not updating with new content",
+  "description": "The user was trying to see new information on the Reach digital sign. They said the ticker is not showing any updates. This is important because they need the latest content to be displayed for the audience. The analyst noted that the issue happened during a live event, which makes it more urgent."
+}

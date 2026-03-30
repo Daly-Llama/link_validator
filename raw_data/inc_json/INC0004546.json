@@ -1,0 +1,20 @@
+{
+  "number": "INC0004546",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09346",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about contacting the RA on duty and their phone number.\n\nfull_description_text: \nThe user is seeking information regarding the RA on duty. They want to know how to contact this individual and are specifically asking for the phone number. There seems to be some confusion about the process for reaching out to the RA.",
+  "short_description": "Inquiry about contacting the RA on duty and their phone number.",
+  "description": "The user is seeking information regarding the RA on duty. They want to know how to contact this individual and are specifically asking for the phone number. There seems to be some confusion about the process for reaching out to the RA."
+}

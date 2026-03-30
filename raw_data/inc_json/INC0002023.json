@@ -1,0 +1,20 @@
+{
+  "number": "INC0002023",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB02603",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues connecting to Cisco AnyConnect due to user conflicts.\n\nfull_description_text:\n- User is trying to connect to Cisco AnyConnect VPN.  \n- They received an error stating that multiple local users are logged in, which is blocking the connection.  \n- Another error mentioned that the AnyConnect package on the secure gateway couldn't be found, possibly due to network issues.  \n- User was advised to try reconnecting after resolving the local user conflict.",
+  "short_description": "Issues connecting to Cisco AnyConnect due to user conflicts.",
+  "description": "- User is trying to connect to Cisco AnyConnect VPN.  \n- They received an error stating that multiple local users are logged in, which is blocking the connection.  \n- Another error mentioned that the AnyConnect package on the secure gateway couldn't be found, possibly due to network issues.  \n- User was advised to try reconnecting after resolving the local user conflict."
+}

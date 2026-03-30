@@ -1,0 +1,20 @@
+{
+  "number": "INC0003424",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB06959",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Accidentally deleted Qualtrics survey needs restoration.\n\nfull_description_text:  \n- A user was working in Qualtrics and accidentally deleted an important survey.  \n- They reached out for help during a live chat, expressing urgency to recover it.  \n- The user seemed a bit stressed, mentioning it was a critical survey for their project.  \n- They were unsure about the process to retrieve deleted items in Qualtrics.",
+  "short_description": "Accidentally deleted Qualtrics survey needs restoration.",
+  "description": "- A user was working in Qualtrics and accidentally deleted an important survey.  \n- They reached out for help during a live chat, expressing urgency to recover it.  \n- The user seemed a bit stressed, mentioning it was a critical survey for their project.  \n- They were unsure about the process to retrieve deleted items in Qualtrics."
+}

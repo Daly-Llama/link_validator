@@ -1,0 +1,20 @@
+{
+  "number": "INC0001139",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00279",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Copier displays insufficient funds error when ID card is swiped.\n\nfull_description_text: The user reported that when they swipe their ID card on the new Sharp copier, it indicates that there are insufficient funds available. This issue arose during a routine printing task, leaving the user unable to complete their job. They were surprised by this message, as they believed their account had sufficient balance for printing. The help desk analyst is now looking into the matter to assist the user further.",
+  "short_description": "Copier displays insufficient funds error when ID card is swiped.",
+  "description": "The user reported that when they swipe their ID card on the new Sharp copier, it indicates that there are insufficient funds available. This issue arose during a routine printing task, leaving the user unable to complete their job. They were surprised by this message, as they believed their account had sufficient balance for printing. The help desk analyst is now looking into the matter to assist the user further."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001110",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00206",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error logging into Windows 10 computer due to trust relationship issue.\n\nfull_description_text:\n- The user was trying to log into their Windows 10 computer but ran into a problem.  \n- They got an error message saying there are no logon servers available to service the logon request.  \n- Also, it mentioned that the trust relationship between the workstation and the primary domain has failed, which sounds pretty serious.  \n- It seems like they just wanted to get into their computer, but this error is stopping them from doing that, which is really frustrating!",
+  "short_description": "Error logging into Windows 10 computer due to trust relationship issue.",
+  "description": "- The user was trying to log into their Windows 10 computer but ran into a problem.  \n- They got an error message saying there are no logon servers available to service the logon request.  \n- Also, it mentioned that the trust relationship between the workstation and the primary domain has failed, which sounds pretty serious.  \n- It seems like they just wanted to get into their computer, but this error is stopping them from doing that, which is really frustrating!"
+}

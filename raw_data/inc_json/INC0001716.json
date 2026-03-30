@@ -1,0 +1,20 @@
+{
+  "number": "INC0001716",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB01679",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to print documents from Microsoft Excel application.\n\nfull_description_text:  \nI am having a problem with printing from Excel. When I try to print, I get an error message saying my file could not be printed. This issue does not happen with other programs, only with Excel. I have checked the printer and connection, but the problem continues.",
+  "short_description": "Unable to print documents from Microsoft Excel application.",
+  "description": "I am having a problem with printing from Excel. When I try to print, I get an error message saying my file could not be printed. This issue does not happen with other programs, only with Excel. I have checked the printer and connection, but the problem continues."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002395",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03712",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help setting out of office replies for shared email account.\n\nfull_description_text:  \nI'm trying to figure out how to set up out of office replies for my shared email account in Office 365. I have several email accounts, and it's a bit confusing to manage them all. Can you please guide me on how to do this for the shared account? I really want to make sure that anyone emailing gets an automatic response when I'm away.",
+  "short_description": "Need help setting out of office replies for shared email account.",
+  "description": "I'm trying to figure out how to set up out of office replies for my shared email account in Office 365. I have several email accounts, and it's a bit confusing to manage them all. Can you please guide me on how to do this for the shared account? I really want to make sure that anyone emailing gets an automatic response when I'm away."
+}

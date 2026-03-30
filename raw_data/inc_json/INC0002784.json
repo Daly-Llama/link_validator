@@ -1,0 +1,20 @@
+{
+  "number": "INC0002784",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB04866",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cannot access FOATEXT screen in Banner Finance\n\nfull_description_text: \nSo, I was on the phone with the user, and they said they can't get into the FOATEXT screen in Banner. They were trying to do something important, but it just wouldn't open for them. They seemed a bit frustrated, and I could hear some background noise, maybe a busy office. It’s really important for them to get this fixed soon!",
+  "short_description": "Cannot access FOATEXT screen in Banner Finance",
+  "description": "So, I was on the phone with the user, and they said they can't get into the FOATEXT screen in Banner. They were trying to do something important, but it just wouldn't open for them. They seemed a bit frustrated, and I could hear some background noise, maybe a busy office. It’s really important for them to get this fixed soon!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003809",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07942",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the WORKDAY function in Excel.\n\nfull_description_text:  \n- The user was on a call asking about the WORKDAY function in Excel.  \n- They wanted to understand what this function does and how it can be used.  \n- There was some confusion regarding its application in their current tasks.  \n- The analyst noted that the user seemed to need clarity on this specific Excel feature.",
+  "short_description": "Inquiry about the WORKDAY function in Excel.",
+  "description": "- The user was on a call asking about the WORKDAY function in Excel.  \n- They wanted to understand what this function does and how it can be used.  \n- There was some confusion regarding its application in their current tasks.  \n- The analyst noted that the user seemed to need clarity on this specific Excel feature."
+}

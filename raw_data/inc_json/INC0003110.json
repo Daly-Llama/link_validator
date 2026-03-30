@@ -1,0 +1,20 @@
+{
+  "number": "INC0003110",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05786",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to delete multiple Zoom cloud recordings at once.\n\nfull_description_text: The user is trying to delete several Zoom cloud recordings but is unsure how to proceed. They mentioned having a significant number of recordings stored in their account and expressed a desire to remove them all efficiently. During the call, they seemed frustrated with the process and were looking for a straightforward method to manage their recordings.",
+  "short_description": "Unable to delete multiple Zoom cloud recordings at once.",
+  "description": "The user is trying to delete several Zoom cloud recordings but is unsure how to proceed. They mentioned having a significant number of recordings stored in their account and expressed a desire to remove them all efficiently. During the call, they seemed frustrated with the process and were looking for a straightforward method to manage their recordings."
+}

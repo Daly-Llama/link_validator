@@ -1,0 +1,20 @@
+{
+  "number": "INC0004504",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09214",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to change personal email for future communications\n\nfull_description_text:  \nUser's school is shutting down on July 24th.  \nThey want to ensure future emails are sent to their USD email address.  \nCurrent communications are being sent to their personal email, which will no longer be valid.  \nThis change is necessary to maintain access to important information.",
+  "short_description": "Request to change personal email for future communications",
+  "description": "User's school is shutting down on July 24th.  \nThey want to ensure future emails are sent to their USD email address.  \nCurrent communications are being sent to their personal email, which will no longer be valid.  \nThis change is necessary to maintain access to important information."
+}

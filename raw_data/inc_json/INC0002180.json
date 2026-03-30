@@ -1,0 +1,20 @@
+{
+  "number": "INC0002180",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03096",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Campus clocks are displaying incorrect time.\n\nfull_description_text:  \n- During a phone call, the user reported that the campus clocks are not functioning correctly.  \n- They indicated that the time displayed on the clocks is inaccurate, causing confusion.  \n- This issue may affect scheduling and time management for individuals relying on these clocks.",
+  "short_description": "Campus clocks are displaying incorrect time.",
+  "description": "- During a phone call, the user reported that the campus clocks are not functioning correctly.  \n- They indicated that the time displayed on the clocks is inaccurate, causing confusion.  \n- This issue may affect scheduling and time management for individuals relying on these clocks."
+}

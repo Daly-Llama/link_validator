@@ -1,0 +1,20 @@
+{
+  "number": "INC0001736",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01728",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open certain CV files during reappointment process\n\nfull_description_text:  \nI was trying to open some Curriculum Vitae files that I uploaded for the Peds reappointment process, but I can't seem to access them. It’s really frustrating because I need those documents for the review. The files don’t start with '%PDF-', which I think is part of the problem. I just want to get everything sorted out so I can move forward with the reappointment.",
+  "short_description": "Unable to open certain CV files during reappointment process",
+  "description": "I was trying to open some Curriculum Vitae files that I uploaded for the Peds reappointment process, but I can't seem to access them. It’s really frustrating because I need those documents for the review. The files don’t start with '%PDF-', which I think is part of the problem. I just want to get everything sorted out so I can move forward with the reappointment."
+}

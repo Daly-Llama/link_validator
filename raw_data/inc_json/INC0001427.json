@@ -1,0 +1,20 @@
+{
+  "number": "INC0001427",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00835",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues connecting Playstation 4 to wired network with DNS errors.\n\nfull_description_text:  \nSo, I was trying to get the Playstation 4 online using a wired connection, but it just wouldn't cooperate. I kept getting these annoying error messages like \"A DNS SERVER CANNOT BE USED\" and \"Unable to obtain IP Address.\" It felt like I was stuck in a loop, and no matter what I did, it just timed out and couldn't find the IP address. Super frustrating when all you want is to jump into a game!",
+  "short_description": "Issues connecting Playstation 4 to wired network with DNS errors.",
+  "description": "So, I was trying to get the Playstation 4 online using a wired connection, but it just wouldn't cooperate. I kept getting these annoying error messages like \"A DNS SERVER CANNOT BE USED\" and \"Unable to obtain IP Address.\" It felt like I was stuck in a loop, and no matter what I did, it just timed out and couldn't find the IP address. Super frustrating when all you want is to jump into a game!"
+}

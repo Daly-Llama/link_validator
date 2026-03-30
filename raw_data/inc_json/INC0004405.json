@@ -1,0 +1,20 @@
+{
+  "number": "INC0004405",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08958",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help with donating leave to an employee.\n\nfull_description_text: \nI am trying to help someone donate their leave to another employee. The process is not clear, and I need guidance on how to do this. Can you please explain how to donate leave? Thank you!",
+  "short_description": "Need help with donating leave to an employee.",
+  "description": "I am trying to help someone donate their leave to another employee. The process is not clear, and I need guidance on how to do this. Can you please explain how to donate leave? Thank you!"
+}

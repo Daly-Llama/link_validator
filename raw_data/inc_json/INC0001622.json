@@ -1,0 +1,20 @@
+{
+  "number": "INC0001622",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01402",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Laptop screen has vertical and horizontal lines with distortion.\n\nfull_description_text:  \nI was just using my laptop when I noticed these weird lines running down and across the screen. It’s like the video is all distorted, and it’s super hard to see anything clearly. I’ve got a Fujitsu, but I’ve also seen this on HP and Lenovo laptops, so I’m not sure if it’s just mine or a bigger issue. Plus, there’s a crack on the screen that makes it even worse!",
+  "short_description": "Laptop screen has vertical and horizontal lines with distortion.",
+  "description": "I was just using my laptop when I noticed these weird lines running down and across the screen. It’s like the video is all distorted, and it’s super hard to see anything clearly. I’ve got a Fujitsu, but I’ve also seen this on HP and Lenovo laptops, so I’m not sure if it’s just mine or a bigger issue. Plus, there’s a crack on the screen that makes it even worse!"
+}

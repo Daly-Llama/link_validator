@@ -1,0 +1,20 @@
+{
+  "number": "INC0001006",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00019",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble adding or deleting shared calendar in Outlook\n\nfull_description_text:  \nI was trying to add a shared calendar in Outlook, but it’s not working. Also, I want to delete a shared calendar, but I don’t know how. Can you help me with this? I just need to fix the calendar stuff.",
+  "short_description": "Trouble adding or deleting shared calendar in Outlook",
+  "description": "I was trying to add a shared calendar in Outlook, but it’s not working. Also, I want to delete a shared calendar, but I don’t know how. Can you help me with this? I just need to fix the calendar stuff."
+}

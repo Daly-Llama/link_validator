@@ -1,0 +1,20 @@
+{
+  "number": "INC0003478",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB07167",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Not authorized error when trying to register for classes\n\nfull_description_text:  \nI can't log in to self-service registration.  \nIt says my student ID isn't authorized to view the record.  \nAlso, there's an internal server error message.  \nSuper frustrating!",
+  "short_description": "Not authorized error when trying to register for classes",
+  "description": "I can't log in to self-service registration.  \nIt says my student ID isn't authorized to view the record.  \nAlso, there's an internal server error message.  \nSuper frustrating!"
+}

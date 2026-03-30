@@ -1,0 +1,20 @@
+{
+  "number": "INC0002741",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB04761",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Federal Direct Unsubsidized Loan details\n\nfull_description_text:  \nThe user is seeking clarification on what a Federal Direct Unsubsidized Loan entails. They are likely exploring their options for financial aid and need a better understanding of this specific type of loan. The inquiry suggests that the user may be unfamiliar with the terms and conditions associated with federal loans.",
+  "short_description": "Inquiry about Federal Direct Unsubsidized Loan details",
+  "description": "The user is seeking clarification on what a Federal Direct Unsubsidized Loan entails. They are likely exploring their options for financial aid and need a better understanding of this specific type of loan. The inquiry suggests that the user may be unfamiliar with the terms and conditions associated with federal loans."
+}

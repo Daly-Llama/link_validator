@@ -1,0 +1,20 @@
+{
+  "number": "INC0002125",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02909",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: D2L course title missing some section numbers.\n\nfull_description_text:  \nAn instructor is experiencing an issue with the D2L course title. The title does not display all of the course section numbers. This is causing confusion regarding course identification. The instructor needs assistance to resolve this problem.",
+  "short_description": "D2L course title missing some section numbers.",
+  "description": "An instructor is experiencing an issue with the D2L course title. The title does not display all of the course section numbers. This is causing confusion regarding course identification. The instructor needs assistance to resolve this problem."
+}

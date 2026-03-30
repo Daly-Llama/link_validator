@@ -1,0 +1,20 @@
+{
+  "number": "INC0004261",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB08647",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: User unable to log into USD account due to forgotten password.\n\nfull_description_text:  \nThe user is experiencing difficulties accessing their USD account as they have forgotten their password. They attempted to log in but were unsuccessful, prompting a need for assistance with the password reset process. Additionally, the user mentioned that their password manager indicated their password was compromised online, which further necessitates a change. This situation has led to a request for help through the self-service form, indicating a desire to resolve the issue promptly.",
+  "short_description": "User unable to log into USD account due to forgotten password.",
+  "description": "The user is experiencing difficulties accessing their USD account as they have forgotten their password. They attempted to log in but were unsuccessful, prompting a need for assistance with the password reset process. Additionally, the user mentioned that their password manager indicated their password was compromised online, which further necessitates a change. This situation has led to a request for help through the self-service form, indicating a desire to resolve the issue promptly."
+}

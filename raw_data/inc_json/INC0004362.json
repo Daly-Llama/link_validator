@@ -1,0 +1,20 @@
+{
+  "number": "INC0004362",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08841",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook keeps crashing on macOS when trying to open it.\n\nfull_description_text:\n- So, the user clicks on the Outlook icon to open it.  \n- But then it just shuts down right away and shows an error message.  \n- They keep hitting OK, but it just keeps happening over and over.",
+  "short_description": "Outlook keeps crashing on macOS when trying to open it.",
+  "description": "- So, the user clicks on the Outlook icon to open it.  \n- But then it just shuts down right away and shows an error message.  \n- They keep hitting OK, but it just keeps happening over and over."
+}

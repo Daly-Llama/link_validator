@@ -1,0 +1,20 @@
+{
+  "number": "INC0001375",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00709",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update content or files in myUSD Portal\n\nfull_description_text: The user is requesting an update to specific content or a file within the myUSD Portal. During the call, they expressed urgency in having this change made, as it is critical for their ongoing tasks. There were some minor details mentioned about the type of content, but the main focus was on the need for the update to be processed promptly.",
+  "short_description": "Need to update content or files in myUSD Portal",
+  "description": "The user is requesting an update to specific content or a file within the myUSD Portal. During the call, they expressed urgency in having this change made, as it is critical for their ongoing tasks. There were some minor details mentioned about the type of content, but the main focus was on the need for the update to be processed promptly."
+}

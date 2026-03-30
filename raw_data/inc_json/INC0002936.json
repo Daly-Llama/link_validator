@@ -1,0 +1,20 @@
+{
+  "number": "INC0002936",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05334",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access video on Media02 in D2L.\n\nfull_description_text: \nWhen trying to watch a video linked in my D2L course, I encounter an error message stating that the site can’t be reached. The specific error indicates that media02.usd.edu refused to connect, preventing me from accessing the content. This issue occurs consistently whenever I click the link, and it is impacting my ability to complete course assignments.",
+  "short_description": "Unable to access video on Media02 in D2L.",
+  "description": "When trying to watch a video linked in my D2L course, I encounter an error message stating that the site can’t be reached. The specific error indicates that media02.usd.edu refused to connect, preventing me from accessing the content. This issue occurs consistently whenever I click the link, and it is impacting my ability to complete course assignments."
+}

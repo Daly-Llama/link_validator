@@ -1,0 +1,20 @@
+{
+  "number": "INC0003867",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08001",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User inquires about the purpose of OneNote.\n\nfull_description_text: User asked what OneNote is. They need clarification on its function. The question was raised during a call. No additional context provided.",
+  "short_description": "User inquires about the purpose of OneNote.",
+  "description": "User asked what OneNote is. They need clarification on its function. The question was raised during a call. No additional context provided."
+}

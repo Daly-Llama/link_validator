@@ -1,0 +1,20 @@
+{
+  "number": "INC0002433",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03821",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Calls are being forwarded to the wrong number on my VOIP phone.\n\nfull_description_text: I was trying to forward my calls on my Cisco VOIP phone, but now they are going to a different number. I don’t know why this is happening, and it’s really confusing. I just want my calls to go to the right place.",
+  "short_description": "Calls are being forwarded to the wrong number on my VOIP phone.",
+  "description": "I was trying to forward my calls on my Cisco VOIP phone, but now they are going to a different number. I don’t know why this is happening, and it’s really confusing. I just want my calls to go to the right place."
+}

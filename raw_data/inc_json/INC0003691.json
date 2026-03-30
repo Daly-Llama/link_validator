@@ -1,0 +1,20 @@
+{
+  "number": "INC0003691",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07810",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble duplicating and moving questions in Google Forms\n\nfull_description_text: \nI am having a problem with Google Forms. I can't figure out how to duplicate questions or move them around. It's really frustrating because I need to organize my form better but I don't know how to do it.",
+  "short_description": "Trouble duplicating and moving questions in Google Forms",
+  "description": "I am having a problem with Google Forms. I can't figure out how to duplicate questions or move them around. It's really frustrating because I need to organize my form better but I don't know how to do it."
+}

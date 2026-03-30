@@ -1,0 +1,20 @@
+{
+  "number": "INC0003578",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07550",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Brightspace Pulse app is not functioning as expected.\n\nfull_description_text: The user reported that the Brightspace Pulse app is down and not functioning properly. They were attempting to access the app when they encountered issues. This has caused some frustration as they rely on the app for their educational needs.",
+  "short_description": "Brightspace Pulse app is not functioning as expected.",
+  "description": "The user reported that the Brightspace Pulse app is down and not functioning properly. They were attempting to access the app when they encountered issues. This has caused some frustration as they rely on the app for their educational needs."
+}

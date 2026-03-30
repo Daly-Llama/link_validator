@@ -1,0 +1,20 @@
+{
+  "number": "INC0002587",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04263",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into DegreeWorks due to access error\n\nfull_description_text:  \nI am trying to log into DegreeWorks, but I keep getting an error message. It says there was an unexpected error with a status of 500 and that I do not have permission to access the Dashboard. This is preventing me from using the system as needed.",
+  "short_description": "Unable to log into DegreeWorks due to access error",
+  "description": "I am trying to log into DegreeWorks, but I keep getting an error message. It says there was an unexpected error with a status of 500 and that I do not have permission to access the Dashboard. This is preventing me from using the system as needed."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002306",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03497",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update content on SDSD, SDSBVI, or CFD Tips websites.\n\nfull_description_text:  \nDuring a phone call, the user expressed a need to update the content on the SDSD, SDSBVI, or Center for Disabilities TIPS website. They were unclear about the specific changes required and mentioned that the information currently displayed is outdated. The user seemed to have some difficulty articulating their request due to language barriers, but it was evident that updating the website content is important for them.",
+  "short_description": "Need to update content on SDSD, SDSBVI, or CFD Tips websites.",
+  "description": "During a phone call, the user expressed a need to update the content on the SDSD, SDSBVI, or Center for Disabilities TIPS website. They were unclear about the specific changes required and mentioned that the information currently displayed is outdated. The user seemed to have some difficulty articulating their request due to language barriers, but it was evident that updating the website content is important for them."
+}

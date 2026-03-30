@@ -1,0 +1,20 @@
+{
+  "number": "INC0004543",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09341",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble accessing and pushing code to Azure DevOps Repo\n\nfull_description_text:  \nI'm trying to get the current code base from the Azure DevOps Repo, but I'm not sure how to do it. Also, I need to push some changes I've made, and I'm kinda lost on that too. It's all a bit confusing, and I just want to figure out how to get my code in and out of there without any hassle. Can someone help me with this?",
+  "short_description": "Trouble accessing and pushing code to Azure DevOps Repo",
+  "description": "I'm trying to get the current code base from the Azure DevOps Repo, but I'm not sure how to do it. Also, I need to push some changes I've made, and I'm kinda lost on that too. It's all a bit confusing, and I just want to figure out how to get my code in and out of there without any hassle. Can someone help me with this?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004727",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB09862",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about fire evacuation plan for Nation Music Museum\n\nfull_description_text:\n- The user is seeking information regarding the fire evacuation plan for the Nation Music Museum (NMM).  \n- They are specifically interested in understanding the procedures and routes to follow in case of a fire emergency.  \n- This request may be related to safety compliance or preparation for potential fire drills.  \n- Clarification on the evacuation plan is essential for ensuring the safety of all personnel and visitors in the building.",
+  "short_description": "Inquiry about fire evacuation plan for Nation Music Museum",
+  "description": "- The user is seeking information regarding the fire evacuation plan for the Nation Music Museum (NMM).  \n- They are specifically interested in understanding the procedures and routes to follow in case of a fire emergency.  \n- This request may be related to safety compliance or preparation for potential fire drills.  \n- Clarification on the evacuation plan is essential for ensuring the safety of all personnel and visitors in the building."
+}

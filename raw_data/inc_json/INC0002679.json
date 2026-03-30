@@ -1,0 +1,20 @@
+{
+  "number": "INC0002679",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB04580",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Grubhub app not syncing after new coyote card activation.\n\nfull_description_text: The user is experiencing issues with the Grubhub app on their cell phone. After receiving a new coyote card due to a broken one, the app fails to sync properly. They are seeking assistance to resolve this syncing problem.",
+  "short_description": "Grubhub app not syncing after new coyote card activation.",
+  "description": "The user is experiencing issues with the Grubhub app on their cell phone. After receiving a new coyote card due to a broken one, the app fails to sync properly. They are seeking assistance to resolve this syncing problem."
+}

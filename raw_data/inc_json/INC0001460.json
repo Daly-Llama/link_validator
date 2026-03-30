@@ -1,0 +1,20 @@
+{
+  "number": "INC0001460",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00927",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Calendar invites are missing from the Inbox in Outlook.\n\nfull_description_text:\n- The user reported that calendar invitations are not appearing in their Inbox.  \n- Instead, these invitations are going directly to the calendar section of Outlook.  \n- This issue is occurring within the Office 365 environment, which is used for email management.  \n- The user expressed concern about missing important calendar invites that should be visible in their Inbox.",
+  "short_description": "Calendar invites are missing from the Inbox in Outlook.",
+  "description": "- The user reported that calendar invitations are not appearing in their Inbox.  \n- Instead, these invitations are going directly to the calendar section of Outlook.  \n- This issue is occurring within the Office 365 environment, which is used for email management.  \n- The user expressed concern about missing important calendar invites that should be visible in their Inbox."
+}

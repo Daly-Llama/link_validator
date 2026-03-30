@@ -1,0 +1,20 @@
+{
+  "number": "INC0001603",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01333",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to connect new fax machine for use\n\nfull_description_text:\n- The user is seeking assistance with the installation of a new fax machine.  \n- They have submitted a request through the self-service form, indicating the need for setup.  \n- The user expects the fax machine to be operational for their tasks once connected.",
+  "short_description": "Request to connect new fax machine for use",
+  "description": "- The user is seeking assistance with the installation of a new fax machine.  \n- They have submitted a request through the self-service form, indicating the need for setup.  \n- The user expects the fax machine to be operational for their tasks once connected."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004157",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB08432",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty inserting an organizational chart in D2L.\n\nfull_description_text: \nDuring a phone call, the user expressed confusion about how to insert an organizational chart in D2L. They were trying to enhance their course materials but were unsure of the steps involved. The user mentioned that they needed this feature for better clarity in their presentations, but they faced challenges in locating the correct options within the platform.",
+  "short_description": "Difficulty inserting an organizational chart in D2L.",
+  "description": "During a phone call, the user expressed confusion about how to insert an organizational chart in D2L. They were trying to enhance their course materials but were unsure of the steps involved. The user mentioned that they needed this feature for better clarity in their presentations, but they faced challenges in locating the correct options within the platform."
+}

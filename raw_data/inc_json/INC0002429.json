@@ -1,0 +1,20 @@
+{
+  "number": "INC0002429",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03808",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: XM Radio not functioning in the Wellness Center\n\nfull_description_text: \nDuring a call, the user reported that the XM Radio is not working in the Wellness Center. They mentioned that they were trying to use the XM Streaming player but it was not responding. The user seemed frustrated and said they needed it for a wellness event. There was some confusion about whether the issue was with the radio or the streaming player.",
+  "short_description": "XM Radio not functioning in the Wellness Center",
+  "description": "During a call, the user reported that the XM Radio is not working in the Wellness Center. They mentioned that they were trying to use the XM Streaming player but it was not responding. The user seemed frustrated and said they needed it for a wellness event. There was some confusion about whether the issue was with the radio or the streaming player."
+}

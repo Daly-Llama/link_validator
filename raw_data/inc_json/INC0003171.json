@@ -1,0 +1,20 @@
+{
+  "number": "INC0003171",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB05993",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to add a user to Microsoft Teams site.\n\nfull_description_text: During a live chat session, the help desk analyst encountered an issue while attempting to add a user to a Microsoft Teams site. The process was not proceeding as expected, leading to confusion about the necessary steps to grant access. This situation arose within the context of using Microsoft Teams, Office 365, and Azure AD, highlighting the need for clarity in user management procedures.",
+  "short_description": "Unable to add a user to Microsoft Teams site.",
+  "description": "During a live chat session, the help desk analyst encountered an issue while attempting to add a user to a Microsoft Teams site. The process was not proceeding as expected, leading to confusion about the necessary steps to grant access. This situation arose within the context of using Microsoft Teams, Office 365, and Azure AD, highlighting the need for clarity in user management procedures."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004007",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08229",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help with manually captioning a Panopto recording\n\nfull_description_text:  \nUser is trying to manually caption a Panopto recording. They are not sure how to do it. The process is confusing and they need clear steps. They want to know what to do next and how to fix this issue.",
+  "short_description": "Need help with manually captioning a Panopto recording",
+  "description": "User is trying to manually caption a Panopto recording. They are not sure how to do it. The process is confusing and they need clear steps. They want to know what to do next and how to fix this issue."
+}

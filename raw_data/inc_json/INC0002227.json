@@ -1,0 +1,20 @@
+{
+  "number": "INC0002227",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03222",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to install .NET Framework 3.5 on Windows 10.\n\nfull_description_text:  \nThe user is trying to run a program. This program needs .NET Framework 3.5. The user is on Windows 10. They cannot proceed without this installation.",
+  "short_description": "Need to install .NET Framework 3.5 on Windows 10.",
+  "description": "The user is trying to run a program. This program needs .NET Framework 3.5. The user is on Windows 10. They cannot proceed without this installation."
+}

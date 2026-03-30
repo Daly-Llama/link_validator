@@ -1,0 +1,20 @@
+{
+  "number": "INC0004529",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB09293",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Options for computers not running Windows 11 after Windows 10 EOL\n\nfull_description_text:\n- Windows 10 will reach its end of life in October 2025, leading to a lack of support for users.  \n- Users are inquiring about alternatives for computers that are not upgraded to Windows 11.  \n- This situation necessitates a review of available options to ensure continued functionality and security for these devices.",
+  "short_description": "Options for computers not running Windows 11 after Windows 10 EOL",
+  "description": "- Windows 10 will reach its end of life in October 2025, leading to a lack of support for users.  \n- Users are inquiring about alternatives for computers that are not upgraded to Windows 11.  \n- This situation necessitates a review of available options to ensure continued functionality and security for these devices."
+}

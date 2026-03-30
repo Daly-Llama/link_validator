@@ -1,0 +1,20 @@
+{
+  "number": "INC0001195",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00369",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop damage reported by active student for repair.\n\nfull_description_text: Student says laptop is damaged. Needs repair urgently. Active student, personal computer issue. Not sure about the extent of damage.",
+  "short_description": "Laptop damage reported by active student for repair.",
+  "description": "Student says laptop is damaged. Needs repair urgently. Active student, personal computer issue. Not sure about the extent of damage."
+}

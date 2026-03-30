@@ -1,0 +1,20 @@
+{
+  "number": "INC0002356",
+  "category": "Admissions",
+  "subcategory": "Scholarships",
+  "correct_kb": "KB03594",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about available types of scholarships for admissions.\n\nfull_description_text:  \nI was trying to find out what kinds of scholarships are there for admissions. I really want to know more about the options, but I’m not sure where to look. It’s a bit confusing, and I hope you can help me understand the different types available.",
+  "short_description": "Inquiry about available types of scholarships for admissions.",
+  "description": "I was trying to find out what kinds of scholarships are there for admissions. I really want to know more about the options, but I’m not sure where to look. It’s a bit confusing, and I hope you can help me understand the different types available."
+}

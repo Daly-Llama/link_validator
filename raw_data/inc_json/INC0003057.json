@@ -1,0 +1,20 @@
+{
+  "number": "INC0003057",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB05675",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for creation of a course pack for students\n\nfull_description_text:\n- The user is seeking assistance in creating a course pack for their students.  \n- They are currently using the Akademos Bookstore platform for USD instructors.  \n- The request was made during a live phone call with a help desk analyst.  \n- The user expressed a desire to provide coursepacks through the online bookstore.",
+  "short_description": "Request for creation of a course pack for students",
+  "description": "- The user is seeking assistance in creating a course pack for their students.  \n- They are currently using the Akademos Bookstore platform for USD instructors.  \n- The request was made during a live phone call with a help desk analyst.  \n- The user expressed a desire to provide coursepacks through the online bookstore."
+}

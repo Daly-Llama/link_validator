@@ -1,0 +1,20 @@
+{
+  "number": "INC0003386",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB06784",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access Xtender with the Xtender account.\n\nfull_description_text: The field technician is trying to login to Xtender using their Xtender account. However, they are facing issues and cannot access the system. This problem is happening in the Banner environment, and it is important for their work. The technician has checked their credentials but still cannot get in.",
+  "short_description": "Unable to access Xtender with the Xtender account.",
+  "description": "The field technician is trying to login to Xtender using their Xtender account. However, they are facing issues and cannot access the system. This problem is happening in the Banner environment, and it is important for their work. The technician has checked their credentials but still cannot get in."
+}

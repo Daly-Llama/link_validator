@@ -1,0 +1,20 @@
+{
+  "number": "INC0003344",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB06611",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty combining and merging PDF files in Adobe Acrobat\n\nfull_description_text: \nThe user is trying to combine multiple PDF files using Adobe Acrobat but is facing issues with the merging process. They are unsure how to properly execute the commands to split or extract files as needed. This has caused confusion and delays in their workflow, as they require these functionalities for their tasks. The user may need assistance in understanding the correct procedures for file manipulation within the software.",
+  "short_description": "Difficulty combining and merging PDF files in Adobe Acrobat",
+  "description": "The user is trying to combine multiple PDF files using Adobe Acrobat but is facing issues with the merging process. They are unsure how to properly execute the commands to split or extract files as needed. This has caused confusion and delays in their workflow, as they require these functionalities for their tasks. The user may need assistance in understanding the correct procedures for file manipulation within the software."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004164",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08439",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Missing header row in PowerPoint table causing display issues.\n\nfull_description_text: During a live chat session, the user reported that a table in their PowerPoint presentation is missing the header row. This absence is affecting the clarity and organization of the data presented. The user is seeking assistance to restore the header row for better readability and presentation quality.",
+  "short_description": "Missing header row in PowerPoint table causing display issues.",
+  "description": "During a live chat session, the user reported that a table in their PowerPoint presentation is missing the header row. This absence is affecting the clarity and organization of the data presented. The user is seeking assistance to restore the header row for better readability and presentation quality."
+}

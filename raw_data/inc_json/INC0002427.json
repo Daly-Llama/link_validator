@@ -1,0 +1,20 @@
+{
+  "number": "INC0002427",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB03805",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access D2L ePortfolio for settings adjustment.\n\nfull_description_text:  \nThe user is experiencing difficulty in locating or accessing the D2L ePortfolio. They are unsure of how to find it and want to ensure they have the necessary access to modify their settings. This issue is preventing them from utilizing the features they need within the D2L environment.",
+  "short_description": "Unable to access D2L ePortfolio for settings adjustment.",
+  "description": "The user is experiencing difficulty in locating or accessing the D2L ePortfolio. They are unsure of how to find it and want to ensure they have the necessary access to modify their settings. This issue is preventing them from utilizing the features they need within the D2L environment."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004663",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09667",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about the wayfinding journal from the Center for Career Design.\n\nfull_description_text:  \nI am looking for the wayfinding journal that is offered by the Center for Career Design. I am not sure where to find it or what exactly a wayfinding journal is. It would be helpful to have more information on this resource and its availability. Please provide guidance on how to access this journal.",
+  "short_description": "Inquiry about the wayfinding journal from the Center for Career Design.",
+  "description": "I am looking for the wayfinding journal that is offered by the Center for Career Design. I am not sure where to find it or what exactly a wayfinding journal is. It would be helpful to have more information on this resource and its availability. Please provide guidance on how to access this journal."
+}

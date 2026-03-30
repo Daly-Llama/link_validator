@@ -1,0 +1,20 @@
+{
+  "number": "INC0004447",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09080",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help changing default file type for XML files\n\nfull_description_text:  \nSo, I was chatting with a user about XML files. They wanna change the default file type but aren't sure how. It's on Windows 10 and 11, and they're kinda stuck. Just need some quick guidance on this.",
+  "short_description": "Need help changing default file type for XML files",
+  "description": "So, I was chatting with a user about XML files. They wanna change the default file type but aren't sure how. It's on Windows 10 and 11, and they're kinda stuck. Just need some quick guidance on this."
+}

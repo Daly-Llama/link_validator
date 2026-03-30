@@ -1,0 +1,20 @@
+{
+  "number": "INC0002604",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04319",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook email text size is inconsistent and menu shortcuts are cut off.\n\nfull_description_text: \nWhen I open an email in Outlook, the text appears very small, making it difficult to read. Additionally, my Outlook seems to be zoomed out, which affects the visibility of my menu shortcuts in the Banner. Some of my favorites are cut off, and I can't see all of them clearly. This inconsistency in text size is causing frustration while navigating my emails and the Banner interface.",
+  "short_description": "Outlook email text size is inconsistent and menu shortcuts are cut off.",
+  "description": "When I open an email in Outlook, the text appears very small, making it difficult to read. Additionally, my Outlook seems to be zoomed out, which affects the visibility of my menu shortcuts in the Banner. Some of my favorites are cut off, and I can't see all of them clearly. This inconsistency in text size is causing frustration while navigating my emails and the Banner interface."
+}

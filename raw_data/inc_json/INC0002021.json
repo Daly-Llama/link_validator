@@ -1,0 +1,20 @@
+{
+  "number": "INC0002021",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB02601",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to set out of office message for former employee.\n\nfull_description_text:  \nA help desk analyst received a call regarding an out of office message.  \nThe employee no longer works for USD and can't access their email.  \nThe caller requested to set the message on their behalf.  \nThere was some confusion about the process in Office 365 Outlook.",
+  "short_description": "Unable to set out of office message for former employee.",
+  "description": "A help desk analyst received a call regarding an out of office message.  \nThe employee no longer works for USD and can't access their email.  \nThe caller requested to set the message on their behalf.  \nThere was some confusion about the process in Office 365 Outlook."
+}

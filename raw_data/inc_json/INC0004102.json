@@ -1,0 +1,20 @@
+{
+  "number": "INC0004102",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08365",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty using Quick Tables feature in Word.\n\nfull_description_text: The user is experiencing issues with the Quick Tables functionality in Word. They are unsure how to utilize this feature effectively. This situation has caused confusion and hindered their ability to complete tasks efficiently.",
+  "short_description": "Difficulty using Quick Tables feature in Word.",
+  "description": "The user is experiencing issues with the Quick Tables functionality in Word. They are unsure how to utilize this feature effectively. This situation has caused confusion and hindered their ability to complete tasks efficiently."
+}

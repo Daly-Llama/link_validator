@@ -1,0 +1,20 @@
+{
+  "number": "INC0002467",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB03917",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help blocking SPAM emails in Outlook.\n\nfull_description_text:  \nI'm trying to figure out how to stop all these SPAM emails that keep flooding my Outlook inbox. It's becoming really frustrating, and I want to know the best way to block these unwanted messages. Can someone guide me on how to manage this in Outlook Web Access?",
+  "short_description": "Need help blocking SPAM emails in Outlook.",
+  "description": "I'm trying to figure out how to stop all these SPAM emails that keep flooding my Outlook inbox. It's becoming really frustrating, and I want to know the best way to block these unwanted messages. Can someone guide me on how to manage this in Outlook Web Access?"
+}

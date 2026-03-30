@@ -1,0 +1,20 @@
+{
+  "number": "INC0001175",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00337",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to change font settings in Outlook emails.\n\nfull_description_text:  \nI want to change the font and size in my emails, but it’s not working. After an update in Outlook, it seems like replies are automatically in BOLD font. This is really frustrating because I can't get the settings to stick.",
+  "short_description": "Unable to change font settings in Outlook emails.",
+  "description": "I want to change the font and size in my emails, but it’s not working. After an update in Outlook, it seems like replies are automatically in BOLD font. This is really frustrating because I can't get the settings to stick."
+}

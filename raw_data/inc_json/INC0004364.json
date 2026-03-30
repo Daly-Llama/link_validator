@@ -1,0 +1,20 @@
+{
+  "number": "INC0004364",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08851",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble accessing Microsoft Copilot features.\n\nfull_description_text:  \nI want to access Microsoft Copilot. But I don’t know how to do it. It’s confusing for me. Can you help me with this?",
+  "short_description": "Trouble accessing Microsoft Copilot features.",
+  "description": "I want to access Microsoft Copilot. But I don’t know how to do it. It’s confusing for me. Can you help me with this?"
+}

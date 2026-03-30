@@ -1,0 +1,20 @@
+{
+  "number": "INC0003172",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05994",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help configuring Defender to ignore KnowBe4 phishing messages\n\nfull_description_text:  \n- I'm trying to set up Defender for Office 365 to not flag the simulated phishing messages from KnowBe4.  \n- It's really important for our training that these messages get through without being marked as malicious.  \n- Also, I need to make sure that emails sent to bucket@usd.edu are treated the same way.  \n- Just looking for some guidance on how to get this done!",
+  "short_description": "Need help configuring Defender to ignore KnowBe4 phishing messages",
+  "description": "- I'm trying to set up Defender for Office 365 to not flag the simulated phishing messages from KnowBe4.  \n- It's really important for our training that these messages get through without being marked as malicious.  \n- Also, I need to make sure that emails sent to bucket@usd.edu are treated the same way.  \n- Just looking for some guidance on how to get this done!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001471",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00952",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Office phone has no dial tone and does not ring.\n\nfull_description_text: El teléfono de la oficina no tiene tono de marcado y no suena cuando se llama. El usuario reporta que no puede realizar llamadas ni recibirlas. Esto está afectando la comunicación en el entorno de trabajo.",
+  "short_description": "Office phone has no dial tone and does not ring.",
+  "description": "El teléfono de la oficina no tiene tono de marcado y no suena cuando se llama. El usuario reporta que no puede realizar llamadas ni recibirlas. Esto está afectando la comunicación en el entorno de trabajo."
+}

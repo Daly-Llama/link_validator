@@ -1,0 +1,20 @@
+{
+  "number": "INC0003828",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07961",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help finding average, maximum, or minimum in Excel.\n\nfull_description_text: \nUser is trying to calculate average, maximum, or minimum values. They are using Excel for this task. The user is not sure how to do it. They submitted a ticket for assistance.",
+  "short_description": "Need help finding average, maximum, or minimum in Excel.",
+  "description": "User is trying to calculate average, maximum, or minimum values. They are using Excel for this task. The user is not sure how to do it. They submitted a ticket for assistance."
+}

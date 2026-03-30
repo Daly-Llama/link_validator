@@ -1,0 +1,20 @@
+{
+  "number": "INC0003740",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07865",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access the New Page Layout View in Excel.\n\nfull_description_text: The user was trying to find the New Page Layout View in Excel but couldn't see it. They were looking for guidance on how to access this feature. The issue seems to be related to navigating the interface, and they need help to resolve it.",
+  "short_description": "Unable to access the New Page Layout View in Excel.",
+  "description": "The user was trying to find the New Page Layout View in Excel but couldn't see it. They were looking for guidance on how to access this feature. The issue seems to be related to navigating the interface, and they need help to resolve it."
+}

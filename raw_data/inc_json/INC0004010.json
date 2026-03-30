@@ -1,0 +1,20 @@
+{
+  "number": "INC0004010",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08232",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble adding automatic captions from YouTube to Panopto video\n\nfull_description_text:  \nSo, I was chatting with someone who wanted to know how to add those automatic captions from YouTube to their Panopto video. They seemed a bit confused about the steps and what to do next. It’s like they just couldn’t figure it out during our live chat.",
+  "short_description": "Trouble adding automatic captions from YouTube to Panopto video",
+  "description": "So, I was chatting with someone who wanted to know how to add those automatic captions from YouTube to their Panopto video. They seemed a bit confused about the steps and what to do next. It’s like they just couldn’t figure it out during our live chat."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004394",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08945",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on Continuous Vulnerability Management\n\nfull_description_text:  \nI need to know what the security policy is for Continuous Vulnerability Management. I was looking into CIS Control 7 and got confused. Can someone explain this to me?",
+  "short_description": "Inquiry about USD security policy on Continuous Vulnerability Management",
+  "description": "I need to know what the security policy is for Continuous Vulnerability Management. I was looking into CIS Control 7 and got confused. Can someone explain this to me?"
+}

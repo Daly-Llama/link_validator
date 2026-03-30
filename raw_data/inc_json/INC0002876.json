@@ -1,0 +1,20 @@
+{
+  "number": "INC0002876",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05156",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Certificate error when connecting to campus WiFi on mobile devices.\n\nfull_description_text: \nUser is experiencing issues with WiFi on campus. \nThe connection fails due to a certificate error on their phone. \nThis problem occurs on both Android and iPhone devices. \nUser reports this issue today, indicating it may be a temporary situation.",
+  "short_description": "Certificate error when connecting to campus WiFi on mobile devices.",
+  "description": "User is experiencing issues with WiFi on campus. \nThe connection fails due to a certificate error on their phone. \nThis problem occurs on both Android and iPhone devices. \nUser reports this issue today, indicating it may be a temporary situation."
+}

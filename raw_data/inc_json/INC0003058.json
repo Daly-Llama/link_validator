@@ -1,0 +1,20 @@
+{
+  "number": "INC0003058",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05679",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to complete student location confirmation for class registration\n\nfull_description_text:\n- Trying to register for classes but self-registration is not working.  \n- The system loads to Action Item Processing and shows pending Action Items.  \n- I need to name my state of residence to proceed but can't get past this issue.  \n- It's frustrating because I can't register without resolving these Action Items first.",
+  "short_description": "Unable to complete student location confirmation for class registration",
+  "description": "- Trying to register for classes but self-registration is not working.  \n- The system loads to Action Item Processing and shows pending Action Items.  \n- I need to name my state of residence to proceed but can't get past this issue.  \n- It's frustrating because I can't register without resolving these Action Items first."
+}

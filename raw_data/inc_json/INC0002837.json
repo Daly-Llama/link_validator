@@ -1,0 +1,20 @@
+{
+  "number": "INC0002837",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05029",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Acrobat Pro crashes shortly after launching on Windows OS.\n\nfull_description_text:\n- The user is experiencing issues with Acrobat Pro, which crashes just a few seconds after it is opened.  \n- This problem occurs consistently every time the application is launched, making it impossible to use.  \n- The environment is Windows OS, and the user has not made any recent changes to the system that could have caused this issue.  \n- It is unclear if this is related to any specific files or settings within Acrobat Pro.",
+  "short_description": "Acrobat Pro crashes shortly after launching on Windows OS.",
+  "description": "- The user is experiencing issues with Acrobat Pro, which crashes just a few seconds after it is opened.  \n- This problem occurs consistently every time the application is launched, making it impossible to use.  \n- The environment is Windows OS, and the user has not made any recent changes to the system that could have caused this issue.  \n- It is unclear if this is related to any specific files or settings within Acrobat Pro."
+}

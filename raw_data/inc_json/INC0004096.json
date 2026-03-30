@@ -1,0 +1,20 @@
+{
+  "number": "INC0004096",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08359",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding picture effects in Word.\n\nfull_description_text: So, the user was trying to, you know, add some cool picture effects in Word, but they just couldn't figure it out. They were on the phone, kinda frustrated, saying something about not seeing the options or whatever. It seems like they needed a bit of help navigating through the menus or something like that.",
+  "short_description": "Difficulty adding picture effects in Word.",
+  "description": "So, the user was trying to, you know, add some cool picture effects in Word, but they just couldn't figure it out. They were on the phone, kinda frustrated, saying something about not seeing the options or whatever. It seems like they needed a bit of help navigating through the menus or something like that."
+}

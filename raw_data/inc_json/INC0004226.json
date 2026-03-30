@@ -1,0 +1,20 @@
+{
+  "number": "INC0004226",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08580",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the Wellness Center's evacuation and severe weather plans.\n\nfull_description_text:  \nI'm trying to find out what the evacuation plan is for my building. Also, I'm curious about the severe weather plan for the Wellness Center. Can you provide me with that information?",
+  "short_description": "Inquiry about the Wellness Center's evacuation and severe weather plans.",
+  "description": "I'm trying to find out what the evacuation plan is for my building. Also, I'm curious about the severe weather plan for the Wellness Center. Can you provide me with that information?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001318",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00599",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Credit card machine not connecting to network, EMV key load error.\n\nfull_description_text: \nEl terminal de tarjeta de crédito no está funcionando correctamente. Se reporta que no se conecta a la red y muestra un error que indica que se requiere una carga de clave EMV. Esto está afectando las transacciones y la operación normal.",
+  "short_description": "Credit card machine not connecting to network, EMV key load error.",
+  "description": "El terminal de tarjeta de crédito no está funcionando correctamente. Se reporta que no se conecta a la red y muestra un error que indica que se requiere una carga de clave EMV. Esto está afectando las transacciones y la operación normal."
+}

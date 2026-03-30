@@ -1,0 +1,20 @@
+{
+  "number": "INC0001957",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB02399",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to check for holds before student registration.\n\nfull_description_text: \nDuring a recent phone call, the user inquired about the process for checking holds that may prevent them from registering for classes. They expressed confusion regarding the steps necessary to determine their registration eligibility. The user was utilizing the Banner system within the Student Registration module via Self Service, and they were accessing it through various Internet browsers. It appears that they were seeking clarity on when they would be able to proceed with their registration, but they encountered difficulties in locating the relevant information about any holds on their account.",
+  "short_description": "Unable to check for holds before student registration.",
+  "description": "During a recent phone call, the user inquired about the process for checking holds that may prevent them from registering for classes. They expressed confusion regarding the steps necessary to determine their registration eligibility. The user was utilizing the Banner system within the Student Registration module via Self Service, and they were accessing it through various Internet browsers. It appears that they were seeking clarity on when they would be able to proceed with their registration, but they encountered difficulties in locating the relevant information about any holds on their account."
+}

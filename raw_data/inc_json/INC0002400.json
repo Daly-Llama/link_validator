@@ -1,0 +1,20 @@
+{
+  "number": "INC0002400",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03736",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to select the option to remember me for 30 days in Duo.\n\nfull_description_text: The user was trying to log in using Duo and wanted to select the option that allows remembering their login for a period of 30 days. However, they found that the box to click for this option was not clickable or accessible. This situation is causing confusion and frustration as the user is looking for a way to save their Duo push notifications for a longer time. The user is not sure why this is happening and is seeking assistance to understand the issue better.",
+  "short_description": "Unable to select the option to remember me for 30 days in Duo.",
+  "description": "The user was trying to log in using Duo and wanted to select the option that allows remembering their login for a period of 30 days. However, they found that the box to click for this option was not clickable or accessible. This situation is causing confusion and frustration as the user is looking for a way to save their Duo push notifications for a longer time. The user is not sure why this is happening and is seeking assistance to understand the issue better."
+}

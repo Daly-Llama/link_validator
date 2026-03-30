@@ -1,0 +1,20 @@
+{
+  "number": "INC0001576",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01248",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to replace pick rollers for Fujitsu ImageNow Scanner\n\nfull_description_text:\n- The user reported that the Fujitsu Scanner is indicating that the consumable needs to be replaced soon.  \n- They mentioned a noticeable drop in feeding performance, suggesting that the pick rollers may need replacement.  \n- The user is seeking assistance with the replacement process, specifically for the rollers located inside the Automatic Document Feeder (ADF).  \n- For further guidance, they were advised to refer to the operator's guide for their scanner model.",
+  "short_description": "Request to replace pick rollers for Fujitsu ImageNow Scanner",
+  "description": "- The user reported that the Fujitsu Scanner is indicating that the consumable needs to be replaced soon.  \n- They mentioned a noticeable drop in feeding performance, suggesting that the pick rollers may need replacement.  \n- The user is seeking assistance with the replacement process, specifically for the rollers located inside the Automatic Document Feeder (ADF).  \n- For further guidance, they were advised to refer to the operator's guide for their scanner model."
+}

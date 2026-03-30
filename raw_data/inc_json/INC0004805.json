@@ -1,0 +1,20 @@
+{
+  "number": "INC0004805",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB10153",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to nominate CSA employee for Employee of the Month.\n\nfull_description_text: User wants to nominate someone. They are not sure how to do it. The process is unclear. They are asking for help with this nomination.",
+  "short_description": "Need to nominate CSA employee for Employee of the Month.",
+  "description": "User wants to nominate someone. They are not sure how to do it. The process is unclear. They are asking for help with this nomination."
+}

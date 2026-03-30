@@ -1,0 +1,20 @@
+{
+  "number": "INC0003162",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05965",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into D2L due to certificate error\n\nfull_description_text: So, the user was trying to log into D2L from home. They got this weird error in Chrome saying the connection isn’t private. It also mentioned something about an invalid certificate and a 500 error. They were really frustrated because they need to access SNAP for their classes.",
+  "short_description": "Unable to log into D2L due to certificate error",
+  "description": "So, the user was trying to log into D2L from home. They got this weird error in Chrome saying the connection isn’t private. It also mentioned something about an invalid certificate and a 500 error. They were really frustrated because they need to access SNAP for their classes."
+}

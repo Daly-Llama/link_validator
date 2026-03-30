@@ -1,0 +1,20 @@
+{
+  "number": "INC0001224",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB00420",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to replay audio after recording in PowerPoint presentations\n\nfull_description_text: \nEl técnico estaba tratando de hacer una presentación en PowerPoint y grabó su voz en las diapositivas. Pero cuando intentó reproducir el audio, no pudo escuchar nada. Esto es muy frustrante porque necesita que la presentación funcione bien para su trabajo. Además, ha probado en PowerPoint 2016 y 2013, pero el problema sigue igual.",
+  "short_description": "Unable to replay audio after recording in PowerPoint presentations",
+  "description": "El técnico estaba tratando de hacer una presentación en PowerPoint y grabó su voz en las diapositivas. Pero cuando intentó reproducir el audio, no pudo escuchar nada. Esto es muy frustrante porque necesita que la presentación funcione bien para su trabajo. Además, ha probado en PowerPoint 2016 y 2013, pero el problema sigue igual."
+}

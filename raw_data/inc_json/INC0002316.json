@@ -1,0 +1,20 @@
+{
+  "number": "INC0002316",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB03520",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty applying for work study positions.\n\nfull_description_text:  \nThe user is experiencing challenges in the application process for work study positions. They are seeking guidance on how to proceed with their application. This issue is related to the financial aid environment and may require specific instructions.",
+  "short_description": "Difficulty applying for work study positions.",
+  "description": "The user is experiencing challenges in the application process for work study positions. They are seeking guidance on how to proceed with their application. This issue is related to the financial aid environment and may require specific instructions."
+}

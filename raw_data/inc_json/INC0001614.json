@@ -1,0 +1,20 @@
+{
+  "number": "INC0001614",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01371",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Disappeared folder in shared drive needs recovery check.\n\nfull_description_text:\n- The user is inquiring about a folder that seems to have disappeared from the shared drive.  \n- They are asking if the folder is gone for good or if it can still be retrieved.  \n- This situation is causing concern as the user relies on this shared file storage for important documents.  \n- The user would like confirmation on the status of the folder and any possible next steps.",
+  "short_description": "Disappeared folder in shared drive needs recovery check.",
+  "description": "- The user is inquiring about a folder that seems to have disappeared from the shared drive.  \n- They are asking if the folder is gone for good or if it can still be retrieved.  \n- This situation is causing concern as the user relies on this shared file storage for important documents.  \n- The user would like confirmation on the status of the folder and any possible next steps."
+}

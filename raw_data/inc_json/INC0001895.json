@@ -1,0 +1,20 @@
+{
+  "number": "INC0001895",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02205",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble signing in to Wegner Library account with DUO MFA\n\nfull_description_text:\n- User is trying to access Wegner Library account.  \n- They have problem with signing in or enrolling in DUO MFA.  \n- User is not sure what to do next.  \n- Help desk is needed to assist with this issue.",
+  "short_description": "Trouble signing in to Wegner Library account with DUO MFA",
+  "description": "- User is trying to access Wegner Library account.  \n- They have problem with signing in or enrolling in DUO MFA.  \n- User is not sure what to do next.  \n- Help desk is needed to assist with this issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001652",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01517",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to sign into equipment checkout laptop due to lock screen.\n\nfull_description_text: User can't log in. Another account is active on the laptop. The screen is locked, preventing username entry. This is happening on both Windows and MacOS systems.",
+  "short_description": "Unable to sign into equipment checkout laptop due to lock screen.",
+  "description": "User can't log in. Another account is active on the laptop. The screen is locked, preventing username entry. This is happening on both Windows and MacOS systems."
+}

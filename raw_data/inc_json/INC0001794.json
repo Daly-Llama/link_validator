@@ -1,0 +1,20 @@
+{
+  "number": "INC0001794",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01902",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Emails are undeliverable due to misconfigured settings.\n\nfull_description_text: The user attempted to send emails but received notifications indicating that their messages were undeliverable. The error messages suggest that a security check at the recipient's company failed, likely due to misconfigured settings at usd.edu. Additionally, the user's email address may be flagged as a potential spam sender, preventing successful delivery.",
+  "short_description": "Emails are undeliverable due to misconfigured settings.",
+  "description": "The user attempted to send emails but received notifications indicating that their messages were undeliverable. The error messages suggest that a security check at the recipient's company failed, likely due to misconfigured settings at usd.edu. Additionally, the user's email address may be flagged as a potential spam sender, preventing successful delivery."
+}

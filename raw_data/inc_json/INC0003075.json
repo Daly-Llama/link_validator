@@ -1,0 +1,20 @@
+{
+  "number": "INC0003075",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05716",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about payroll cycle and payday schedule.\n\nfull_description_text:  \n- The user is seeking clarification on the payroll cycle, which is crucial for understanding when employees receive their payments.  \n- They specifically want to know the exact payday, which can vary depending on the pay period.  \n- This inquiry may arise during the end of the month when employees are eager to know when their hard-earned money will be deposited into their accounts.  \n- It's important to provide a clear and concise response to ensure the user feels informed and supported in their financial planning.",
+  "short_description": "Inquiry about payroll cycle and payday schedule.",
+  "description": "- The user is seeking clarification on the payroll cycle, which is crucial for understanding when employees receive their payments.  \n- They specifically want to know the exact payday, which can vary depending on the pay period.  \n- This inquiry may arise during the end of the month when employees are eager to know when their hard-earned money will be deposited into their accounts.  \n- It's important to provide a clear and concise response to ensure the user feels informed and supported in their financial planning."
+}

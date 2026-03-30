@@ -1,0 +1,20 @@
+{
+  "number": "INC0004575",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09388",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help ensuring success as a student with a disability\n\nfull_description_text: \nThe caller is looking for ways to make sure they succeed in college as a student with a disability. They mentioned feeling unsure about what steps to take and what resources might be available. It seems they want to know how to navigate their studies better and what support they can get.",
+  "short_description": "Need help ensuring success as a student with a disability",
+  "description": "The caller is looking for ways to make sure they succeed in college as a student with a disability. They mentioned feeling unsure about what steps to take and what resources might be available. It seems they want to know how to navigate their studies better and what support they can get."
+}

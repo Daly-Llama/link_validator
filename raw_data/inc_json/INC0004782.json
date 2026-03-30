@@ -1,0 +1,20 @@
+{
+  "number": "INC0004782",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB10061",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to confirm Listserv subscription without email link.\n\nfull_description_text: The user is trying to confirm their subscription to a Listserv. They are looking for a way to do this without clicking the confirmation link in the email they received. This situation is causing confusion and they need assistance with the process.",
+  "short_description": "Unable to confirm Listserv subscription without email link.",
+  "description": "The user is trying to confirm their subscription to a Listserv. They are looking for a way to do this without clicking the confirmation link in the email they received. This situation is causing confusion and they need assistance with the process."
+}

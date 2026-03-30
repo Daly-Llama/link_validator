@@ -1,0 +1,20 @@
+{
+  "number": "INC0004238",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08594",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about East Hall's evacuation and severe weather plans.\n\nfull_description_text: \nSo, during the call, the user was asking, like, really concerned about what to do in case of an emergency, you know? They wanted to know what the evacuation plan is for East Hall, and also, like, what happens when there's severe weather, like storms or something. It seemed really important to them, and they were just trying to make sure they understood everything clearly, especially since it’s about safety and all that. They just needed some clear info on what to do in those situations, like where to go and what to follow, you know?",
+  "short_description": "Inquiry about East Hall's evacuation and severe weather plans.",
+  "description": "So, during the call, the user was asking, like, really concerned about what to do in case of an emergency, you know? They wanted to know what the evacuation plan is for East Hall, and also, like, what happens when there's severe weather, like storms or something. It seemed really important to them, and they were just trying to make sure they understood everything clearly, especially since it’s about safety and all that. They just needed some clear info on what to do in those situations, like where to go and what to follow, you know?"
+}

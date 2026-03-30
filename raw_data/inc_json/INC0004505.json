@@ -1,0 +1,20 @@
+{
+  "number": "INC0004505",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB09215",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Requesting Google Workspace access for a disabled account.\n\nfull_description_text:  \nThe user is attempting to access Google Workspace but encounters an error stating that their account has been disabled. This issue arises while they are trying to request access for their sponsored account associated with the Med Clinical Faculty at South Dakota Services for the Deaf. The user is unsure of the next steps to take in order to regain access to their account and is looking for guidance on how to proceed.",
+  "short_description": "Requesting Google Workspace access for a disabled account.",
+  "description": "The user is attempting to access Google Workspace but encounters an error stating that their account has been disabled. This issue arises while they are trying to request access for their sponsored account associated with the Med Clinical Faculty at South Dakota Services for the Deaf. The user is unsure of the next steps to take in order to regain access to their account and is looking for guidance on how to proceed."
+}

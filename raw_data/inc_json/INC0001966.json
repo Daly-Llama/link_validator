@@ -1,0 +1,20 @@
+{
+  "number": "INC0001966",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02424",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to install Fusion on a computer for access.\n\nfull_description_text:  \n- The user was trying to get Fusion access.  \n- They said Fusion needs to be installed on their computer.  \n- The help desk analyst was chatting live with them.  \n- The user speaks Spanish as their first language.",
+  "short_description": "Need to install Fusion on a computer for access.",
+  "description": "- The user was trying to get Fusion access.  \n- They said Fusion needs to be installed on their computer.  \n- The help desk analyst was chatting live with them.  \n- The user speaks Spanish as their first language."
+}

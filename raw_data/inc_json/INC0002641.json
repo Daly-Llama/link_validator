@@ -1,0 +1,20 @@
+{
+  "number": "INC0002641",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04479",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Computer stuck on Installing Updates for hours.\n\nfull_description_text:  \nSo, here's the thing. The computer is just sitting there, right? It's been like, hours now, and all I see is this big white cursor in the upper left corner. I mean, it was supposed to update everything, but now it’s just stuck on this Installing Updates screen. It’s super frustrating because I really need to get back to work, but it’s like the computer is taking a nap or something!",
+  "short_description": "Computer stuck on Installing Updates for hours.",
+  "description": "So, here's the thing. The computer is just sitting there, right? It's been like, hours now, and all I see is this big white cursor in the upper left corner. I mean, it was supposed to update everything, but now it’s just stuck on this Installing Updates screen. It’s super frustrating because I really need to get back to work, but it’s like the computer is taking a nap or something!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003540",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07372",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding equipment to Cheqroom inventory.\n\nfull_description_text: User is trying to add equipment to Cheqroom. They are unsure how to proceed. The process for adding items is unclear. They need assistance with this task.",
+  "short_description": "Difficulty adding equipment to Cheqroom inventory.",
+  "description": "User is trying to add equipment to Cheqroom. They are unsure how to proceed. The process for adding items is unclear. They need assistance with this task."
+}

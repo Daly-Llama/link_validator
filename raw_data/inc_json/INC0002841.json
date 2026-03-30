@@ -1,0 +1,20 @@
+{
+  "number": "INC0002841",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB05054",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting to Remote Desktop from off-campus.\n\nfull_description_text: \nThe user is trying to connect to their desktop computer remotely while working from off-campus. They mentioned that they are a faculty member at USD and are using Windows Virtual Desktop. However, they are having trouble establishing the connection and are unsure of the steps to take. It seems like they need some guidance on how to make this work smoothly.",
+  "short_description": "Difficulty connecting to Remote Desktop from off-campus.",
+  "description": "The user is trying to connect to their desktop computer remotely while working from off-campus. They mentioned that they are a faculty member at USD and are using Windows Virtual Desktop. However, they are having trouble establishing the connection and are unsure of the steps to take. It seems like they need some guidance on how to make this work smoothly."
+}

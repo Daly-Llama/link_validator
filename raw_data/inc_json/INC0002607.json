@@ -1,0 +1,20 @@
+{
+  "number": "INC0002607",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB04337",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble importing Excel data into Coyote Connections Watch List.\n\nfull_description_text: User wants to create a new Watch List in Coyote Connections. They asked if there's a way to import an Excel file or drop data directly into the system. Need to clarify if this is possible.",
+  "short_description": "Trouble importing Excel data into Coyote Connections Watch List.",
+  "description": "User wants to create a new Watch List in Coyote Connections. They asked if there's a way to import an Excel file or drop data directly into the system. Need to clarify if this is possible."
+}

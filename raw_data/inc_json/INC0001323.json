@@ -1,0 +1,20 @@
+{
+  "number": "INC0001323",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00614",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to recover a deleted or overwritten file from the X drive.\n\nfull_description_text: \nI accidentally deleted a file I really need from the X drive, and I'm in a bit of a bind. I also saved over another important file, so I'm hoping there's a way to get those back. Can someone help me recreate the folder on the shared drive? I just can't seem to find it anywhere!",
+  "short_description": "Need to recover a deleted or overwritten file from the X drive.",
+  "description": "I accidentally deleted a file I really need from the X drive, and I'm in a bit of a bind. I also saved over another important file, so I'm hoping there's a way to get those back. Can someone help me recreate the folder on the shared drive? I just can't seem to find it anywhere!"
+}

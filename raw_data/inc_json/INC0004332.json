@@ -1,0 +1,20 @@
+{
+  "number": "INC0004332",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08769",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the Dangerous Weapons and Firearms policy\n\nfull_description_text:  \nHola! I was just trying to find out what the Dangerous Weapons and Firearms policy is all about. I mean, I heard some things but I'm not really sure what it covers. Can you help me understand it better? I just want to make sure I'm following the rules, you know?",
+  "short_description": "Inquiry about the Dangerous Weapons and Firearms policy",
+  "description": "Hola! I was just trying to find out what the Dangerous Weapons and Firearms policy is all about. I mean, I heard some things but I'm not really sure what it covers. Can you help me understand it better? I just want to make sure I'm following the rules, you know?"
+}

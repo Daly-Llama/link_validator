@@ -1,0 +1,20 @@
+{
+  "number": "INC0004398",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08949",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on Service Provider Management\n\nfull_description_text:  \nThe user is seeking clarification regarding the security policy related to Service Provider Management under CIS Control 15. They are specifically interested in understanding the guidelines and requirements that govern the management of service providers. This inquiry suggests a need for detailed information to ensure compliance and security within their operational framework.",
+  "short_description": "Inquiry about USD security policy on Service Provider Management",
+  "description": "The user is seeking clarification regarding the security policy related to Service Provider Management under CIS Control 15. They are specifically interested in understanding the guidelines and requirements that govern the management of service providers. This inquiry suggests a need for detailed information to ensure compliance and security within their operational framework."
+}

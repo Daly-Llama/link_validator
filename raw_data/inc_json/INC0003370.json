@@ -1,0 +1,20 @@
+{
+  "number": "INC0003370",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB06707",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help trimming and merging MP4 video files on Windows.\n\nfull_description_text:  \nHola! I’m trying to figure out how to trim a zoom recording I saved on my computer, but I’m also looking to merge it with another MP4 video file. I thought it would be easy, but I’m not sure what software to use or how to do it. Any tips would be super helpful!",
+  "short_description": "Need help trimming and merging MP4 video files on Windows.",
+  "description": "Hola! I’m trying to figure out how to trim a zoom recording I saved on my computer, but I’m also looking to merge it with another MP4 video file. I thought it would be easy, but I’m not sure what software to use or how to do it. Any tips would be super helpful!"
+}

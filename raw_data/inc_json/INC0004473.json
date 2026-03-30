@@ -1,0 +1,20 @@
+{
+  "number": "INC0004473",
+  "category": "Human Resources",
+  "subcategory": "Compensation and Classification",
+  "correct_kb": "KB09143",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about annual salary increase calculation for faculty members.\n\nfull_description_text:\n- The user is a faculty member seeking clarification on how their annual salary increase is determined.  \n- They expressed confusion regarding the calculation process and the factors that influence the increase.  \n- The inquiry was made during a live phone call with a help desk analyst, emphasizing the need for clear and detailed information.",
+  "short_description": "Inquiry about annual salary increase calculation for faculty members.",
+  "description": "- The user is a faculty member seeking clarification on how their annual salary increase is determined.  \n- They expressed confusion regarding the calculation process and the factors that influence the increase.  \n- The inquiry was made during a live phone call with a help desk analyst, emphasizing the need for clear and detailed information."
+}

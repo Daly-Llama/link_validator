@@ -1,0 +1,20 @@
+{
+  "number": "INC0003108",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05783",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to add new Form Name for PDF integration\n\nfull_description_text:  \nThe user is requesting the addition of a new Form Name to the Email to PDF Integration. This integration is intended to send documents to py.svc@usd.edu, specifically for DocuSign PDFs that need to auto print to ImageNow. The current setup does not accommodate this new form, which is causing issues in processing the documents as needed.",
+  "short_description": "Request to add new Form Name for PDF integration",
+  "description": "The user is requesting the addition of a new Form Name to the Email to PDF Integration. This integration is intended to send documents to py.svc@usd.edu, specifically for DocuSign PDFs that need to auto print to ImageNow. The current setup does not accommodate this new form, which is causing issues in processing the documents as needed."
+}

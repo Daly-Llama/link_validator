@@ -1,0 +1,20 @@
+{
+  "number": "INC0001933",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB02329",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unrecognized sender errors when sending emails in Coyote Connections\n\nfull_description_text:  \nI’ve been trying to send emails through Coyote Connections. Occasionally, I receive a “could not send” error. The sender address appears as grades first, and sometimes the recipient's email changes unexpectedly. This has been quite frustrating, and I’m unsure if it’s an issue with my actions or something else entirely.",
+  "short_description": "Unrecognized sender errors when sending emails in Coyote Connections",
+  "description": "I’ve been trying to send emails through Coyote Connections. Occasionally, I receive a “could not send” error. The sender address appears as grades first, and sometimes the recipient's email changes unexpectedly. This has been quite frustrating, and I’m unsure if it’s an issue with my actions or something else entirely."
+}

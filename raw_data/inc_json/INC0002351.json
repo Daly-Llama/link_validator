@@ -1,0 +1,20 @@
+{
+  "number": "INC0002351",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB03588",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about options for off-campus housing.\n\nfull_description_text:  \nUser is seeking information regarding off-campus housing options.  \nThey are interested in understanding available choices.  \nThe inquiry is related to housing services.  \nUser requires clarity on this matter.",
+  "short_description": "Inquiry about options for off-campus housing.",
+  "description": "User is seeking information regarding off-campus housing options.  \nThey are interested in understanding available choices.  \nThe inquiry is related to housing services.  \nUser requires clarity on this matter."
+}

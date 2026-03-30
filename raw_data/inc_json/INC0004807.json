@@ -1,0 +1,20 @@
+{
+  "number": "INC0004807",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB10158",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Steps needed for departing employees at USD\n\nfull_description_text:\n- User is asking about what to do when leaving USD.  \n- They want to know the necessary steps after resigning.  \n- Questions include health insurance and benefits responsibilities.  \n- Need clarity on the employee departure checklist.",
+  "short_description": "Steps needed for departing employees at USD",
+  "description": "- User is asking about what to do when leaving USD.  \n- They want to know the necessary steps after resigning.  \n- Questions include health insurance and benefits responsibilities.  \n- Need clarity on the employee departure checklist."
+}

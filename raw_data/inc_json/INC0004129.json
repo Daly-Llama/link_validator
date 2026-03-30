@@ -1,0 +1,20 @@
+{
+  "number": "INC0004129",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08403",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about what templates are in Word and their uses.\n\nfull_description_text:  \n- So, the caller was asking about templates in Word, right?  \n- They wanted to know what exactly a template is and like, what they should use it for.  \n- It seems they’re not really sure how templates work or when to use them, which is kinda common, I guess.  \n- They just need a bit of clarity on this whole template thing in Word, you know?",
+  "short_description": "Confusion about what templates are in Word and their uses.",
+  "description": "- So, the caller was asking about templates in Word, right?  \n- They wanted to know what exactly a template is and like, what they should use it for.  \n- It seems they’re not really sure how templates work or when to use them, which is kinda common, I guess.  \n- They just need a bit of clarity on this whole template thing in Word, you know?"
+}

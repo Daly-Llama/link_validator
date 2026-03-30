@@ -1,0 +1,20 @@
+{
+  "number": "INC0004083",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB08323",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty accessing the Time and Effort Reporting System in Banner.\n\nfull_description_text:  \nThe user is experiencing challenges when attempting to access the Time and Effort Reporting System within the Banner environment. Despite following standard procedures, they are unable to reach the system, which is critical for their reporting and certification tasks. This issue may hinder their ability to complete necessary time and effort documentation effectively.",
+  "short_description": "Difficulty accessing the Time and Effort Reporting System in Banner.",
+  "description": "The user is experiencing challenges when attempting to access the Time and Effort Reporting System within the Banner environment. Despite following standard procedures, they are unable to reach the system, which is critical for their reporting and certification tasks. This issue may hinder their ability to complete necessary time and effort documentation effectively."
+}

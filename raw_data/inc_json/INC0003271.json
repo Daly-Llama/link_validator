@@ -1,0 +1,20 @@
+{
+  "number": "INC0003271",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06306",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about different account types on Coyote Card\n\nfull_description_text:  \nUser is asking about the various account types available on their Coyote Card.  \nThey specifically want to know what USD Print Debit means.  \nThis question arises while they are trying to understand their card options.  \nThere seems to be some confusion regarding the account types listed.",
+  "short_description": "Inquiry about different account types on Coyote Card",
+  "description": "User is asking about the various account types available on their Coyote Card.  \nThey specifically want to know what USD Print Debit means.  \nThis question arises while they are trying to understand their card options.  \nThere seems to be some confusion regarding the account types listed."
+}

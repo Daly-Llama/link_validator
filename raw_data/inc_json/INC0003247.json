@@ -1,0 +1,20 @@
+{
+  "number": "INC0003247",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06243",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to delete Coyote Card Mobile ID on new device\n\nfull_description_text:  \nThe user is experiencing difficulties in removing their Coyote Card Mobile ID from their device. They have recently acquired a new phone and no longer have access to their old one. Additionally, they are encountering various error messages related to device sharing and ID limits. This situation is causing confusion regarding the status of their Mobile ID as they prepare to graduate or leave the university.",
+  "short_description": "Unable to delete Coyote Card Mobile ID on new device",
+  "description": "The user is experiencing difficulties in removing their Coyote Card Mobile ID from their device. They have recently acquired a new phone and no longer have access to their old one. Additionally, they are encountering various error messages related to device sharing and ID limits. This situation is causing confusion regarding the status of their Mobile ID as they prepare to graduate or leave the university."
+}

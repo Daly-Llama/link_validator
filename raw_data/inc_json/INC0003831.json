@@ -1,0 +1,20 @@
+{
+  "number": "INC0003831",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07964",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: How to reference cells in Excel formulas?\n\nfull_description_text:\n- So, during our chat, you asked about referencing cells in Excel formulas.  \n- You were trying to figure out how to do it but got a bit confused.  \n- It's a common thing, and I totally get how it can be tricky sometimes!",
+  "short_description": "How to reference cells in Excel formulas?",
+  "description": "- So, during our chat, you asked about referencing cells in Excel formulas.  \n- You were trying to figure out how to do it but got a bit confused.  \n- It's a common thing, and I totally get how it can be tricky sometimes!"
+}

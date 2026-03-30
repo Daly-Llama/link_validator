@@ -1,0 +1,20 @@
+{
+  "number": "INC0002184",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03104",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to manage access to shared mailbox in Office 365\n\nfull_description_text:  \nUser needs access to a shared mailbox.  \nThey lost access to their department email.  \nAlso, they want to add or remove people from the inbox.  \nThis is related to USD department and student org accounts.",
+  "short_description": "Need to manage access to shared mailbox in Office 365",
+  "description": "User needs access to a shared mailbox.  \nThey lost access to their department email.  \nAlso, they want to add or remove people from the inbox.  \nThis is related to USD department and student org accounts."
+}

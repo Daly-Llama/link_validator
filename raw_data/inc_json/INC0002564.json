@@ -1,0 +1,20 @@
+{
+  "number": "INC0002564",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04190",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: TV display not turning on in various rooms\n\nfull_description_text:  \nSo, the TV display just won't power on, right? This is happening in the classroom, office, conference room, and training room. It’s like, no matter what we try, it stays off. Can you help figure out what’s going on?",
+  "short_description": "TV display not turning on in various rooms",
+  "description": "So, the TV display just won't power on, right? This is happening in the classroom, office, conference room, and training room. It’s like, no matter what we try, it stays off. Can you help figure out what’s going on?"
+}

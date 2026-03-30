@@ -1,0 +1,20 @@
+{
+  "number": "INC0002137",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02946",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to share a file between two users on Box.\n\nfull_description_text: \nA user is attempting to share a file on SDSU's Box cloud storage for collaborative purposes. However, they are encountering difficulties in enabling access for another user. This issue may involve permissions settings or sharing options within the Box platform, which could be affecting their ability to complete the task efficiently. Further clarification on the specific error or limitation encountered would be beneficial for resolution.",
+  "short_description": "Need to share a file between two users on Box.",
+  "description": "A user is attempting to share a file on SDSU's Box cloud storage for collaborative purposes. However, they are encountering difficulties in enabling access for another user. This issue may involve permissions settings or sharing options within the Box platform, which could be affecting their ability to complete the task efficiently. Further clarification on the specific error or limitation encountered would be beneficial for resolution."
+}

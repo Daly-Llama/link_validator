@@ -1,0 +1,20 @@
+{
+  "number": "INC0004721",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09846",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty using AI tools for job search assistance\n\nfull_description_text: \nThe user is a student seeking help with their job search. They are unsure how to effectively utilize AI resources available through the Center for Career Design. During the chat, they expressed confusion about the specific AI tools that could aid in their career preparation.",
+  "short_description": "Difficulty using AI tools for job search assistance",
+  "description": "The user is a student seeking help with their job search. They are unsure how to effectively utilize AI resources available through the Center for Career Design. During the chat, they expressed confusion about the specific AI tools that could aid in their career preparation."
+}

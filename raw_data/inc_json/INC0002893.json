@@ -1,0 +1,20 @@
+{
+  "number": "INC0002893",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB05218",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with Enrollment and Degree Verification for USD Students and Alumni\n\nfull_description_text:\n- During a live chat session, the user expressed concerns regarding the processes involved in Enrollment and Degree verifications. \n- The user specifically inquired about the functionality and reliability of the Enrollment Verification system, as well as the Enrollment Confirmation procedures. \n- Additionally, the user sought clarification on the steps necessary for ordering transcripts through the National Student Clearinghouse (MyHub) platform. \n- This inquiry is particularly relevant for USD Students and Alumni who require accurate and timely verification of their academic credentials.",
+  "short_description": "Issues with Enrollment and Degree Verification for USD Students and Alumni",
+  "description": "- During a live chat session, the user expressed concerns regarding the processes involved in Enrollment and Degree verifications. \n- The user specifically inquired about the functionality and reliability of the Enrollment Verification system, as well as the Enrollment Confirmation procedures. \n- Additionally, the user sought clarification on the steps necessary for ordering transcripts through the National Student Clearinghouse (MyHub) platform. \n- This inquiry is particularly relevant for USD Students and Alumni who require accurate and timely verification of their academic credentials."
+}

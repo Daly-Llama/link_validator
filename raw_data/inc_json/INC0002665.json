@@ -1,0 +1,20 @@
+{
+  "number": "INC0002665",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04543",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about available equipment in smart classroom\n\nfull_description_text: \nEl técnico de campo está buscando información sobre el equipo y software disponible en un aula inteligente. Se pregunta si es posible conectar su MacBook Air o cualquier otro portátil al proyector en esa aula específica. Esta consulta es importante para asegurar que los recursos tecnológicos estén accesibles para las clases programadas. Además, el técnico quiere confirmar la compatibilidad de los dispositivos antes de la próxima sesión.",
+  "short_description": "Inquiry about available equipment in smart classroom",
+  "description": "El técnico de campo está buscando información sobre el equipo y software disponible en un aula inteligente. Se pregunta si es posible conectar su MacBook Air o cualquier otro portátil al proyector en esa aula específica. Esta consulta es importante para asegurar que los recursos tecnológicos estén accesibles para las clases programadas. Además, el técnico quiere confirmar la compatibilidad de los dispositivos antes de la próxima sesión."
+}

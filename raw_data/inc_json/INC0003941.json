@@ -1,0 +1,20 @@
+{
+  "number": "INC0003941",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08089",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance creating a join link for Microsoft Teams.\n\nfull_description_text:  \nI am trying to figure out how to create a link that allows others to join my Microsoft Team. I’ve been navigating through the application, but I can’t seem to locate the right option to generate this link. It’s crucial for me to share this with my colleagues so they can easily access the team without any hassle. Any guidance on this would be greatly appreciated.",
+  "short_description": "Need assistance creating a join link for Microsoft Teams.",
+  "description": "I am trying to figure out how to create a link that allows others to join my Microsoft Team. I’ve been navigating through the application, but I can’t seem to locate the right option to generate this link. It’s crucial for me to share this with my colleagues so they can easily access the team without any hassle. Any guidance on this would be greatly appreciated."
+}

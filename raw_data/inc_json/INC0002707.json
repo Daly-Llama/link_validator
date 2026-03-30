@@ -1,0 +1,20 @@
+{
+  "number": "INC0002707",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04685",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need assistance updating outdated macOS software in the computer lab.\n\nfull_description_text:  \nA field technician is trying to ensure that the macOS software on the iMac and MacBook in the computer lab is up to date. They noticed that the software is currently outdated and are looking for guidance on how to perform the update. It's important to keep the systems current for optimal performance and security, so any help with this process would be greatly appreciated.",
+  "short_description": "Need assistance updating outdated macOS software in the computer lab.",
+  "description": "A field technician is trying to ensure that the macOS software on the iMac and MacBook in the computer lab is up to date. They noticed that the software is currently outdated and are looking for guidance on how to perform the update. It's important to keep the systems current for optimal performance and security, so any help with this process would be greatly appreciated."
+}

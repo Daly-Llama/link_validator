@@ -1,0 +1,20 @@
+{
+  "number": "INC0001165",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00321",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Monitor brightness keeps resetting to unreadable levels.\n\nfull_description_text:\n- The user is experiencing issues with their desktop monitor.  \n- The brightness does not remain at a level that allows for clear reading.  \n- This problem makes it difficult to work effectively, as the display is too dim.  \n- The user has tried adjusting the settings, but the brightness keeps changing back.",
+  "short_description": "Monitor brightness keeps resetting to unreadable levels.",
+  "description": "- The user is experiencing issues with their desktop monitor.  \n- The brightness does not remain at a level that allows for clear reading.  \n- This problem makes it difficult to work effectively, as the display is too dim.  \n- The user has tried adjusting the settings, but the brightness keeps changing back."
+}

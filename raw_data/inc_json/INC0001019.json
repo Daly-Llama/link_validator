@@ -1,0 +1,20 @@
+{
+  "number": "INC0001019",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB00036",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error saving edited PDF after deleting a page in Adobe Acrobat.\n\nfull_description_text: So, the user was working on a PDF in Adobe Acrobat XI on their Windows 10 machine, right? They opened up the document, deleted a page, and then when they tried to save it, bam! They hit this error message saying something about resources not existing or lacking permissions. It’s a bit frustrating because they were just trying to make a simple edit, and now they’re stuck with this annoying pop-up.",
+  "short_description": "Error saving edited PDF after deleting a page in Adobe Acrobat.",
+  "description": "So, the user was working on a PDF in Adobe Acrobat XI on their Windows 10 machine, right? They opened up the document, deleted a page, and then when they tried to save it, bam! They hit this error message saying something about resources not existing or lacking permissions. It’s a bit frustrating because they were just trying to make a simple edit, and now they’re stuck with this annoying pop-up."
+}

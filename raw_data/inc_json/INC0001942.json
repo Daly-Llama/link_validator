@@ -1,0 +1,20 @@
+{
+  "number": "INC0001942",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02366",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to retain access to discontinued USD account.\n\nfull_description_text:  \nThe user is reaching out because their USD account has been discontinued, and they’re concerned about losing access to important emails. They previously worked at USD and need to retrieve some critical information from their closed email account. It seems their account has been disabled, and they’re looking for a way to keep it active for a bit longer.",
+  "short_description": "Request to retain access to discontinued USD account.",
+  "description": "The user is reaching out because their USD account has been discontinued, and they’re concerned about losing access to important emails. They previously worked at USD and need to retrieve some critical information from their closed email account. It seems their account has been disabled, and they’re looking for a way to keep it active for a bit longer."
+}

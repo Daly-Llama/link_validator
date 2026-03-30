@@ -1,0 +1,20 @@
+{
+  "number": "INC0004614",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB09489",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view holds in Coyote Connections.\n\nfull_description_text:\n- The user was attempting to access hold information within the Coyote Connections platform.  \n- They reported that the holds were not displaying as expected, leading to confusion and frustration.  \n- This issue may impact their ability to manage or review necessary data effectively.  \n- Further investigation is required to determine the cause of this viewing problem.",
+  "short_description": "Unable to view holds in Coyote Connections.",
+  "description": "- The user was attempting to access hold information within the Coyote Connections platform.  \n- They reported that the holds were not displaying as expected, leading to confusion and frustration.  \n- This issue may impact their ability to manage or review necessary data effectively.  \n- Further investigation is required to determine the cause of this viewing problem."
+}

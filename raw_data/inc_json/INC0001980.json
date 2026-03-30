@@ -1,0 +1,20 @@
+{
+  "number": "INC0001980",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB02468",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Insufficient funds error when attempting to print from USD Print Fund.\n\nfull_description_text: The user has reported an issue where they added money to their USD Print Fund account. However, when trying to print, they receive an error message indicating insufficient funds. This situation suggests a potential problem with the account balance not reflecting the recent deposit.",
+  "short_description": "Insufficient funds error when attempting to print from USD Print Fund.",
+  "description": "The user has reported an issue where they added money to their USD Print Fund account. However, when trying to print, they receive an error message indicating insufficient funds. This situation suggests a potential problem with the account balance not reflecting the recent deposit."
+}

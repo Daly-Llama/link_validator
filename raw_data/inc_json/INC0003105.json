@@ -1,0 +1,20 @@
+{
+  "number": "INC0003105",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB05774",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Faculty unsure about marking course as Adoptions not Required.\n\nfull_description_text: \nThe faculty member is asking if they need to mark their course as Adoptions not Required each semester. They mentioned that their course never uses a text. This question was raised during a phone call with the help desk.",
+  "short_description": "Faculty unsure about marking course as Adoptions not Required.",
+  "description": "The faculty member is asking if they need to mark their course as Adoptions not Required each semester. They mentioned that their course never uses a text. This question was raised during a phone call with the help desk."
+}

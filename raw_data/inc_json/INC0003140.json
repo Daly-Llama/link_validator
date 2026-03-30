@@ -1,0 +1,20 @@
+{
+  "number": "INC0003140",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05903",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues updating Titanium after Daylight Savings Time change\n\nfull_description_text:  \nI was trying to update Titanium after the recent Daylight Savings Time change, and I ran into some problems. It seems like the client reminders that are supposed to go out aren't being sent at all, which is really frustrating. I just want to make sure everything is working properly, especially after the time change, but I'm not sure what to do next. Can someone help me figure out why this is happening?",
+  "short_description": "Issues updating Titanium after Daylight Savings Time change",
+  "description": "I was trying to update Titanium after the recent Daylight Savings Time change, and I ran into some problems. It seems like the client reminders that are supposed to go out aren't being sent at all, which is really frustrating. I just want to make sure everything is working properly, especially after the time change, but I'm not sure what to do next. Can someone help me figure out why this is happening?"
+}

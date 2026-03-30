@@ -1,0 +1,20 @@
+{
+  "number": "INC0001572",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB01232",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for approval to purchase new hardware and software\n\nfull_description_text:  \nThe user is seeking permission to acquire new hardware and software for their department. They have specific inquiries regarding the compatibility and support of certain tools, including Articulate software and Dragon Legal 16. Additionally, the user is interested in using dictation software and a Zoom Info Community Edition plugin, which raises questions about security and approval. The Dean has expressed a need for a new computer design and purchase, further complicating the request.",
+  "short_description": "Request for approval to purchase new hardware and software",
+  "description": "The user is seeking permission to acquire new hardware and software for their department. They have specific inquiries regarding the compatibility and support of certain tools, including Articulate software and Dragon Legal 16. Additionally, the user is interested in using dictation software and a Zoom Info Community Edition plugin, which raises questions about security and approval. The Dean has expressed a need for a new computer design and purchase, further complicating the request."
+}

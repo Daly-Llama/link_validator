@@ -1,0 +1,20 @@
+{
+  "number": "INC0003707",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07830",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty managing multiple rows, columns, or cells in Google Sheets\n\nfull_description_text:  \nI'm having trouble with Google Sheets when trying to add, delete, or hide more than one row, column, or cell at a time. It seems like I can only manage them one by one, which is really slowing me down. I need a more efficient way to handle multiple selections, but I'm not sure how to do that.",
+  "short_description": "Difficulty managing multiple rows, columns, or cells in Google Sheets",
+  "description": "I'm having trouble with Google Sheets when trying to add, delete, or hide more than one row, column, or cell at a time. It seems like I can only manage them one by one, which is really slowing me down. I need a more efficient way to handle multiple selections, but I'm not sure how to do that."
+}

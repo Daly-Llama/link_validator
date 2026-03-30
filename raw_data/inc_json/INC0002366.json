@@ -1,0 +1,20 @@
+{
+  "number": "INC0002366",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB03616",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to publish project-related articles before three uses\n\nfull_description_text:\n- The user is requesting that their project-related articles be published prior to reaching three uses.  \n- This request is made in the context of the TeamDynamix environment, specifically within the Knowledge Centered Service framework.  \n- The user emphasizes the importance of having articles available for use before they are utilized multiple times, indicating a need for timely publication.",
+  "short_description": "Request to publish project-related articles before three uses",
+  "description": "- The user is requesting that their project-related articles be published prior to reaching three uses.  \n- This request is made in the context of the TeamDynamix environment, specifically within the Knowledge Centered Service framework.  \n- The user emphasizes the importance of having articles available for use before they are utilized multiple times, indicating a need for timely publication."
+}

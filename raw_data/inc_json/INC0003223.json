@@ -1,0 +1,20 @@
+{
+  "number": "INC0003223",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06163",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Defender for Endpoint not installed or misconfigured on device.\n\nfull_description_text: \nThe user is experiencing an issue with Defender for Endpoint. The computer or server in question does not have Defender installed at all. Alternatively, it may have Defender installed, but it is not configured correctly, leading to potential security vulnerabilities. This situation is critical as it affects the overall security posture of the system, and immediate attention is required to rectify the installation or configuration issues.",
+  "short_description": "Defender for Endpoint not installed or misconfigured on device.",
+  "description": "The user is experiencing an issue with Defender for Endpoint. The computer or server in question does not have Defender installed at all. Alternatively, it may have Defender installed, but it is not configured correctly, leading to potential security vulnerabilities. This situation is critical as it affects the overall security posture of the system, and immediate attention is required to rectify the installation or configuration issues."
+}

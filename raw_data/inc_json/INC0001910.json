@@ -1,0 +1,20 @@
+{
+  "number": "INC0001910",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02256",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view D2L course material, but Word document downloads fine.\n\nfull_description_text:\n- The user is trying to access course material in D2L, which is not displaying correctly.  \n- When attempting to open the file directly in D2L, an error message appears saying, \"We experienced an error trying to open the file.\"  \n- However, the user can download the Word document without any issues, which indicates that the file itself is not corrupted.  \n- This situation is confusing because the D2L platform should ideally allow viewing without needing to download.",
+  "short_description": "Unable to view D2L course material, but Word document downloads fine.",
+  "description": "- The user is trying to access course material in D2L, which is not displaying correctly.  \n- When attempting to open the file directly in D2L, an error message appears saying, \"We experienced an error trying to open the file.\"  \n- However, the user can download the Word document without any issues, which indicates that the file itself is not corrupted.  \n- This situation is confusing because the D2L platform should ideally allow viewing without needing to download."
+}

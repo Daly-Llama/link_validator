@@ -1,0 +1,20 @@
+{
+  "number": "INC0001625",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01410",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble accessing a specific subfolder on the network drive\n\nfull_description_text:  \nI'm having a real headache trying to get into this one folder on the network drive. It just won't let me in, and it's super frustrating because I need it for the Business School MBA Access Database. The weird part is that it works fine when I'm on ethernet, but not when I'm on wireless. What’s going on with that?",
+  "short_description": "Trouble accessing a specific subfolder on the network drive",
+  "description": "I'm having a real headache trying to get into this one folder on the network drive. It just won't let me in, and it's super frustrating because I need it for the Business School MBA Access Database. The weird part is that it works fine when I'm on ethernet, but not when I'm on wireless. What’s going on with that?"
+}

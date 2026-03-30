@@ -1,0 +1,20 @@
+{
+  "number": "INC0004468",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09138",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about laundry payment and operation in dorms\n\nfull_description_text:  \nI need to know how to do laundry in the dorms. Is the laundry machine coin operated? Also, how do I pay for using the machines? I'm not sure if I need to bring coins or if there's another way to pay.",
+  "short_description": "Confusion about laundry payment and operation in dorms",
+  "description": "I need to know how to do laundry in the dorms. Is the laundry machine coin operated? Also, how do I pay for using the machines? I'm not sure if I need to bring coins or if there's another way to pay."
+}

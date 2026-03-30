@@ -1,0 +1,20 @@
+{
+  "number": "INC0004382",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB08927",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about management of 3rd party remote access tools\n\nfull_description_text:  \n- The user is asking how the University handles remote access tools from third parties.  \n- They are concerned about the security of these tools, especially in the context of cybersecurity and ransomware threats.  \n- This question was raised while discussing the USD network and computers, indicating a need for clarity on remote access policies.",
+  "short_description": "Inquiry about management of 3rd party remote access tools",
+  "description": "- The user is asking how the University handles remote access tools from third parties.  \n- They are concerned about the security of these tools, especially in the context of cybersecurity and ransomware threats.  \n- This question was raised while discussing the USD network and computers, indicating a need for clarity on remote access policies."
+}

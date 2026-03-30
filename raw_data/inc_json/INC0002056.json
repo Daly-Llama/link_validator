@@ -1,0 +1,20 @@
+{
+  "number": "INC0002056",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02699",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help installing Edge on school laptop\n\nfull_description_text: \nSo, the user is trying to get Edge installed on their school laptop, right? They mentioned seeing a popup suggesting they should give it a try, but they're not sure if they should go ahead with the installation. It's a bit confusing for them, especially since they're using either Windows 7 or 10. They just want to know if it's a good idea to install Edge or not.",
+  "short_description": "Need help installing Edge on school laptop",
+  "description": "So, the user is trying to get Edge installed on their school laptop, right? They mentioned seeing a popup suggesting they should give it a try, but they're not sure if they should go ahead with the installation. It's a bit confusing for them, especially since they're using either Windows 7 or 10. They just want to know if it's a good idea to install Edge or not."
+}

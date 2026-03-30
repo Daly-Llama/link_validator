@@ -1,0 +1,20 @@
+{
+  "number": "INC0002095",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02811",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to change ownership of Student Organization Account\n\nfull_description_text:  \nUser wants to transfer ownership of a Student Organization Account. They mentioned needing a different person to manage it. The request came up during a live chat, and they seemed a bit unsure about the process. It's important to clarify who should have access moving forward.",
+  "short_description": "Request to change ownership of Student Organization Account",
+  "description": "User wants to transfer ownership of a Student Organization Account. They mentioned needing a different person to manage it. The request came up during a live chat, and they seemed a bit unsure about the process. It's important to clarify who should have access moving forward."
+}

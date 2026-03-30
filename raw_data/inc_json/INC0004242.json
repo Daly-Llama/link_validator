@@ -1,0 +1,20 @@
+{
+  "number": "INC0004242",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08598",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for guidance on initiating a Materials Transfer Agreement (MTA).\n\nfull_description_text:  \nThe user is seeking assistance with starting a Materials Transfer Agreement (MTA) request. This request involves both inbound and outbound MTA processes with external entities. The user is unsure of the steps required to initiate this agreement. They have reached out for clarification on how to proceed with the MTA request.",
+  "short_description": "Request for guidance on initiating a Materials Transfer Agreement (MTA).",
+  "description": "The user is seeking assistance with starting a Materials Transfer Agreement (MTA) request. This request involves both inbound and outbound MTA processes with external entities. The user is unsure of the steps required to initiate this agreement. They have reached out for clarification on how to proceed with the MTA request."
+}

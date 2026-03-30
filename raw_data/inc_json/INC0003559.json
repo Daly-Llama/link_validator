@@ -1,0 +1,20 @@
+{
+  "number": "INC0003559",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB07453",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Dispute regarding two Coyote Cash credit card transactions\n\nfull_description_text:  \nThe user has submitted a dispute concerning two transactions related to Coyote Cash purchases made with a credit card. These disputes have been formally registered as credit card chargebacks. The user is seeking clarification and resolution regarding these disputed transactions, which may impact their account balance and transaction history.",
+  "short_description": "Dispute regarding two Coyote Cash credit card transactions",
+  "description": "The user has submitted a dispute concerning two transactions related to Coyote Cash purchases made with a credit card. These disputes have been formally registered as credit card chargebacks. The user is seeking clarification and resolution regarding these disputed transactions, which may impact their account balance and transaction history."
+}

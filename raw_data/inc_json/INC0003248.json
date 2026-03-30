@@ -1,0 +1,20 @@
+{
+  "number": "INC0003248",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06244",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Account balances not showing on Coyote Card devices.\n\nfull_description_text:  \n- So, I’m trying to check my account balance on my Coyote Card, but it’s not showing up.  \n- I’ve looked on my iPhone, Apple Watch, and even my Android device, but nothing.  \n- Also, I noticed my balance looks different on each device, and I’m kinda confused about why I have a negative balance now.",
+  "short_description": "Account balances not showing on Coyote Card devices.",
+  "description": "- So, I’m trying to check my account balance on my Coyote Card, but it’s not showing up.  \n- I’ve looked on my iPhone, Apple Watch, and even my Android device, but nothing.  \n- Also, I noticed my balance looks different on each device, and I’m kinda confused about why I have a negative balance now."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002130",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB02919",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to set Microsoft Outlook as default email application on Mac.\n\nfull_description_text: A field technician is experiencing difficulties while trying to change the default email application on their Mac from Mail to Microsoft Outlook. This issue arose during routine setup, and it is preventing the technician from using Outlook for email communications. The technician requires assistance to resolve this matter efficiently.",
+  "short_description": "Unable to set Microsoft Outlook as default email application on Mac.",
+  "description": "A field technician is experiencing difficulties while trying to change the default email application on their Mac from Mail to Microsoft Outlook. This issue arose during routine setup, and it is preventing the technician from using Outlook for email communications. The technician requires assistance to resolve this matter efficiently."
+}

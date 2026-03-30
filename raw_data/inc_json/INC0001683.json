@@ -1,0 +1,20 @@
+{
+  "number": "INC0001683",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB01587",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to connect to Cisco VPN Client, multiple errors encountered.\n\nfull_description_text:  \nI'm trying to use the Cisco VPN Client, but I can't connect at all. I keep getting different error messages, like the VPN service not being available and something about my account not meeting access criteria. It’s really frustrating because it says the VPN agent service isn’t responding, and I don’t know what to do next.",
+  "short_description": "Unable to connect to Cisco VPN Client, multiple errors encountered.",
+  "description": "I'm trying to use the Cisco VPN Client, but I can't connect at all. I keep getting different error messages, like the VPN service not being available and something about my account not meeting access criteria. It’s really frustrating because it says the VPN agent service isn’t responding, and I don’t know what to do next."
+}

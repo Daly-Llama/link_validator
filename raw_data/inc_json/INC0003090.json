@@ -1,0 +1,20 @@
+{
+  "number": "INC0003090",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05741",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need assistance with installing Box on Windows 10.\n\nfull_description_text: \nThe customer is trying to get Box installed on their Windows 10 machine. They submitted a request through the self-service form but didn't provide much detail about the issue. It's important to note that they are familiar with online storage solutions but may need guidance on the installation process. The request seems urgent as they rely on Box for their file storage needs.",
+  "short_description": "Need assistance with installing Box on Windows 10.",
+  "description": "The customer is trying to get Box installed on their Windows 10 machine. They submitted a request through the self-service form but didn't provide much detail about the issue. It's important to note that they are familiar with online storage solutions but may need guidance on the installation process. The request seems urgent as they rely on Box for their file storage needs."
+}

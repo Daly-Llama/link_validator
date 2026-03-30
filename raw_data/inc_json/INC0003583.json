@@ -1,0 +1,20 @@
+{
+  "number": "INC0003583",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07596",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to sort classlist in D2L.\n\nfull_description_text: I was trying to sort my classlist in D2L but it’s not working. I don’t know what to do next. It seems like there should be a way to do this, but I can’t find it.",
+  "short_description": "Unable to sort classlist in D2L.",
+  "description": "I was trying to sort my classlist in D2L but it’s not working. I don’t know what to do next. It seems like there should be a way to do this, but I can’t find it."
+}

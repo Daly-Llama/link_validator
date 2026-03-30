@@ -1,0 +1,20 @@
+{
+  "number": "INC0003752",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07877",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with range selection techniques in Excel.\n\nfull_description_text: I’m trying to figure out how to select ranges in Excel. I don’t really understand the different techniques for doing this. It’s confusing, and I need some guidance on what options I have for range selection.",
+  "short_description": "Need help with range selection techniques in Excel.",
+  "description": "I’m trying to figure out how to select ranges in Excel. I don’t really understand the different techniques for doing this. It’s confusing, and I need some guidance on what options I have for range selection."
+}

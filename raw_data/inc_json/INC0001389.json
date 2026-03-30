@@ -1,0 +1,20 @@
+{
+  "number": "INC0001389",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00742",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Can't find emails older than 12 months in Outlook.\n\nfull_description_text:\n- So, the user was trying to look for emails that are older than a year in Outlook.  \n- They mentioned they can only see emails from the last 12 months and nothing before that.  \n- Also, they’re having trouble finding older emails in a shared mailbox too.  \n- It seems like they really need help accessing their archived emails!",
+  "short_description": "Can't find emails older than 12 months in Outlook.",
+  "description": "- So, the user was trying to look for emails that are older than a year in Outlook.  \n- They mentioned they can only see emails from the last 12 months and nothing before that.  \n- Also, they’re having trouble finding older emails in a shared mailbox too.  \n- It seems like they really need help accessing their archived emails!"
+}

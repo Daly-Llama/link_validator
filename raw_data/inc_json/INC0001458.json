@@ -1,0 +1,20 @@
+{
+  "number": "INC0001458",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00917",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Apple TV not showing connection code in classroom.\n\nfull_description_text: During a live call, the user reported that the Apple TV in the smart classroom is not displaying the connection code needed for pairing. This issue prevents users from connecting their devices to the Apple TV, which is essential for classroom presentations. The user attempted to initiate the connection process but was unable to proceed due to the missing code.",
+  "short_description": "Apple TV not showing connection code in classroom.",
+  "description": "During a live call, the user reported that the Apple TV in the smart classroom is not displaying the connection code needed for pairing. This issue prevents users from connecting their devices to the Apple TV, which is essential for classroom presentations. The user attempted to initiate the connection process but was unable to proceed due to the missing code."
+}

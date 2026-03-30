@@ -1,0 +1,20 @@
+{
+  "number": "INC0002930",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05314",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty taking an open shift in Microsoft Shifts\n\nfull_description_text:\n- I’m trying to take an open shift in Microsoft Shifts but can’t figure it out.  \n- I’m using Microsoft Teams and just need some help with the steps.  \n- It’s a bit confusing, and I want to make sure I do it right.",
+  "short_description": "Difficulty taking an open shift in Microsoft Shifts",
+  "description": "- I’m trying to take an open shift in Microsoft Shifts but can’t figure it out.  \n- I’m using Microsoft Teams and just need some help with the steps.  \n- It’s a bit confusing, and I want to make sure I do it right."
+}

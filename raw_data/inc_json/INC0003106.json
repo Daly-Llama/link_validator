@@ -1,0 +1,20 @@
+{
+  "number": "INC0003106",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB05776",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to start meetings and experience intermittent sound issues in Webex.\n\nfull_description_text:\n- The user reported difficulties initiating a meeting using the Cisco Webex application, indicating a failure to launch the session as expected.\n- Additionally, there were complaints regarding audio functionality, with sound intermittently cutting in and out during usage.\n- The user also mentioned that video capabilities were not consistently available, further complicating their experience with the application.\n- This situation suggests potential underlying issues with the Webex software or connectivity that may require further investigation.",
+  "short_description": "Unable to start meetings and experience intermittent sound issues in Webex.",
+  "description": "- The user reported difficulties initiating a meeting using the Cisco Webex application, indicating a failure to launch the session as expected.\n- Additionally, there were complaints regarding audio functionality, with sound intermittently cutting in and out during usage.\n- The user also mentioned that video capabilities were not consistently available, further complicating their experience with the application.\n- This situation suggests potential underlying issues with the Webex software or connectivity that may require further investigation."
+}

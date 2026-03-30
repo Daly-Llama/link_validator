@@ -1,0 +1,20 @@
+{
+  "number": "INC0004545",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09345",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Heating and cooling issues in residence halls reported by technician.\n\nfull_description_text:  \nThe technician has received multiple reports regarding the heating and cooling systems in the residence halls. Users are experiencing problems with their heaters and air conditioners, leading to discomfort in their living spaces. Additionally, there are inquiries about when the heating will be activated for the fall and when air conditioning will be available for the spring. These concerns need to be addressed promptly to ensure a comfortable environment for all residents.",
+  "short_description": "Heating and cooling issues in residence halls reported by technician.",
+  "description": "The technician has received multiple reports regarding the heating and cooling systems in the residence halls. Users are experiencing problems with their heaters and air conditioners, leading to discomfort in their living spaces. Additionally, there are inquiries about when the heating will be activated for the fall and when air conditioning will be available for the spring. These concerns need to be addressed promptly to ensure a comfortable environment for all residents."
+}

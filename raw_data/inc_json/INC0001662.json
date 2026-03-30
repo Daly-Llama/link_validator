@@ -1,0 +1,20 @@
+{
+  "number": "INC0001662",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01538",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for granting access to PL-SQL for specific users.\n\nfull_description_text:  \nThe end user has submitted a request through the self-service form, seeking to obtain access permissions to the PL-SQL environment for a designated group of individuals. This request is crucial as it pertains to the need for these users to engage with PL-SQL functionalities, which are essential for their tasks. The user has explicitly mentioned the necessity of this access, indicating that without it, their ability to perform certain operations may be hindered. It is important to note that the request is directed towards granting access specifically to PL-SQL, highlighting the user's focus on this particular database management system.",
+  "short_description": "Request for granting access to PL-SQL for specific users.",
+  "description": "The end user has submitted a request through the self-service form, seeking to obtain access permissions to the PL-SQL environment for a designated group of individuals. This request is crucial as it pertains to the need for these users to engage with PL-SQL functionalities, which are essential for their tasks. The user has explicitly mentioned the necessity of this access, indicating that without it, their ability to perform certain operations may be hindered. It is important to note that the request is directed towards granting access specifically to PL-SQL, highlighting the user's focus on this particular database management system."
+}

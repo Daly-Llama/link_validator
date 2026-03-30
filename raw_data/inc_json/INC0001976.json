@@ -1,0 +1,20 @@
+{
+  "number": "INC0001976",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB02456",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Importance of customer context in information sharing\n\nfull_description_text: During a live phone call, the help desk analyst encountered a situation where the customer’s context was not adequately captured. The analyst realized that understanding the customer's background and specific needs is crucial for effective communication and information sharing. Without the right questions being asked, the full scope of the customer's situation remained unclear, leading to potential gaps in the assistance provided. This highlights the necessity of capturing customer context to enhance the overall support experience.",
+  "short_description": "Importance of customer context in information sharing",
+  "description": "During a live phone call, the help desk analyst encountered a situation where the customer’s context was not adequately captured. The analyst realized that understanding the customer's background and specific needs is crucial for effective communication and information sharing. Without the right questions being asked, the full scope of the customer's situation remained unclear, leading to potential gaps in the assistance provided. This highlights the necessity of capturing customer context to enhance the overall support experience."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003957",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08110",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about the Qualtrics platform and its functionalities.\n\nfull_description_text:\n- The user is seeking information about Qualtrics, a platform for experience management.  \n- They are unclear on its specific features and how it can be utilized in their work.  \n- This request may indicate a need for training or resources related to Qualtrics.  \n- The user may have limited familiarity with the platform, which could affect their understanding.",
+  "short_description": "Inquiry about the Qualtrics platform and its functionalities.",
+  "description": "- The user is seeking information about Qualtrics, a platform for experience management.  \n- They are unclear on its specific features and how it can be utilized in their work.  \n- This request may indicate a need for training or resources related to Qualtrics.  \n- The user may have limited familiarity with the platform, which could affect their understanding."
+}

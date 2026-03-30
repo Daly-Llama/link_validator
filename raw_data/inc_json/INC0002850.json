@@ -1,0 +1,20 @@
+{
+  "number": "INC0002850",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB05095",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't copy text from PDF in Acrobat\n\nfull_description_text:  \nI can't copy text from a .pdf file.  \nI try to select it but nothing happens.  \nThis is really frustrating and I need help.",
+  "short_description": "Can't copy text from PDF in Acrobat",
+  "description": "I can't copy text from a .pdf file.  \nI try to select it but nothing happens.  \nThis is really frustrating and I need help."
+}

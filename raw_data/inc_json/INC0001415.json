@@ -1,0 +1,20 @@
+{
+  "number": "INC0001415",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00806",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Block unwanted calls from a specific number on VoIP phone.\n\nfull_description_text:  \nSo, the user is getting a lot of those annoying robocalls and sales calls. They really want to block a number that keeps calling their office phone. They mentioned a call from Loraine from Adobe about some licenses, and it’s just too much for them.",
+  "short_description": "Block unwanted calls from a specific number on VoIP phone.",
+  "description": "So, the user is getting a lot of those annoying robocalls and sales calls. They really want to block a number that keeps calling their office phone. They mentioned a call from Loraine from Adobe about some licenses, and it’s just too much for them."
+}

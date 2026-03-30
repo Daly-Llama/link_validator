@@ -1,0 +1,20 @@
+{
+  "number": "INC0003844",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07978",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to change the report view in Excel.\n\nfull_description_text: So, during a live chat, the user was trying to figure out how to switch up the view of their report in Excel. They seemed a bit stuck and were looking for a way to make it more readable or maybe just different. It’s one of those things that should be simple, but sometimes Excel can be a bit tricky, right?",
+  "short_description": "Unable to change the report view in Excel.",
+  "description": "So, during a live chat, the user was trying to figure out how to switch up the view of their report in Excel. They seemed a bit stuck and were looking for a way to make it more readable or maybe just different. It’s one of those things that should be simple, but sometimes Excel can be a bit tricky, right?"
+}

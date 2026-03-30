@@ -1,0 +1,20 @@
+{
+  "number": "INC0003630",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07748",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty adding viewers and editors to a Google Doc\n\nfull_description_text: Durante una sesión de chat en vivo, el analista de soporte recibió una consulta sobre cómo agregar espectadores y editores a un documento de Google. El usuario no estaba seguro de los pasos necesarios y parecía confundido acerca de las opciones disponibles en la interfaz. A pesar de su familiaridad moderada con la herramienta, no pudo encontrar la manera de realizar estas acciones.",
+  "short_description": "Difficulty adding viewers and editors to a Google Doc",
+  "description": "Durante una sesión de chat en vivo, el analista de soporte recibió una consulta sobre cómo agregar espectadores y editores a un documento de Google. El usuario no estaba seguro de los pasos necesarios y parecía confundido acerca de las opciones disponibles en la interfaz. A pesar de su familiaridad moderada con la herramienta, no pudo encontrar la manera de realizar estas acciones."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001837",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02039",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to mask caller ID for external VoIP calls\n\nfull_description_text:  \nI would like to request that our phone lines be masked so that only the main department number shows when we make calls from our personal extensions. Currently, when I make an external call, the wrong phone number appears on the recipient's caller ID. This issue is causing confusion for those receiving our calls.",
+  "short_description": "Request to mask caller ID for external VoIP calls",
+  "description": "I would like to request that our phone lines be masked so that only the main department number shows when we make calls from our personal extensions. Currently, when I make an external call, the wrong phone number appears on the recipient's caller ID. This issue is causing confusion for those receiving our calls."
+}

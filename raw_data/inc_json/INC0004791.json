@@ -1,0 +1,20 @@
+{
+  "number": "INC0004791",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB10099",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about compatibility of Duo Mobile app version\n\nfull_description_text:\n- The user was checking the version of their Duo Mobile app.  \n- They wanted to confirm if this specific version would function properly.  \n- There was a concern regarding compatibility with their current setup.  \n- The help desk analyst was assisting them during a live phone call.",
+  "short_description": "Inquiry about compatibility of Duo Mobile app version",
+  "description": "- The user was checking the version of their Duo Mobile app.  \n- They wanted to confirm if this specific version would function properly.  \n- There was a concern regarding compatibility with their current setup.  \n- The help desk analyst was assisting them during a live phone call."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003662",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB07781",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Microsoft OneDrive.\n\nfull_description_text:\n- The user was trying to access OneDrive but couldn't figure it out.  \n- They mentioned something about not seeing the right options on their screen.  \n- The call was during a busy time, and there were some distractions in the background.  \n- It seemed like they were unsure if they needed to log in or if it was a different issue.",
+  "short_description": "Difficulty accessing Microsoft OneDrive.",
+  "description": "- The user was trying to access OneDrive but couldn't figure it out.  \n- They mentioned something about not seeing the right options on their screen.  \n- The call was during a busy time, and there were some distractions in the background.  \n- It seemed like they were unsure if they needed to log in or if it was a different issue."
+}

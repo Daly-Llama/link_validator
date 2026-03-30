@@ -1,0 +1,20 @@
+{
+  "number": "INC0004057",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08291",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues opening files in older versions of Word\n\nfull_description_text:\n- I'm trying to open some documents in an older version of Word.  \n- I'm not sure what the differences are when I do this.  \n- Can someone help me understand how to open these files properly?",
+  "short_description": "Issues opening files in older versions of Word",
+  "description": "- I'm trying to open some documents in an older version of Word.  \n- I'm not sure what the differences are when I do this.  \n- Can someone help me understand how to open these files properly?"
+}

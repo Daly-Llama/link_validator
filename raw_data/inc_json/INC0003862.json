@@ -1,0 +1,20 @@
+{
+  "number": "INC0003862",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB07996",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need shortcuts for managing OneNote notebooks and sections.\n\nfull_description_text:  \nI'm trying to figure out the shortcuts for working with notebooks and sections in OneNote. It would really help me navigate and organize my notes more efficiently. If you could share some of those shortcuts, that would be awesome!",
+  "short_description": "Need shortcuts for managing OneNote notebooks and sections.",
+  "description": "I'm trying to figure out the shortcuts for working with notebooks and sections in OneNote. It would really help me navigate and organize my notes more efficiently. If you could share some of those shortcuts, that would be awesome!"
+}

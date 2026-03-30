@@ -1,0 +1,20 @@
+{
+  "number": "INC0001346",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00660",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to retrieve the list of subscribers from Listserv 17.0.\n\nfull_description_text:\n- The user attempted to access the Listserv 17.0 application to view the subscribers of a specific list. \n- During this process, they encountered an issue that prevented them from successfully listing the subscribers. \n- This situation arose while the user was navigating through the interface, which they found to be somewhat complex and not very intuitive. \n- As a result, the user is seeking assistance to resolve this matter and obtain the necessary subscriber information.",
+  "short_description": "Unable to retrieve the list of subscribers from Listserv 17.0.",
+  "description": "- The user attempted to access the Listserv 17.0 application to view the subscribers of a specific list. \n- During this process, they encountered an issue that prevented them from successfully listing the subscribers. \n- This situation arose while the user was navigating through the interface, which they found to be somewhat complex and not very intuitive. \n- As a result, the user is seeking assistance to resolve this matter and obtain the necessary subscriber information."
+}

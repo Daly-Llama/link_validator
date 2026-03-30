@@ -1,0 +1,20 @@
+{
+  "number": "INC0003319",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB06515",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Questions about faculty and staff processes at the online bookstore\n\nfull_description_text:  \nA help desk analyst got an email about issues with the online bookstore. The questions are from faculty and staff about how things work there. It's related to Charlie's Bookstore & Fan Shop, but not much else is clear.",
+  "short_description": "Questions about faculty and staff processes at the online bookstore",
+  "description": "A help desk analyst got an email about issues with the online bookstore. The questions are from faculty and staff about how things work there. It's related to Charlie's Bookstore & Fan Shop, but not much else is clear."
+}

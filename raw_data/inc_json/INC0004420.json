@@ -1,0 +1,20 @@
+{
+  "number": "INC0004420",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB08995",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help setting up a Tax Sheltered Annuity.\n\nfull_description_text:  \nHola, I want to set up a Tax Sheltered Annuity.  \nBut I don’t know how to do it.  \nWhere can I find info on TSAs?  \nI need some guidance, please!",
+  "short_description": "Need help setting up a Tax Sheltered Annuity.",
+  "description": "Hola, I want to set up a Tax Sheltered Annuity.  \nBut I don’t know how to do it.  \nWhere can I find info on TSAs?  \nI need some guidance, please!"
+}

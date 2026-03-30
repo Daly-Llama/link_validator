@@ -1,0 +1,20 @@
+{
+  "number": "INC0002372",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03640",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for email alert on network connectivity loss in Solarwinds\n\nfull_description_text:  \nDuring a live chat, the user expressed a need for an email notification from Solarwinds whenever their computer experiences a loss of network connectivity. They were looking for a way to stay informed about their network status without having to constantly check the system manually. This request highlights the importance of real-time alerts in maintaining productivity and ensuring that connectivity issues are promptly addressed. The user seemed quite knowledgeable about Solarwinds, indicating a familiarity with its alerting capabilities, yet they were unsure how to set this specific alert up.",
+  "short_description": "Request for email alert on network connectivity loss in Solarwinds",
+  "description": "During a live chat, the user expressed a need for an email notification from Solarwinds whenever their computer experiences a loss of network connectivity. They were looking for a way to stay informed about their network status without having to constantly check the system manually. This request highlights the importance of real-time alerts in maintaining productivity and ensuring that connectivity issues are promptly addressed. The user seemed quite knowledgeable about Solarwinds, indicating a familiarity with its alerting capabilities, yet they were unsure how to set this specific alert up."
+}

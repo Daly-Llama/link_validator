@@ -1,0 +1,20 @@
+{
+  "number": "INC0004024",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB08251",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble recruiting for Faculty and Temporary positions\n\nfull_description_text:  \nHola, estoy teniendo problemas para reclutar para posiciones de Faculty y temporales. Cuando intento usar el sistema de seguimiento de solicitantes, no puedo encontrar las opciones que necesito. No estoy seguro si estoy haciendo algo mal o si hay un problema con el sistema.",
+  "short_description": "Trouble recruiting for Faculty and Temporary positions",
+  "description": "Hola, estoy teniendo problemas para reclutar para posiciones de Faculty y temporales. Cuando intento usar el sistema de seguimiento de solicitantes, no puedo encontrar las opciones que necesito. No estoy seguro si estoy haciendo algo mal o si hay un problema con el sistema."
+}

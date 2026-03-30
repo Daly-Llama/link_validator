@@ -1,0 +1,20 @@
+{
+  "number": "INC0002389",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB03683",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: ImageNow fails to link documents to student files.\n\nfull_description_text: User is trying to link a file to a student. ImageNow is not working. They see an error: \"Could not find ID.\" Linking documents from Banner is not working.",
+  "short_description": "ImageNow fails to link documents to student files.",
+  "description": "User is trying to link a file to a student. ImageNow is not working. They see an error: \"Could not find ID.\" Linking documents from Banner is not working."
+}

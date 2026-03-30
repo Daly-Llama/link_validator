@@ -1,0 +1,20 @@
+{
+  "number": "INC0002500",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03988",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: User not receiving emails from the listserv.\n\nfull_description_text: User attempted to send an email to the listserv. They did not receive any emails in return. There was also an issue with approving the email. This situation needs to be addressed for proper communication.",
+  "short_description": "User not receiving emails from the listserv.",
+  "description": "User attempted to send an email to the listserv. They did not receive any emails in return. There was also an issue with approving the email. This situation needs to be addressed for proper communication."
+}

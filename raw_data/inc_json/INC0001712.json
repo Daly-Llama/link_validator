@@ -1,0 +1,20 @@
+{
+  "number": "INC0001712",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB01670",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to create a new folder in SharePoint.\n\nfull_description_text:  \nThe user is requesting the creation of a new folder within their SharePoint environment. They specifically mentioned the need for a new tab to be added to facilitate organization. The request was made during a live phone call, indicating an immediate need for this functionality. The user provided the SharePoint site URL for reference.",
+  "short_description": "Request to create a new folder in SharePoint.",
+  "description": "The user is requesting the creation of a new folder within their SharePoint environment. They specifically mentioned the need for a new tab to be added to facilitate organization. The request was made during a live phone call, indicating an immediate need for this functionality. The user provided the SharePoint site URL for reference."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001855",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02086",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about applying for ITS student employee positions\n\nfull_description_text:\n- The user is looking for information on ITS student employee positions.  \n- They want to know if there are any available jobs in the ITS department.  \n- Specifically, they are interested in applying for a Lab Consultant position in the library.  \n- The user is unsure about the application process for these student jobs.",
+  "short_description": "Inquiry about applying for ITS student employee positions",
+  "description": "- The user is looking for information on ITS student employee positions.  \n- They want to know if there are any available jobs in the ITS department.  \n- Specifically, they are interested in applying for a Lab Consultant position in the library.  \n- The user is unsure about the application process for these student jobs."
+}

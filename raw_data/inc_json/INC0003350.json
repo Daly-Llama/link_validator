@@ -1,0 +1,20 @@
+{
+  "number": "INC0003350",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB06620",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty requesting a loft for bed in dormitory.\n\nfull_description_text: \nThe user is trying to request a loft for their bed in the dormitory. They are not sure how to fill out the loft request form that is needed. The user mentioned that they need help with this process and they are concerned about the additional charge that will be added to their account. They also want to know if there are any specific deadlines for the request.",
+  "short_description": "Difficulty requesting a loft for bed in dormitory.",
+  "description": "The user is trying to request a loft for their bed in the dormitory. They are not sure how to fill out the loft request form that is needed. The user mentioned that they need help with this process and they are concerned about the additional charge that will be added to their account. They also want to know if there are any specific deadlines for the request."
+}

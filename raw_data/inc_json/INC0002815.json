@@ -1,0 +1,20 @@
+{
+  "number": "INC0002815",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04941",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to host a webinar using Webex Events.\n\nfull_description_text:\n- User is trying to host a webinar with Webex Events.  \n- They are unsure if this is possible or how to proceed.  \n- There may be confusion regarding the features available for webinars.",
+  "short_description": "Unable to host a webinar using Webex Events.",
+  "description": "- User is trying to host a webinar with Webex Events.  \n- They are unsure if this is possible or how to proceed.  \n- There may be confusion regarding the features available for webinars."
+}

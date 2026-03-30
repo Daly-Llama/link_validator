@@ -1,0 +1,20 @@
+{
+  "number": "INC0004482",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09162",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: PDF attachments in Outlook turn into links instead of files.\n\nfull_description_text:  \nSo, the user is trying to send a PDF via email. But every time they attach it, it just turns into a link. They’re using Outlook 365 on Windows 10/11. It’s kinda frustrating, right?",
+  "short_description": "PDF attachments in Outlook turn into links instead of files.",
+  "description": "So, the user is trying to send a PDF via email. But every time they attach it, it just turns into a link. They’re using Outlook 365 on Windows 10/11. It’s kinda frustrating, right?"
+}

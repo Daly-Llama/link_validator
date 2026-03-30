@@ -1,0 +1,20 @@
+{
+  "number": "INC0004338",
+  "category": "Safety and Security",
+  "subcategory": "Emergency Response",
+  "correct_kb": "KB08775",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Bomb threat response procedures needed for field technician.\n\nfull_description_text:\n- A bomb threat was reported while the technician was on site.  \n- The technician is unsure of the proper procedures to follow in this situation.  \n- Immediate guidance is required to ensure safety and compliance with protocols.  \n- Clarification on next steps is essential to address the threat effectively.",
+  "short_description": "Bomb threat response procedures needed for field technician.",
+  "description": "- A bomb threat was reported while the technician was on site.  \n- The technician is unsure of the proper procedures to follow in this situation.  \n- Immediate guidance is required to ensure safety and compliance with protocols.  \n- Clarification on next steps is essential to address the threat effectively."
+}

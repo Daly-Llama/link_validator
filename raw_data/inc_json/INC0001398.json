@@ -1,0 +1,20 @@
+{
+  "number": "INC0001398",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00762",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Voicemail not being forwarded to email from VoIP phones.\n\nfull_description_text: \nThe user is experiencing an issue where voicemails are not being sent to their email. This problem is occurring with the VoIP phones in use. The user expects to receive voicemails in their email but is not seeing them arrive.",
+  "short_description": "Voicemail not being forwarded to email from VoIP phones.",
+  "description": "The user is experiencing an issue where voicemails are not being sent to their email. This problem is occurring with the VoIP phones in use. The user expects to receive voicemails in their email but is not seeing them arrive."
+}

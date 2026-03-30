@@ -1,0 +1,20 @@
+{
+  "number": "INC0004309",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08742",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Outlook Address Book search results not filtering as expected\n\nfull_description_text:\n- So, like, when you’re trying to search for a contact in the Outlook Address Book, it just doesn’t seem to filter the results while you’re typing, right?  \n- It’s kinda frustrating because you expect it to auto-populate with names as you go, but it’s just sitting there doing nothing.  \n- I mean, this is happening on Windows OS, and it’s really throwing a wrench in the whole email process, you know?  \n- Just wanted to flag this issue since it’s making things a bit more complicated than they need to be!",
+  "short_description": "Outlook Address Book search results not filtering as expected",
+  "description": "- So, like, when you’re trying to search for a contact in the Outlook Address Book, it just doesn’t seem to filter the results while you’re typing, right?  \n- It’s kinda frustrating because you expect it to auto-populate with names as you go, but it’s just sitting there doing nothing.  \n- I mean, this is happening on Windows OS, and it’s really throwing a wrench in the whole email process, you know?  \n- Just wanted to flag this issue since it’s making things a bit more complicated than they need to be!"
+}

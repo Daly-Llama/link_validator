@@ -1,0 +1,20 @@
+{
+  "number": "INC0003529",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Experiential Learning and Education Abroad",
+  "correct_kb": "KB07353",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in scheduling an appointment with the Office of Service Learning.\n\nfull_description_text: The user is seeking guidance on how to visit or arrange an appointment with the Office of Service Learning. They are specifically inquiring about the process for accessing services related to the Alternative Week of Off-Campus Learning (AWOL). This request indicates a need for clarity on the office's accessibility and appointment procedures.",
+  "short_description": "Difficulty in scheduling an appointment with the Office of Service Learning.",
+  "description": "The user is seeking guidance on how to visit or arrange an appointment with the Office of Service Learning. They are specifically inquiring about the process for accessing services related to the Alternative Week of Off-Campus Learning (AWOL). This request indicates a need for clarity on the office's accessibility and appointment procedures."
+}

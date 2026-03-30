@@ -1,0 +1,20 @@
+{
+  "number": "INC0004526",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB09279",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about invitation letters for family visa applications\n\nfull_description_text: \nThe user is seeking clarification regarding the issuance of invitation letters for their family members to attend their graduation ceremony. They specifically want to know if the Gallagher International Center provides such letters to assist with visa applications. This inquiry was made during a phone call, and the user expressed urgency in obtaining this information for their family's travel plans.",
+  "short_description": "Inquiry about invitation letters for family visa applications",
+  "description": "The user is seeking clarification regarding the issuance of invitation letters for their family members to attend their graduation ceremony. They specifically want to know if the Gallagher International Center provides such letters to assist with visa applications. This inquiry was made during a phone call, and the user expressed urgency in obtaining this information for their family's travel plans."
+}

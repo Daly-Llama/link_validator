@@ -1,0 +1,20 @@
+{
+  "number": "INC0001755",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB01799",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Locked out of Panopto with sign-in error message.\n\nfull_description_text:\n- So, the user was trying to log into Panopto, right?  \n- They kept getting this annoying error message that says, \"Failed to sign in, please try again.\"  \n- It’s like, super frustrating because they can’t access their stuff, and they mentioned something about contacting the admin if it keeps happening.  \n- I mean, who wants to deal with that? It’s just a hassle when you’re trying to get work done!",
+  "short_description": "Locked out of Panopto with sign-in error message.",
+  "description": "- So, the user was trying to log into Panopto, right?  \n- They kept getting this annoying error message that says, \"Failed to sign in, please try again.\"  \n- It’s like, super frustrating because they can’t access their stuff, and they mentioned something about contacting the admin if it keeps happening.  \n- I mean, who wants to deal with that? It’s just a hassle when you’re trying to get work done!"
+}

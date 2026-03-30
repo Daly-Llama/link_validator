@@ -1,0 +1,20 @@
+{
+  "number": "INC0001737",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01729",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Not receiving K2 email notifications for pending reappointments\n\nfull_description_text:  \nThe user reported that they are not getting any email notifications from K2 regarding their pending reappointments. Despite having reappointments that need attention in the K2 Workspace, the expected emails are not being received. This issue seems to be affecting their ability to stay updated on important tasks.",
+  "short_description": "Not receiving K2 email notifications for pending reappointments",
+  "description": "The user reported that they are not getting any email notifications from K2 regarding their pending reappointments. Despite having reappointments that need attention in the K2 Workspace, the expected emails are not being received. This issue seems to be affecting their ability to stay updated on important tasks."
+}

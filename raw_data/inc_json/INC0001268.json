@@ -1,0 +1,20 @@
+{
+  "number": "INC0001268",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00508",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't access departmental email account due to password request\n\nfull_description_text:  \nSo, I'm trying to get into the departmental email account, right? But it keeps asking for a password and then it wants DUO too. It's super frustrating because I just need to check some emails!",
+  "short_description": "Can't access departmental email account due to password request",
+  "description": "So, I'm trying to get into the departmental email account, right? But it keeps asking for a password and then it wants DUO too. It's super frustrating because I just need to check some emails!"
+}

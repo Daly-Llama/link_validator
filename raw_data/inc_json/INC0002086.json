@@ -1,0 +1,20 @@
+{
+  "number": "INC0002086",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02790",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: No sound coming from the TV in the conference room.\n\nfull_description_text: The user reported that there is no sound from the TV in the conference room. They were trying to use it for a presentation but encountered this issue. The lack of audio is preventing them from proceeding effectively.",
+  "short_description": "No sound coming from the TV in the conference room.",
+  "description": "The user reported that there is no sound from the TV in the conference room. They were trying to use it for a presentation but encountered this issue. The lack of audio is preventing them from proceeding effectively."
+}

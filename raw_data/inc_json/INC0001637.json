@@ -1,0 +1,20 @@
+{
+  "number": "INC0001637",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01459",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Camera not visible to participants during Zoom calls.\n\nfull_description_text:  \nSo, the user was trying to join a Zoom call, right? They mentioned that their camera is on and flashing, but the person on the other end just can't see them at all. It's like the webcam is set up, but it just won't load properly. Super frustrating, especially when you need to be seen during a meeting!",
+  "short_description": "Camera not visible to participants during Zoom calls.",
+  "description": "So, the user was trying to join a Zoom call, right? They mentioned that their camera is on and flashing, but the person on the other end just can't see them at all. It's like the webcam is set up, but it just won't load properly. Super frustrating, especially when you need to be seen during a meeting!"
+}

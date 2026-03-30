@@ -1,0 +1,20 @@
+{
+  "number": "INC0004237",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08593",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plans for School of Law\n\nfull_description_text:  \nEl usuario está buscando información sobre el plan de evacuación de su edificio. También tiene preguntas sobre el plan de severo clima para la Escuela de Derecho. No está claro si ha recibido esta información previamente, lo que ha causado confusión y preocupación.",
+  "short_description": "Inquiry about evacuation and severe weather plans for School of Law",
+  "description": "El usuario está buscando información sobre el plan de evacuación de su edificio. También tiene preguntas sobre el plan de severo clima para la Escuela de Derecho. No está claro si ha recibido esta información previamente, lo que ha causado confusión y preocupación."
+}

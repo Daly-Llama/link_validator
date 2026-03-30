@@ -1,0 +1,20 @@
+{
+  "number": "INC0003418",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06930",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Invalid system configuration error when running Examplify on Windows.\n\nfull_description_text: I was trying to run Examplify on my Windows machine, and it just wouldn't work. I got this error message saying something about minimum system requirements and invalid system configuration. It specifically mentioned that Examplify isn't allowed to run with core isolation memory integrity enabled, which is super annoying. I guess I need to disable that memory integrity thingy and then try again, but it's just frustrating to deal with all these settings.",
+  "short_description": "Invalid system configuration error when running Examplify on Windows.",
+  "description": "I was trying to run Examplify on my Windows machine, and it just wouldn't work. I got this error message saying something about minimum system requirements and invalid system configuration. It specifically mentioned that Examplify isn't allowed to run with core isolation memory integrity enabled, which is super annoying. I guess I need to disable that memory integrity thingy and then try again, but it's just frustrating to deal with all these settings."
+}

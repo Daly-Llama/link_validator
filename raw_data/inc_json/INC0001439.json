@@ -1,0 +1,20 @@
+{
+  "number": "INC0001439",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB00856",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Adobe Creative Cloud license renewal needed before expiration.\n\nfull_description_text:  \nThe user is attempting to renew their Adobe Creative Cloud license. They received a notification indicating that their membership will expire in 30 days. The message also states that they need to update their billing information to maintain access to Illustrator CC. The urgency of the situation is clear, as losing access to these tools could impact their work.",
+  "short_description": "Adobe Creative Cloud license renewal needed before expiration.",
+  "description": "The user is attempting to renew their Adobe Creative Cloud license. They received a notification indicating that their membership will expire in 30 days. The message also states that they need to update their billing information to maintain access to Illustrator CC. The urgency of the situation is clear, as losing access to these tools could impact their work."
+}

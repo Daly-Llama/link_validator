@@ -1,0 +1,20 @@
+{
+  "number": "INC0003030",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05612",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: VixWin application fails to launch on multiple Windows 10 systems.\n\nfull_description_text: The user reported that VixWin is not opening on their computer, and this issue is also affecting a few other systems in the clinic. This problem seems to be isolated to the Windows 10 environment. Further investigation may be needed to determine the underlying cause of the application failure.",
+  "short_description": "VixWin application fails to launch on multiple Windows 10 systems.",
+  "description": "The user reported that VixWin is not opening on their computer, and this issue is also affecting a few other systems in the clinic. This problem seems to be isolated to the Windows 10 environment. Further investigation may be needed to determine the underlying cause of the application failure."
+}

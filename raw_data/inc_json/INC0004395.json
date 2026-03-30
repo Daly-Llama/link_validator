@@ -1,0 +1,20 @@
+{
+  "number": "INC0004395",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08946",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy for network management.\n\nfull_description_text:\n- I’m trying to understand the security policy for managing our network infrastructure.  \n- I came across the term \"CIS Control 12\" and I'm not quite sure what it means in this context.  \n- Can someone clarify what the USD security policy entails for network management?",
+  "short_description": "Inquiry about USD security policy for network management.",
+  "description": "- I’m trying to understand the security policy for managing our network infrastructure.  \n- I came across the term \"CIS Control 12\" and I'm not quite sure what it means in this context.  \n- Can someone clarify what the USD security policy entails for network management?"
+}

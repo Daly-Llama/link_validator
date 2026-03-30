@@ -1,0 +1,20 @@
+{
+  "number": "INC0002336",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03557",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to add and remove users from proxy access.\n\nfull_description_text:  \nNew employee needs to be added to proxy.  \nWe also need to remove some users from Law Proxy and USD Proxy.  \nA professor needs to be added to lawproxy too.",
+  "short_description": "Need to add and remove users from proxy access.",
+  "description": "New employee needs to be added to proxy.  \nWe also need to remove some users from Law Proxy and USD Proxy.  \nA professor needs to be added to lawproxy too."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004194",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08512",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Data card printer shows \"card not in position\" error while taking cards.\n\nfull_description_text:  \nI’m having trouble with the data card printer; it keeps giving me the “card not in position” error. Even though it’s showing that message, the printer continues to take in cards, which is really frustrating. I’m not sure what’s causing this issue, but it’s preventing me from printing the necessary cards for the Body Donation Program.",
+  "short_description": "Data card printer shows \"card not in position\" error while taking cards.",
+  "description": "I’m having trouble with the data card printer; it keeps giving me the “card not in position” error. Even though it’s showing that message, the printer continues to take in cards, which is really frustrating. I’m not sure what’s causing this issue, but it’s preventing me from printing the necessary cards for the Body Donation Program."
+}

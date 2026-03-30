@@ -1,0 +1,20 @@
+{
+  "number": "INC0002845",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05067",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: No sound on laptop while using VPN and Remote Desktop.\n\nfull_description_text:  \nI am trying to work from home using VPN and Remote Desktop. But I can't hear any sound on my laptop. I am logged in to my work desktop, but the sound is not working at all. It's really frustrating because I need the sound for my work.",
+  "short_description": "No sound on laptop while using VPN and Remote Desktop.",
+  "description": "I am trying to work from home using VPN and Remote Desktop. But I can't hear any sound on my laptop. I am logged in to my work desktop, but the sound is not working at all. It's really frustrating because I need the sound for my work."
+}

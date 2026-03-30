@@ -1,0 +1,20 @@
+{
+  "number": "INC0002602",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04314",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update data in The Museum System (TMS).\n\nfull_description_text: \nThe user is requesting an update to the data in The Museum System, commonly referred to as TMS. They mentioned having a custom script that was provided by Gallery Systems, which needs to be executed. The call was made during a live conversation, indicating urgency. The user is likely looking for assistance to ensure the data reflects the most current information available.",
+  "short_description": "Need to update data in The Museum System (TMS).",
+  "description": "The user is requesting an update to the data in The Museum System, commonly referred to as TMS. They mentioned having a custom script that was provided by Gallery Systems, which needs to be executed. The call was made during a live conversation, indicating urgency. The user is likely looking for assistance to ensure the data reflects the most current information available."
+}

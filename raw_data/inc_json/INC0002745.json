@@ -1,0 +1,20 @@
+{
+  "number": "INC0002745",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB04767",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need replacement cord for VOIP phone due to damage.\n\nfull_description_text:  \nThe user is experiencing an issue with their VOIP phone, specifically regarding the cord that connects the device. The existing phone cord is showing signs of breaking, which is causing concern for the user as it may affect the functionality of the phone. They are requesting a new phone cord to ensure that their communication remains uninterrupted and effective. It is important to address this matter promptly to avoid any potential disruptions in service.",
+  "short_description": "Need replacement cord for VOIP phone due to damage.",
+  "description": "The user is experiencing an issue with their VOIP phone, specifically regarding the cord that connects the device. The existing phone cord is showing signs of breaking, which is causing concern for the user as it may affect the functionality of the phone. They are requesting a new phone cord to ensure that their communication remains uninterrupted and effective. It is important to address this matter promptly to avoid any potential disruptions in service."
+}

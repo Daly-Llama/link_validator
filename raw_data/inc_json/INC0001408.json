@@ -1,0 +1,20 @@
+{
+  "number": "INC0001408",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00781",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for installation of Illiad Client software\n\nfull_description_text:\n- The user is seeking assistance with the installation of the Illiad Client software.  \n- During a live phone call, they expressed the need for this software to be set up on their system.  \n- The request indicates a potential urgency in accessing the functionalities provided by the Illiad Client.  \n- The user may require further guidance on the installation process to ensure proper setup.",
+  "short_description": "Request for installation of Illiad Client software",
+  "description": "- The user is seeking assistance with the installation of the Illiad Client software.  \n- During a live phone call, they expressed the need for this software to be set up on their system.  \n- The request indicates a potential urgency in accessing the functionalities provided by the Illiad Client.  \n- The user may require further guidance on the installation process to ensure proper setup."
+}

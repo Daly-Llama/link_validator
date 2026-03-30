@@ -1,0 +1,20 @@
+{
+  "number": "INC0001554",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01186",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Coyote Card Machine fails to connect and respond.\n\nfull_description_text: The Coyote Card Machine is showing an error that says the application BBOARD is not responding to VMAC. The connection has failed, which is causing issues with processing transactions. This problem was reported during a live call, and the user is unable to complete their tasks.",
+  "short_description": "Coyote Card Machine fails to connect and respond.",
+  "description": "The Coyote Card Machine is showing an error that says the application BBOARD is not responding to VMAC. The connection has failed, which is causing issues with processing transactions. This problem was reported during a live call, and the user is unable to complete their tasks."
+}

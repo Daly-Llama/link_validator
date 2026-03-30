@@ -1,0 +1,20 @@
+{
+  "number": "INC0002682",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB04589",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Missing audit trails for events in 25Live.\n\nfull_description_text:  \nUser reported that events in 25Live are not showing their audit trails. This is causing some confusion, as the audit trail is important for tracking changes and updates. It seems like the issue might be affecting multiple events, but it's unclear how widespread it is. The user was just trying to review the event history when they noticed this problem.",
+  "short_description": "Missing audit trails for events in 25Live.",
+  "description": "User reported that events in 25Live are not showing their audit trails. This is causing some confusion, as the audit trail is important for tracking changes and updates. It seems like the issue might be affecting multiple events, but it's unclear how widespread it is. The user was just trying to review the event history when they noticed this problem."
+}

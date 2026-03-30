@@ -1,0 +1,20 @@
+{
+  "number": "INC0001010",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00023",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to retrieve USD username for portal access.\n\nfull_description_text: \nDuring a live phone conversation, the user expressed their inability to log into the myUSD portal, which is essential for accessing their USD account. They inquired specifically about how to find their username, as this information is critical for successful authentication. The user mentioned they were utilizing RapidIdentity for their login attempts, but encountered a barrier that prevented them from proceeding. This situation indicates a potential issue with username retrieval or account recognition within the system, which requires further investigation.",
+  "short_description": "Unable to retrieve USD username for portal access.",
+  "description": "During a live phone conversation, the user expressed their inability to log into the myUSD portal, which is essential for accessing their USD account. They inquired specifically about how to find their username, as this information is critical for successful authentication. The user mentioned they were utilizing RapidIdentity for their login attempts, but encountered a barrier that prevented them from proceeding. This situation indicates a potential issue with username retrieval or account recognition within the system, which requires further investigation."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004459",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB09122",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook 365 not receiving new emails.\n\nfull_description_text:\n- I am unable to receive any new emails in Outlook 365.  \n- The application keeps showing a message saying \"Trying to connect...\"  \n- This issue started suddenly, and I haven't changed any settings.  \n- I rely on Outlook for my daily communications, so this is quite frustrating.",
+  "short_description": "Outlook 365 not receiving new emails.",
+  "description": "- I am unable to receive any new emails in Outlook 365.  \n- The application keeps showing a message saying \"Trying to connect...\"  \n- This issue started suddenly, and I haven't changed any settings.  \n- I rely on Outlook for my daily communications, so this is quite frustrating."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003535",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB07362",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help verifying employment and income for loan forms.\n\nfull_description_text:  \nI'm trying to get my employment and income verified for a mortgage application, but I'm not sure how to go about it. A lender has requested this information, and I also need my employer to certify my Public Loan Forgiveness form. Can someone please guide me on who can assist with this verification process? It's a bit confusing, and I want to make sure I do it right.",
+  "short_description": "Need help verifying employment and income for loan forms.",
+  "description": "I'm trying to get my employment and income verified for a mortgage application, but I'm not sure how to go about it. A lender has requested this information, and I also need my employer to certify my Public Loan Forgiveness form. Can someone please guide me on who can assist with this verification process? It's a bit confusing, and I want to make sure I do it right."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002073",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB02746",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble uninstalling a program on my Windows computer\n\nfull_description_text:  \n- So, I was trying to get rid of this program I don’t need anymore.  \n- I went to the control panel and clicked on uninstall, but it just wouldn’t go away.  \n- It’s kinda annoying because I thought it would be easy, but now it’s just sitting there taking up space.",
+  "short_description": "Trouble uninstalling a program on my Windows computer",
+  "description": "- So, I was trying to get rid of this program I don’t need anymore.  \n- I went to the control panel and clicked on uninstall, but it just wouldn’t go away.  \n- It’s kinda annoying because I thought it would be easy, but now it’s just sitting there taking up space."
+}

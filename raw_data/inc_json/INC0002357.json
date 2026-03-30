@@ -1,0 +1,20 @@
+{
+  "number": "INC0002357",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03595",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to delete USD email account from mobile device.\n\nfull_description_text:\n- The user is receiving constant reminders from their USD email account.  \n- They are looking to completely remove this account from their mobile phone.  \n- This issue is affecting both Android and iPhone devices, and they seem unsure about the steps needed to delete it.  \n- It's important to address this so the user can stop the notifications.",
+  "short_description": "Unable to delete USD email account from mobile device.",
+  "description": "- The user is receiving constant reminders from their USD email account.  \n- They are looking to completely remove this account from their mobile phone.  \n- This issue is affecting both Android and iPhone devices, and they seem unsure about the steps needed to delete it.  \n- It's important to address this so the user can stop the notifications."
+}

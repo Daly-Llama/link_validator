@@ -1,0 +1,20 @@
+{
+  "number": "INC0004150",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08425",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion over using Slide or Outline Navigation in PowerPoint\n\nfull_description_text: \nThe user is unsure about which navigation view to select in PowerPoint, specifically between the Slide and Outline options. This confusion is affecting their ability to effectively organize and present their content. They are looking for guidance on which view would be more suitable for their needs.",
+  "short_description": "Confusion over using Slide or Outline Navigation in PowerPoint",
+  "description": "The user is unsure about which navigation view to select in PowerPoint, specifically between the Slide and Outline options. This confusion is affecting their ability to effectively organize and present their content. They are looking for guidance on which view would be more suitable for their needs."
+}

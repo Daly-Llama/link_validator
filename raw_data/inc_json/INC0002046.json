@@ -1,0 +1,20 @@
+{
+  "number": "INC0002046",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB02665",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Update primary email address in Banner and D2L systems.\n\nfull_description_text:\n- User requested to update their primary email address in Banner-Student.  \n- The old email is still showing in D2L, causing confusion.  \n- They mentioned that the email for staff also needs to be updated in Banner.  \n- This issue affects their ability to receive important communications.",
+  "short_description": "Update primary email address in Banner and D2L systems.",
+  "description": "- User requested to update their primary email address in Banner-Student.  \n- The old email is still showing in D2L, causing confusion.  \n- They mentioned that the email for staff also needs to be updated in Banner.  \n- This issue affects their ability to receive important communications."
+}

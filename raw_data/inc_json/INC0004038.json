@@ -1,0 +1,20 @@
+{
+  "number": "INC0004038",
+  "category": "Academic Advising",
+  "subcategory": "High School Dual Credit",
+  "correct_kb": "KB08266",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Concerns about GPA impact from dropping a dual credit course\n\nfull_description_text:  \nI recently dropped a course that was part of my dual credit program, and now I'm really worried about how this decision might affect my GPA. I mean, I know grades are super important for college applications, and I can't help but think about how this might mess with my future plans for higher education. It's just a lot to consider, especially since I was counting on those credits to boost my academic profile. Plus, I’m curious if this drop will have any long-term effects on my eligibility for future dual credit opportunities.",
+  "short_description": "Concerns about GPA impact from dropping a dual credit course",
+  "description": "I recently dropped a course that was part of my dual credit program, and now I'm really worried about how this decision might affect my GPA. I mean, I know grades are super important for college applications, and I can't help but think about how this might mess with my future plans for higher education. It's just a lot to consider, especially since I was counting on those credits to boost my academic profile. Plus, I’m curious if this drop will have any long-term effects on my eligibility for future dual credit opportunities."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003643",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07762",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the Google Docs viewer functionality\n\nfull_description_text:  \nDuring a phone call, the user asked for clarification on what the Google Docs viewer is. They seemed unsure about its purpose and how it operates within the Google ecosystem. The conversation indicated a need for a better understanding of this tool's capabilities.",
+  "short_description": "Inquiry about the Google Docs viewer functionality",
+  "description": "During a phone call, the user asked for clarification on what the Google Docs viewer is. They seemed unsure about its purpose and how it operates within the Google ecosystem. The conversation indicated a need for a better understanding of this tool's capabilities."
+}

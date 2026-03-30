@@ -1,0 +1,20 @@
+{
+  "number": "INC0001229",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00430",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues accessing the Wellness Center due to account updates.\n\nfull_description_text:  \nSo, the person called in and said they can't get into the Wellness Center when they swipe their card. They mentioned something about needing new accounts to be imported and asked if we could run an update for student access in Fusion. They also want to make sure all Faculty and Staff accounts are updated this month. There was an error saying it couldn't find a user matching the ID, which seems to be the main problem.",
+  "short_description": "Issues accessing the Wellness Center due to account updates.",
+  "description": "So, the person called in and said they can't get into the Wellness Center when they swipe their card. They mentioned something about needing new accounts to be imported and asked if we could run an update for student access in Fusion. They also want to make sure all Faculty and Staff accounts are updated this month. There was an error saying it couldn't find a user matching the ID, which seems to be the main problem."
+}

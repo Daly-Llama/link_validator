@@ -1,0 +1,20 @@
+{
+  "number": "INC0001928",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02315",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help installing and setting up GoToMeeting\n\nfull_description_text: \nEl usuario no sabe como instalar GoToMeeting. Estaba tratando de usarlo para una reunión. No puede encontrar la manera de configurarlo. Necesita ayuda para que funcione.",
+  "short_description": "Need help installing and setting up GoToMeeting",
+  "description": "El usuario no sabe como instalar GoToMeeting. Estaba tratando de usarlo para una reunión. No puede encontrar la manera de configurarlo. Necesita ayuda para que funcione."
+}

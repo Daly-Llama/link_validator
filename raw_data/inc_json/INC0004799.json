@@ -1,0 +1,20 @@
+{
+  "number": "INC0004799",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB10119",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to change agent status in Hunt Group on VoIP phone.\n\nfull_description_text:  \n- The user is trying to change their status in the Hunt Group.  \n- They are using a VoIP phone for this action.  \n- There seems to be an issue preventing the status change.  \n- The user is looking for guidance on how to proceed with this.",
+  "short_description": "Unable to change agent status in Hunt Group on VoIP phone.",
+  "description": "- The user is trying to change their status in the Hunt Group.  \n- They are using a VoIP phone for this action.  \n- There seems to be an issue preventing the status change.  \n- The user is looking for guidance on how to proceed with this."
+}

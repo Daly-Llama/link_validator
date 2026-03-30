@@ -1,0 +1,20 @@
+{
+  "number": "INC0003712",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07835",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty adding a chart or graph in Google Sheets\n\nfull_description_text:  \n- So, I was trying to figure out how to add a chart or graph in Google Sheets, you know?  \n- I thought it would be super easy, but I just couldn't find the right options.  \n- I clicked around a bit, but nothing seemed to work, and I really need this for my project!  \n- It's just frustrating because I know it should be simple, but I'm stuck here.",
+  "short_description": "Difficulty adding a chart or graph in Google Sheets",
+  "description": "- So, I was trying to figure out how to add a chart or graph in Google Sheets, you know?  \n- I thought it would be super easy, but I just couldn't find the right options.  \n- I clicked around a bit, but nothing seemed to work, and I really need this for my project!  \n- It's just frustrating because I know it should be simple, but I'm stuck here."
+}

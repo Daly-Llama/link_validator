@@ -1,0 +1,20 @@
+{
+  "number": "INC0004377",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB08922",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Supervisor needs guidance for employee departure process.\n\nfull_description_text:\n- Supervisor called asking what to do when an employee leaves.  \n- They mentioned needing a checklist for the exit process.  \n- Just wanted to know the basic steps involved.  \n- No specific details about the employee were provided.",
+  "short_description": "Supervisor needs guidance for employee departure process.",
+  "description": "- Supervisor called asking what to do when an employee leaves.  \n- They mentioned needing a checklist for the exit process.  \n- Just wanted to know the basic steps involved.  \n- No specific details about the employee were provided."
+}

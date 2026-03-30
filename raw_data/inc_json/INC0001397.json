@@ -1,0 +1,20 @@
+{
+  "number": "INC0001397",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00761",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Missing details in 911 emergency responder emails\n\nfull_description_text:  \nSo, I was checking the emails from the 911 emergency responder system, and I noticed something was off. It seems like some crucial information is missing from those emails, which is pretty concerning, especially for the University Police Department. You know how important it is to have all the details when it comes to emergency calls, right? This missing info could really complicate things for the team relying on those emails to respond effectively.",
+  "short_description": "Missing details in 911 emergency responder emails",
+  "description": "So, I was checking the emails from the 911 emergency responder system, and I noticed something was off. It seems like some crucial information is missing from those emails, which is pretty concerning, especially for the University Police Department. You know how important it is to have all the details when it comes to emergency calls, right? This missing info could really complicate things for the team relying on those emails to respond effectively."
+}

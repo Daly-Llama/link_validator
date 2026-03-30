@@ -1,0 +1,20 @@
+{
+  "number": "INC0001721",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB01687",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Employee injury reporting process for workplace incidents.\n\nfull_description_text:  \nA field technician has encountered a situation where an employee sustained an injury while performing their duties at the workplace. The technician is seeking guidance on the proper procedure for reporting this incident through the Online First Report of Injury system, which is essential for initiating the Worker’s Compensation process. It is crucial to ensure that all necessary details are accurately documented to comply with workplace safety regulations and to facilitate the appropriate response to the injury. The technician is looking for clarity on the steps involved in this reporting process to ensure that the incident is handled correctly and efficiently.",
+  "short_description": "Employee injury reporting process for workplace incidents.",
+  "description": "A field technician has encountered a situation where an employee sustained an injury while performing their duties at the workplace. The technician is seeking guidance on the proper procedure for reporting this incident through the Online First Report of Injury system, which is essential for initiating the Worker’s Compensation process. It is crucial to ensure that all necessary details are accurately documented to comply with workplace safety regulations and to facilitate the appropriate response to the injury. The technician is looking for clarity on the steps involved in this reporting process to ensure that the incident is handled correctly and efficiently."
+}

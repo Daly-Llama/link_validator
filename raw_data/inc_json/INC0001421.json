@@ -1,0 +1,20 @@
+{
+  "number": "INC0001421",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00817",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request to change rates and add activities in MBM.\n\nfull_description_text: \nIn MBM, there is a need to change the rate for Pillar 1, which is Pathology. Also, two new activity types should be added to the MBM system. The rates that need to be added are specified, but they are not included here. This request was made via email, and it seems important for the user.",
+  "short_description": "Request to change rates and add activities in MBM.",
+  "description": "In MBM, there is a need to change the rate for Pillar 1, which is Pathology. Also, two new activity types should be added to the MBM system. The rates that need to be added are specified, but they are not included here. This request was made via email, and it seems important for the user."
+}

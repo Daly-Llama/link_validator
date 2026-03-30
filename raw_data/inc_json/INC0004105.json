@@ -1,0 +1,20 @@
+{
+  "number": "INC0004105",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08368",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help sorting a table in Word.\n\nfull_description_text:  \n- The user is trying to organize data in a table within Word.  \n- They are unsure how to sort the table effectively.  \n- This issue is causing some frustration as they seek a solution.",
+  "short_description": "Need help sorting a table in Word.",
+  "description": "- The user is trying to organize data in a table within Word.  \n- They are unsure how to sort the table effectively.  \n- This issue is causing some frustration as they seek a solution."
+}

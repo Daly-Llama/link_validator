@@ -1,0 +1,20 @@
+{
+  "number": "INC0004643",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09590",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues logging into Accommodate for faculty members.\n\nfull_description_text:  \nI am trying to log into Accommodate, but I am having trouble. As a faculty member, I want to know what options I have in the platform. I need help understanding how to use Accommodate effectively.",
+  "short_description": "Issues logging into Accommodate for faculty members.",
+  "description": "I am trying to log into Accommodate, but I am having trouble. As a faculty member, I want to know what options I have in the platform. I need help understanding how to use Accommodate effectively."
+}

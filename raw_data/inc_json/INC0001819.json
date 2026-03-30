@@ -1,0 +1,20 @@
+{
+  "number": "INC0001819",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB01987",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need a static or reserved IP address for devices\n\nfull_description_text:  \nSo, the user called in asking for a static or reserved IP address. They mentioned it’s for a printer and some other devices like security cameras and a tapingo machine. They seemed a bit confused about how it all works, but they really need that IP set up.",
+  "short_description": "Need a static or reserved IP address for devices",
+  "description": "So, the user called in asking for a static or reserved IP address. They mentioned it’s for a printer and some other devices like security cameras and a tapingo machine. They seemed a bit confused about how it all works, but they really need that IP set up."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004031",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB08259",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Why use keyboard shortcuts in Microsoft applications?\n\nfull_description_text: So, someone is wondering why they should bother with keyboard shortcuts in Microsoft. They think it might help but aren't really sure how it works or why it's important. It seems like they just want to know if it's worth the effort to learn them.",
+  "short_description": "Why use keyboard shortcuts in Microsoft applications?",
+  "description": "So, someone is wondering why they should bother with keyboard shortcuts in Microsoft. They think it might help but aren't really sure how it works or why it's important. It seems like they just want to know if it's worth the effort to learn them."
+}

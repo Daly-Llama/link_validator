@@ -1,0 +1,20 @@
+{
+  "number": "INC0003524",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB07339",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Wireless connectivity problems reported at the Wagner Center.\n\nfull_description_text: The user is experiencing wireless issues at the Wagner Center. They mentioned difficulties connecting to the network while trying to access online resources. This problem is affecting their ability to work effectively in the environment. Connectivity issues at the Wagner Center are causing frustration and hindering productivity.",
+  "short_description": "Wireless connectivity problems reported at the Wagner Center.",
+  "description": "The user is experiencing wireless issues at the Wagner Center. They mentioned difficulties connecting to the network while trying to access online resources. This problem is affecting their ability to work effectively in the environment. Connectivity issues at the Wagner Center are causing frustration and hindering productivity."
+}

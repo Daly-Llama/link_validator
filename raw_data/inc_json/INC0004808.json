@@ -1,0 +1,20 @@
+{
+  "number": "INC0004808",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB10159",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Student SSO login issue with USD Via-TRM system.\n\nfull_description_text:  \nThe user is attempting to log into the USD Via-TRM system. An error message appears stating, \"Sorry, but we're having trouble signing you in.\" This indicates a potential issue with the Single Sign-On (SSO) process. The user is advised to contact their administrator for assistance in assigning access to the application.",
+  "short_description": "Student SSO login issue with USD Via-TRM system.",
+  "description": "The user is attempting to log into the USD Via-TRM system. An error message appears stating, \"Sorry, but we're having trouble signing you in.\" This indicates a potential issue with the Single Sign-On (SSO) process. The user is advised to contact their administrator for assistance in assigning access to the application."
+}

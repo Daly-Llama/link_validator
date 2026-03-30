@@ -1,0 +1,20 @@
+{
+  "number": "INC0004718",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09842",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with requesting references and recommendations for job applications.\n\nfull_description_text: User is unsure how to ask for a letter of recommendation. They also need guidance on how to list references on their Resume or C.V. This confusion is affecting their job and career preparation process at the Center for Career Design.",
+  "short_description": "Need help with requesting references and recommendations for job applications.",
+  "description": "User is unsure how to ask for a letter of recommendation. They also need guidance on how to list references on their Resume or C.V. This confusion is affecting their job and career preparation process at the Center for Career Design."
+}

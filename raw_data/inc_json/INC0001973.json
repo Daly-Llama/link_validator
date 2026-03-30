@@ -1,0 +1,20 @@
+{
+  "number": "INC0001973",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02445",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cannot reserve equipment due to minimum interval error.\n\nfull_description_text: \nUser is trying to reserve equipment in WebCheckout. \nThey get an error message saying \"Min. interval between center close and return.\" \nThis happens when they want to take equipment. \nUser is confused and does not understand why it is not working.",
+  "short_description": "Cannot reserve equipment due to minimum interval error.",
+  "description": "User is trying to reserve equipment in WebCheckout. \nThey get an error message saying \"Min. interval between center close and return.\" \nThis happens when they want to take equipment. \nUser is confused and does not understand why it is not working."
+}

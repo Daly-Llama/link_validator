@@ -1,0 +1,20 @@
+{
+  "number": "INC0003299",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06430",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty signing into the Salesforce Mobile App.\n\nfull_description_text: The user is experiencing challenges while attempting to sign into the Salesforce Mobile App. They are unsure of the correct process to follow for a successful login. This issue is impacting their ability to access necessary features within the app.",
+  "short_description": "Difficulty signing into the Salesforce Mobile App.",
+  "description": "The user is experiencing challenges while attempting to sign into the Salesforce Mobile App. They are unsure of the correct process to follow for a successful login. This issue is impacting their ability to access necessary features within the app."
+}

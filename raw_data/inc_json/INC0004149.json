@@ -1,0 +1,20 @@
+{
+  "number": "INC0004149",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08424",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty in creating a new PowerPoint presentation.\n\nfull_description_text:\n- The user was attempting to create a new PowerPoint presentation.  \n- They expressed confusion about the steps required to initiate the process.  \n- The issue arose during a live chat session with a help desk analyst.  \n- The user is familiar with PowerPoint but needed clarification on starting a new presentation.",
+  "short_description": "Difficulty in creating a new PowerPoint presentation.",
+  "description": "- The user was attempting to create a new PowerPoint presentation.  \n- They expressed confusion about the steps required to initiate the process.  \n- The issue arose during a live chat session with a help desk analyst.  \n- The user is familiar with PowerPoint but needed clarification on starting a new presentation."
+}

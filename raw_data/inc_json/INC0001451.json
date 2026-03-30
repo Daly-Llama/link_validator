@@ -1,0 +1,20 @@
+{
+  "number": "INC0001451",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00900",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: User requests assistance to recover a deleted email in Outlook.\n\nfull_description_text:\n- The user has reported that an email they previously had is now missing from their inbox.  \n- They are seeking guidance on how to retrieve this deleted email, as it is important for their ongoing tasks.  \n- During the live chat, the user expressed confusion about the process and mentioned that the email simply disappeared without any warning.  \n- The user is specifically using Microsoft Outlook for their email management, which may affect the recovery options available to them.",
+  "short_description": "User requests assistance to recover a deleted email in Outlook.",
+  "description": "- The user has reported that an email they previously had is now missing from their inbox.  \n- They are seeking guidance on how to retrieve this deleted email, as it is important for their ongoing tasks.  \n- During the live chat, the user expressed confusion about the process and mentioned that the email simply disappeared without any warning.  \n- The user is specifically using Microsoft Outlook for their email management, which may affect the recovery options available to them."
+}

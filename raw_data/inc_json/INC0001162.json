@@ -1,0 +1,20 @@
+{
+  "number": "INC0001162",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00314",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Instructor needs help setting up a PowerPoint slideshow.\n\nfull_description_text: The instructor is currently experiencing difficulties in setting up a slideshow in Microsoft PowerPoint. They are seeking detailed instructional information to assist them in this process. This issue is impacting their ability to effectively deliver their presentation, as they require guidance on the proper setup procedures.",
+  "short_description": "Instructor needs help setting up a PowerPoint slideshow.",
+  "description": "The instructor is currently experiencing difficulties in setting up a slideshow in Microsoft PowerPoint. They are seeking detailed instructional information to assist them in this process. This issue is impacting their ability to effectively deliver their presentation, as they require guidance on the proper setup procedures."
+}

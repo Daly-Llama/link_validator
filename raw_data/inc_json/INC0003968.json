@@ -1,0 +1,20 @@
+{
+  "number": "INC0003968",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB08121",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about components of the Camtasia main interface\n\nfull_description_text:  \nThe user is seeking clarification on what elements are present in the main interface of Camtasia. They are particularly interested in understanding the layout and the various tools that are accessible from this primary screen. This inquiry suggests that the user may be new to the software or is trying to familiarize themselves with its functionalities. It is important to note that the main interface typically includes a timeline, media bin, and preview window, among other features, which are essential for video editing tasks.",
+  "short_description": "Inquiry about components of the Camtasia main interface",
+  "description": "The user is seeking clarification on what elements are present in the main interface of Camtasia. They are particularly interested in understanding the layout and the various tools that are accessible from this primary screen. This inquiry suggests that the user may be new to the software or is trying to familiarize themselves with its functionalities. It is important to note that the main interface typically includes a timeline, media bin, and preview window, among other features, which are essential for video editing tasks."
+}

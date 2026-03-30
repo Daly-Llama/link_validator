@@ -1,0 +1,20 @@
+{
+  "number": "INC0002135",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02943",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need Snagit software installed on desktop computer.\n\nfull_description_text: So, the user is looking to get Snagit installed on their desktop. They mentioned needing the software downloaded, but it seems like they might not be sure how to do it themselves. Just a simple request for help with the installation process, nothing too complicated, right?",
+  "short_description": "Need Snagit software installed on desktop computer.",
+  "description": "So, the user is looking to get Snagit installed on their desktop. They mentioned needing the software downloaded, but it seems like they might not be sure how to do it themselves. Just a simple request for help with the installation process, nothing too complicated, right?"
+}

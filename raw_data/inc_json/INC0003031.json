@@ -1,0 +1,20 @@
+{
+  "number": "INC0003031",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB05615",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to activate Office due to device error.\n\nfull_description_text:  \nThe user was trying to activate Office on their Windows device but ran into a problem. They received an error message saying the device is disabled, and now Office is only showing as a viewer. They mentioned needing to contact their system administrator for help with this issue.",
+  "short_description": "Unable to activate Office due to device error.",
+  "description": "The user was trying to activate Office on their Windows device but ran into a problem. They received an error message saying the device is disabled, and now Office is only showing as a viewer. They mentioned needing to contact their system administrator for help with this issue."
+}

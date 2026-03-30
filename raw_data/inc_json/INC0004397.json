@@ -1,0 +1,20 @@
+{
+  "number": "INC0004397",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08948",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on training\n\nfull_description_text:\n- So, I'm trying to find out what the USD security policy is.  \n- It's about Security Awareness and Skills Training.  \n- Just need some info on that, like what it covers and stuff.  \n- Thanks!",
+  "short_description": "Inquiry about USD security policy on training",
+  "description": "- So, I'm trying to find out what the USD security policy is.  \n- It's about Security Awareness and Skills Training.  \n- Just need some info on that, like what it covers and stuff.  \n- Thanks!"
+}

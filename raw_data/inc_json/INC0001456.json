@@ -1,0 +1,20 @@
+{
+  "number": "INC0001456",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00913",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Can't log into computer because another account is signed in.\n\nfull_description_text:  \nI'm trying to log into the computer, but it won't let me. It says someone else is already logged in, and I can't get in. This is really frustrating because I need to use the laptop for work, but I can't do anything if I can't log in. I just want to get this sorted out so I can get back to my tasks.",
+  "short_description": "Can't log into computer because another account is signed in.",
+  "description": "I'm trying to log into the computer, but it won't let me. It says someone else is already logged in, and I can't get in. This is really frustrating because I need to use the laptop for work, but I can't do anything if I can't log in. I just want to get this sorted out so I can get back to my tasks."
+}

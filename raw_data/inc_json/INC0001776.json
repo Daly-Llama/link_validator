@@ -1,0 +1,20 @@
+{
+  "number": "INC0001776",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01846",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Lab computers are rejecting user login attempts.\n\nfull_description_text:  \nSo, here's the deal: when I tried to log into one of the lab computers, it just wouldn't let me in. I mean, I entered my credentials like I always do, but it kept denying my login. It's super frustrating because I really need to access some files for my project, and this has happened to a few other people too. I’m not sure if it’s just a glitch or something more serious, but it’s definitely a hassle in the lab right now.",
+  "short_description": "Lab computers are rejecting user login attempts.",
+  "description": "So, here's the deal: when I tried to log into one of the lab computers, it just wouldn't let me in. I mean, I entered my credentials like I always do, but it kept denying my login. It's super frustrating because I really need to access some files for my project, and this has happened to a few other people too. I’m not sure if it’s just a glitch or something more serious, but it’s definitely a hassle in the lab right now."
+}

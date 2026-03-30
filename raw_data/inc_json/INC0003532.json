@@ -1,0 +1,20 @@
+{
+  "number": "INC0003532",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB07359",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need paperwork for a volunteer in my department.\n\nfull_description_text: \nSo, I was talking to someone on the phone about a volunteer they have in their department. They were asking what forms or paperwork they need to fill out for this person to be able to volunteer on campus. They mentioned using Docusign and something about Risk Management, but it wasn't super clear what exactly was required. It seems like they just want to make sure everything is done right for the volunteer.",
+  "short_description": "Need paperwork for a volunteer in my department.",
+  "description": "So, I was talking to someone on the phone about a volunteer they have in their department. They were asking what forms or paperwork they need to fill out for this person to be able to volunteer on campus. They mentioned using Docusign and something about Risk Management, but it wasn't super clear what exactly was required. It seems like they just want to make sure everything is done right for the volunteer."
+}

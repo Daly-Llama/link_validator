@@ -1,0 +1,20 @@
+{
+  "number": "INC0003491",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB07215",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help nominating someone for ITS Project awards\n\nfull_description_text:\n- So, I was trying to figure out how to nominate a project manager or a team member for the ITS Project Manager of the Month award, you know? \n- I really want to give recognition to someone who did a great job, but I'm not sure how to do it. \n- I think there’s a process or a form, but I’m not clear on the steps or where to find it. \n- Can someone please help me with this nomination thing? It’s kinda important to me!",
+  "short_description": "Need help nominating someone for ITS Project awards",
+  "description": "- So, I was trying to figure out how to nominate a project manager or a team member for the ITS Project Manager of the Month award, you know? \n- I really want to give recognition to someone who did a great job, but I'm not sure how to do it. \n- I think there’s a process or a form, but I’m not clear on the steps or where to find it. \n- Can someone please help me with this nomination thing? It’s kinda important to me!"
+}

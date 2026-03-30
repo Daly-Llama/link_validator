@@ -1,0 +1,20 @@
+{
+  "number": "INC0001930",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB02320",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Incorrect Reports to section in Outlook profile\n\nfull_description_text:\n- So, the user was checking their account in Microsoft Outlook, right?  \n- They noticed that the Reports to section was all wrong, which is pretty confusing.  \n- Plus, their title hasn’t been updated in Outlook, making the profile info incorrect overall.  \n- It’s definitely a hassle when the details don’t match up, especially when you’re trying to keep everything organized!",
+  "short_description": "Incorrect Reports to section in Outlook profile",
+  "description": "- So, the user was checking their account in Microsoft Outlook, right?  \n- They noticed that the Reports to section was all wrong, which is pretty confusing.  \n- Plus, their title hasn’t been updated in Outlook, making the profile info incorrect overall.  \n- It’s definitely a hassle when the details don’t match up, especially when you’re trying to keep everything organized!"
+}

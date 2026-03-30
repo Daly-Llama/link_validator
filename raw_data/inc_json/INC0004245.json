@@ -1,0 +1,20 @@
+{
+  "number": "INC0004245",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08601",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plans for Sanford Coyotes Sports Center\n\nfull_description_text:  \nSo, someone called asking about the evacuation plan for the Sanford Coyotes Sports Center. They also wanted to know what to do during severe weather. Just trying to get the details on safety procedures, you know? It’s important to have that info handy.",
+  "short_description": "Inquiry about evacuation and severe weather plans for Sanford Coyotes Sports Center",
+  "description": "So, someone called asking about the evacuation plan for the Sanford Coyotes Sports Center. They also wanted to know what to do during severe weather. Just trying to get the details on safety procedures, you know? It’s important to have that info handy."
+}

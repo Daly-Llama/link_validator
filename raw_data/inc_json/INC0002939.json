@@ -1,0 +1,20 @@
+{
+  "number": "INC0002939",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05341",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to department's social media accounts.\n\nfull_description_text:  \nThe user inquired about the procedure to gain access to the department's social media accounts, specifically Facebook, Snapchat, and Twitter. During the call, they expressed a need for clarity on the steps involved in this request process. The conversation took place over the phone, and the user, whose primary language is Spanish, sought detailed information to ensure they understood the requirements fully. This request is pertinent to the management of the department's online presence across various platforms.",
+  "short_description": "Request for access to department's social media accounts.",
+  "description": "The user inquired about the procedure to gain access to the department's social media accounts, specifically Facebook, Snapchat, and Twitter. During the call, they expressed a need for clarity on the steps involved in this request process. The conversation took place over the phone, and the user, whose primary language is Spanish, sought detailed information to ensure they understood the requirements fully. This request is pertinent to the management of the department's online presence across various platforms."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004662",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09656",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help requesting ESA approval for on-campus housing.\n\nfull_description_text:\n- So, the caller was asking about how to get approval for an emotional support animal.  \n- They want to know what steps to take for their on-campus housing situation.  \n- It seems like they’re a bit confused about the whole process and just need some guidance.",
+  "short_description": "Need help requesting ESA approval for on-campus housing.",
+  "description": "- So, the caller was asking about how to get approval for an emotional support animal.  \n- They want to know what steps to take for their on-campus housing situation.  \n- It seems like they’re a bit confused about the whole process and just need some guidance."
+}

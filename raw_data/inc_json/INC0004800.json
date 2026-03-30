@@ -1,0 +1,20 @@
+{
+  "number": "INC0004800",
+  "category": "Budget & Finance",
+  "subcategory": "Budget & Finance",
+  "correct_kb": "KB10120",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Approval needed for hotel rates exceeding state limits.\n\nfull_description_text: A traveler is trying to book a hotel. The rates are higher than what South Dakota allows. They have already looked for options within the limits but found none. Now, they need approval to proceed.",
+  "short_description": "Approval needed for hotel rates exceeding state limits.",
+  "description": "A traveler is trying to book a hotel. The rates are higher than what South Dakota allows. They have already looked for options within the limits but found none. Now, they need approval to proceed."
+}

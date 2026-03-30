@@ -1,0 +1,20 @@
+{
+  "number": "INC0004250",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB08613",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about technology discounts for personal purchases\n\nfull_description_text:  \nThe user is seeking information regarding the availability of discounts for purchasing technology intended for personal use. They have submitted a request through the self-service form, specifically asking if there are any current offers or discounts that can be applied to personal technology purchases. This inquiry suggests that the user is interested in acquiring technology at a reduced price, but they are unsure of the options available to them. The request does not specify any particular type of technology or product, leaving the scope of the inquiry quite broad.",
+  "short_description": "Inquiry about technology discounts for personal purchases",
+  "description": "The user is seeking information regarding the availability of discounts for purchasing technology intended for personal use. They have submitted a request through the self-service form, specifically asking if there are any current offers or discounts that can be applied to personal technology purchases. This inquiry suggests that the user is interested in acquiring technology at a reduced price, but they are unsure of the options available to them. The request does not specify any particular type of technology or product, leaving the scope of the inquiry quite broad."
+}

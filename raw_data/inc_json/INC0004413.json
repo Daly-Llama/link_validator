@@ -1,0 +1,20 @@
+{
+  "number": "INC0004413",
+  "category": "Safety and Security",
+  "subcategory": "Safety and Security",
+  "correct_kb": "KB08986",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Methodology for identifying high-risk applications in security environments\n\nfull_description_text: The user inquired about the process for classifying applications as high risk. They were specifically interested in the criteria used within malware defenses and other security measures. The discussion took place during a live chat session, highlighting the urgency of understanding these methodologies. Clarification on this topic is essential for effective security management.",
+  "short_description": "Methodology for identifying high-risk applications in security environments",
+  "description": "The user inquired about the process for classifying applications as high risk. They were specifically interested in the criteria used within malware defenses and other security measures. The discussion took place during a live chat session, highlighting the urgency of understanding these methodologies. Clarification on this topic is essential for effective security management."
+}

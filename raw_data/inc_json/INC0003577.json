@@ -1,0 +1,20 @@
+{
+  "number": "INC0003577",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07548",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about the USD Getting Started widget in D2L\n\nfull_description_text:  \nThe user is seeking clarification on the USD Getting Started widget. They are unsure of its purpose within D2L. This inquiry suggests a need for more information regarding its functionality. The context indicates a potential gap in understanding the widget's role.",
+  "short_description": "Inquiry about the USD Getting Started widget in D2L",
+  "description": "The user is seeking clarification on the USD Getting Started widget. They are unsure of its purpose within D2L. This inquiry suggests a need for more information regarding its functionality. The context indicates a potential gap in understanding the widget's role."
+}

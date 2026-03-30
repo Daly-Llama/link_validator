@@ -1,0 +1,20 @@
+{
+  "number": "INC0001381",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00720",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Form submission issues on myUSD portal causing data loss.\n\nfull_description_text: During a call, a user reported that the myUSD portal form is not capturing all the data they submitted. They mentioned that a specific form is missing and that the link provided for it does not work. Additionally, they encountered several error messages, including a timeout and a notification about missing file content.",
+  "short_description": "Form submission issues on myUSD portal causing data loss.",
+  "description": "During a call, a user reported that the myUSD portal form is not capturing all the data they submitted. They mentioned that a specific form is missing and that the link provided for it does not work. Additionally, they encountered several error messages, including a timeout and a notification about missing file content."
+}

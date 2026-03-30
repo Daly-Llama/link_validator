@@ -1,0 +1,20 @@
+{
+  "number": "INC0001650",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB01510",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access DocuSign due to forgotten password.\n\nfull_description_text:\n- The user is trying to log into DocuSign but can't get in.  \n- They forgot their password and need help to reset it.  \n- This is causing a delay in their work because they can't access important documents.  \n- The user is unsure about the steps to take for the password reset process.",
+  "short_description": "Unable to access DocuSign due to forgotten password.",
+  "description": "- The user is trying to log into DocuSign but can't get in.  \n- They forgot their password and need help to reset it.  \n- This is causing a delay in their work because they can't access important documents.  \n- The user is unsure about the steps to take for the password reset process."
+}

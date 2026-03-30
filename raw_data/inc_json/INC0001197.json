@@ -1,0 +1,20 @@
+{
+  "number": "INC0001197",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00373",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Remote site experiencing loss of wireless network connectivity\n\nfull_description_text:  \nSo, during the chat, the user mentioned that their remote site just lost its wireless connection. They were trying to access some important files when suddenly, everything went offline. It seems like the USD Wireless Network is having some issues, and they’re really in need of help to get back online.",
+  "short_description": "Remote site experiencing loss of wireless network connectivity",
+  "description": "So, during the chat, the user mentioned that their remote site just lost its wireless connection. They were trying to access some important files when suddenly, everything went offline. It seems like the USD Wireless Network is having some issues, and they’re really in need of help to get back online."
+}

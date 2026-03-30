@@ -1,0 +1,20 @@
+{
+  "number": "INC0002889",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB05212",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Trouble downloading survey data from Qualtrics for reporting.\n\nfull_description_text:  \nI got a request about downloading survey data from Qualtrics. The user needs this data either for reporting purposes or to format it for PsychData to import back into Qualtrics. They seem a bit stuck on how to get it done, and it’s important for their work. Just trying to help them figure this out!",
+  "short_description": "Trouble downloading survey data from Qualtrics for reporting.",
+  "description": "I got a request about downloading survey data from Qualtrics. The user needs this data either for reporting purposes or to format it for PsychData to import back into Qualtrics. They seem a bit stuck on how to get it done, and it’s important for their work. Just trying to help them figure this out!"
+}

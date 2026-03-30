@@ -1,0 +1,20 @@
+{
+  "number": "INC0001155",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB00303",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Leave Request System on SNAP.\n\nfull_description_text: The user was trying to view the Leave Request page but got an error. It said the page can't be displayed and there were issues with the connection. They were advised to contact HR if the problem continues.",
+  "short_description": "Unable to access Leave Request System on SNAP.",
+  "description": "The user was trying to view the Leave Request page but got an error. It said the page can't be displayed and there were issues with the connection. They were advised to contact HR if the problem continues."
+}

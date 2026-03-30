@@ -1,0 +1,20 @@
+{
+  "number": "INC0004441",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09058",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Cash account not charged for a transaction\n\nfull_description_text: I tried to make a purchase using my Coyote Cash, but it seems my account wasn't charged. I was off campus at a vendor when this happened. It's confusing because I expected the transaction to go through without any issues.",
+  "short_description": "Coyote Cash account not charged for a transaction",
+  "description": "I tried to make a purchase using my Coyote Cash, but it seems my account wasn't charged. I was off campus at a vendor when this happened. It's confusing because I expected the transaction to go through without any issues."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002579",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04231",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Excel Solver Add-in fails to run due to untrusted source error.\n\nfull_description_text: \nThe user was trying to use the Excel Solver Add-in, which is supposed to help with calculations and optimizations in Microsoft Excel. However, when they attempted to run it, the add-in would not work at all. It downloaded but then showed a message saying it could not connect, which was confusing. Additionally, there was an issue with a Zip file that it tried to open, and Excel mentioned something about disabled Macros, stating that the source of the file is untrusted, which made the user unsure about what to do next.",
+  "short_description": "Excel Solver Add-in fails to run due to untrusted source error.",
+  "description": "The user was trying to use the Excel Solver Add-in, which is supposed to help with calculations and optimizations in Microsoft Excel. However, when they attempted to run it, the add-in would not work at all. It downloaded but then showed a message saying it could not connect, which was confusing. Additionally, there was an issue with a Zip file that it tried to open, and Excel mentioned something about disabled Macros, stating that the source of the file is untrusted, which made the user unsure about what to do next."
+}

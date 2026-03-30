@@ -1,0 +1,20 @@
+{
+  "number": "INC0001628",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01414",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error opening Word due to Acrobat add-in issue.\n\nfull_description_text: \nEl usuario tiene un problema al abrir Word. Recibió un mensaje de error que dice que Word tiene problemas con el complemento 'acrobat pdfmaker office com addin'. Si esto sigue pasando, se sugiere deshabilitar el complemento. El usuario necesita ayuda con este problema.",
+  "short_description": "Error opening Word due to Acrobat add-in issue.",
+  "description": "El usuario tiene un problema al abrir Word. Recibió un mensaje de error que dice que Word tiene problemas con el complemento 'acrobat pdfmaker office com addin'. Si esto sigue pasando, se sugiere deshabilitar el complemento. El usuario necesita ayuda con este problema."
+}

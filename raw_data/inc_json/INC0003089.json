@@ -1,0 +1,20 @@
+{
+  "number": "INC0003089",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05737",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Sick leave usage for caring for grandchildren during family vacation\n\nfull_description_text: \nSo, there is this situation where a person is asking about using sick leave, which is for when you are not feeling well, to take care of their grandchildren. Their child and the child's spouse are going on a vacation, and this person wants to know if it is okay to use that sick leave for looking after the kids. It seems a bit confusing because sick leave is usually for being sick, but they are not sure if caring for family counts. It’s like a big question about family and work rules, and they just want to understand it better.",
+  "short_description": "Sick leave usage for caring for grandchildren during family vacation",
+  "description": "So, there is this situation where a person is asking about using sick leave, which is for when you are not feeling well, to take care of their grandchildren. Their child and the child's spouse are going on a vacation, and this person wants to know if it is okay to use that sick leave for looking after the kids. It seems a bit confusing because sick leave is usually for being sick, but they are not sure if caring for family counts. It’s like a big question about family and work rules, and they just want to understand it better."
+}

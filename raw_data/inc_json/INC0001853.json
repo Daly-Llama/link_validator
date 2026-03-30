@@ -1,0 +1,20 @@
+{
+  "number": "INC0001853",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02078",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help removing unwanted Chrome extensions causing spam popups.\n\nfull_description_text:\n- I accidentally added some extensions in Chrome and now I'm getting these annoying Microsoft spam popups.  \n- I’m not really sure how to get rid of them, and it’s super frustrating.  \n- Can someone guide me on how to remove these extensions?",
+  "short_description": "Need help removing unwanted Chrome extensions causing spam popups.",
+  "description": "- I accidentally added some extensions in Chrome and now I'm getting these annoying Microsoft spam popups.  \n- I’m not really sure how to get rid of them, and it’s super frustrating.  \n- Can someone guide me on how to remove these extensions?"
+}

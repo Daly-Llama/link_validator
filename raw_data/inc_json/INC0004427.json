@@ -1,0 +1,20 @@
+{
+  "number": "INC0004427",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB09022",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's IT Security Policy for Microsoft Copilot\n\nfull_description_text:\n- The user is seeking clarification regarding the specific IT Security Policy that USD has implemented concerning the utilization of Artificial Intelligence, particularly in relation to Microsoft Copilot. \n- This inquiry arises amidst growing concerns about data privacy and security protocols associated with AI technologies, which are becoming increasingly prevalent in various sectors, including machine learning applications. \n- The user has expressed a need for detailed information on how USD's policies align with industry standards and best practices, especially in the context of the CIS framework. \n- It is crucial to understand the implications of these policies on daily operations and the overall security posture of the organization, as well as any potential risks involved with the deployment of such advanced technologies.",
+  "short_description": "Inquiry about USD's IT Security Policy for Microsoft Copilot",
+  "description": "- The user is seeking clarification regarding the specific IT Security Policy that USD has implemented concerning the utilization of Artificial Intelligence, particularly in relation to Microsoft Copilot. \n- This inquiry arises amidst growing concerns about data privacy and security protocols associated with AI technologies, which are becoming increasingly prevalent in various sectors, including machine learning applications. \n- The user has expressed a need for detailed information on how USD's policies align with industry standards and best practices, especially in the context of the CIS framework. \n- It is crucial to understand the implications of these policies on daily operations and the overall security posture of the organization, as well as any potential risks involved with the deployment of such advanced technologies."
+}

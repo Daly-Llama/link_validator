@@ -1,0 +1,20 @@
+{
+  "number": "INC0001681",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB01581",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to update student information in the SPEL program\n\nfull_description_text:\n- The user requested assistance with entering specific students into the Student Patient Encounter Log (SPEL) program.  \n- They also inquired about the process for updating a user's name within the SPEL system.  \n- This request was made during a live phone call with a help desk analyst, indicating an immediate need for support.  \n- The user is familiar with the SPEL environment and is seeking guidance on these updates.",
+  "short_description": "Request to update student information in the SPEL program",
+  "description": "- The user requested assistance with entering specific students into the Student Patient Encounter Log (SPEL) program.  \n- They also inquired about the process for updating a user's name within the SPEL system.  \n- This request was made during a live phone call with a help desk analyst, indicating an immediate need for support.  \n- The user is familiar with the SPEL environment and is seeking guidance on these updates."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003971",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB08124",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty editing recordings in Camtasia software.\n\nfull_description_text:  \nThe user is experiencing challenges while attempting to edit their recordings in Camtasia. Despite following the standard procedures, they are unable to make the necessary modifications to their content. This issue may be affecting their workflow and productivity, as editing is a crucial part of their project development process.",
+  "short_description": "Difficulty editing recordings in Camtasia software.",
+  "description": "The user is experiencing challenges while attempting to edit their recordings in Camtasia. Despite following the standard procedures, they are unable to make the necessary modifications to their content. This issue may be affecting their workflow and productivity, as editing is a crucial part of their project development process."
+}

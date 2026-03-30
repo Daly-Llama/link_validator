@@ -1,0 +1,20 @@
+{
+  "number": "INC0002013",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB02580",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to confirm functionality of fax number.\n\nfull_description_text:  \nDuring a live chat session, the user inquired about the operational status of their fax number. They expressed a need for confirmation that the faxing capability is functioning correctly. The environment includes a Toshiba Multi-Function Copier and utilizes Voice over Internet Protocol technology. The user seeks assurance regarding this essential communication method.",
+  "short_description": "Request to confirm functionality of fax number.",
+  "description": "During a live chat session, the user inquired about the operational status of their fax number. They expressed a need for confirmation that the faxing capability is functioning correctly. The environment includes a Toshiba Multi-Function Copier and utilizes Voice over Internet Protocol technology. The user seeks assurance regarding this essential communication method."
+}

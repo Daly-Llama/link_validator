@@ -1,0 +1,20 @@
+{
+  "number": "INC0004544",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09343",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about returning a loft and refund process.\n\nfull_description_text: The user is unsure about the process for returning their loft at the end of the semester. They are asking if they need to disassemble it themselves and if a refund is possible. The situation indicates a desire to resolve the loft return efficiently.",
+  "short_description": "Inquiry about returning a loft and refund process.",
+  "description": "The user is unsure about the process for returning their loft at the end of the semester. They are asking if they need to disassemble it themselves and if a refund is possible. The situation indicates a desire to resolve the loft return efficiently."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004463",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09128",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for dorm maintenance assistance\n\nfull_description_text:  \nUser is looking to get maintenance for their dorm room. They mentioned something is wrong but didn't specify what. They seem a bit confused about the process. Just need to guide them on how to submit a request.",
+  "short_description": "Request for dorm maintenance assistance",
+  "description": "User is looking to get maintenance for their dorm room. They mentioned something is wrong but didn't specify what. They seem a bit confused about the process. Just need to guide them on how to submit a request."
+}

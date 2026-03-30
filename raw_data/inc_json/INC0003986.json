@@ -1,0 +1,20 @@
+{
+  "number": "INC0003986",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08177",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: New employee requires access to TMS for their role.\n\nfull_description_text: A new employee has submitted a request. They need access to TMS. This access is necessary for their job functions. The request was made through the self-service form.",
+  "short_description": "New employee requires access to TMS for their role.",
+  "description": "A new employee has submitted a request. They need access to TMS. This access is necessary for their job functions. The request was made through the self-service form."
+}

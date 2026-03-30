@@ -1,0 +1,20 @@
+{
+  "number": "INC0003314",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06502",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error message in Transact when verifying customer information.\n\nfull_description_text: The user encountered an error while using Transact. The message stated, \"An error has occurred verifying System Customer Information,\" and then returned them to the main menu. This issue disrupted their workflow and needs attention.",
+  "short_description": "Error message in Transact when verifying customer information.",
+  "description": "The user encountered an error while using Transact. The message stated, \"An error has occurred verifying System Customer Information,\" and then returned them to the main menu. This issue disrupted their workflow and needs attention."
+}

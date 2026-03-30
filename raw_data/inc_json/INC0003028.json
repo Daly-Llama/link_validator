@@ -1,0 +1,20 @@
+{
+  "number": "INC0003028",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB05602",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty scheduling a meeting using Scheduling Poll in Outlook.\n\nfull_description_text:  \nThe user is attempting to schedule a meeting in Microsoft Outlook using the Scheduling Poll feature. However, they are encountering issues that prevent them from successfully completing the scheduling process. This problem may be related to the integration of the Scheduling Poll within the Outlook environment of Microsoft Office 365.",
+  "short_description": "Difficulty scheduling a meeting using Scheduling Poll in Outlook.",
+  "description": "The user is attempting to schedule a meeting in Microsoft Outlook using the Scheduling Poll feature. However, they are encountering issues that prevent them from successfully completing the scheduling process. This problem may be related to the integration of the Scheduling Poll within the Outlook environment of Microsoft Office 365."
+}

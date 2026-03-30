@@ -1,0 +1,20 @@
+{
+  "number": "INC0002390",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03695",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Volleymetrics camera is not functioning and needs zoom adjustment.\n\nfull_description_text:  \nI am having problem with the Volleymetrics camera. The camera is not working right and it is zoomed out too much. I need help to make the camera zoom in so I can see better. Please assist me with this issue.",
+  "short_description": "Volleymetrics camera is not functioning and needs zoom adjustment.",
+  "description": "I am having problem with the Volleymetrics camera. The camera is not working right and it is zoomed out too much. I need help to make the camera zoom in so I can see better. Please assist me with this issue."
+}

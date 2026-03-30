@@ -1,0 +1,20 @@
+{
+  "number": "INC0002442",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03847",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Can't connect to shared drive on HP Elitebook laptop.\n\nfull_description_text:  \nSo, I’m trying to connect to the shared drive across campus on my HP Elitebook, but it’s just not working. I’ve been having trouble accessing it today, and it’s really frustrating. I need some help figuring this out because I can’t get to my files.",
+  "short_description": "Can't connect to shared drive on HP Elitebook laptop.",
+  "description": "So, I’m trying to connect to the shared drive across campus on my HP Elitebook, but it’s just not working. I’ve been having trouble accessing it today, and it’s really frustrating. I need some help figuring this out because I can’t get to my files."
+}

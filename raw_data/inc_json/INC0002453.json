@@ -1,0 +1,20 @@
+{
+  "number": "INC0002453",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03885",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty purchasing Duo hardware tokens and Yubico security keys.\n\nfull_description_text:\n- The user is trying to purchase a Yubico Security Key for Duo.  \n- They are also inquiring about the need for a key for each person or system.  \n- Additionally, the user mentioned that their mobile device does not support the Duo Mobile app.",
+  "short_description": "Difficulty purchasing Duo hardware tokens and Yubico security keys.",
+  "description": "- The user is trying to purchase a Yubico Security Key for Duo.  \n- They are also inquiring about the need for a key for each person or system.  \n- Additionally, the user mentioned that their mobile device does not support the Duo Mobile app."
+}

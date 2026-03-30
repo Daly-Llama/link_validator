@@ -1,0 +1,20 @@
+{
+  "number": "INC0002042",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02651",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with the USD website, including incorrect info and timeouts.\n\nfull_description_text: \nSo, during the call, the user mentioned that they were trying to access the USD website, but it just wasn’t working right. They said there’s some incorrect information on the site, which is super confusing, and they also experienced some really annoying timeouts. Plus, they mentioned that a change was made in the DIM, but it’s like it’s just not showing up on the live site at all, which is really frustrating for them. It sounds like a whole mess over there!",
+  "short_description": "Issues with the USD website, including incorrect info and timeouts.",
+  "description": "So, during the call, the user mentioned that they were trying to access the USD website, but it just wasn’t working right. They said there’s some incorrect information on the site, which is super confusing, and they also experienced some really annoying timeouts. Plus, they mentioned that a change was made in the DIM, but it’s like it’s just not showing up on the live site at all, which is really frustrating for them. It sounds like a whole mess over there!"
+}

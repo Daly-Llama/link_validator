@@ -1,0 +1,20 @@
+{
+  "number": "INC0001561",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01206",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for information on asset ownership and status\n\nfull_description_text:  \nI am reaching out to request some information regarding an asset or assets that we have in our department. Specifically, I would like to know who owns this asset and where it is located. We are currently looking at all of our computers, and it would be very helpful to have an updated list of these computers. Can you please tell me what you have on record for these computers? I am also curious if they have been sent to surplus or if you have them recorded as “in use.” Thank you for your assistance with this matter.",
+  "short_description": "Request for information on asset ownership and status",
+  "description": "I am reaching out to request some information regarding an asset or assets that we have in our department. Specifically, I would like to know who owns this asset and where it is located. We are currently looking at all of our computers, and it would be very helpful to have an updated list of these computers. Can you please tell me what you have on record for these computers? I am also curious if they have been sent to surplus or if you have them recorded as “in use.” Thank you for your assistance with this matter."
+}

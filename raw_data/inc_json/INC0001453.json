@@ -1,0 +1,20 @@
+{
+  "number": "INC0001453",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00903",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to locate scholarly articles in the USD Library Database.\n\nfull_description_text: \nThe user is experiencing difficulties while attempting to search for scholarly articles within the online library database, specifically the USD Library Database. They have reported an inability to access the necessary databases, which is critical for completing their assignment. This situation is causing significant frustration, as the user is unsure of the correct search parameters or methodologies to employ in order to retrieve the required academic resources. The lack of access to these databases is hindering their research efforts and overall academic progress.",
+  "short_description": "Unable to locate scholarly articles in the USD Library Database.",
+  "description": "The user is experiencing difficulties while attempting to search for scholarly articles within the online library database, specifically the USD Library Database. They have reported an inability to access the necessary databases, which is critical for completing their assignment. This situation is causing significant frustration, as the user is unsure of the correct search parameters or methodologies to employ in order to retrieve the required academic resources. The lack of access to these databases is hindering their research efforts and overall academic progress."
+}

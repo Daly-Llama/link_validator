@@ -1,0 +1,20 @@
+{
+  "number": "INC0001483",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00996",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to add or remove users from email distribution lists.\n\nfull_description_text: \nThe user is requesting assistance with updating an email distribution list. They mentioned needing to add a new employee to the all-staff list and also asked about removing a user from another list. There seems to be some confusion about the process for making these changes to the distribution groups.",
+  "short_description": "Need to add or remove users from email distribution lists.",
+  "description": "The user is requesting assistance with updating an email distribution list. They mentioned needing to add a new employee to the all-staff list and also asked about removing a user from another list. There seems to be some confusion about the process for making these changes to the distribution groups."
+}

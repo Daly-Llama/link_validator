@@ -1,0 +1,20 @@
+{
+  "number": "INC0002767",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04822",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty accessing student resources off-campus.\n\nfull_description_text:  \nThe student is currently facing challenges while trying to access essential resources from a location that is not on campus. This situation arises as they need to be off-campus for a certain duration, which complicates their ability to utilize platforms such as D2L, Zoom, and Panopto. It is important to note that these resources are critical for their academic success, and the inability to access them may hinder their learning experience. The student is seeking assistance to resolve this access issue promptly.",
+  "short_description": "Difficulty accessing student resources off-campus.",
+  "description": "The student is currently facing challenges while trying to access essential resources from a location that is not on campus. This situation arises as they need to be off-campus for a certain duration, which complicates their ability to utilize platforms such as D2L, Zoom, and Panopto. It is important to note that these resources are critical for their academic success, and the inability to access them may hinder their learning experience. The student is seeking assistance to resolve this access issue promptly."
+}

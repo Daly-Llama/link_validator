@@ -1,0 +1,20 @@
+{
+  "number": "INC0003895",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08031",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to send a mass email to multiple users\n\nfull_description_text: During a live chat, the user expressed a need to send a mass email to a list of users. They were looking for assistance with this task, but it seems there was some confusion about the process. The environment involves ColdFusion and SQL Server, which adds a layer of complexity to the request.",
+  "short_description": "Request to send a mass email to multiple users",
+  "description": "During a live chat, the user expressed a need to send a mass email to a list of users. They were looking for assistance with this task, but it seems there was some confusion about the process. The environment involves ColdFusion and SQL Server, which adds a layer of complexity to the request."
+}

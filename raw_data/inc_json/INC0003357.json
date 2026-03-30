@@ -1,0 +1,20 @@
+{
+  "number": "INC0003357",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06647",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty installing the latest version of Bluebeam Revu.\n\nfull_description_text: \nEl usuario está tratando de instalar la última versión de Bluebeam Revu en su computadora con Windows a través del Company Portal. Sin embargo, no está claro cómo proceder con la instalación. Se necesita asistencia para completar este proceso de instalación correctamente.",
+  "short_description": "Difficulty installing the latest version of Bluebeam Revu.",
+  "description": "El usuario está tratando de instalar la última versión de Bluebeam Revu en su computadora con Windows a través del Company Portal. Sin embargo, no está claro cómo proceder con la instalación. Se necesita asistencia para completar este proceso de instalación correctamente."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004429",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB09025",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Common articles for I D Weeks Library guest access issues.\n\nfull_description_text: During a call, a user asked about the typical articles that I D Weeks Library customers refer to when using guest access. They mentioned having trouble with the multifunction copier and Papercut printing. It seems they were looking for guidance on common issues or questions that might arise in that environment.",
+  "short_description": "Common articles for I D Weeks Library guest access issues.",
+  "description": "During a call, a user asked about the typical articles that I D Weeks Library customers refer to when using guest access. They mentioned having trouble with the multifunction copier and Papercut printing. It seems they were looking for guidance on common issues or questions that might arise in that environment."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001699",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB01632",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues saving documents in Adobe Acrobat and Microsoft Office applications\n\nfull_description_text:  \nDuring a call, the user mentioned they were having trouble saving documents. They couldn't convert Word files to PDF or save them to the shared drive. Additionally, they reported errors when trying to open saved documents or save new ones, which seemed to be linked to authentication issues.",
+  "short_description": "Issues saving documents in Adobe Acrobat and Microsoft Office applications",
+  "description": "During a call, the user mentioned they were having trouble saving documents. They couldn't convert Word files to PDF or save them to the shared drive. Additionally, they reported errors when trying to open saved documents or save new ones, which seemed to be linked to authentication issues."
+}

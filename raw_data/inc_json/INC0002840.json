@@ -1,0 +1,20 @@
+{
+  "number": "INC0002840",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB05038",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Students need help accessing Google Sites for editing.\n\nfull_description_text: The user is asking how students can access Google Sites webpages for editing purposes. They also want to know the process to add someone as an administrator on Google Sites. There seems to be some confusion about the permissions and access levels required for editing the website. The user is not very familiar with the technical terms, which makes it a bit difficult to understand the exact steps needed.",
+  "short_description": "Students need help accessing Google Sites for editing.",
+  "description": "The user is asking how students can access Google Sites webpages for editing purposes. They also want to know the process to add someone as an administrator on Google Sites. There seems to be some confusion about the permissions and access levels required for editing the website. The user is not very familiar with the technical terms, which makes it a bit difficult to understand the exact steps needed."
+}

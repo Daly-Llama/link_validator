@@ -1,0 +1,20 @@
+{
+  "number": "INC0004013",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08235",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Making Panopto videos and folders downloadable for students\n\nfull_description_text:  \nThe technician is trying to make Panopto videos downloadable for students. They also want to know how to make a folder in Panopto downloadable. There is confusion about the steps needed to achieve this functionality.",
+  "short_description": "Making Panopto videos and folders downloadable for students",
+  "description": "The technician is trying to make Panopto videos downloadable for students. They also want to know how to make a folder in Panopto downloadable. There is confusion about the steps needed to achieve this functionality."
+}

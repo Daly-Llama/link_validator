@@ -1,0 +1,20 @@
+{
+  "number": "INC0004022",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08247",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Students unable to access Sodexo Bonus Flex from survey winnings.\n\nfull_description_text:\n- A student called in, excited about winning Bonus Flex from the survey raffle.  \n- They mentioned that they are having trouble accessing their Bonus Flex account.  \n- The analyst noted the importance of resolving this issue quickly to ensure the student can enjoy their winnings.  \n- There seems to be some confusion regarding the activation process for the Bonus Flex rewards.",
+  "short_description": "Students unable to access Sodexo Bonus Flex from survey winnings.",
+  "description": "- A student called in, excited about winning Bonus Flex from the survey raffle.  \n- They mentioned that they are having trouble accessing their Bonus Flex account.  \n- The analyst noted the importance of resolving this issue quickly to ensure the student can enjoy their winnings.  \n- There seems to be some confusion regarding the activation process for the Bonus Flex rewards."
+}

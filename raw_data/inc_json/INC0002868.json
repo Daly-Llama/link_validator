@@ -1,0 +1,20 @@
+{
+  "number": "INC0002868",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB05136",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to move the multi-function copier.\n\nfull_description_text:  \n- The caller wants to move the copier to a different spot.  \n- They mentioned it’s a multi-function copier, but didn’t say why it needs to be moved.  \n- It sounds like it might be in the way or something like that.  \n- Just a simple request to get it relocated!",
+  "short_description": "Request to move the multi-function copier.",
+  "description": "- The caller wants to move the copier to a different spot.  \n- They mentioned it’s a multi-function copier, but didn’t say why it needs to be moved.  \n- It sounds like it might be in the way or something like that.  \n- Just a simple request to get it relocated!"
+}

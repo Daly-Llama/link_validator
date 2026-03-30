@@ -1,0 +1,20 @@
+{
+  "number": "INC0004609",
+  "category": "Purchasing",
+  "subcategory": "Purchasing",
+  "correct_kb": "KB09478",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for access to SDezBuy platform\n\nfull_description_text:\n- User is seeking assistance to gain access to the SDezBuy platform.  \n- They have expressed difficulty in understanding the access process.  \n- The request was initiated via email to the help desk, indicating urgency.  \n- There may be language barriers affecting their ability to communicate the issue clearly.",
+  "short_description": "Request for access to SDezBuy platform",
+  "description": "- User is seeking assistance to gain access to the SDezBuy platform.  \n- They have expressed difficulty in understanding the access process.  \n- The request was initiated via email to the help desk, indicating urgency.  \n- There may be language barriers affecting their ability to communicate the issue clearly."
+}

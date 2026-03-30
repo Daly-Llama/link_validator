@@ -1,0 +1,20 @@
+{
+  "number": "INC0002705",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04673",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: File is locked for editing in Excel or Word.\n\nfull_description_text: The user was trying to open a document but got an error message. It says the file is locked for editing by another user. They can only open it in read-only mode or get notified when it's available. This is causing issues since they can't make any changes.",
+  "short_description": "File is locked for editing in Excel or Word.",
+  "description": "The user was trying to open a document but got an error message. It says the file is locked for editing by another user. They can only open it in read-only mode or get notified when it's available. This is causing issues since they can't make any changes."
+}

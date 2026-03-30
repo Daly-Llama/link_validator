@@ -1,0 +1,20 @@
+{
+  "number": "INC0004709",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09832",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty in crafting an effective cover letter for job applications.\n\nfull_description_text: \nThe user, a student at the Center for Career Design, is seeking guidance on the intricate process of composing a cover letter, which is a critical component of job applications. During the call, they expressed uncertainty regarding the structure, tone, and essential elements that should be included to effectively convey their qualifications and enthusiasm for potential employment opportunities. This inquiry highlights a common challenge faced by individuals preparing to enter the job market, particularly in the context of utilizing available career resources. The user is looking for comprehensive assistance to ensure their cover letter meets professional standards and adequately represents their skills and experiences.",
+  "short_description": "Difficulty in crafting an effective cover letter for job applications.",
+  "description": "The user, a student at the Center for Career Design, is seeking guidance on the intricate process of composing a cover letter, which is a critical component of job applications. During the call, they expressed uncertainty regarding the structure, tone, and essential elements that should be included to effectively convey their qualifications and enthusiasm for potential employment opportunities. This inquiry highlights a common challenge faced by individuals preparing to enter the job market, particularly in the context of utilizing available career resources. The user is looking for comprehensive assistance to ensure their cover letter meets professional standards and adequately represents their skills and experiences."
+}

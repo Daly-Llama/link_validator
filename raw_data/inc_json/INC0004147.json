@@ -1,0 +1,20 @@
+{
+  "number": "INC0004147",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08422",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help figuring out the purpose of my PowerPoint presentation\n\nfull_description_text:  \n- So, I was on the phone with this user, right?  \n- They were trying to figure out what the whole point of their PowerPoint presentation was, like, what they should focus on.  \n- They seemed a bit lost and wanted to nail down the main idea or message they should be getting across, you know?  \n- It was kinda like they had all these slides but no clear direction, and they were just looking for some clarity.",
+  "short_description": "Need help figuring out the purpose of my PowerPoint presentation",
+  "description": "- So, I was on the phone with this user, right?  \n- They were trying to figure out what the whole point of their PowerPoint presentation was, like, what they should focus on.  \n- They seemed a bit lost and wanted to nail down the main idea or message they should be getting across, you know?  \n- It was kinda like they had all these slides but no clear direction, and they were just looking for some clarity."
+}

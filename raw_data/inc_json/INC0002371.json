@@ -1,0 +1,20 @@
+{
+  "number": "INC0002371",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03636",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Examplify error due to minimum screen resolution requirement\n\nfull_description_text: \nI keep getting an error when I try to open Examplify. It says my screen resolution is too low and that I need at least 1280 X 768. This happens every time I launch the application on my Windows laptop.",
+  "short_description": "Examplify error due to minimum screen resolution requirement",
+  "description": "I keep getting an error when I try to open Examplify. It says my screen resolution is too low and that I need at least 1280 X 768. This happens every time I launch the application on my Windows laptop."
+}

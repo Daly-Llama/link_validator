@@ -1,0 +1,20 @@
+{
+  "number": "INC0001261",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00493",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to install local USB printer; print jobs not processing.\n\nfull_description_text: \nI am having trouble installing my local USB printer. The print jobs are not going to the printer at all. I need help with this issue as I cannot print anything. Please assist me with the installation process.",
+  "short_description": "Unable to install local USB printer; print jobs not processing.",
+  "description": "I am having trouble installing my local USB printer. The print jobs are not going to the printer at all. I need help with this issue as I cannot print anything. Please assist me with the installation process."
+}

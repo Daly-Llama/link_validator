@@ -1,0 +1,20 @@
+{
+  "number": "INC0002814",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB04933",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Page numbers not showing correctly in Word with Endnote.\n\nfull_description_text:\n- I was working on a document in Word and noticed the page numbers are weird.  \n- Instead of showing the actual numbers, they just say { PAGE \\* MERGEFORMAT }.  \n- This happened after I installed Endnote, and I’m not sure why it’s doing this.",
+  "short_description": "Page numbers not showing correctly in Word with Endnote.",
+  "description": "- I was working on a document in Word and noticed the page numbers are weird.  \n- Instead of showing the actual numbers, they just say { PAGE \\* MERGEFORMAT }.  \n- This happened after I installed Endnote, and I’m not sure why it’s doing this."
+}

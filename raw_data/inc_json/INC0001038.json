@@ -1,0 +1,20 @@
+{
+  "number": "INC0001038",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB00060",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cannot open Banner in Internet Explorer.\n\nfull_description_text:  \nI am trying to open Banner. It just won't come up. I use Internet Explorer. I don't know why it is not working.",
+  "short_description": "Cannot open Banner in Internet Explorer.",
+  "description": "I am trying to open Banner. It just won't come up. I use Internet Explorer. I don't know why it is not working."
+}

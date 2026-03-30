@@ -1,0 +1,20 @@
+{
+  "number": "INC0004368",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB08873",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for W-2 reprint assistance\n\nfull_description_text:  \nI need help with getting a new copy of my W-2 form. I tried to find out how to ask for it, but I’m not sure what to do. It’s important for me to have this document, and I hope someone can guide me through the process. Thank you!",
+  "short_description": "Request for W-2 reprint assistance",
+  "description": "I need help with getting a new copy of my W-2 form. I tried to find out how to ask for it, but I’m not sure what to do. It’s important for me to have this document, and I hope someone can guide me through the process. Thank you!"
+}

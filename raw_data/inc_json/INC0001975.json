@@ -1,0 +1,20 @@
+{
+  "number": "INC0001975",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02451",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access faculty status in Banner due to role error.\n\nfull_description_text:  \nThe user attempted to check their faculty status in Banner 9 but encountered an issue. They received an error message stating that the page is not enabled for their current user role. This situation has prevented them from being recognized as an active faculty member in the system.",
+  "short_description": "Unable to access faculty status in Banner due to role error.",
+  "description": "The user attempted to check their faculty status in Banner 9 but encountered an issue. They received an error message stating that the page is not enabled for their current user role. This situation has prevented them from being recognized as an active faculty member in the system."
+}

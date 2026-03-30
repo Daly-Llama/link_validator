@@ -1,0 +1,20 @@
+{
+  "number": "INC0003253",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06252",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Reactivating Coyote Card after losing the device\n\nfull_description_text:\n- The user is seeking assistance to reactivate their Coyote Card.  \n- They have lost their device and need guidance on the reactivation process.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user may have limited technical understanding of the reactivation steps.",
+  "short_description": "Reactivating Coyote Card after losing the device",
+  "description": "- The user is seeking assistance to reactivate their Coyote Card.  \n- They have lost their device and need guidance on the reactivation process.  \n- The inquiry was made during a live chat session with a help desk analyst.  \n- The user may have limited technical understanding of the reactivation steps."
+}

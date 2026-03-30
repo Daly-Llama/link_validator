@@ -1,0 +1,20 @@
+{
+  "number": "INC0001801",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01920",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for access to Sitecore platform\n\nfull_description_text: \nThe user is trying to gain access to the Sitecore platform, which is essential for their tasks. They submitted a request through the self-service form, indicating a need for this access. However, there seems to be no confirmation or follow-up regarding the setup of their access. It's important to note that the user is familiar with the Sitecore environment and is likely expecting a prompt response to facilitate their work.",
+  "short_description": "Request for access to Sitecore platform",
+  "description": "The user is trying to gain access to the Sitecore platform, which is essential for their tasks. They submitted a request through the self-service form, indicating a need for this access. However, there seems to be no confirmation or follow-up regarding the setup of their access. It's important to note that the user is familiar with the Sitecore environment and is likely expecting a prompt response to facilitate their work."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001319",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00601",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error prevents submission of Dental Hygiene Evaluations forms\n\nfull_description_text: I can't submit the Dental Hygiene Evaluations forms because of an error. The forms just won't go through, and it's really frustrating. This is happening when I try to submit them, and I need to get this done.",
+  "short_description": "Error prevents submission of Dental Hygiene Evaluations forms",
+  "description": "I can't submit the Dental Hygiene Evaluations forms because of an error. The forms just won't go through, and it's really frustrating. This is happening when I try to submit them, and I need to get this done."
+}

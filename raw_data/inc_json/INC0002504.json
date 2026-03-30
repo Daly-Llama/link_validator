@@ -1,0 +1,20 @@
+{
+  "number": "INC0002504",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03996",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Strange links appearing in email messages.\n\nfull_description_text: I was checking my email and noticed that the links look really weird. They have this long address with safelinks.protection.outlook.com, and I don't know if it's safe to click on them. It just seems odd, like something is wrong. I just want to make sure my emails are okay and not some kind of trick.",
+  "short_description": "Strange links appearing in email messages.",
+  "description": "I was checking my email and noticed that the links look really weird. They have this long address with safelinks.protection.outlook.com, and I don't know if it's safe to click on them. It just seems odd, like something is wrong. I just want to make sure my emails are okay and not some kind of trick."
+}

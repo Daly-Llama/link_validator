@@ -1,0 +1,20 @@
+{
+  "number": "INC0002387",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03677",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to check VoIP voicemail from a different phone.\n\nfull_description_text: The user is trying to access their voicemail using a phone that is not their desk phone. They are unsure how to do this with the VoIP system. This issue is causing confusion and they need assistance to resolve it.",
+  "short_description": "Unable to check VoIP voicemail from a different phone.",
+  "description": "The user is trying to access their voicemail using a phone that is not their desk phone. They are unsure how to do this with the VoIP system. This issue is causing confusion and they need assistance to resolve it."
+}

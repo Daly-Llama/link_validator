@@ -1,0 +1,20 @@
+{
+  "number": "INC0003632",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07750",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty removing collaborators from a Google Doc.\n\nfull_description_text: \nDuring a live phone call, the user expressed confusion about the process of removing collaborators from a Google Document. They were attempting to manage access permissions for a document that had multiple contributors, which was causing some frustration. The user mentioned that they had already tried looking for options in the sharing settings but were unable to find the correct method to remove specific individuals. Additionally, they noted that their primary language is not English, which may have contributed to the misunderstanding of the interface.",
+  "short_description": "Difficulty removing collaborators from a Google Doc.",
+  "description": "During a live phone call, the user expressed confusion about the process of removing collaborators from a Google Document. They were attempting to manage access permissions for a document that had multiple contributors, which was causing some frustration. The user mentioned that they had already tried looking for options in the sharing settings but were unable to find the correct method to remove specific individuals. Additionally, they noted that their primary language is not English, which may have contributed to the misunderstanding of the interface."
+}

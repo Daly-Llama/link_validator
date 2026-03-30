@@ -1,0 +1,20 @@
+{
+  "number": "INC0003567",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB07503",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to change or delete leave requests in the experience portal.\n\nfull_description_text: \nI am trying to change or delete my leave requests through the experience portal, but I am facing issues. The options to modify or remove my requests do not seem to be available. This is causing confusion as I need to manage my leave effectively.",
+  "short_description": "Unable to change or delete leave requests in the experience portal.",
+  "description": "I am trying to change or delete my leave requests through the experience portal, but I am facing issues. The options to modify or remove my requests do not seem to be available. This is causing confusion as I need to manage my leave effectively."
+}

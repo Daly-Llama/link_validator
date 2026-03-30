@@ -1,0 +1,20 @@
+{
+  "number": "INC0001583",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB01273",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating a cart for non-catalog items in SDezBuy\n\nfull_description_text:  \nI was trying to help a user who needed to create a cart for some non-catalog items, like university hardware and software, in SDezBuy. They were looking for personalized quotes but seemed a bit confused about the process. It was during a live chat, and I could tell they were struggling with the steps. They mentioned they speak another language, which made it a bit tricky to explain everything clearly.",
+  "short_description": "Difficulty creating a cart for non-catalog items in SDezBuy",
+  "description": "I was trying to help a user who needed to create a cart for some non-catalog items, like university hardware and software, in SDezBuy. They were looking for personalized quotes but seemed a bit confused about the process. It was during a live chat, and I could tell they were struggling with the steps. They mentioned they speak another language, which made it a bit tricky to explain everything clearly."
+}

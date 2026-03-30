@@ -1,0 +1,20 @@
+{
+  "number": "INC0002216",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03192",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need Ubuntu on a Linux workstation for network printer access.\n\nfull_description_text: The user is requesting assistance with a Linux workstation that needs to be connected to a network printer. They specifically want Ubuntu installed on the device. During the call, they expressed urgency in getting this setup completed, as it is essential for their work. The situation involves ensuring proper connectivity and functionality with the existing network infrastructure.",
+  "short_description": "Need Ubuntu on a Linux workstation for network printer access.",
+  "description": "The user is requesting assistance with a Linux workstation that needs to be connected to a network printer. They specifically want Ubuntu installed on the device. During the call, they expressed urgency in getting this setup completed, as it is essential for their work. The situation involves ensuring proper connectivity and functionality with the existing network infrastructure."
+}

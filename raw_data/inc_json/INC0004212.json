@@ -1,0 +1,20 @@
+{
+  "number": "INC0004212",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08552",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for Coyote Access Cards for Sioux Falls medical residents\n\nfull_description_text:  \nDuring a live chat, a help desk analyst received a request for Coyote Access Cards specifically for medical residents in Sioux Falls. The user indicated that the residents need these cards to access certain facilities. There was no mention of any issues with the current access process, just a straightforward request for the cards.",
+  "short_description": "Request for Coyote Access Cards for Sioux Falls medical residents",
+  "description": "During a live chat, a help desk analyst received a request for Coyote Access Cards specifically for medical residents in Sioux Falls. The user indicated that the residents need these cards to access certain facilities. There was no mention of any issues with the current access process, just a straightforward request for the cards."
+}

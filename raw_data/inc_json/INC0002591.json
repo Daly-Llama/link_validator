@@ -1,0 +1,20 @@
+{
+  "number": "INC0002591",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04270",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Common Application not fully loading in ImageNow\n\nfull_description_text: So, I was on the call with a user who said the Common Application in ImageNow is acting up. They loaded it up, but instead of seeing the full document, only one page showed up. Plus, they mentioned that the FTP process for Common App isn’t giving them the results they expected, and they’re missing some applications and documents from Saturday. It’s definitely a frustrating situation for them!",
+  "short_description": "Common Application not fully loading in ImageNow",
+  "description": "So, I was on the call with a user who said the Common Application in ImageNow is acting up. They loaded it up, but instead of seeing the full document, only one page showed up. Plus, they mentioned that the FTP process for Common App isn’t giving them the results they expected, and they’re missing some applications and documents from Saturday. It’s definitely a frustrating situation for them!"
+}

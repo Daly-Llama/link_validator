@@ -1,0 +1,20 @@
+{
+  "number": "INC0003354",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB06634",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble exporting files from ImageNow system.\n\nfull_description_text:  \nI am trying to export a file from ImageNow but it is not working. I don’t know how to do it. I need help with exporting files from ImageNow.",
+  "short_description": "Trouble exporting files from ImageNow system.",
+  "description": "I am trying to export a file from ImageNow but it is not working. I don’t know how to do it. I need help with exporting files from ImageNow."
+}

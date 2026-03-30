@@ -1,0 +1,20 @@
+{
+  "number": "INC0003235",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB06206",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Alternative methods for streaming a live Zoom meeting.\n\nfull_description_text:  \nUser wants to stream a live Zoom meeting.  \nAsking for alternatives to Zoom Webinar.  \nConsidering using Panopto for this purpose.  \nNeed to ensure viewers can watch without issues.",
+  "short_description": "Alternative methods for streaming a live Zoom meeting.",
+  "description": "User wants to stream a live Zoom meeting.  \nAsking for alternatives to Zoom Webinar.  \nConsidering using Panopto for this purpose.  \nNeed to ensure viewers can watch without issues."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001610",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB01357",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to scan documents to designated folder on copier.\n\nfull_description_text: The user was trying to scan documents using the multifunction copier, but they encountered an issue where the scans were not being sent to their specified folder. They mentioned that they expected the documents to appear in the folder after scanning, but that did not happen. The user seemed a bit confused about the process and was looking for assistance to resolve this scanning problem. It was a live call, and they were speaking in English, which is their first language.",
+  "short_description": "Unable to scan documents to designated folder on copier.",
+  "description": "The user was trying to scan documents using the multifunction copier, but they encountered an issue where the scans were not being sent to their specified folder. They mentioned that they expected the documents to appear in the folder after scanning, but that did not happen. The user seemed a bit confused about the process and was looking for assistance to resolve this scanning problem. It was a live call, and they were speaking in English, which is their first language."
+}

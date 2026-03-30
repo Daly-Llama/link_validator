@@ -1,0 +1,20 @@
+{
+  "number": "INC0002698",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB04646",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to add users to VALT Supervisor group\n\nfull_description_text:  \nDuring a call, the user mentioned they need some people added to the VALT Supervisor user group. They also said that their computer doesn't have access to VALT, which is causing some confusion. It seems like they really need help moving a user into that group so they can get the right permissions.",
+  "short_description": "Request to add users to VALT Supervisor group",
+  "description": "During a call, the user mentioned they need some people added to the VALT Supervisor user group. They also said that their computer doesn't have access to VALT, which is causing some confusion. It seems like they really need help moving a user into that group so they can get the right permissions."
+}

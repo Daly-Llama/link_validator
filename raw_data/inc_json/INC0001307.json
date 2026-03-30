@@ -1,0 +1,20 @@
+{
+  "number": "INC0001307",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB00584",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Questions about Coyote Card and Flex dollar usage at vendors\n\nfull_description_text:  \nSo, during the call, the user was really curious about where they could actually use their Coyote Card, you know, the one that’s supposed to make life easier with Coyote Cash and all that? They were specifically asking if they could use their Flex dollars at any off-campus vendors, which is a pretty common question, I guess. It seems like they wanted to know if they could grab a coffee or something at a local shop using those funds. It’s always a bit confusing figuring out where those cards work, right?",
+  "short_description": "Questions about Coyote Card and Flex dollar usage at vendors",
+  "description": "So, during the call, the user was really curious about where they could actually use their Coyote Card, you know, the one that’s supposed to make life easier with Coyote Cash and all that? They were specifically asking if they could use their Flex dollars at any off-campus vendors, which is a pretty common question, I guess. It seems like they wanted to know if they could grab a coffee or something at a local shop using those funds. It’s always a bit confusing figuring out where those cards work, right?"
+}

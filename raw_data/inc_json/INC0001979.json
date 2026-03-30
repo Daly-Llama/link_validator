@@ -1,0 +1,20 @@
+{
+  "number": "INC0001979",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02464",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Outlook calendar not updating to the correct time zone.\n\nfull_description_text:\n- The user mentioned that their Outlook calendar seems to be stuck on mountain time.  \n- They are expecting it to automatically switch to central time, but it hasn't done so.  \n- This issue is causing confusion with scheduling and appointments, as the times displayed are not accurate.  \n- The user is looking for assistance to resolve this time zone problem.",
+  "short_description": "Outlook calendar not updating to the correct time zone.",
+  "description": "- The user mentioned that their Outlook calendar seems to be stuck on mountain time.  \n- They are expecting it to automatically switch to central time, but it hasn't done so.  \n- This issue is causing confusion with scheduling and appointments, as the times displayed are not accurate.  \n- The user is looking for assistance to resolve this time zone problem."
+}

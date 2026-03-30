@@ -1,0 +1,20 @@
+{
+  "number": "INC0003771",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB07899",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Supervisor needs help updating job descriptions in YourFuture.\n\nfull_description_text: So, the supervisor was trying to, like, look at and change some job descriptions in this thing called YourFuture, right? They said they need to do this for performance evaluations, but it seems like they’re not sure how to do it. It’s a bit confusing for them, and they really want to get it done but don’t know where to click or what to do next. It’s all a bit tricky, you know?",
+  "short_description": "Supervisor needs help updating job descriptions in YourFuture.",
+  "description": "So, the supervisor was trying to, like, look at and change some job descriptions in this thing called YourFuture, right? They said they need to do this for performance evaluations, but it seems like they’re not sure how to do it. It’s a bit confusing for them, and they really want to get it done but don’t know where to click or what to do next. It’s all a bit tricky, you know?"
+}

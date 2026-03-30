@@ -1,0 +1,20 @@
+{
+  "number": "INC0001692",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01614",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Windows Defender updates are not showing on my work computer.\n\nfull_description_text:  \n- So, the user was checking their work computer and noticed some messages.  \n- They saw a Windows Defender alert and an Action Center message saying they're not up to date.  \n- There’s also a Windows Update error saying important security fixes are missing.  \n- It’s kinda confusing since they thought updates were automatic, but now they’re not sure what to do.",
+  "short_description": "Windows Defender updates are not showing on my work computer.",
+  "description": "- So, the user was checking their work computer and noticed some messages.  \n- They saw a Windows Defender alert and an Action Center message saying they're not up to date.  \n- There’s also a Windows Update error saying important security fixes are missing.  \n- It’s kinda confusing since they thought updates were automatic, but now they’re not sure what to do."
+}

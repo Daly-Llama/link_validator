@@ -1,0 +1,20 @@
+{
+  "number": "INC0001582",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB01272",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to create Work Order due to missing trade in TMA.\n\nfull_description_text:  \nI tried to create a Work Order in TMA but it won't let me. I keep getting an error saying this site has no trade available. It's really frustrating because I can't enter any data or save anything. Why is this happening?",
+  "short_description": "Unable to create Work Order due to missing trade in TMA.",
+  "description": "I tried to create a Work Order in TMA but it won't let me. I keep getting an error saying this site has no trade available. It's really frustrating because I can't enter any data or save anything. Why is this happening?"
+}

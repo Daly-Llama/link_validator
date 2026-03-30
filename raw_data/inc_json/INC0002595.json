@@ -1,0 +1,20 @@
+{
+  "number": "INC0002595",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB04287",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Allow specific email senders to bypass Outlook's Junk E-Mail folder\n\nfull_description_text: \nThe user is trying to ensure that certain email senders are not filtered into the Junk E-Mail folder in Outlook. They are using Microsoft 365 and Outlook on the Web but are unsure how to set this up. This issue is causing important emails to be missed, leading to frustration. The user needs guidance on allowing specific domains or senders to bypass the junk filter.",
+  "short_description": "Allow specific email senders to bypass Outlook's Junk E-Mail folder",
+  "description": "The user is trying to ensure that certain email senders are not filtered into the Junk E-Mail folder in Outlook. They are using Microsoft 365 and Outlook on the Web but are unsure how to set this up. This issue is causing important emails to be missed, leading to frustration. The user needs guidance on allowing specific domains or senders to bypass the junk filter."
+}

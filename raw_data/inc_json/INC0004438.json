@@ -1,0 +1,20 @@
+{
+  "number": "INC0004438",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB09044",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need to request Chemical Waste Disposal service\n\nfull_description_text:\n- So, I got an email asking how to get rid of chemical waste.  \n- The person wants to know the steps to request Chemical Waste Disposal.  \n- It seems like they might not be sure about the process or who to contact.",
+  "short_description": "Need to request Chemical Waste Disposal service",
+  "description": "- So, I got an email asking how to get rid of chemical waste.  \n- The person wants to know the steps to request Chemical Waste Disposal.  \n- It seems like they might not be sure about the process or who to contact."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003923",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08069",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty sharing calendars in Outlook 2016.\n\nfull_description_text:\n- The user is trying to share their calendar in Outlook 2016.  \n- They are not sure how to do it and need help.  \n- There seems to be confusion about the steps to take for sharing.  \n- The user wants to know the correct way to share their calendar with others.",
+  "short_description": "Difficulty sharing calendars in Outlook 2016.",
+  "description": "- The user is trying to share their calendar in Outlook 2016.  \n- They are not sure how to do it and need help.  \n- There seems to be confusion about the steps to take for sharing.  \n- The user wants to know the correct way to share their calendar with others."
+}

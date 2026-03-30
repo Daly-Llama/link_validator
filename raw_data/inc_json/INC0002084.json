@@ -1,0 +1,20 @@
+{
+  "number": "INC0002084",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02783",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for creating a short URL for a long link\n\nfull_description_text:  \nA field technician is looking to have a long URL shortened for easier sharing. They have reached out to request the creation of a new vanity or short URL for the specified link. This request is aimed at improving accessibility and usability for the intended audience.",
+  "short_description": "Request for creating a short URL for a long link",
+  "description": "A field technician is looking to have a long URL shortened for easier sharing. They have reached out to request the creation of a new vanity or short URL for the specified link. This request is aimed at improving accessibility and usability for the intended audience."
+}

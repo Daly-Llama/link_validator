@@ -1,0 +1,20 @@
+{
+  "number": "INC0002799",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04890",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty scheduling an appointment with a study abroad advisor.\n\nfull_description_text:  \nThe user was trying to schedule an appointment with a study abroad advisor at the Gallagher Center. They expressed confusion about the process and needed assistance to complete the appointment setup. The call was focused on clarifying the steps required to secure a meeting with the advisor.",
+  "short_description": "Difficulty scheduling an appointment with a study abroad advisor.",
+  "description": "The user was trying to schedule an appointment with a study abroad advisor at the Gallagher Center. They expressed confusion about the process and needed assistance to complete the appointment setup. The call was focused on clarifying the steps required to secure a meeting with the advisor."
+}

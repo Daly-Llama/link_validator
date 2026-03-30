@@ -1,0 +1,20 @@
+{
+  "number": "INC0001276",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access D2L email due to authorization error.\n\nfull_description_text: \nThe user was trying to access their D2L email, but they encountered a message that said they are not authorized. This means that the page they are trying to reach is not available for them. It is important to note that this issue happened while they were on the phone with the help desk analyst. The user expressed confusion and frustration about not being able to view their email, which is essential for their communication.",
+  "short_description": "Unable to access D2L email due to authorization error.",
+  "description": "The user was trying to access their D2L email, but they encountered a message that said they are not authorized. This means that the page they are trying to reach is not available for them. It is important to note that this issue happened while they were on the phone with the help desk analyst. The user expressed confusion and frustration about not being able to view their email, which is essential for their communication."
+}

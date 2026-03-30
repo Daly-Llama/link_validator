@@ -1,0 +1,20 @@
+{
+  "number": "INC0001953",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02391",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: PowerPoint slides not loading for student in D2L\n\nfull_description_text:\n- The student is trying to open the power points from the instructor.  \n- They are not loading at all in D2L.  \n- This is a problem because the student needs the slides for class.  \n- The power points are important and should be accessible but they are not working.",
+  "short_description": "PowerPoint slides not loading for student in D2L",
+  "description": "- The student is trying to open the power points from the instructor.  \n- They are not loading at all in D2L.  \n- This is a problem because the student needs the slides for class.  \n- The power points are important and should be accessible but they are not working."
+}

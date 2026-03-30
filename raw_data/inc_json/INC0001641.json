@@ -1,0 +1,20 @@
+{
+  "number": "INC0001641",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01469",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Outlook frequently freezes when trying to access emails with embedded websites.\n\nfull_description_text: So, here's the deal—every time the user tries to open an email that has, like, an embedded website or even just something they copied and pasted from a site, their Outlook just totally freezes up. It's super frustrating because they get this annoying message saying \"Contacting the server for information,\" and then it just locks up completely. They mentioned that it seems to fix itself after a bit, but then it just happens again, and it's really making it hard for them to get their work done. Plus, they said the whole computer freezes, not just Outlook, which is a real pain!",
+  "short_description": "Outlook frequently freezes when trying to access emails with embedded websites.",
+  "description": "So, here's the deal—every time the user tries to open an email that has, like, an embedded website or even just something they copied and pasted from a site, their Outlook just totally freezes up. It's super frustrating because they get this annoying message saying \"Contacting the server for information,\" and then it just locks up completely. They mentioned that it seems to fix itself after a bit, but then it just happens again, and it's really making it hard for them to get their work done. Plus, they said the whole computer freezes, not just Outlook, which is a real pain!"
+}

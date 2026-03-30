@@ -1,0 +1,20 @@
+{
+  "number": "INC0004802",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB10128",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Print jobs not appearing in the Papercut queue for users.\n\nfull_description_text:\n- Users are experiencing issues where their print jobs do not appear in the queue.  \n- This problem has been reported intermittently, affecting multiple users within the Papercut environment.  \n- The root cause of the print request failure remains unclear at this time.",
+  "short_description": "Print jobs not appearing in the Papercut queue for users.",
+  "description": "- Users are experiencing issues where their print jobs do not appear in the queue.  \n- This problem has been reported intermittently, affecting multiple users within the Papercut environment.  \n- The root cause of the print request failure remains unclear at this time."
+}

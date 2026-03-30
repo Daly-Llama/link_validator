@@ -1,0 +1,20 @@
+{
+  "number": "INC0002541",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04124",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need camera and speaker for web meeting in Lee Med\n\nfull_description_text: \nUser is trying to set up a web meeting in Lee Med. They need a camera and speaker for the web conference. They also ask how to set up Zoom in Lee Med. There is confusion about the equipment needed for the meeting.",
+  "short_description": "Need camera and speaker for web meeting in Lee Med",
+  "description": "User is trying to set up a web meeting in Lee Med. They need a camera and speaker for the web conference. They also ask how to set up Zoom in Lee Med. There is confusion about the equipment needed for the meeting."
+}

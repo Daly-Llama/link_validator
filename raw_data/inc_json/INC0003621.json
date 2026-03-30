@@ -1,0 +1,20 @@
+{
+  "number": "INC0003621",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07738",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty adjusting text size and spacing in Google Docs\n\nfull_description_text:  \nThe user was attempting to modify the text size and spacing within a Google Docs document during a live chat session. They expressed confusion over the process, indicating that they were unsure of the steps required to achieve the desired formatting. This issue seems to stem from a lack of familiarity with the interface, which can be quite overwhelming for new users. Additionally, the user mentioned they were working on a project with a tight deadline, adding to their frustration.",
+  "short_description": "Difficulty adjusting text size and spacing in Google Docs",
+  "description": "The user was attempting to modify the text size and spacing within a Google Docs document during a live chat session. They expressed confusion over the process, indicating that they were unsure of the steps required to achieve the desired formatting. This issue seems to stem from a lack of familiarity with the interface, which can be quite overwhelming for new users. Additionally, the user mentioned they were working on a project with a tight deadline, adding to their frustration."
+}

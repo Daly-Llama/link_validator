@@ -1,0 +1,20 @@
+{
+  "number": "INC0002717",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04701",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student wants to install grant software on personal computer.\n\nfull_description_text:\n- A student is asking if they can put the software on their own computer.  \n- They are using money from the USD grant to buy it.  \n- There is confusion about if it’s okay to do this.  \n- The student is not sure about the rules for installing it on personal devices.",
+  "short_description": "Student wants to install grant software on personal computer.",
+  "description": "- A student is asking if they can put the software on their own computer.  \n- They are using money from the USD grant to buy it.  \n- There is confusion about if it’s okay to do this.  \n- The student is not sure about the rules for installing it on personal devices."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002531",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB04095",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Manikin is not producing audio when connected to the SAM.\n\nfull_description_text: \nDuring a call, the user mentioned that the manikin they were using with the auscultation machine isn't making any sound when it's plugged in. They were trying to demonstrate some features but found it completely silent, which is pretty frustrating. It seems like something's not working right with the audio output, and they need help figuring it out.",
+  "short_description": "Manikin is not producing audio when connected to the SAM.",
+  "description": "During a call, the user mentioned that the manikin they were using with the auscultation machine isn't making any sound when it's plugged in. They were trying to demonstrate some features but found it completely silent, which is pretty frustrating. It seems like something's not working right with the audio output, and they need help figuring it out."
+}

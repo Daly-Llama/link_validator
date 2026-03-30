@@ -1,0 +1,20 @@
+{
+  "number": "INC0001203",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB00383",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access necessary folders in Cognos for reporting.\n\nfull_description_text:\n- I cannot run a report in Cognos.  \n- I need access to the COMMON > D2L folder for a report.  \n- Also, I need access to COMMON > Student > ESC folder for immunization reports.  \n- I am not sure how to get this access.",
+  "short_description": "Unable to access necessary folders in Cognos for reporting.",
+  "description": "- I cannot run a report in Cognos.  \n- I need access to the COMMON > D2L folder for a report.  \n- Also, I need access to COMMON > Student > ESC folder for immunization reports.  \n- I am not sure how to get this access."
+}

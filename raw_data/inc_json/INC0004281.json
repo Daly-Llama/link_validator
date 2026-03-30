@@ -1,0 +1,20 @@
+{
+  "number": "INC0004281",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08684",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: AHP Health Insurance coverage for dental and vision services?\n\nfull_description_text: I need to know if AHP Health Insurance covers dental and vision. I’m an international student. I thought it did but not sure. Can someone tell me what’s included? I just want to understand if I can use it for my teeth and eyes.",
+  "short_description": "AHP Health Insurance coverage for dental and vision services?",
+  "description": "I need to know if AHP Health Insurance covers dental and vision. I’m an international student. I thought it did but not sure. Can someone tell me what’s included? I just want to understand if I can use it for my teeth and eyes."
+}

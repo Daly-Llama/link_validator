@@ -1,0 +1,20 @@
+{
+  "number": "INC0004631",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09537",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to update and add links on the USD website\n\nfull_description_text:\n- I need to update an existing link on the USD website.  \n- Also, I want to add a new link too.  \n- Just thought it would be easier to do it all at once!",
+  "short_description": "Request to update and add links on the USD website",
+  "description": "- I need to update an existing link on the USD website.  \n- Also, I want to add a new link too.  \n- Just thought it would be easier to do it all at once!"
+}

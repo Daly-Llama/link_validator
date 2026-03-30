@@ -1,0 +1,20 @@
+{
+  "number": "INC0002266",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03342",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: MacBook shows \"Computer Enrollment\" message requiring credential renewal.\n\nfull_description_text:  \nSo, I was just trying to access some company resources on my MacBook, and then this annoying \"Computer Enrollment\" message popped up. It says I need to renew my credentials to keep going. It's really frustrating because I just want to get my work done without these interruptions.",
+  "short_description": "MacBook shows \"Computer Enrollment\" message requiring credential renewal.",
+  "description": "So, I was just trying to access some company resources on my MacBook, and then this annoying \"Computer Enrollment\" message popped up. It says I need to renew my credentials to keep going. It's really frustrating because I just want to get my work done without these interruptions."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001147",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB00291",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: User prompted for Oracle password when accessing Banner account.\n\nfull_description_text: The user is experiencing an issue where they are prompted for an Oracle password during the login process for their Banner account. This has resulted in the user being locked out of their account, preventing access to necessary resources. The situation requires attention to restore normal functionality.",
+  "short_description": "User prompted for Oracle password when accessing Banner account.",
+  "description": "The user is experiencing an issue where they are prompted for an Oracle password during the login process for their Banner account. This has resulted in the user being locked out of their account, preventing access to necessary resources. The situation requires attention to restore normal functionality."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002882",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05193",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Continuous beeping noise from the network equipment closet.\n\nfull_description_text:\n- So, I was just minding my own business when I noticed this really annoying beeping sound coming from the IT closet. \n- It’s like a persistent alarm that just won’t quit, and it’s coming from the trouble panel in there. \n- I’m not sure what’s causing it, but it’s super distracting, especially when I’m trying to focus on my work. \n- I thought maybe it was just a one-time thing, but nope, it just keeps going!",
+  "short_description": "Continuous beeping noise from the network equipment closet.",
+  "description": "- So, I was just minding my own business when I noticed this really annoying beeping sound coming from the IT closet. \n- It’s like a persistent alarm that just won’t quit, and it’s coming from the trouble panel in there. \n- I’m not sure what’s causing it, but it’s super distracting, especially when I’m trying to focus on my work. \n- I thought maybe it was just a one-time thing, but nope, it just keeps going!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002593",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04278",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for employee access to DegreeWorks\n\nfull_description_text: So, I was on the phone with someone who needed access to DegreeWorks for one of their team members. They mentioned that the employee really needs it to keep track of their academic progress or something like that. It sounded pretty urgent, but I didn’t catch all the details since we were chatting about other stuff too. Just wanted to make sure we get this sorted out for them!",
+  "short_description": "Request for employee access to DegreeWorks",
+  "description": "So, I was on the phone with someone who needed access to DegreeWorks for one of their team members. They mentioned that the employee really needs it to keep track of their academic progress or something like that. It sounded pretty urgent, but I didn’t catch all the details since we were chatting about other stuff too. Just wanted to make sure we get this sorted out for them!"
+}

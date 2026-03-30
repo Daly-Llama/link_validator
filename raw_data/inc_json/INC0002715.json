@@ -1,0 +1,20 @@
+{
+  "number": "INC0002715",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04697",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need installation of Image Studio software on USD computer\n\nfull_description_text:\n- The user is requesting the installation of the Image Studio software on their computer, which is a USD computer.  \n- They mentioned that the software needs to be uploaded from the network, which may involve some network settings or permissions.  \n- Additionally, the user requires the Small Animal Analysis Key to be associated with the installation, which is important for the software to function properly.  \n- The request was submitted through a self-service form, and the user may not be very familiar with technical terms or processes.",
+  "short_description": "Need installation of Image Studio software on USD computer",
+  "description": "- The user is requesting the installation of the Image Studio software on their computer, which is a USD computer.  \n- They mentioned that the software needs to be uploaded from the network, which may involve some network settings or permissions.  \n- Additionally, the user requires the Small Animal Analysis Key to be associated with the installation, which is important for the software to function properly.  \n- The request was submitted through a self-service form, and the user may not be very familiar with technical terms or processes."
+}

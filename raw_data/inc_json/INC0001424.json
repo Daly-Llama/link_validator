@@ -1,0 +1,20 @@
+{
+  "number": "INC0001424",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00822",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Windows 10 stuck on Automatic Repair blue screen error\n\nfull_description_text:\n- The user is experiencing a recurring issue with their Windows 10 computer.  \n- It displays a blue screen indicating an Automatic Repair failure.  \n- The system cannot complete the repair process and keeps restarting, prompting an error message about needing a restart.  \n- This situation prevents the user from accessing their computer normally.",
+  "short_description": "Windows 10 stuck on Automatic Repair blue screen error",
+  "description": "- The user is experiencing a recurring issue with their Windows 10 computer.  \n- It displays a blue screen indicating an Automatic Repair failure.  \n- The system cannot complete the repair process and keeps restarting, prompting an error message about needing a restart.  \n- This situation prevents the user from accessing their computer normally."
+}

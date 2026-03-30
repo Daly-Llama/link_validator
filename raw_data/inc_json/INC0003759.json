@@ -1,0 +1,20 @@
+{
+  "number": "INC0003759",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07884",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble copying a formula to adjacent cells in Excel.\n\nfull_description_text: So, I was trying to copy a formula over to the cells next to it in Excel, but it just wasn’t working out. I thought it would be a simple drag or copy-paste, but nothing happened as expected. It’s frustrating when you’re in the middle of a project and these little things slow you down. Anyone else run into this issue?",
+  "short_description": "Trouble copying a formula to adjacent cells in Excel.",
+  "description": "So, I was trying to copy a formula over to the cells next to it in Excel, but it just wasn’t working out. I thought it would be a simple drag or copy-paste, but nothing happened as expected. It’s frustrating when you’re in the middle of a project and these little things slow you down. Anyone else run into this issue?"
+}

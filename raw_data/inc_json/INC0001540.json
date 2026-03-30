@@ -1,0 +1,20 @@
+{
+  "number": "INC0001540",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB01153",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access cable TV channels in student dorm room.\n\nfull_description_text:  \nThe user is experiencing issues with their cable TV service in their dorm room. They are unable to receive any live channels and have expressed a desire to watch TV shows. This problem is affecting their ability to access entertainment in their living space, and they are seeking assistance to resolve the issue.",
+  "short_description": "Unable to access cable TV channels in student dorm room.",
+  "description": "The user is experiencing issues with their cable TV service in their dorm room. They are unable to receive any live channels and have expressed a desire to watch TV shows. This problem is affecting their ability to access entertainment in their living space, and they are seeking assistance to resolve the issue."
+}

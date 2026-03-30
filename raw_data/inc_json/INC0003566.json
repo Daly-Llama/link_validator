@@ -1,0 +1,20 @@
+{
+  "number": "INC0003566",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB07495",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Account locked error when signing into USD account.\n\nfull_description_text: User is trying to sign into their USD account but gets a Microsoft error saying their account is locked. They mentioned it's a school account and need to contact support to unlock it. This issue is preventing them from accessing their account.",
+  "short_description": "Account locked error when signing into USD account.",
+  "description": "User is trying to sign into their USD account but gets a Microsoft error saying their account is locked. They mentioned it's a school account and need to contact support to unlock it. This issue is preventing them from accessing their account."
+}

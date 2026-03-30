@@ -1,0 +1,20 @@
+{
+  "number": "INC0004112",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08375",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help converting text to a table in Word.\n\nfull_description_text: \nEl usuario está tratando de convertir texto en una tabla en Word, pero no sabe cómo hacerlo. Se siente un poco perdido y necesita ayuda para entender el proceso. Cualquier orientación sería muy apreciada, ya que quiere organizar su información de manera más clara.",
+  "short_description": "Need help converting text to a table in Word.",
+  "description": "El usuario está tratando de convertir texto en una tabla en Word, pero no sabe cómo hacerlo. Se siente un poco perdido y necesita ayuda para entender el proceso. Cualquier orientación sería muy apreciada, ya que quiere organizar su información de manera más clara."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003893",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08027",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty tagging shortcuts in OneNote.\n\nfull_description_text: The user is trying to create tag shortcuts in OneNote but is encountering issues. They are unsure of the steps required to implement this feature effectively. This problem arose during a live call, and the user expressed frustration over the lack of clear guidance.",
+  "short_description": "Difficulty tagging shortcuts in OneNote.",
+  "description": "The user is trying to create tag shortcuts in OneNote but is encountering issues. They are unsure of the steps required to implement this feature effectively. This problem arose during a live call, and the user expressed frustration over the lack of clear guidance."
+}

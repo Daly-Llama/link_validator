@@ -1,0 +1,20 @@
+{
+  "number": "INC0003067",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB05700",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error messages when printing to HP printers after macOS update.\n\nfull_description_text: \nThe user is attempting to print documents using HP printers on their macOS system. Upon initiating the print command, they encounter alarming error messages indicating that \"Matterhorn.framework\" and \"HPDM.framework\" will damage their computer. This situation arises after a recent update to the macOS, which has seemingly affected the functionality of the printing process. The user is understandably concerned about the implications of these warnings and is seeking assistance to resolve the printing issue.",
+  "short_description": "Error messages when printing to HP printers after macOS update.",
+  "description": "The user is attempting to print documents using HP printers on their macOS system. Upon initiating the print command, they encounter alarming error messages indicating that \"Matterhorn.framework\" and \"HPDM.framework\" will damage their computer. This situation arises after a recent update to the macOS, which has seemingly affected the functionality of the printing process. The user is understandably concerned about the implications of these warnings and is seeking assistance to resolve the printing issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003497",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB07244",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Brother USB label printer is not printing and shows an error.\n\nfull_description_text: The Brother label printer connected via USB is not working. It is supposed to print, but it does not print anything at all. There is an error code that says ERROR CODE 0X011 A1 7FF DOT11_Private. This is very confusing because the printer should be printing, but it is not doing that.",
+  "short_description": "Brother USB label printer is not printing and shows an error.",
+  "description": "The Brother label printer connected via USB is not working. It is supposed to print, but it does not print anything at all. There is an error code that says ERROR CODE 0X011 A1 7FF DOT11_Private. This is very confusing because the printer should be printing, but it is not doing that."
+}

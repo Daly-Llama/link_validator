@@ -1,0 +1,20 @@
+{
+  "number": "INC0001249",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00475",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access myUSD Portal after login attempt.\n\nfull_description_text:  \nUser cannot login to myUSD Portal.  \nAfter entering credentials, the portal reloads to the sign in page.  \nError message indicates an internal error occurred.  \nUser experiences timeout issues and site accessibility problems.",
+  "short_description": "Unable to access myUSD Portal after login attempt.",
+  "description": "User cannot login to myUSD Portal.  \nAfter entering credentials, the portal reloads to the sign in page.  \nError message indicates an internal error occurred.  \nUser experiences timeout issues and site accessibility problems."
+}

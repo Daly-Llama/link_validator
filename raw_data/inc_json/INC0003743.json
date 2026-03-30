@@ -1,0 +1,20 @@
+{
+  "number": "INC0003743",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07868",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to use Format Painter to copy cell formatting in Excel.\n\nfull_description_text:  \n- The user was attempting to utilize the Format Painter feature in Excel.  \n- They reported difficulties in copying the formatting from one cell to another.  \n- This issue arose during a live support call, indicating urgency in resolving the matter.  \n- The user is familiar with Excel but needs assistance with this specific functionality.",
+  "short_description": "Unable to use Format Painter to copy cell formatting in Excel.",
+  "description": "- The user was attempting to utilize the Format Painter feature in Excel.  \n- They reported difficulties in copying the formatting from one cell to another.  \n- This issue arose during a live support call, indicating urgency in resolving the matter.  \n- The user is familiar with Excel but needs assistance with this specific functionality."
+}

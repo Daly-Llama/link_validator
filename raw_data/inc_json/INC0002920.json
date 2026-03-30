@@ -1,0 +1,20 @@
+{
+  "number": "INC0002920",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05297",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to make a call on Cisco VoIP Phone.\n\nfull_description_text:  \nThe user is trying to make a call using their Cisco VoIP Phone. They are not sure how to do this correctly. The issue is that they cannot figure out the steps needed to make a call. This is causing confusion and difficulty in using the phone.",
+  "short_description": "Unable to make a call on Cisco VoIP Phone.",
+  "description": "The user is trying to make a call using their Cisco VoIP Phone. They are not sure how to do this correctly. The issue is that they cannot figure out the steps needed to make a call. This is causing confusion and difficulty in using the phone."
+}

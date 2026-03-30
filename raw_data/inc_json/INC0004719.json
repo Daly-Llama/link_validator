@@ -1,0 +1,20 @@
+{
+  "number": "INC0004719",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09843",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need assistance with writing a resume for job applications.\n\nfull_description_text: The user is seeking guidance on how to effectively write a resume. They are currently a student utilizing resources from the Center for Career Design, specifically focused on job and career preparation. The request indicates a need for support in crafting a document that meets professional standards for job applications.",
+  "short_description": "Need assistance with writing a resume for job applications.",
+  "description": "The user is seeking guidance on how to effectively write a resume. They are currently a student utilizing resources from the Center for Career Design, specifically focused on job and career preparation. The request indicates a need for support in crafting a document that meets professional standards for job applications."
+}

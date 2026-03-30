@@ -1,0 +1,20 @@
+{
+  "number": "INC0001834",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB02036",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User needs access to Banner Student and ID reset.\n\nfull_description_text:  \n- So, I was on the phone with a user who needs access to Banner Student.  \n- They mentioned they also need to get into some specific screens or forms related to Financial Aid.  \n- Oh, and they need their Banner ID reset for both Student and Financial Aid access.  \n- Just wanted to make sure we get this sorted out for them!",
+  "short_description": "User needs access to Banner Student and ID reset.",
+  "description": "- So, I was on the phone with a user who needs access to Banner Student.  \n- They mentioned they also need to get into some specific screens or forms related to Financial Aid.  \n- Oh, and they need their Banner ID reset for both Student and Financial Aid access.  \n- Just wanted to make sure we get this sorted out for them!"
+}

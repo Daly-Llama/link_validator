@@ -1,0 +1,20 @@
+{
+  "number": "INC0004290",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08701",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about SSN and ITIN for international students\n\nfull_description_text:  \nUser asked about SSN and ITIN. They want to know what these are. Also, they’re unsure if they need one.",
+  "short_description": "Confusion about SSN and ITIN for international students",
+  "description": "User asked about SSN and ITIN. They want to know what these are. Also, they’re unsure if they need one."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004437",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09043",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about ChatGPT compatibility with USD account\n\nfull_description_text: \nUser is trying to figure out if ChatGPT can be used with their USD account. They are unsure if the integration is possible or if there are any restrictions. This confusion is causing some frustration as they need clarity on the usage. The environment includes ChatGPT and Microsoft Co-Pilot, but specifics on compatibility are not clear.",
+  "short_description": "Inquiry about ChatGPT compatibility with USD account",
+  "description": "User is trying to figure out if ChatGPT can be used with their USD account. They are unsure if the integration is possible or if there are any restrictions. This confusion is causing some frustration as they need clarity on the usage. The environment includes ChatGPT and Microsoft Co-Pilot, but specifics on compatibility are not clear."
+}

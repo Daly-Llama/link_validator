@@ -1,0 +1,20 @@
+{
+  "number": "INC0004610",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB09479",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty identifying and managing peroxide forming chemicals.\n\nfull_description_text:  \nDuring a call, the user expressed confusion about how to properly identify peroxide forming chemicals. They mentioned concerns about handling these substances safely, but were unsure of the specific criteria to look for. The conversation highlighted a need for clarity on the risks and management practices associated with these chemicals.",
+  "short_description": "Difficulty identifying and managing peroxide forming chemicals.",
+  "description": "During a call, the user expressed confusion about how to properly identify peroxide forming chemicals. They mentioned concerns about handling these substances safely, but were unsure of the specific criteria to look for. The conversation highlighted a need for clarity on the risks and management practices associated with these chemicals."
+}

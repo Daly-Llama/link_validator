@@ -1,0 +1,20 @@
+{
+  "number": "INC0002005",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02554",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need access to Gaussian software on Lawrence supercomputer\n\nfull_description_text:\n- So, the user was trying to run some computational jobs, right?  \n- They called in, super eager to get access to Gaussian on the Lawrence HPC system.  \n- It’s like, they really want to use Gaussian for their work, but they’re stuck without access.  \n- I mean, they mentioned something about needing it for the supercomputing tasks, but it’s all a bit jumbled up, you know?",
+  "short_description": "Need access to Gaussian software on Lawrence supercomputer",
+  "description": "- So, the user was trying to run some computational jobs, right?  \n- They called in, super eager to get access to Gaussian on the Lawrence HPC system.  \n- It’s like, they really want to use Gaussian for their work, but they’re stuck without access.  \n- I mean, they mentioned something about needing it for the supercomputing tasks, but it’s all a bit jumbled up, you know?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001479",
+  "category": "Technology",
+  "subcategory": "SharePoint",
+  "correct_kb": "KB00985",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Questions about logging into SharePoint using Google Chrome\n\nfull_description_text:  \nEl técnico de campo está intentando acceder a SharePoint a través de Google Chrome. Tiene preguntas generales sobre cómo usar la plataforma y específicamente sobre el proceso de inicio de sesión. A pesar de sus esfuerzos, no está seguro de los pasos necesarios para ingresar correctamente a SharePoint.",
+  "short_description": "Questions about logging into SharePoint using Google Chrome",
+  "description": "El técnico de campo está intentando acceder a SharePoint a través de Google Chrome. Tiene preguntas generales sobre cómo usar la plataforma y específicamente sobre el proceso de inicio de sesión. A pesar de sus esfuerzos, no está seguro de los pasos necesarios para ingresar correctamente a SharePoint."
+}

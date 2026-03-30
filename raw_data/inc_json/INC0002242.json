@@ -1,0 +1,20 @@
+{
+  "number": "INC0002242",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB03278",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about Banner Security Groups and their associated screens.\n\nfull_description_text:  \nUser is looking for details on Banner Security Groups. They want to know which screens are included in each group. This information is crucial for understanding access levels and permissions. It seems there’s some confusion about the current setup.",
+  "short_description": "Inquiry about Banner Security Groups and their associated screens.",
+  "description": "User is looking for details on Banner Security Groups. They want to know which screens are included in each group. This information is crucial for understanding access levels and permissions. It seems there’s some confusion about the current setup."
+}

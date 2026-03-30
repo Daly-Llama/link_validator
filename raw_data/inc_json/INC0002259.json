@@ -1,0 +1,20 @@
+{
+  "number": "INC0002259",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03327",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to remove access to a network drive after department change\n\nfull_description_text:\n- The user has recently transitioned to a different department within the organization.  \n- They are requesting the removal of their access to a specific network drive and a shared folder that they no longer need.  \n- The user mentioned that their previous role as a GA is no longer applicable, hence the need for access removal.  \n- It is important to ensure that the permissions for the shared folder are updated accordingly to reflect this change.",
+  "short_description": "Request to remove access to a network drive after department change",
+  "description": "- The user has recently transitioned to a different department within the organization.  \n- They are requesting the removal of their access to a specific network drive and a shared folder that they no longer need.  \n- The user mentioned that their previous role as a GA is no longer applicable, hence the need for access removal.  \n- It is important to ensure that the permissions for the shared folder are updated accordingly to reflect this change."
+}

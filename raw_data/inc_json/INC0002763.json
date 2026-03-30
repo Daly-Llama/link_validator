@@ -1,0 +1,20 @@
+{
+  "number": "INC0002763",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB04817",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to scan documents on Sharp Multifunction Copier to email or OneDrive.\n\nfull_description_text: The user is trying to scan documents using the Sharp Multifunction Copier but is facing issues. They mentioned that the scanning function to email or OneDrive isn't working as expected. It's unclear if they are receiving any error messages or if the process just hangs. They need assistance to resolve this scanning problem quickly.",
+  "short_description": "Unable to scan documents on Sharp Multifunction Copier to email or OneDrive.",
+  "description": "The user is trying to scan documents using the Sharp Multifunction Copier but is facing issues. They mentioned that the scanning function to email or OneDrive isn't working as expected. It's unclear if they are receiving any error messages or if the process just hangs. They need assistance to resolve this scanning problem quickly."
+}

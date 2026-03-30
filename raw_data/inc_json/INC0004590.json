@@ -1,0 +1,20 @@
+{
+  "number": "INC0004590",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09432",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about unapproved software in the inventory\n\nfull_description_text:  \nSo, I was just trying to figure out what software I can actually use, you know? I mean, there’s this whole list of software that’s supposed to be approved, but I have no idea what’s not on that list. It’s kind of confusing because I want to make sure I’m not using anything that could get me in trouble or something. Can someone help me find out which software is not approved for use? That would be super helpful!",
+  "short_description": "Inquiry about unapproved software in the inventory",
+  "description": "So, I was just trying to figure out what software I can actually use, you know? I mean, there’s this whole list of software that’s supposed to be approved, but I have no idea what’s not on that list. It’s kind of confusing because I want to make sure I’m not using anything that could get me in trouble or something. Can someone help me find out which software is not approved for use? That would be super helpful!"
+}

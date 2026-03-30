@@ -1,0 +1,20 @@
+{
+  "number": "INC0004090",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB08343",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about purchasing a laptop for personal use\n\nfull_description_text:  \nThe user is looking to buy a laptop specifically for personal use. They are uncertain about the process involved in making this purchase. Additionally, they want to know how soon they can initiate the buying process. This inquiry is relevant to registered students and active employees participating in the Nursing Laptop Program.",
+  "short_description": "Inquiry about purchasing a laptop for personal use",
+  "description": "The user is looking to buy a laptop specifically for personal use. They are uncertain about the process involved in making this purchase. Additionally, they want to know how soon they can initiate the buying process. This inquiry is relevant to registered students and active employees participating in the Nursing Laptop Program."
+}

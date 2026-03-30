@@ -1,0 +1,20 @@
+{
+  "number": "INC0001141",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB00282",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about KCS Contributor responsibilities in TeamDynamix\n\nfull_description_text:  \nI’m trying to understand what it means to be a KCS Contributor.  \nWhat are the specific responsibilities I need to know?  \nI work with TeamDynamix and want to make sure I’m doing it right.  \nAny details would be super helpful!",
+  "short_description": "Questions about KCS Contributor responsibilities in TeamDynamix",
+  "description": "I’m trying to understand what it means to be a KCS Contributor.  \nWhat are the specific responsibilities I need to know?  \nI work with TeamDynamix and want to make sure I’m doing it right.  \nAny details would be super helpful!"
+}

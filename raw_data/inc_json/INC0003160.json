@@ -1,0 +1,20 @@
+{
+  "number": "INC0003160",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05959",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to access course assignments and discussion posts in D2L.\n\nfull_description_text: The user is experiencing difficulties accessing their course assignments within the Desire2Learn (D2L) platform. They are unable to view discussion posts or quizzes, and links to assignments are not opening as expected. This issue is impacting their ability to engage with course materials effectively.",
+  "short_description": "Unable to access course assignments and discussion posts in D2L.",
+  "description": "The user is experiencing difficulties accessing their course assignments within the Desire2Learn (D2L) platform. They are unable to view discussion posts or quizzes, and links to assignments are not opening as expected. This issue is impacting their ability to engage with course materials effectively."
+}

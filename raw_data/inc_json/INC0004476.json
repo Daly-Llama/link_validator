@@ -1,0 +1,20 @@
+{
+  "number": "INC0004476",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09149",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Questions about community living policies and their implications.\n\nfull_description_text:  \nI'm looking for information on the community living policies. Specifically, I need to know where I can find the complete list of these policies. Also, I'm curious about what the consequences are if someone violates any of these policies. It's important for me to understand this to ensure compliance and avoid any issues.",
+  "short_description": "Questions about community living policies and their implications.",
+  "description": "I'm looking for information on the community living policies. Specifically, I need to know where I can find the complete list of these policies. Also, I'm curious about what the consequences are if someone violates any of these policies. It's important for me to understand this to ensure compliance and avoid any issues."
+}

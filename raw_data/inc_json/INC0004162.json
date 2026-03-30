@@ -1,0 +1,20 @@
+{
+  "number": "INC0004162",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08437",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing alt text in PowerPoint image needs correction.\n\nfull_description_text:\n- The user was working on a PowerPoint presentation and noticed that an image lacked alt text.  \n- They expressed concern about accessibility and wanted to ensure that all images are properly described.  \n- The help desk analyst assisted them over the phone, trying to clarify the steps needed to add the missing information.  \n- The user, whose first language is not English, was eager to resolve this issue to improve their presentation.",
+  "short_description": "Missing alt text in PowerPoint image needs correction.",
+  "description": "- The user was working on a PowerPoint presentation and noticed that an image lacked alt text.  \n- They expressed concern about accessibility and wanted to ensure that all images are properly described.  \n- The help desk analyst assisted them over the phone, trying to clarify the steps needed to add the missing information.  \n- The user, whose first language is not English, was eager to resolve this issue to improve their presentation."
+}

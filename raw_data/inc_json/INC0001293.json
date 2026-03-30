@@ -1,0 +1,20 @@
+{
+  "number": "INC0001293",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00559",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security camera not connected to recording server and shows as stopped.\n\nfull_description_text: During a live call, the user reported that a security camera within the University Police Department's Milestone XProtect software is displaying a status of \"Stopped.\" This indicates that the camera is not currently connected to the recording server, which is critical for monitoring. Additionally, the camera is generating alerts in SolarWinds, suggesting a potential issue that needs immediate attention.",
+  "short_description": "Security camera not connected to recording server and shows as stopped.",
+  "description": "During a live call, the user reported that a security camera within the University Police Department's Milestone XProtect software is displaying a status of \"Stopped.\" This indicates that the camera is not currently connected to the recording server, which is critical for monitoring. Additionally, the camera is generating alerts in SolarWinds, suggesting a potential issue that needs immediate attention."
+}

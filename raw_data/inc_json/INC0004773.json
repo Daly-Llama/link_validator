@@ -1,0 +1,20 @@
+{
+  "number": "INC0004773",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB10033",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Trouble setting up display in Lee Med Classroom 107\n\nfull_description_text:  \nSo, there’s an issue with getting the display set up in Lee Med 107. The person was trying to figure out how to make it work with DisplayFusion, but it’s just not coming together. They’re looking for some help on how to get everything set up right. It’s a bit frustrating, and they really need it sorted out soon.",
+  "short_description": "Trouble setting up display in Lee Med Classroom 107",
+  "description": "So, there’s an issue with getting the display set up in Lee Med 107. The person was trying to figure out how to make it work with DisplayFusion, but it’s just not coming together. They’re looking for some help on how to get everything set up right. It’s a bit frustrating, and they really need it sorted out soon."
+}

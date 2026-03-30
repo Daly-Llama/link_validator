@@ -1,0 +1,20 @@
+{
+  "number": "INC0002363",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03612",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Applications needing multi-factor authentication at USD\n\nfull_description_text:\n- The user is trying to find out which applications at USD require multi-factor authentication (MFA).\n- They are using either Windows or macOS and accessing through different browsers.\n- This information is important for ensuring secure access to the necessary applications.",
+  "short_description": "Applications needing multi-factor authentication at USD",
+  "description": "- The user is trying to find out which applications at USD require multi-factor authentication (MFA).\n- They are using either Windows or macOS and accessing through different browsers.\n- This information is important for ensuring secure access to the necessary applications."
+}

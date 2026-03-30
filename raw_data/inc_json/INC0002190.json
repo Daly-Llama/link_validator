@@ -1,0 +1,20 @@
+{
+  "number": "INC0002190",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03120",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Strange links appearing in email messages.\n\nfull_description_text:  \n- User noticed unusual link formats in their emails.  \n- They are concerned about the safety of clicking these links.  \n- The links include a reference to safelinks.protection.outlook.com.  \n- This issue arose during a routine email check.",
+  "short_description": "Strange links appearing in email messages.",
+  "description": "- User noticed unusual link formats in their emails.  \n- They are concerned about the safety of clicking these links.  \n- The links include a reference to safelinks.protection.outlook.com.  \n- This issue arose during a routine email check."
+}

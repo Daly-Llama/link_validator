@@ -1,0 +1,20 @@
+{
+  "number": "INC0003415",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06922",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty checking out equipment to customers in Cheqroom\n\nfull_description_text:  \nThe user is attempting to check out equipment to customers using the Cheqroom system. However, they are encountering issues that prevent them from completing the checkout process. This situation may involve unclear steps or unexpected errors within the application, leading to confusion and delays in service. Further clarification on the checkout procedure is needed to resolve this matter effectively.",
+  "short_description": "Difficulty checking out equipment to customers in Cheqroom",
+  "description": "The user is attempting to check out equipment to customers using the Cheqroom system. However, they are encountering issues that prevent them from completing the checkout process. This situation may involve unclear steps or unexpected errors within the application, leading to confusion and delays in service. Further clarification on the checkout procedure is needed to resolve this matter effectively."
+}

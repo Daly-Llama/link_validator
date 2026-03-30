@@ -1,0 +1,20 @@
+{
+  "number": "INC0003038",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05623",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Error connecting to Oracle database due to TNS timeout.\n\nfull_description_text: So, the user was trying to connect to the Oracle database using PL/SQL Developer, right? But they kept getting this annoying error about a TNS connect timeout. They mentioned something about the listener not knowing the SID they were using, which sounds pretty frustrating. It’s like they just can’t get through to the database at all!",
+  "short_description": "Error connecting to Oracle database due to TNS timeout.",
+  "description": "So, the user was trying to connect to the Oracle database using PL/SQL Developer, right? But they kept getting this annoying error about a TNS connect timeout. They mentioned something about the listener not knowing the SID they were using, which sounds pretty frustrating. It’s like they just can’t get through to the database at all!"
+}

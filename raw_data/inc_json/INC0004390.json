@@ -1,0 +1,20 @@
+{
+  "number": "INC0004390",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08941",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on email and web browser protections\n\nfull_description_text:\n- The user was asking about the security policy related to email and web browser protections.  \n- They wanted to know specifically what the USD guidelines are for these areas.  \n- The call was a bit confusing, and there were some interruptions, but the main focus was on the security measures.  \n- The analyst noted that the user seemed concerned about potential risks and wanted clarity on the policies in place.",
+  "short_description": "Inquiry about USD security policy on email and web browser protections",
+  "description": "- The user was asking about the security policy related to email and web browser protections.  \n- They wanted to know specifically what the USD guidelines are for these areas.  \n- The call was a bit confusing, and there were some interruptions, but the main focus was on the security measures.  \n- The analyst noted that the user seemed concerned about potential risks and wanted clarity on the policies in place."
+}

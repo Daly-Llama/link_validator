@@ -1,0 +1,20 @@
+{
+  "number": "INC0001107",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00200",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to connect to Wi-Fi on multiple devices.\n\nfull_description_text: The user is experiencing difficulties connecting to the Wi-Fi network. This issue occurs across various devices, including Android, Mac OSX, Apple iOS, Microsoft Windows, and Google Chromebooks. Despite attempts to connect, the user remains unable to access the internet through the Eduroam network.",
+  "short_description": "Unable to connect to Wi-Fi on multiple devices.",
+  "description": "The user is experiencing difficulties connecting to the Wi-Fi network. This issue occurs across various devices, including Android, Mac OSX, Apple iOS, Microsoft Windows, and Google Chromebooks. Despite attempts to connect, the user remains unable to access the internet through the Eduroam network."
+}

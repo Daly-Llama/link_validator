@@ -1,0 +1,20 @@
+{
+  "number": "INC0002944",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05348",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to copy a schedule in Microsoft Shifts.\n\nfull_description_text:  \n- I am trying to copy a schedule in Microsoft Shifts.  \n- I can't find the option to do this in the app.  \n- This is important for my team planning in Microsoft Teams.",
+  "short_description": "Unable to copy a schedule in Microsoft Shifts.",
+  "description": "- I am trying to copy a schedule in Microsoft Shifts.  \n- I can't find the option to do this in the app.  \n- This is important for my team planning in Microsoft Teams."
+}

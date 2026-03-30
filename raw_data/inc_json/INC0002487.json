@@ -1,0 +1,20 @@
+{
+  "number": "INC0002487",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB03963",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access course links in D2L due to Error 403.\n\nfull_description_text: \nThe user reported an issue while attempting to access specific links within their D2L course. They encountered a 403 Forbidden error, indicating that access was denied to the requested resources. This error message also mentioned that an error occurred while trying to retrieve a custom error document, suggesting a potential misconfiguration or permissions issue within the D2L environment. The user was seeking immediate assistance to resolve this access problem.",
+  "short_description": "Unable to access course links in D2L due to Error 403.",
+  "description": "The user reported an issue while attempting to access specific links within their D2L course. They encountered a 403 Forbidden error, indicating that access was denied to the requested resources. This error message also mentioned that an error occurred while trying to retrieve a custom error document, suggesting a potential misconfiguration or permissions issue within the D2L environment. The user was seeking immediate assistance to resolve this access problem."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002008",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB02564",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Housing application status shows incomplete despite submission.\n\nfull_description_text:  \n- User completed their housing application but sees a status of not complete.  \n- They also mentioned issues logging in to start the application.  \n- Additionally, they inquired about the process for getting their housing deposit back.",
+  "short_description": "Housing application status shows incomplete despite submission.",
+  "description": "- User completed their housing application but sees a status of not complete.  \n- They also mentioned issues logging in to start the application.  \n- Additionally, they inquired about the process for getting their housing deposit back."
+}

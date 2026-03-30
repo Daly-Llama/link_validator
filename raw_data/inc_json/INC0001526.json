@@ -1,0 +1,20 @@
+{
+  "number": "INC0001526",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB01119",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Instructor unable to access Online Writing Center in D2L\n\nfull_description_text: The instructor was trying to get into the Online Writing Center but got a message saying they aren't authorized. They were really hoping to use the resources there but just couldn't get in. It seems like there might be a mistake with their access rights or something like that. They were advised to reach out to technical support for help.",
+  "short_description": "Instructor unable to access Online Writing Center in D2L",
+  "description": "The instructor was trying to get into the Online Writing Center but got a message saying they aren't authorized. They were really hoping to use the resources there but just couldn't get in. It seems like there might be a mistake with their access rights or something like that. They were advised to reach out to technical support for help."
+}

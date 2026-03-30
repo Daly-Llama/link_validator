@@ -1,0 +1,20 @@
+{
+  "number": "INC0002985",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05459",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to install X-Ray sensor driver on clinical computer.\n\nfull_description_text:  \nSo, during the call, the user mentioned that the computer in the x-ray room needs a driver for the x-ray sensor. They specifically asked for the Gendex radiology drivers to be installed on their clinical computers. It seems like this is pretty important for their work with the GX-S700 sensors.",
+  "short_description": "Need to install X-Ray sensor driver on clinical computer.",
+  "description": "So, during the call, the user mentioned that the computer in the x-ray room needs a driver for the x-ray sensor. They specifically asked for the Gendex radiology drivers to be installed on their clinical computers. It seems like this is pretty important for their work with the GX-S700 sensors."
+}

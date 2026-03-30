@@ -1,0 +1,20 @@
+{
+  "number": "INC0004453",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB09101",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about copyright rules for showing movies in class\n\nfull_description_text:  \nThe user is seeking clarification on the regulations regarding the display of films during class sessions. They are particularly interested in understanding the copyright implications associated with showing media in various educational settings, including face-to-face, online, and hybrid classes. This inquiry suggests a need for guidance on how to comply with copyright laws while incorporating film and video into their teaching practices. The user is looking for definitive answers to ensure they adhere to legal standards when using media in their curriculum.",
+  "short_description": "Inquiry about copyright rules for showing movies in class",
+  "description": "The user is seeking clarification on the regulations regarding the display of films during class sessions. They are particularly interested in understanding the copyright implications associated with showing media in various educational settings, including face-to-face, online, and hybrid classes. This inquiry suggests a need for guidance on how to comply with copyright laws while incorporating film and video into their teaching practices. The user is looking for definitive answers to ensure they adhere to legal standards when using media in their curriculum."
+}

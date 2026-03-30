@@ -1,0 +1,20 @@
+{
+  "number": "INC0002723",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04725",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error when accessing Official Transcript in Evisions (Argos).\n\nfull_description_text:\n- The user was trying to access the Official Transcript in Evisions (Argos).\n- They encountered an error: Abnormal Program Termination.\n- The error occurred while executing 'f1_SQL-get_Inst_Info' with a select statement.\n- This issue is preventing them from accessing the transcript.",
+  "short_description": "Error when accessing Official Transcript in Evisions (Argos).",
+  "description": "- The user was trying to access the Official Transcript in Evisions (Argos).\n- They encountered an error: Abnormal Program Termination.\n- The error occurred while executing 'f1_SQL-get_Inst_Info' with a select statement.\n- This issue is preventing them from accessing the transcript."
+}

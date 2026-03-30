@@ -1,0 +1,20 @@
+{
+  "number": "INC0001856",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02088",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to set up a register for USD Point of Sale.\n\nfull_description_text:  \nI’m trying to get a register connected to our USD Point of Sale machines. It’s crucial for our operations, and I’m not sure what the next steps are. Just need some help to get this set up properly. Thanks!",
+  "short_description": "Need to set up a register for USD Point of Sale.",
+  "description": "I’m trying to get a register connected to our USD Point of Sale machines. It’s crucial for our operations, and I’m not sure what the next steps are. Just need some help to get this set up properly. Thanks!"
+}

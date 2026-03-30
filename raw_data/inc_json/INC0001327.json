@@ -1,0 +1,20 @@
+{
+  "number": "INC0001327",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00621",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Outlook shows autodiscover URL message on startup.\n\nfull_description_text:\n- User is opening Outlook and sees a message about server settings.  \n- The message asks if they want to allow autodiscover-s.outlook.com to configure their account.  \n- User is unsure if they should trust this server for settings.",
+  "short_description": "Outlook shows autodiscover URL message on startup.",
+  "description": "- User is opening Outlook and sees a message about server settings.  \n- The message asks if they want to allow autodiscover-s.outlook.com to configure their account.  \n- User is unsure if they should trust this server for settings."
+}

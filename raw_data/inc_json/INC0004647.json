@@ -1,0 +1,20 @@
+{
+  "number": "INC0004647",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB09629",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Receiving pop-ups about Data Policy Tips in Office applications.\n\nfull_description_text:  \nI was just using Word and Excel, you know, doing my work, and then these pop-ups started showing up. They keep cautioning me about sharing sensitive data, which is really annoying. I mean, what are these Data Policy Tips anyway? I just want to know what to do about these pop-ups because they keep interrupting my work.",
+  "short_description": "Receiving pop-ups about Data Policy Tips in Office applications.",
+  "description": "I was just using Word and Excel, you know, doing my work, and then these pop-ups started showing up. They keep cautioning me about sharing sensitive data, which is really annoying. I mean, what are these Data Policy Tips anyway? I just want to know what to do about these pop-ups because they keep interrupting my work."
+}

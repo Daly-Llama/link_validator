@@ -1,0 +1,20 @@
+{
+  "number": "INC0002276",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB03370",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing courses on usd.textbookx.com site\n\nfull_description_text:\n- So, the user called in saying not all their courses are showing up.  \n- They were checking the usd.textbookx.com site for their textbooks.  \n- It seems like some classes just aren’t listed there.  \n- They were a bit confused about why that’s happening.",
+  "short_description": "Missing courses on usd.textbookx.com site",
+  "description": "- So, the user called in saying not all their courses are showing up.  \n- They were checking the usd.textbookx.com site for their textbooks.  \n- It seems like some classes just aren’t listed there.  \n- They were a bit confused about why that’s happening."
+}

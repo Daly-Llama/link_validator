@@ -1,0 +1,20 @@
+{
+  "number": "INC0003036",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05621",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about how transfer credits are applied to my degree.\n\nfull_description_text: I'm trying to figure out how my transfer credits were applied to my degree program. I submitted a request but haven't received any clear info yet. It's important for me to understand this to plan my courses effectively.",
+  "short_description": "Confusion about how transfer credits are applied to my degree.",
+  "description": "I'm trying to figure out how my transfer credits were applied to my degree program. I submitted a request but haven't received any clear info yet. It's important for me to understand this to plan my courses effectively."
+}

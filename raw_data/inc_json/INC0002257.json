@@ -1,0 +1,20 @@
+{
+  "number": "INC0002257",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB03320",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Setup Panopto recording permissions for new med school class\n\nfull_description_text:  \n- User called to request setup of Panopto folders for new med students.  \n- Need to create new permissions group for incoming med school class and PA students.  \n- Mentioned that this is urgent for their upcoming classes, so please prioritize.  \n- Also, they were unsure if AD needs any updates for this process.",
+  "short_description": "Setup Panopto recording permissions for new med school class",
+  "description": "- User called to request setup of Panopto folders for new med students.  \n- Need to create new permissions group for incoming med school class and PA students.  \n- Mentioned that this is urgent for their upcoming classes, so please prioritize.  \n- Also, they were unsure if AD needs any updates for this process."
+}

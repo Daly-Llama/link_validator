@@ -1,0 +1,20 @@
+{
+  "number": "INC0003037",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05622",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request to change or add major/minor in academic records.\n\nfull_description_text:\n- User wants to change their major or minor.  \n- They also asked about adding a new major or minor.  \n- There is a mention of changing the academic catalog too.",
+  "short_description": "Request to change or add major/minor in academic records.",
+  "description": "- User wants to change their major or minor.  \n- They also asked about adding a new major or minor.  \n- There is a mention of changing the academic catalog too."
+}

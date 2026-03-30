@@ -1,0 +1,20 @@
+{
+  "number": "INC0004289",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB08700",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Resources needed for food assistance due to low funds.\n\nfull_description_text:\n- User is experiencing a shortage of funds.  \n- They are looking for help with food and basic needs.  \n- Need information on available resources for assistance.",
+  "short_description": "Resources needed for food assistance due to low funds.",
+  "description": "- User is experiencing a shortage of funds.  \n- They are looking for help with food and basic needs.  \n- Need information on available resources for assistance."
+}

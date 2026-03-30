@@ -1,0 +1,20 @@
+{
+  "number": "INC0004516",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB09242",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding apps, specifically the Timer App, to Zoom.\n\nfull_description_text:  \n- The user was trying to figure out how to add apps to their Zoom account.  \n- They specifically mentioned wanting to add the Timer App but seemed unsure about the process.  \n- It was during a phone call with the help desk, and they were looking for a simple explanation.  \n- The conversation felt a bit confusing, as they were not very technical and needed clear guidance.",
+  "short_description": "Difficulty adding apps, specifically the Timer App, to Zoom.",
+  "description": "- The user was trying to figure out how to add apps to their Zoom account.  \n- They specifically mentioned wanting to add the Timer App but seemed unsure about the process.  \n- It was during a phone call with the help desk, and they were looking for a simple explanation.  \n- The conversation felt a bit confusing, as they were not very technical and needed clear guidance."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003178",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06022",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues using Coyote Card Mobile on iPhone or Apple Watch\n\nfull_description_text:  \nTrying to use the Coyote Card on my iPhone or Apple Watch.  \nWondering if it works when my phone's battery is dead.  \nNeed to know how to access it, but it’s not clear.  \nJust looking for some straightforward info on this.",
+  "short_description": "Issues using Coyote Card Mobile on iPhone or Apple Watch",
+  "description": "Trying to use the Coyote Card on my iPhone or Apple Watch.  \nWondering if it works when my phone's battery is dead.  \nNeed to know how to access it, but it’s not clear.  \nJust looking for some straightforward info on this."
+}

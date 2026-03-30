@@ -1,0 +1,20 @@
+{
+  "number": "INC0001400",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00768",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Connections is using the wrong primary email address.\n\nfull_description_text:\n- So, I was trying to update my email in Coyote Connections, right?  \n- But it keeps thinking my old email is still the main one and linking my calendar to that.  \n- It's super annoying because I need to get my new email set up properly.  \n- I thought I did everything right, but it just won't change!",
+  "short_description": "Coyote Connections is using the wrong primary email address.",
+  "description": "- So, I was trying to update my email in Coyote Connections, right?  \n- But it keeps thinking my old email is still the main one and linking my calendar to that.  \n- It's super annoying because I need to get my new email set up properly.  \n- I thought I did everything right, but it just won't change!"
+}

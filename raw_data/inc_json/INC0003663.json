@@ -1,0 +1,20 @@
+{
+  "number": "INC0003663",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB07782",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Microsoft OneDrive.\n\nfull_description_text: \nDuring a recent phone call, the user inquired about how to access Microsoft OneDrive. They expressed confusion regarding the steps needed to log in and utilize the service effectively. The user was seeking guidance on navigating the platform, indicating a need for clear instructions on accessing their files.",
+  "short_description": "Difficulty accessing Microsoft OneDrive.",
+  "description": "During a recent phone call, the user inquired about how to access Microsoft OneDrive. They expressed confusion regarding the steps needed to log in and utilize the service effectively. The user was seeking guidance on navigating the platform, indicating a need for clear instructions on accessing their files."
+}

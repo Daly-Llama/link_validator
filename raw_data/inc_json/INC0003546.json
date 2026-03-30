@@ -1,0 +1,20 @@
+{
+  "number": "INC0003546",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB07386",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about available PaperCut printers for printing.\n\nfull_description_text: \nSo, I was on the phone with a user who wanted to know if there are any printers they can use for PaperCut. They seemed a bit confused about where to find them. They mentioned they were using Windows and Mac, but didn't really say much else. It was a quick call, and they just wanted to print something.",
+  "short_description": "Inquiry about available PaperCut printers for printing.",
+  "description": "So, I was on the phone with a user who wanted to know if there are any printers they can use for PaperCut. They seemed a bit confused about where to find them. They mentioned they were using Windows and Mac, but didn't really say much else. It was a quick call, and they just wanted to print something."
+}

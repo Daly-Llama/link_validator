@@ -1,0 +1,20 @@
+{
+  "number": "INC0004700",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09810",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to lockdown door(s) in S2.\n\nfull_description_text:  \nAn end user has submitted a request to lockdown the door(s) in S2. This request indicates a need for enhanced security measures for the portals in that area. The user did not provide specific details about the circumstances leading to this request, but it is clear that there is a concern regarding access control.",
+  "short_description": "Request to lockdown door(s) in S2.",
+  "description": "An end user has submitted a request to lockdown the door(s) in S2. This request indicates a need for enhanced security measures for the portals in that area. The user did not provide specific details about the circumstances leading to this request, but it is clear that there is a concern regarding access control."
+}

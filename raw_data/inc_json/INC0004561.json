@@ -1,0 +1,20 @@
+{
+  "number": "INC0004561",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09362",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about having an emotional support animal in University Housing\n\nfull_description_text:\n- I want to know if I can have an emotional support animal in my university housing.  \n- I'm also curious about the process to apply for one.  \n- It’s important for me to understand the rules and steps involved.  \n- I hope to get some clear guidance on this matter.",
+  "short_description": "Inquiry about having an emotional support animal in University Housing",
+  "description": "- I want to know if I can have an emotional support animal in my university housing.  \n- I'm also curious about the process to apply for one.  \n- It’s important for me to understand the rules and steps involved.  \n- I hope to get some clear guidance on this matter."
+}

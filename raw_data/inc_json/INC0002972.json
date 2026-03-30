@@ -1,0 +1,20 @@
+{
+  "number": "INC0002972",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05429",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Receiving a \"lower your voice\" alert on Cisco VoIP phone.\n\nfull_description_text: The user is experiencing a persistent alert on their Cisco VoIP phone indicating to \"lower your voice.\" This notification appears during regular phone usage, causing disruption. The issue seems to be related to the phone's sensitivity settings or audio detection features.",
+  "short_description": "Receiving a \"lower your voice\" alert on Cisco VoIP phone.",
+  "description": "The user is experiencing a persistent alert on their Cisco VoIP phone indicating to \"lower your voice.\" This notification appears during regular phone usage, causing disruption. The issue seems to be related to the phone's sensitivity settings or audio detection features."
+}

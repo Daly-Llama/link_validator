@@ -1,0 +1,20 @@
+{
+  "number": "INC0003839",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07973",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty inserting a pivot table in Excel.\n\nfull_description_text:  \nThe user is trying to create a pivot table in Excel but is unsure how to proceed. They may have some data ready but are feeling stuck and frustrated with the process. This issue is causing a delay in their work, and they are looking for guidance on how to successfully insert the pivot table.",
+  "short_description": "Difficulty inserting a pivot table in Excel.",
+  "description": "The user is trying to create a pivot table in Excel but is unsure how to proceed. They may have some data ready but are feeling stuck and frustrated with the process. This issue is causing a delay in their work, and they are looking for guidance on how to successfully insert the pivot table."
+}

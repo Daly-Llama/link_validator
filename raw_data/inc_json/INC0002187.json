@@ -1,0 +1,20 @@
+{
+  "number": "INC0002187",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB03109",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues verifying class and instructor information in Banner Student\n\nfull_description_text: \nUser is trying to check which classes are available in Banner Student. They also want to see who is teaching a specific class. There is a problem because the user does not see their course in the Online Bookstore. They need to confirm if they have been added as an instructor in the system.",
+  "short_description": "Issues verifying class and instructor information in Banner Student",
+  "description": "User is trying to check which classes are available in Banner Student. They also want to see who is teaching a specific class. There is a problem because the user does not see their course in the Online Bookstore. They need to confirm if they have been added as an instructor in the system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003132",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05883",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues using Zoom add-in in Outlook 365\n\nfull_description_text:  \nUser trying to add Zoom to Outlook.  \nThey can't find the add-in option.  \nRunning on Windows and MacOS.  \nNeed help to get it working.",
+  "short_description": "Issues using Zoom add-in in Outlook 365",
+  "description": "User trying to add Zoom to Outlook.  \nThey can't find the add-in option.  \nRunning on Windows and MacOS.  \nNeed help to get it working."
+}

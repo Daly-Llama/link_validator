@@ -1,0 +1,20 @@
+{
+  "number": "INC0003217",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB06149",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble editing a page in Evoq\n\nfull_description_text:  \n- The user was trying to figure out how to edit a page in Evoq.  \n- They seemed a bit confused and asked a lot of questions about the process.  \n- It was during a call, and they mentioned they just wanted to make some simple changes.  \n- There were some pauses as they looked for the right buttons, and it felt like they needed a bit more guidance.",
+  "short_description": "Trouble editing a page in Evoq",
+  "description": "- The user was trying to figure out how to edit a page in Evoq.  \n- They seemed a bit confused and asked a lot of questions about the process.  \n- It was during a call, and they mentioned they just wanted to make some simple changes.  \n- There were some pauses as they looked for the right buttons, and it felt like they needed a bit more guidance."
+}

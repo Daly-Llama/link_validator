@@ -1,0 +1,20 @@
+{
+  "number": "INC0004708",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB09824",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about handbook for employee search and hiring practices.\n\nfull_description_text:  \nDuring a live chat session, the user expressed a need for guidance regarding the hiring process. They specifically inquired if there exists a handbook that outlines best practices for conducting employee searches. The context suggests that the user is involved in a Faculty Hire Search Committee and is seeking structured information to facilitate their search efforts.",
+  "short_description": "Inquiry about handbook for employee search and hiring practices.",
+  "description": "During a live chat session, the user expressed a need for guidance regarding the hiring process. They specifically inquired if there exists a handbook that outlines best practices for conducting employee searches. The context suggests that the user is involved in a Faculty Hire Search Committee and is seeking structured information to facilitate their search efforts."
+}

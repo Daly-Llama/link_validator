@@ -1,0 +1,20 @@
+{
+  "number": "INC0002744",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB04764",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for No-Show Report for Monday's courses\n\nfull_description_text:\n- I was trying to get the No-Show Report for my courses that are starting on Monday.  \n- It seems like I can't find the report anywhere in Cognos, which is super frustrating.  \n- I just need to see who didn't show up, but I’m not sure what went wrong.  \n- Can someone help me figure this out?",
+  "short_description": "Request for No-Show Report for Monday's courses",
+  "description": "- I was trying to get the No-Show Report for my courses that are starting on Monday.  \n- It seems like I can't find the report anywhere in Cognos, which is super frustrating.  \n- I just need to see who didn't show up, but I’m not sure what went wrong.  \n- Can someone help me figure this out?"
+}

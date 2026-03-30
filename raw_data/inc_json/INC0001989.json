@@ -1,0 +1,20 @@
+{
+  "number": "INC0001989",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02506",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Upgrade needed for SMART Notebook software on USD computers\n\nfull_description_text:  \nThe SMART Notebook software on my USD computer is currently running in Limited Mode, which is affecting my ability to use its full features. I believe an upgrade is necessary to resolve this issue and restore normal functionality. I would appreciate assistance in getting the software updated so I can continue my work without interruptions. Thank you!",
+  "short_description": "Upgrade needed for SMART Notebook software on USD computers",
+  "description": "The SMART Notebook software on my USD computer is currently running in Limited Mode, which is affecting my ability to use its full features. I believe an upgrade is necessary to resolve this issue and restore normal functionality. I would appreciate assistance in getting the software updated so I can continue my work without interruptions. Thank you!"
+}

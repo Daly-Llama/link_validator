@@ -1,0 +1,20 @@
+{
+  "number": "INC0001587",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01294",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access USD shared folder on personal laptop\n\nfull_description_text:  \nSo, I was chatting with someone who said they can't connect to this USD shared folder on their laptop. They’re using Windows, but it’s just not working for them. They mentioned something about trying a few times, but it keeps failing. It’s kinda frustrating, right?",
+  "short_description": "Unable to access USD shared folder on personal laptop",
+  "description": "So, I was chatting with someone who said they can't connect to this USD shared folder on their laptop. They’re using Windows, but it’s just not working for them. They mentioned something about trying a few times, but it keeps failing. It’s kinda frustrating, right?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004644",
+  "category": "Student Services",
+  "subcategory": "Student Resources",
+  "correct_kb": "KB09595",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with career resources and guidance options.\n\nfull_description_text: User is looking for a list of resources in the Coyote Careers Document Library. They have questions about resumes, internships, and meeting with a Career Coach. There is uncertainty about where to find career guidance and professional development resources.",
+  "short_description": "Need help with career resources and guidance options.",
+  "description": "User is looking for a list of resources in the Coyote Careers Document Library. They have questions about resumes, internships, and meeting with a Career Coach. There is uncertainty about where to find career guidance and professional development resources."
+}

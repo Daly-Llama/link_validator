@@ -1,0 +1,20 @@
+{
+  "number": "INC0001084",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00151",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help granting calendar scheduling permissions on macOS.\n\nfull_description_text:  \nUser wants to allow someone to schedule appointments on their calendar.  \nThey are using macOS and Microsoft Office 2016.  \nThe process for granting permissions is unclear to them.  \nThey need assistance with this specific task.",
+  "short_description": "Need help granting calendar scheduling permissions on macOS.",
+  "description": "User wants to allow someone to schedule appointments on their calendar.  \nThey are using macOS and Microsoft Office 2016.  \nThe process for granting permissions is unclear to them.  \nThey need assistance with this specific task."
+}

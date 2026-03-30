@@ -1,0 +1,20 @@
+{
+  "number": "INC0002112",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02865",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Classroom and conference room equipment requires repair due to damage.\n\nfull_description_text: The equipment in both the smart classrooms and conference rooms is reported to be damaged and in need of repair. Specifically, the wireless microphone used for lectures has dead batteries, which affects its functionality. This issue may hinder presentations and classroom activities, requiring immediate attention to restore proper operation.",
+  "short_description": "Classroom and conference room equipment requires repair due to damage.",
+  "description": "The equipment in both the smart classrooms and conference rooms is reported to be damaged and in need of repair. Specifically, the wireless microphone used for lectures has dead batteries, which affects its functionality. This issue may hinder presentations and classroom activities, requiring immediate attention to restore proper operation."
+}

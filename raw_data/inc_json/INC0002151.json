@@ -1,0 +1,20 @@
+{
+  "number": "INC0002151",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB02988",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't find Virtual Astronomy software on remote desktop.\n\nfull_description_text:  \n- I'm trying to use the Virtual Astronomy program for my online class.  \n- I logged into the remote desktop, but I can't see the app anywhere.  \n- I even got an error saying, \"This app can't run on your PC,\" which is super confusing!",
+  "short_description": "Can't find Virtual Astronomy software on remote desktop.",
+  "description": "- I'm trying to use the Virtual Astronomy program for my online class.  \n- I logged into the remote desktop, but I can't see the app anywhere.  \n- I even got an error saying, \"This app can't run on your PC,\" which is super confusing!"
+}

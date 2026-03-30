@@ -1,0 +1,20 @@
+{
+  "number": "INC0001998",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02542",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to create a report using the Browse Query in TMA.\n\nfull_description_text:  \n- The user was trying to create a report or query in TMA.  \n- They were using the Browse Window feature but ran into issues.  \n- The process didn't work as expected, and they needed help.",
+  "short_description": "Unable to create a report using the Browse Query in TMA.",
+  "description": "- The user was trying to create a report or query in TMA.  \n- They were using the Browse Window feature but ran into issues.  \n- The process didn't work as expected, and they needed help."
+}

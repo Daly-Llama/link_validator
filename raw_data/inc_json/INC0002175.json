@@ -1,0 +1,20 @@
+{
+  "number": "INC0002175",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03085",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to former employee's files and email contacts\n\nfull_description_text:\n- So, I was on the phone with someone who really needs help.  \n- They’re looking to get into the files of a former employee on a Windows computer.  \n- They also want to grab the email contacts of the person who used to have their job at USD.  \n- It seems like they’re trying to find some important stuff, but they’re not sure how to get it.",
+  "short_description": "Request for access to former employee's files and email contacts",
+  "description": "- So, I was on the phone with someone who really needs help.  \n- They’re looking to get into the files of a former employee on a Windows computer.  \n- They also want to grab the email contacts of the person who used to have their job at USD.  \n- It seems like they’re trying to find some important stuff, but they’re not sure how to get it."
+}

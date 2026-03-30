@@ -1,0 +1,20 @@
+{
+  "number": "INC0001805",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01944",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: HDMI connection to projector shows gray screen.\n\nfull_description_text:\n- User trying to connect laptop via HDMI to projector.  \n- VGA works fine, but HDMI shows gray screen.  \n- Possible issue with HDMI cable.",
+  "short_description": "HDMI connection to projector shows gray screen.",
+  "description": "- User trying to connect laptop via HDMI to projector.  \n- VGA works fine, but HDMI shows gray screen.  \n- Possible issue with HDMI cable."
+}

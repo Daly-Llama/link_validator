@@ -1,0 +1,20 @@
+{
+  "number": "INC0004686",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09748",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view print balance and transaction history.\n\nfull_description_text:  \nI was trying to check my print balance and see my transaction history, but I couldn't find the information anywhere. It seems like the option to view these details is missing or not functioning properly. I really need to keep track of my printing usage, especially with all the projects I have going on. It would be great to have access to this information easily!",
+  "short_description": "Unable to view print balance and transaction history.",
+  "description": "I was trying to check my print balance and see my transaction history, but I couldn't find the information anywhere. It seems like the option to view these details is missing or not functioning properly. I really need to keep track of my printing usage, especially with all the projects I have going on. It would be great to have access to this information easily!"
+}

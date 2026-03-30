@@ -1,0 +1,20 @@
+{
+  "number": "INC0001777",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB01850",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for new student accounts on Guru for 731 course\n\nfull_description_text:  \nThe user is requesting the creation of new student accounts on the Guru platform specifically for the 731 course. This request is crucial as it pertains to the access needed for students to engage with course materials effectively. The environment in question includes Unix and Linux systems, and the user has mentioned the necessity for Secure Shell (SSH) access, which is typically facilitated through tools like Putty. It is important to note that the user may have limited proficiency in English, which could affect the clarity of the request and the urgency of the account creation process.",
+  "short_description": "Request for new student accounts on Guru for 731 course",
+  "description": "The user is requesting the creation of new student accounts on the Guru platform specifically for the 731 course. This request is crucial as it pertains to the access needed for students to engage with course materials effectively. The environment in question includes Unix and Linux systems, and the user has mentioned the necessity for Secure Shell (SSH) access, which is typically facilitated through tools like Putty. It is important to note that the user may have limited proficiency in English, which could affect the clarity of the request and the urgency of the account creation process."
+}

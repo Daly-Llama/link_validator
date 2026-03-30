@@ -1,0 +1,20 @@
+{
+  "number": "INC0004469",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09139",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about applying for an alcohol exemption on campus.\n\nfull_description_text:  \nUser wants to know how to apply for an alcohol exemption. They asked about the requirements too. Also curious if alcohol is allowed on campus. Just trying to get some clarity on the rules.",
+  "short_description": "Inquiry about applying for an alcohol exemption on campus.",
+  "description": "User wants to know how to apply for an alcohol exemption. They asked about the requirements too. Also curious if alcohol is allowed on campus. Just trying to get some clarity on the rules."
+}

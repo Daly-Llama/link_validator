@@ -1,0 +1,20 @@
+{
+  "number": "INC0003640",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB07759",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help voiding or canceling an envelope in DocuSign.\n\nfull_description_text:  \nI’m trying to figure out how to void or cancel an envelope in DocuSign, but I’m not really sure where to start. I thought it would be straightforward, but it’s turning out to be a bit confusing. Can someone explain what I need to do? I just want to make sure I handle this correctly.",
+  "short_description": "Need help voiding or canceling an envelope in DocuSign.",
+  "description": "I’m trying to figure out how to void or cancel an envelope in DocuSign, but I’m not really sure where to start. I thought it would be straightforward, but it’s turning out to be a bit confusing. Can someone explain what I need to do? I just want to make sure I handle this correctly."
+}

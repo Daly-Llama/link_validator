@@ -1,0 +1,20 @@
+{
+  "number": "INC0001227",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00427",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook email is offline and not syncing properly.\n\nfull_description_text:  \nSo, I was just trying to check my emails in Outlook, and suddenly it says I'm working offline. I noticed there's this annoying red X on the icon, and my emails just won't download or sync at all. It's super frustrating because I rely on it for work, and now I can't see any new messages or updates.",
+  "short_description": "Outlook email is offline and not syncing properly.",
+  "description": "So, I was just trying to check my emails in Outlook, and suddenly it says I'm working offline. I noticed there's this annoying red X on the icon, and my emails just won't download or sync at all. It's super frustrating because I rely on it for work, and now I can't see any new messages or updates."
+}

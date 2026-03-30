@@ -1,0 +1,20 @@
+{
+  "number": "INC0003597",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB07659",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to join Zoom meeting due to authentication error.\n\nfull_description_text:  \n- The user attempted to join a scheduled Zoom meeting on a Windows 10 device.  \n- After updating the Zoom application, they encountered an error message indicating that authentication is required.  \n- The message specified that a commercial Zoom account is necessary to access the meeting.  \n- The user is unsure how to proceed without the required account credentials.",
+  "short_description": "Unable to join Zoom meeting due to authentication error.",
+  "description": "- The user attempted to join a scheduled Zoom meeting on a Windows 10 device.  \n- After updating the Zoom application, they encountered an error message indicating that authentication is required.  \n- The message specified that a commercial Zoom account is necessary to access the meeting.  \n- The user is unsure how to proceed without the required account credentials."
+}

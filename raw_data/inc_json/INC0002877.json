@@ -1,0 +1,20 @@
+{
+  "number": "INC0002877",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB05168",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty downloading completed files from DocuSign.\n\nfull_description_text: The user is trying to download completed files from DocuSign but is encountering issues. They are unsure of the steps required to access and retrieve the necessary documents. This situation arose during a live phone call with a help desk analyst, indicating a need for immediate assistance.",
+  "short_description": "Difficulty downloading completed files from DocuSign.",
+  "description": "The user is trying to download completed files from DocuSign but is encountering issues. They are unsure of the steps required to access and retrieve the necessary documents. This situation arose during a live phone call with a help desk analyst, indicating a need for immediate assistance."
+}

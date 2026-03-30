@@ -1,0 +1,20 @@
+{
+  "number": "INC0003046",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB05643",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Multiple reminders for phishing training received after completion.\n\nfull_description_text:  \nThe user has recently completed the phishing training through KnowBe4 and is now receiving multiple reminders to complete the same training again. This situation is causing confusion and frustration, as the user is unsure why they are being prompted to retake the training. They are seeking clarification on whether it is necessary to complete the training once more or if the reminders can be stopped.",
+  "short_description": "Multiple reminders for phishing training received after completion.",
+  "description": "The user has recently completed the phishing training through KnowBe4 and is now receiving multiple reminders to complete the same training again. This situation is causing confusion and frustration, as the user is unsure why they are being prompted to retake the training. They are seeking clarification on whether it is necessary to complete the training once more or if the reminders can be stopped."
+}

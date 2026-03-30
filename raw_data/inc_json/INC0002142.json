@@ -1,0 +1,20 @@
+{
+  "number": "INC0002142",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02960",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for guest user account for library access\n\nfull_description_text: \nThe user is seeking information about the policies regarding guest user accounts at the library. They expressed a need for an account to access library computers. Additionally, they mentioned wanting to utilize guest printing services.",
+  "short_description": "Request for guest user account for library access",
+  "description": "The user is seeking information about the policies regarding guest user accounts at the library. They expressed a need for an account to access library computers. Additionally, they mentioned wanting to utilize guest printing services."
+}

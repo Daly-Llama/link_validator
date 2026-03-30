@@ -1,0 +1,20 @@
+{
+  "number": "INC0003430",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB06978",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to enable Breakout Sessions in Webex.\n\nfull_description_text: The user is trying to enable Breakout Sessions in Webex. They are not sure how to do it. There is confusion about the steps needed. The issue is causing delays in their meeting setup.",
+  "short_description": "Unable to enable Breakout Sessions in Webex.",
+  "description": "The user is trying to enable Breakout Sessions in Webex. They are not sure how to do it. There is confusion about the steps needed. The issue is causing delays in their meeting setup."
+}

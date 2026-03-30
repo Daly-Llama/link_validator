@@ -1,0 +1,20 @@
+{
+  "number": "INC0001288",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00550",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about discounts for Zoom Meetings at the University\n\nfull_description_text:\n- The user was inquiring about potential discounts for Zoom Meetings.  \n- They wanted to know if there are any special requirements associated with these discounts.  \n- This question arose during a live chat session with the help desk.  \n- The context suggests a need for clarification on university policies regarding Zoom usage.",
+  "short_description": "Inquiry about discounts for Zoom Meetings at the University",
+  "description": "- The user was inquiring about potential discounts for Zoom Meetings.  \n- They wanted to know if there are any special requirements associated with these discounts.  \n- This question arose during a live chat session with the help desk.  \n- The context suggests a need for clarification on university policies regarding Zoom usage."
+}

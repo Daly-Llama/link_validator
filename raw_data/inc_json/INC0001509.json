@@ -1,0 +1,20 @@
+{
+  "number": "INC0001509",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB01068",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to change network port to a specific VLAN\n\nfull_description_text:  \nA field technician is seeking assistance with modifying a network port's configuration. The technician needs the port to be assigned to a particular VLAN within the campus buildings. This change is essential for ensuring proper network segmentation and functionality. The request highlights the importance of managing network resources effectively in the given environment.",
+  "short_description": "Request to change network port to a specific VLAN",
+  "description": "A field technician is seeking assistance with modifying a network port's configuration. The technician needs the port to be assigned to a particular VLAN within the campus buildings. This change is essential for ensuring proper network segmentation and functionality. The request highlights the importance of managing network resources effectively in the given environment."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003326",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB06547",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: PDF content not fully visible in Adobe Acrobat on macOS\n\nfull_description_text: \nI am having a problem with my Adobe Acrobat 2017 on my macOS. When I open the PDFs, some details are missing and I cannot see everything that is supposed to be there. I tried to open the same PDFs on another platform, and they show all the content correctly. It is very confusing because I need to see all the information in the documents.",
+  "short_description": "PDF content not fully visible in Adobe Acrobat on macOS",
+  "description": "I am having a problem with my Adobe Acrobat 2017 on my macOS. When I open the PDFs, some details are missing and I cannot see everything that is supposed to be there. I tried to open the same PDFs on another platform, and they show all the content correctly. It is very confusing because I need to see all the information in the documents."
+}

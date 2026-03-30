@@ -1,0 +1,20 @@
+{
+  "number": "INC0002948",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB05360",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Repeated sign-in prompts for Adobe Creative Cloud account access\n\nfull_description_text:  \nThe user is experiencing a persistent issue with their Adobe Creative Cloud account, wherein they are repeatedly prompted to sign in, which ultimately prevents access to the services they require. This situation arises regardless of the operating system in use, whether it be macOS or Windows, leading to significant frustration and disruption in workflow. The continuous sign-in requests seem to occur without any clear indication of a resolution, leaving the user in a state of uncertainty regarding their account's accessibility. It is imperative to understand the underlying factors contributing to this authentication dilemma, as it directly impacts the user's ability to utilize Adobe Acrobat and other associated applications effectively.",
+  "short_description": "Repeated sign-in prompts for Adobe Creative Cloud account access",
+  "description": "The user is experiencing a persistent issue with their Adobe Creative Cloud account, wherein they are repeatedly prompted to sign in, which ultimately prevents access to the services they require. This situation arises regardless of the operating system in use, whether it be macOS or Windows, leading to significant frustration and disruption in workflow. The continuous sign-in requests seem to occur without any clear indication of a resolution, leaving the user in a state of uncertainty regarding their account's accessibility. It is imperative to understand the underlying factors contributing to this authentication dilemma, as it directly impacts the user's ability to utilize Adobe Acrobat and other associated applications effectively."
+}

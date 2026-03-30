@@ -1,0 +1,20 @@
+{
+  "number": "INC0001534",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB01144",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error saving attachments in Xtender due to authorization issue.\n\nfull_description_text:  \nI'm trying to save attachments in Xtender while using Banner, but I keep getting an error. The message says I can't update the document index because I'm not authorized with the VPDI Code. This happens when I try to attach documents, and it’s really frustrating since I need to save these files.",
+  "short_description": "Error saving attachments in Xtender due to authorization issue.",
+  "description": "I'm trying to save attachments in Xtender while using Banner, but I keep getting an error. The message says I can't update the document index because I'm not authorized with the VPDI Code. This happens when I try to attach documents, and it’s really frustrating since I need to save these files."
+}

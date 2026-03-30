@@ -1,0 +1,20 @@
+{
+  "number": "INC0003198",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB06096",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Roku Express+ frequently disconnects from smart devices network.\n\nfull_description_text:  \nThe user is experiencing persistent issues with their Roku Express+ while trying to connect to the smart devices network. Initially, the device connects but then unexpectedly disconnects during installation processes. After several attempts, the Roku now fails to establish any connection at all, leaving the user frustrated and unable to enjoy their streaming experience.",
+  "short_description": "Roku Express+ frequently disconnects from smart devices network.",
+  "description": "The user is experiencing persistent issues with their Roku Express+ while trying to connect to the smart devices network. Initially, the device connects but then unexpectedly disconnects during installation processes. After several attempts, the Roku now fails to establish any connection at all, leaving the user frustrated and unable to enjoy their streaming experience."
+}

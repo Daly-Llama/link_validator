@@ -1,0 +1,20 @@
+{
+  "number": "INC0001452",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00901",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to update kuraCloud software urgently.\n\nfull_description_text:  \nSo, I was trying to get kuraCloud up to date, but it seems like it’s stuck or something. I really need to make sure it’s running the latest version for my field work. Can someone help me figure out how to get this update done?",
+  "short_description": "Need to update kuraCloud software urgently.",
+  "description": "So, I was trying to get kuraCloud up to date, but it seems like it’s stuck or something. I really need to make sure it’s running the latest version for my field work. Can someone help me figure out how to get this update done?"
+}

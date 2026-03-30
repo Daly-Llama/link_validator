@@ -1,0 +1,20 @@
+{
+  "number": "INC0003116",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05797",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: PDFs not loading correctly in Chrome or Edge.\n\nfull_description_text:  \nI am trying to open a PDF in Chrome or Edge. It usually opens as a pdf but does not load properly. I see a message saying I need Adobe Reader 8 or higher. I also want to print in grayscale but can't find the setting for that.",
+  "short_description": "PDFs not loading correctly in Chrome or Edge.",
+  "description": "I am trying to open a PDF in Chrome or Edge. It usually opens as a pdf but does not load properly. I see a message saying I need Adobe Reader 8 or higher. I also want to print in grayscale but can't find the setting for that."
+}

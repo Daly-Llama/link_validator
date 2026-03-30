@@ -1,0 +1,20 @@
+{
+  "number": "INC0001522",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01111",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Videos are glitching in PowerPoint in one specific room.\n\nfull_description_text:\n- The user is experiencing issues with video playback in Microsoft PowerPoint.  \n- Videos are glitching only when presented in a particular room.  \n- This problem does not occur in other locations, suggesting a localized issue.  \n- The user has confirmed that the videos play correctly outside of this environment.",
+  "short_description": "Videos are glitching in PowerPoint in one specific room.",
+  "description": "- The user is experiencing issues with video playback in Microsoft PowerPoint.  \n- Videos are glitching only when presented in a particular room.  \n- This problem does not occur in other locations, suggesting a localized issue.  \n- The user has confirmed that the videos play correctly outside of this environment."
+}

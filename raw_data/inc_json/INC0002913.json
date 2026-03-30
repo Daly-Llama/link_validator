@@ -1,0 +1,20 @@
+{
+  "number": "INC0002913",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB05287",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion about using the \"U Get It\" button for library articles\n\nfull_description_text: \nSo, I was on the phone with a user who was trying to figure out what this \"U Get It\" button is all about. They were looking for a library article and just couldn't get it to work right. They asked me how to use it, but I think they were a bit lost on the whole process. It seems like they really needed some help navigating the databases and the Interlibrary Loan stuff.",
+  "short_description": "Confusion about using the \"U Get It\" button for library articles",
+  "description": "So, I was on the phone with a user who was trying to figure out what this \"U Get It\" button is all about. They were looking for a library article and just couldn't get it to work right. They asked me how to use it, but I think they were a bit lost on the whole process. It seems like they really needed some help navigating the databases and the Interlibrary Loan stuff."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001433",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00849",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help purchasing QuickBooks online version.\n\nfull_description_text: I have a version of QuickBooks that is not supported. I want to know how to buy the online version. Please help me with the steps to purchase it. I am not sure what to do next.",
+  "short_description": "Need help purchasing QuickBooks online version.",
+  "description": "I have a version of QuickBooks that is not supported. I want to know how to buy the online version. Please help me with the steps to purchase it. I am not sure what to do next."
+}

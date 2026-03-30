@@ -1,0 +1,20 @@
+{
+  "number": "INC0003954",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08107",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding files to a Microsoft Teams channel.\n\nfull_description_text:\n- The user was attempting to upload files to a specific channel in Microsoft Teams.  \n- They expressed confusion about the process and needed clarification on the steps involved.  \n- This issue arose during a live phone call with a help desk analyst, who was providing assistance.  \n- The user is familiar with Teams but was unsure about the file upload feature.",
+  "short_description": "Difficulty adding files to a Microsoft Teams channel.",
+  "description": "- The user was attempting to upload files to a specific channel in Microsoft Teams.  \n- They expressed confusion about the process and needed clarification on the steps involved.  \n- This issue arose during a live phone call with a help desk analyst, who was providing assistance.  \n- The user is familiar with Teams but was unsure about the file upload feature."
+}

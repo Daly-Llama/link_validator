@@ -1,0 +1,20 @@
+{
+  "number": "INC0004570",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09383",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about professor notification of accommodations each semester\n\nfull_description_text:  \nThe user is seeking clarification regarding the process by which the Office of Accessibility communicates with professors about student accommodations. Specifically, the individual wants to know if their professor is automatically notified of these accommodations at the beginning of each semester. This inquiry suggests a concern about ensuring that necessary support measures are in place for their academic success. The user is likely looking for confirmation on the reliability and consistency of this notification process to avoid any potential issues related to their accommodations.",
+  "short_description": "Inquiry about professor notification of accommodations each semester",
+  "description": "The user is seeking clarification regarding the process by which the Office of Accessibility communicates with professors about student accommodations. Specifically, the individual wants to know if their professor is automatically notified of these accommodations at the beginning of each semester. This inquiry suggests a concern about ensuring that necessary support measures are in place for their academic success. The user is likely looking for confirmation on the reliability and consistency of this notification process to avoid any potential issues related to their accommodations."
+}

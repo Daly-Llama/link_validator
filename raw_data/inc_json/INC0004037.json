@@ -1,0 +1,20 @@
+{
+  "number": "INC0004037",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08265",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about using different styles in Word documents\n\nfull_description_text: I'm having trouble figuring out how to use the different styles in Word. I want to know what the various styles are and how to properly apply the heading options. It seems like I'm not getting the hang of it, and I could really use some guidance on this.",
+  "short_description": "Confusion about using different styles in Word documents",
+  "description": "I'm having trouble figuring out how to use the different styles in Word. I want to know what the various styles are and how to properly apply the heading options. It seems like I'm not getting the hang of it, and I could really use some guidance on this."
+}

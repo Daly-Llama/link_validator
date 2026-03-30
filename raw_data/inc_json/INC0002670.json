@@ -1,0 +1,20 @@
+{
+  "number": "INC0002670",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB04563",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User unsure about Cayuse account credentials verification.\n\nfull_description_text: So, the user is checking if their Cayuse guest username and password are right. They want to know if someone has picked up their account. It’s a bit confusing for them, and they’re not sure what to do next. Just trying to figure out if everything’s okay with their login info.",
+  "short_description": "User unsure about Cayuse account credentials verification.",
+  "description": "So, the user is checking if their Cayuse guest username and password are right. They want to know if someone has picked up their account. It’s a bit confusing for them, and they’re not sure what to do next. Just trying to figure out if everything’s okay with their login info."
+}

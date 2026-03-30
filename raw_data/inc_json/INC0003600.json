@@ -1,0 +1,20 @@
+{
+  "number": "INC0003600",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB07700",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help enabling Lockdown Browser for D2L quiz.\n\nfull_description_text: \nSo, the user was trying to set up the Lockdown Browser for their quiz on D2L, but they don’t know how to do it. They said something about needing it for security, but the steps are not clear for them. They were a bit confused and asked many questions, and I could hear they were a bit stressed. It’s important for them to get this working right away for their students.",
+  "short_description": "Need help enabling Lockdown Browser for D2L quiz.",
+  "description": "So, the user was trying to set up the Lockdown Browser for their quiz on D2L, but they don’t know how to do it. They said something about needing it for security, but the steps are not clear for them. They were a bit confused and asked many questions, and I could hear they were a bit stressed. It’s important for them to get this working right away for their students."
+}

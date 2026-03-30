@@ -1,0 +1,20 @@
+{
+  "number": "INC0004233",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08587",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Delzell Education Center's evacuation and severe weather plans.\n\nfull_description_text:  \nI am looking for information regarding the evacuation plan for the Delzell Education Center. Additionally, I would like to know what the severe weather plan entails. It's important for me to understand these procedures to ensure safety during emergencies.",
+  "short_description": "Inquiry about Delzell Education Center's evacuation and severe weather plans.",
+  "description": "I am looking for information regarding the evacuation plan for the Delzell Education Center. Additionally, I would like to know what the severe weather plan entails. It's important for me to understand these procedures to ensure safety during emergencies."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001339",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00644",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Internet speed in the office is significantly slow.\n\nfull_description_text: The internet speed in our office has dropped to about 35kb/s. This is causing network files to open very slowly or not at all, which is affecting our work. We are using the wall network jack, and it seems like there is a major issue with the connection. It is really frustrating as we rely on the internet for our daily tasks.",
+  "short_description": "Internet speed in the office is significantly slow.",
+  "description": "The internet speed in our office has dropped to about 35kb/s. This is causing network files to open very slowly or not at all, which is affecting our work. We are using the wall network jack, and it seems like there is a major issue with the connection. It is really frustrating as we rely on the internet for our daily tasks."
+}

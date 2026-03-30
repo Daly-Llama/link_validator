@@ -1,0 +1,20 @@
+{
+  "number": "INC0001644",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01474",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Camera controls are switching between Main and Aux cameras.\n\nfull_description_text: I was using the touch panel on the podium, and it was really confusing. When I tried to control the Main Camera, it actually moved the Aux Camera instead, and the other way around too. I thought maybe it was just me, but it keeps happening, and it makes it hard to present properly.",
+  "short_description": "Camera controls are switching between Main and Aux cameras.",
+  "description": "I was using the touch panel on the podium, and it was really confusing. When I tried to control the Main Camera, it actually moved the Aux Camera instead, and the other way around too. I thought maybe it was just me, but it keeps happening, and it makes it hard to present properly."
+}

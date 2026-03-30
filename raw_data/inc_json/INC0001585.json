@@ -1,0 +1,20 @@
+{
+  "number": "INC0001585",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01281",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to log into University owned computer due to trust relationship error.\n\nfull_description_text: The user reported difficulties logging into a University owned computer while attempting to access their account. They encountered an error message indicating that the trust relationship between the workstation and the primary domain had failed. Additionally, another error stated that Windows couldn't connect to the User Profile Service, prompting the user to seek assistance from their system administrator. This issue occurred on both Windows and macOS environments, suggesting a broader connectivity problem.",
+  "short_description": "Unable to log into University owned computer due to trust relationship error.",
+  "description": "The user reported difficulties logging into a University owned computer while attempting to access their account. They encountered an error message indicating that the trust relationship between the workstation and the primary domain had failed. Additionally, another error stated that Windows couldn't connect to the User Profile Service, prompting the user to seek assistance from their system administrator. This issue occurred on both Windows and macOS environments, suggesting a broader connectivity problem."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003919",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08065",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty creating an appointment in Outlook.\n\nfull_description_text:\n- The user was attempting to schedule an appointment in Outlook but encountered issues.  \n- They expressed uncertainty about the steps required to successfully create the appointment.  \n- This situation arose during a live chat session with a help desk analyst, highlighting the need for clear guidance.  \n- The user is familiar with Outlook but requires assistance to navigate the appointment creation process.",
+  "short_description": "Difficulty creating an appointment in Outlook.",
+  "description": "- The user was attempting to schedule an appointment in Outlook but encountered issues.  \n- They expressed uncertainty about the steps required to successfully create the appointment.  \n- This situation arose during a live chat session with a help desk analyst, highlighting the need for clear guidance.  \n- The user is familiar with Outlook but requires assistance to navigate the appointment creation process."
+}

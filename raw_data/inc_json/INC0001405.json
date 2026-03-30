@@ -1,0 +1,20 @@
+{
+  "number": "INC0001405",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00775",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble connecting wireless keyboard to Windows computer\n\nfull_description_text:  \nI try to connect my wireless keyboard to the computer, but it just won't work. I have Windows and the keyboard is new, but it doesn't seem to recognize it. I don't know what to do, and it's really frustrating because I need it for work. Can someone help me figure this out?",
+  "short_description": "Trouble connecting wireless keyboard to Windows computer",
+  "description": "I try to connect my wireless keyboard to the computer, but it just won't work. I have Windows and the keyboard is new, but it doesn't seem to recognize it. I don't know what to do, and it's really frustrating because I need it for work. Can someone help me figure this out?"
+}

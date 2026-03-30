@@ -1,0 +1,20 @@
+{
+  "number": "INC0002480",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03944",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to install ENVI + IDL software.\n\nfull_description_text: The user is looking to have ENVI + IDL installed on their system. They expressed a desire for the software during a live chat. There seems to be no current installation, and they need assistance with this process.",
+  "short_description": "Request to install ENVI + IDL software.",
+  "description": "The user is looking to have ENVI + IDL installed on their system. They expressed a desire for the software during a live chat. There seems to be no current installation, and they need assistance with this process."
+}

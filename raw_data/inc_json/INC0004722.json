@@ -1,0 +1,20 @@
+{
+  "number": "INC0004722",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB09849",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to share screen with technician using Microsoft Remote Help.\n\nfull_description_text: \nThe user was trying to share their screen with a technician from USD IT using Microsoft Remote Help. They were on a call and needed assistance but couldn't figure out how to start the screen sharing process. This led to some confusion and frustration during the call, as they were unsure of the steps to take. The user expressed a need for clear instructions on how to share their screen effectively.",
+  "short_description": "Unable to share screen with technician using Microsoft Remote Help.",
+  "description": "The user was trying to share their screen with a technician from USD IT using Microsoft Remote Help. They were on a call and needed assistance but couldn't figure out how to start the screen sharing process. This led to some confusion and frustration during the call, as they were unsure of the steps to take. The user expressed a need for clear instructions on how to share their screen effectively."
+}

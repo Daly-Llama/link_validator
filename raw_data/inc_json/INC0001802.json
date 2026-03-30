@@ -1,0 +1,20 @@
+{
+  "number": "INC0001802",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01927",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: DVD player in classroom has unresponsive menu functions\n\nfull_description_text: \nDuring a live chat, the user reported that the DVD player in the USD classroom was sticky. They mentioned that the menu functions were not working at all, making it impossible to navigate. This issue is affecting the ability to use the player for educational purposes.",
+  "short_description": "DVD player in classroom has unresponsive menu functions",
+  "description": "During a live chat, the user reported that the DVD player in the USD classroom was sticky. They mentioned that the menu functions were not working at all, making it impossible to navigate. This issue is affecting the ability to use the player for educational purposes."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001868",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB02115",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about MATLAB licensing and purchase options\n\nfull_description_text: \nEl usuario está buscando información sobre la disponibilidad de una licencia para MATLAB en USD. No está seguro de cómo proceder para comprar MATLAB y también tiene dudas sobre el costo asociado. Es importante aclarar si hay una licencia existente y los pasos necesarios para adquirir el software.",
+  "short_description": "Inquiry about MATLAB licensing and purchase options",
+  "description": "El usuario está buscando información sobre la disponibilidad de una licencia para MATLAB en USD. No está seguro de cómo proceder para comprar MATLAB y también tiene dudas sobre el costo asociado. Es importante aclarar si hay una licencia existente y los pasos necesarios para adquirir el software."
+}

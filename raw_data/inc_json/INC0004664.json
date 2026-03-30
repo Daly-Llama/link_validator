@@ -1,0 +1,20 @@
+{
+  "number": "INC0004664",
+  "category": "Student Services",
+  "subcategory": "Center for Career Design",
+  "correct_kb": "KB09671",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about services offered by the Center for Career Design\n\nfull_description_text: So, during the call, the user was really curious about what exactly the Center for Career Design does, right? They were asking if it helps with things like resume building or maybe even job placement, you know? It seemed like they were looking for some guidance on career paths or something along those lines, but it was a bit unclear what specific services they were interested in. Anyway, they just wanted to know how the center could assist them in their career journey, which is totally understandable!",
+  "short_description": "Inquiry about services offered by the Center for Career Design",
+  "description": "So, during the call, the user was really curious about what exactly the Center for Career Design does, right? They were asking if it helps with things like resume building or maybe even job placement, you know? It seemed like they were looking for some guidance on career paths or something along those lines, but it was a bit unclear what specific services they were interested in. Anyway, they just wanted to know how the center could assist them in their career journey, which is totally understandable!"
+}

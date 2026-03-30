@@ -1,0 +1,20 @@
+{
+  "number": "INC0004786",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB10084",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access AI partner models in Adobe Creative Cloud apps.\n\nfull_description_text:\n- I am trying to use AI partner models in Photoshop and other Adobe Creative Cloud apps.  \n- I received an error message stating that my system administrator is not allowing access to this feature.  \n- I would like to know what generative AI functions are available in Creative Cloud.",
+  "short_description": "Unable to access AI partner models in Adobe Creative Cloud apps.",
+  "description": "- I am trying to use AI partner models in Photoshop and other Adobe Creative Cloud apps.  \n- I received an error message stating that my system administrator is not allowing access to this feature.  \n- I would like to know what generative AI functions are available in Creative Cloud."
+}

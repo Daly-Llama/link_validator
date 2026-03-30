@@ -1,0 +1,20 @@
+{
+  "number": "INC0001962",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB02406",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need attendance report for Blackboard event reader swipes.\n\nfull_description_text:\n- The technician is requesting a report on the attendance data from the Blackboard event reader.  \n- There is a specific interest in the swipes recorded by the card reader.  \n- This information is crucial for understanding attendance patterns, but the details are currently unavailable.  \n- The request highlights a need for clarity on how to access this data effectively.",
+  "short_description": "Need attendance report for Blackboard event reader swipes.",
+  "description": "- The technician is requesting a report on the attendance data from the Blackboard event reader.  \n- There is a specific interest in the swipes recorded by the card reader.  \n- This information is crucial for understanding attendance patterns, but the details are currently unavailable.  \n- The request highlights a need for clarity on how to access this data effectively."
+}

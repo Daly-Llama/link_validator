@@ -1,0 +1,20 @@
+{
+  "number": "INC0004229",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08583",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather procedures for Beacom Hall.\n\nfull_description_text:\n- The user is seeking detailed information regarding the evacuation protocols specific to Beacom Hall School of Business. \n- They are particularly interested in understanding the procedures that will be enacted during severe weather events, which may include storms or other hazardous conditions. \n- This inquiry reflects a need for clarity on safety measures to ensure personal and communal safety within the building. \n- The user may require this information to prepare adequately for potential emergencies and to comply with institutional safety guidelines.",
+  "short_description": "Inquiry about evacuation and severe weather procedures for Beacom Hall.",
+  "description": "- The user is seeking detailed information regarding the evacuation protocols specific to Beacom Hall School of Business. \n- They are particularly interested in understanding the procedures that will be enacted during severe weather events, which may include storms or other hazardous conditions. \n- This inquiry reflects a need for clarity on safety measures to ensure personal and communal safety within the building. \n- The user may require this information to prepare adequately for potential emergencies and to comply with institutional safety guidelines."
+}

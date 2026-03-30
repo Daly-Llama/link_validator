@@ -1,0 +1,20 @@
+{
+  "number": "INC0003450",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07065",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Duo is rejecting passcodes from my hardware token.\n\nfull_description_text:  \nThe user is trying to authenticate in Duo using a hardware token but is getting an error message. It says the passcode is incorrect, which is confusing since they are using the token as intended. This issue is causing a delay in their access to the system.",
+  "short_description": "Duo is rejecting passcodes from my hardware token.",
+  "description": "The user is trying to authenticate in Duo using a hardware token but is getting an error message. It says the passcode is incorrect, which is confusing since they are using the token as intended. This issue is causing a delay in their access to the system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003531",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB07356",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log in to Panopto through D2L platform.\n\nfull_description_text: The user is experiencing difficulties accessing their Panopto videos via the Desire2Learn (D2L) platform. Upon attempting to log in, an error message appears stating that the request’s x_target value does not align with the permitted values for this application. This issue is preventing the user from viewing their course-related Panopto content, which is essential for their learning experience. The user has been advised to contact their administrator for further assistance regarding this login problem.",
+  "short_description": "Unable to log in to Panopto through D2L platform.",
+  "description": "The user is experiencing difficulties accessing their Panopto videos via the Desire2Learn (D2L) platform. Upon attempting to log in, an error message appears stating that the request’s x_target value does not align with the permitted values for this application. This issue is preventing the user from viewing their course-related Panopto content, which is essential for their learning experience. The user has been advised to contact their administrator for further assistance regarding this login problem."
+}

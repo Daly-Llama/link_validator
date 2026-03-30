@@ -1,0 +1,20 @@
+{
+  "number": "INC0003146",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB05915",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Scheduled Cognos report did not run as expected.\n\nfull_description_text:\n- The user expected a scheduled report from Cognos to be available.  \n- The report output was supposed to be on the RIS FTP server but was not found.  \n- Additionally, the report that should have been in a local share was either missing or had an incorrect date.  \n- This issue is impacting the user's ability to access the necessary data for their work.",
+  "short_description": "Scheduled Cognos report did not run as expected.",
+  "description": "- The user expected a scheduled report from Cognos to be available.  \n- The report output was supposed to be on the RIS FTP server but was not found.  \n- Additionally, the report that should have been in a local share was either missing or had an incorrect date.  \n- This issue is impacting the user's ability to access the necessary data for their work."
+}

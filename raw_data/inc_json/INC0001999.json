@@ -1,0 +1,20 @@
+{
+  "number": "INC0001999",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB02543",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to temporarily reactivate a graduated student account\n\nfull_description_text: \nSo, I was on the phone with a user who graduated from USD, and they were asking if their old student account could be reactivated just for a bit. They need to get their Degree Order Form, and it seems like they can't access it without that account. They also mentioned something about their old email and if that could be turned back on too, but I wasn't sure how that works. It sounded like they really just want to get this sorted out quickly!",
+  "short_description": "Request to temporarily reactivate a graduated student account",
+  "description": "So, I was on the phone with a user who graduated from USD, and they were asking if their old student account could be reactivated just for a bit. They need to get their Degree Order Form, and it seems like they can't access it without that account. They also mentioned something about their old email and if that could be turned back on too, but I wasn't sure how that works. It sounded like they really just want to get this sorted out quickly!"
+}

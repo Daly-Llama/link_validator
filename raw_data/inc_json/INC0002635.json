@@ -1,0 +1,20 @@
+{
+  "number": "INC0002635",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB04466",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need for DocuSign training session\n\nfull_description_text:\n- So, the user called in and said they need help with DocuSign training.  \n- They mentioned they are not very familiar with the system and want to learn how to use it better.  \n- It seems like they really want to get a good understanding of the features and how to navigate it.",
+  "short_description": "Need for DocuSign training session",
+  "description": "- So, the user called in and said they need help with DocuSign training.  \n- They mentioned they are not very familiar with the system and want to learn how to use it better.  \n- It seems like they really want to get a good understanding of the features and how to navigate it."
+}

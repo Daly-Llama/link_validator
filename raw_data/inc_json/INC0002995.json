@@ -1,0 +1,20 @@
+{
+  "number": "INC0002995",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB05482",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: External display turns black when drawing in Office applications.\n\nfull_description_text:  \nWhile utilizing Microsoft Office applications such as Word, PowerPoint, and the Whiteboard app within a Windows 10 Version 2004 environment, the external monitor experiences a critical failure, resulting in a complete blackout during drawing or writing activities. This issue manifests specifically in Edit Mode, where the pen input initiates a drawing action, only to be abruptly interrupted by the screen going blank for several seconds. The user is unable to restore the display, leading to significant disruption in their workflow within the Smart Classroom setting. This phenomenon raises concerns regarding the compatibility of the software with the hardware configuration, particularly in high-demand scenarios involving graphical input.",
+  "short_description": "External display turns black when drawing in Office applications.",
+  "description": "While utilizing Microsoft Office applications such as Word, PowerPoint, and the Whiteboard app within a Windows 10 Version 2004 environment, the external monitor experiences a critical failure, resulting in a complete blackout during drawing or writing activities. This issue manifests specifically in Edit Mode, where the pen input initiates a drawing action, only to be abruptly interrupted by the screen going blank for several seconds. The user is unable to restore the display, leading to significant disruption in their workflow within the Smart Classroom setting. This phenomenon raises concerns regarding the compatibility of the software with the hardware configuration, particularly in high-demand scenarios involving graphical input."
+}

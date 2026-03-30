@@ -1,0 +1,20 @@
+{
+  "number": "INC0001891",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB02187",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to print and need assistance with print queue issues.\n\nfull_description_text:  \nThe user is experiencing difficulties with printing and has requested help. They mentioned that someone in their department is unable to print, which indicates a possible broader issue. Additionally, the printer is printing outdated documents, and the user is asking for all documents in the print queue to be canceled. This situation requires immediate attention to resolve the printing problems effectively.",
+  "short_description": "Unable to print and need assistance with print queue issues.",
+  "description": "The user is experiencing difficulties with printing and has requested help. They mentioned that someone in their department is unable to print, which indicates a possible broader issue. Additionally, the printer is printing outdated documents, and the user is asking for all documents in the print queue to be canceled. This situation requires immediate attention to resolve the printing problems effectively."
+}

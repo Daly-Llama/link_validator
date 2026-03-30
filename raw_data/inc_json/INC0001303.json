@@ -1,0 +1,20 @@
+{
+  "number": "INC0001303",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00578",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Deleted meeting request persists in Outlook 2016 on macOS.\n\nfull_description_text: The user reported that a meeting request continues to appear in their Outlook 2016 application, despite having been deleted. This issue was discussed during a live phone call, where the analyst noted that the user expected the deletion to remove the request entirely from their calendar. The persistence of the meeting request is causing confusion and may impact their scheduling. The user is operating on a macOS environment, which could be relevant to the issue at hand.",
+  "short_description": "Deleted meeting request persists in Outlook 2016 on macOS.",
+  "description": "The user reported that a meeting request continues to appear in their Outlook 2016 application, despite having been deleted. This issue was discussed during a live phone call, where the analyst noted that the user expected the deletion to remove the request entirely from their calendar. The persistence of the meeting request is causing confusion and may impact their scheduling. The user is operating on a macOS environment, which could be relevant to the issue at hand."
+}

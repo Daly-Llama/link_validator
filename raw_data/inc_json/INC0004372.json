@@ -1,0 +1,20 @@
+{
+  "number": "INC0004372",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB08894",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to add D2L Law School calendar to Outlook due to authorization error.\n\nfull_description_text:\n- The user is attempting to add the Law School information calendar from D2L to Outlook.  \n- They are encountering a persistent sign-in prompt for their D2L calendar, which is not functioning.  \n- An error message states: \"Not authorized You are not authorized to view the page you are trying to reach.\"  \n- This issue is preventing access to the necessary calendar information.",
+  "short_description": "Unable to add D2L Law School calendar to Outlook due to authorization error.",
+  "description": "- The user is attempting to add the Law School information calendar from D2L to Outlook.  \n- They are encountering a persistent sign-in prompt for their D2L calendar, which is not functioning.  \n- An error message states: \"Not authorized You are not authorized to view the page you are trying to reach.\"  \n- This issue is preventing access to the necessary calendar information."
+}

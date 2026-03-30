@@ -1,0 +1,20 @@
+{
+  "number": "INC0002284",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03389",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to update name on credit card receipt.\n\nfull_description_text: The user is trying to change the name on their credit card receipt. This issue arose while using the Verifone VX520 credit card reader. There seems to be a problem with the system that prevents the update from being processed correctly.",
+  "short_description": "Unable to update name on credit card receipt.",
+  "description": "The user is trying to change the name on their credit card receipt. This issue arose while using the Verifone VX520 credit card reader. There seems to be a problem with the system that prevents the update from being processed correctly."
+}

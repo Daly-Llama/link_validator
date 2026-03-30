@@ -1,0 +1,20 @@
+{
+  "number": "INC0003438",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB07019",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about software included in Adobe Creative Cloud License\n\nfull_description_text:  \nEl técnico necesita saber qué software viene con la licencia de Adobe Creative Cloud.  \nEstán un poco confundidos sobre los programas específicos incluidos.  \nEsto es importante para su trabajo y para ayudar a los clientes.",
+  "short_description": "Inquiry about software included in Adobe Creative Cloud License",
+  "description": "El técnico necesita saber qué software viene con la licencia de Adobe Creative Cloud.  \nEstán un poco confundidos sobre los programas específicos incluidos.  \nEsto es importante para su trabajo y para ayudar a los clientes."
+}

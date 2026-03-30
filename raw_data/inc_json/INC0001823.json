@@ -1,0 +1,20 @@
+{
+  "number": "INC0001823",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01999",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to write with pen on Sharp monitor in smart classroom\n\nfull_description_text:  \n- The user reported that they are unable to write with the pen on the Sharp monitor in the smart classroom.  \n- They mentioned that the SMART pen does not write where they intend it to, causing frustration during their session.  \n- This issue is impacting their ability to effectively use the technology for teaching purposes.  \n- The problem persists despite attempts to use the pen on the monitor, leading to concerns about the functionality of the equipment.",
+  "short_description": "Unable to write with pen on Sharp monitor in smart classroom",
+  "description": "- The user reported that they are unable to write with the pen on the Sharp monitor in the smart classroom.  \n- They mentioned that the SMART pen does not write where they intend it to, causing frustration during their session.  \n- This issue is impacting their ability to effectively use the technology for teaching purposes.  \n- The problem persists despite attempts to use the pen on the monitor, leading to concerns about the functionality of the equipment."
+}

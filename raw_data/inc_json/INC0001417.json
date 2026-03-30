@@ -1,0 +1,20 @@
+{
+  "number": "INC0001417",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB00808",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to find NOPEAMA report in E-Print repository.\n\nfull_description_text:  \nI'm having a hard time finding the NOPEAMA report in the E-Print central repository. It should be available to me, but it's just not showing up in my list of reports. I also checked the UADMIN repository, and there are no reports there either. It's really frustrating not being able to access the information I need!",
+  "short_description": "Unable to find NOPEAMA report in E-Print repository.",
+  "description": "I'm having a hard time finding the NOPEAMA report in the E-Print central repository. It should be available to me, but it's just not showing up in my list of reports. I also checked the UADMIN repository, and there are no reports there either. It's really frustrating not being able to access the information I need!"
+}

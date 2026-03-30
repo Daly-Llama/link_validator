@@ -1,0 +1,20 @@
+{
+  "number": "INC0003156",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB05955",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty re-assigning a ticket in TeamDynamix.\n\nfull_description_text:  \nA help desk analyst created a ticket during a call. Now, they need to re-assign it. They are unsure how to do this in TeamDynamix. The process is not clear to them.",
+  "short_description": "Difficulty re-assigning a ticket in TeamDynamix.",
+  "description": "A help desk analyst created a ticket during a call. Now, they need to re-assign it. They are unsure how to do this in TeamDynamix. The process is not clear to them."
+}

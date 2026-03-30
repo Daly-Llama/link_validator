@@ -1,0 +1,20 @@
+{
+  "number": "INC0004196",
+  "category": "Creating a Visual Class Roster",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB08518",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the definition of a Visual Class Roster\n\nfull_description_text:\n- The user is seeking clarification on what constitutes a Visual Class Roster or photo roster.  \n- They may be looking to understand its purpose and how it is utilized in an educational context.  \n- This inquiry suggests that the user is interested in visual aids for class management or student identification.  \n- No specific details about their current environment or usage scenario were provided.",
+  "short_description": "Inquiry about the definition of a Visual Class Roster",
+  "description": "- The user is seeking clarification on what constitutes a Visual Class Roster or photo roster.  \n- They may be looking to understand its purpose and how it is utilized in an educational context.  \n- This inquiry suggests that the user is interested in visual aids for class management or student identification.  \n- No specific details about their current environment or usage scenario were provided."
+}

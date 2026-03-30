@@ -1,0 +1,20 @@
+{
+  "number": "INC0002506",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB04000",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues updating contact information in the Campus Alert System\n\nfull_description_text:  \nThe user is trying to update their contact information within the Campus Alert System. They are concerned about ensuring that their details are correct. There seems to be confusion regarding the process for making these updates. The user needs assistance to confirm that their information is accurately reflected in the system.",
+  "short_description": "Issues updating contact information in the Campus Alert System",
+  "description": "The user is trying to update their contact information within the Campus Alert System. They are concerned about ensuring that their details are correct. There seems to be confusion regarding the process for making these updates. The user needs assistance to confirm that their information is accurately reflected in the system."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004691",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09764",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with scanning to multiple emails and USB on Sharpe copier.\n\nfull_description_text:  \nSo, I was on the phone with a user who was trying to figure out how to scan documents to more than one email at the same time, you know? They also mentioned something about wanting to scan to a USB drive, but they seemed a bit confused about how that works too. It was like they were just trying to get their documents sent out quickly, but the copier wasn’t cooperating, and they were getting a little frustrated. I think they really just wanted to make it all easier, but it sounded like they were stuck!",
+  "short_description": "Issues with scanning to multiple emails and USB on Sharpe copier.",
+  "description": "So, I was on the phone with a user who was trying to figure out how to scan documents to more than one email at the same time, you know? They also mentioned something about wanting to scan to a USB drive, but they seemed a bit confused about how that works too. It was like they were just trying to get their documents sent out quickly, but the copier wasn’t cooperating, and they were getting a little frustrated. I think they really just wanted to make it all easier, but it sounded like they were stuck!"
+}

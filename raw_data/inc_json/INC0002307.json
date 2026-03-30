@@ -1,0 +1,20 @@
+{
+  "number": "INC0002307",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03498",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Chrome keeps crashing when I try to visit any website.\n\nfull_description_text: So, like, every time I open a website on Chrome, it just crashes. I don’t know why it keeps doing this, but it happens all the time. It’s super annoying because I can’t really do anything online. I just want to browse without it crashing all the time!",
+  "short_description": "Chrome keeps crashing when I try to visit any website.",
+  "description": "So, like, every time I open a website on Chrome, it just crashes. I don’t know why it keeps doing this, but it happens all the time. It’s super annoying because I can’t really do anything online. I just want to browse without it crashing all the time!"
+}

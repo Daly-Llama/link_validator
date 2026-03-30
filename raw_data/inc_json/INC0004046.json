@@ -1,0 +1,20 @@
+{
+  "number": "INC0004046",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08274",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to select page margins in Word.\n\nfull_description_text:\n- The user was trying to adjust page margins in Word during a call.  \n- They expressed confusion about how to make the changes effectively.  \n- The issue seems to stem from a lack of clarity in the margin settings.  \n- This has caused frustration as they need the correct margins for their document.",
+  "short_description": "Unable to select page margins in Word.",
+  "description": "- The user was trying to adjust page margins in Word during a call.  \n- They expressed confusion about how to make the changes effectively.  \n- The issue seems to stem from a lack of clarity in the margin settings.  \n- This has caused frustration as they need the correct margins for their document."
+}

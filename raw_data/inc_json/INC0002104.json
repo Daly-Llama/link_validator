@@ -1,0 +1,20 @@
+{
+  "number": "INC0002104",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02843",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: D2L notifications for discussion board posts are not appearing.\n\nfull_description_text: \nSo, the user was trying to check their D2L course notifications, but they noticed that the alerts for when other students post on the discussion boards just aren't showing up. They were using either Apple Safari or Google Chrome, but it seems like no matter what, those notifications are missing. It's a bit confusing because they rely on those updates to keep up with class discussions.",
+  "short_description": "D2L notifications for discussion board posts are not appearing.",
+  "description": "So, the user was trying to check their D2L course notifications, but they noticed that the alerts for when other students post on the discussion boards just aren't showing up. They were using either Apple Safari or Google Chrome, but it seems like no matter what, those notifications are missing. It's a bit confusing because they rely on those updates to keep up with class discussions."
+}

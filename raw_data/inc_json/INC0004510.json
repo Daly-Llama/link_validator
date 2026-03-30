@@ -1,0 +1,20 @@
+{
+  "number": "INC0004510",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09224",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about applying for medical and disability housing exemptions\n\nfull_description_text: \nThe user is seeking information on how to apply for exemptions related to medical, psychological, or disability housing. They are also curious about the specific requirements needed for these exemptions and the likelihood of being granted such requests. During the call, the user expressed uncertainty about the process and mentioned feeling overwhelmed by the documentation involved. They are looking for clear guidance on these matters to proceed effectively.",
+  "short_description": "Inquiry about applying for medical and disability housing exemptions",
+  "description": "The user is seeking information on how to apply for exemptions related to medical, psychological, or disability housing. They are also curious about the specific requirements needed for these exemptions and the likelihood of being granted such requests. During the call, the user expressed uncertainty about the process and mentioned feeling overwhelmed by the documentation involved. They are looking for clear guidance on these matters to proceed effectively."
+}

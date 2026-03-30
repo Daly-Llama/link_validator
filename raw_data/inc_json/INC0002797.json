@@ -1,0 +1,20 @@
+{
+  "number": "INC0002797",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04888",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about eligibility criteria for study away programs.\n\nfull_description_text:  \nThe user is seeking clarification on who is eligible to participate in study away programs. They are particularly interested in understanding the specific criteria that must be met for students wishing to engage in research or internships away from the Gallagher Center. This inquiry suggests a need for detailed information regarding the requirements and processes involved in the study away application.",
+  "short_description": "Inquiry about eligibility criteria for study away programs.",
+  "description": "The user is seeking clarification on who is eligible to participate in study away programs. They are particularly interested in understanding the specific criteria that must be met for students wishing to engage in research or internships away from the Gallagher Center. This inquiry suggests a need for detailed information regarding the requirements and processes involved in the study away application."
+}

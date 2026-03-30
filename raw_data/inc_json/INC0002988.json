@@ -1,0 +1,20 @@
+{
+  "number": "INC0002988",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05468",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about setting up a personal router on USD's network.\n\nfull_description_text:  \nThe user is seeking assistance with configuring a personal router on the USD network. They expressed a desire to connect their device but are unsure of the necessary steps or requirements. This inquiry was made during a live phone call with a help desk analyst.",
+  "short_description": "Inquiry about setting up a personal router on USD's network.",
+  "description": "The user is seeking assistance with configuring a personal router on the USD network. They expressed a desire to connect their device but are unsure of the necessary steps or requirements. This inquiry was made during a live phone call with a help desk analyst."
+}

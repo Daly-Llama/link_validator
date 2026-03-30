@@ -1,0 +1,20 @@
+{
+  "number": "INC0003952",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08105",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty recording a meeting in Microsoft Teams.\n\nfull_description_text: The user is experiencing an issue with recording a meeting in Microsoft Teams. They are unsure of the steps required to successfully initiate the recording feature during a meeting. This problem is affecting their ability to capture important discussions and decisions made during the meeting.",
+  "short_description": "Difficulty recording a meeting in Microsoft Teams.",
+  "description": "The user is experiencing an issue with recording a meeting in Microsoft Teams. They are unsure of the steps required to successfully initiate the recording feature during a meeting. This problem is affecting their ability to capture important discussions and decisions made during the meeting."
+}

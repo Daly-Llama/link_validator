@@ -1,0 +1,20 @@
+{
+  "number": "INC0001766",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01820",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Tapingo machine not connecting to Grubhub printer\n\nfull_description_text:\n- The Tapingo printer is not connecting.  \n- The Grubhub printer also does not work.  \n- I am not sure what to do next.",
+  "short_description": "Tapingo machine not connecting to Grubhub printer",
+  "description": "- The Tapingo printer is not connecting.  \n- The Grubhub printer also does not work.  \n- I am not sure what to do next."
+}

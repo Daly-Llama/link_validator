@@ -1,0 +1,20 @@
+{
+  "number": "INC0002896",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05231",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Email warning about sender identity in Outlook.\n\nfull_description_text: \nThe user is getting a warning in their email that says something about the sender. It looks like mary@example.com is similar to someone they know, but it might not be that person. They were just checking their inbox when this popped up. It's kinda confusing and they want to know why it happened.",
+  "short_description": "Email warning about sender identity in Outlook.",
+  "description": "The user is getting a warning in their email that says something about the sender. It looks like mary@example.com is similar to someone they know, but it might not be that person. They were just checking their inbox when this popped up. It's kinda confusing and they want to know why it happened."
+}

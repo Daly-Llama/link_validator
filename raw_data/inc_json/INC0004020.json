@@ -1,0 +1,20 @@
+{
+  "number": "INC0004020",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08242",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Students unable to view each other's videos in Panopto.\n\nfull_description_text: \nThe user is trying to enable a feature in Panopto that allows students to see videos created by their peers, but they are encountering issues. Despite following the necessary steps, it seems that the settings are not configured correctly, preventing visibility of these videos. This situation is causing frustration as students are missing out on valuable content shared by their classmates, which is essential for collaborative learning. It's important to address this issue promptly to enhance the learning experience for everyone involved.",
+  "short_description": "Students unable to view each other's videos in Panopto.",
+  "description": "The user is trying to enable a feature in Panopto that allows students to see videos created by their peers, but they are encountering issues. Despite following the necessary steps, it seems that the settings are not configured correctly, preventing visibility of these videos. This situation is causing frustration as students are missing out on valuable content shared by their classmates, which is essential for collaborative learning. It's important to address this issue promptly to enhance the learning experience for everyone involved."
+}

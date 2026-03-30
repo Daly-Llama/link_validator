@@ -1,0 +1,20 @@
+{
+  "number": "INC0002634",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB04455",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need assistance with FTP software for file transfer to RIS.\n\nfull_description_text:\n- The user is attempting to transfer a file to the RIS system via FTP.  \n- They are currently utilizing Secure File Transfer Software within the USD Network environment.  \n- However, they are uncertain about which specific software is required for this process, leading to confusion and a delay in their task.  \n- Clarification on the appropriate FTP software is needed to proceed with the file transfer efficiently.",
+  "short_description": "Need assistance with FTP software for file transfer to RIS.",
+  "description": "- The user is attempting to transfer a file to the RIS system via FTP.  \n- They are currently utilizing Secure File Transfer Software within the USD Network environment.  \n- However, they are uncertain about which specific software is required for this process, leading to confusion and a delay in their task.  \n- Clarification on the appropriate FTP software is needed to proceed with the file transfer efficiently."
+}

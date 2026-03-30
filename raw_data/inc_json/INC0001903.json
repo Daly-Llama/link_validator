@@ -1,0 +1,20 @@
+{
+  "number": "INC0001903",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02232",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Text appears pixelated after installing ZoomText 10.\n\nfull_description_text:  \nI have installed ZoomText 10 on my workstation for work purposes. After the installation, the text displayed on the screen looks pixelated. This issue is affecting my ability to read and work efficiently. The pixelation of the text is noticeable and problematic.",
+  "short_description": "Text appears pixelated after installing ZoomText 10.",
+  "description": "I have installed ZoomText 10 on my workstation for work purposes. After the installation, the text displayed on the screen looks pixelated. This issue is affecting my ability to read and work efficiently. The pixelation of the text is noticeable and problematic."
+}

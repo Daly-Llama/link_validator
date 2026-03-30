@@ -1,0 +1,20 @@
+{
+  "number": "INC0004484",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB09167",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Compliance issues with Distance Education Licensure Program guidelines.\n\nfull_description_text:\n- The user is inquiring about compliance with the USD Distance Education Programs Leading to Licensure Policy.  \n- They are concerned about how this policy incorporates federal regulations governing Distance Education Programs Leading to Licensure.  \n- There seems to be confusion regarding the specific requirements and guidelines that need to be followed.  \n- The user is looking for clarification on these compliance issues to ensure adherence to the policy.",
+  "short_description": "Compliance issues with Distance Education Licensure Program guidelines.",
+  "description": "- The user is inquiring about compliance with the USD Distance Education Programs Leading to Licensure Policy.  \n- They are concerned about how this policy incorporates federal regulations governing Distance Education Programs Leading to Licensure.  \n- There seems to be confusion regarding the specific requirements and guidelines that need to be followed.  \n- The user is looking for clarification on these compliance issues to ensure adherence to the policy."
+}

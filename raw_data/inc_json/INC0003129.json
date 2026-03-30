@@ -1,0 +1,20 @@
+{
+  "number": "INC0003129",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05852",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help with Python installation on Windows.\n\nfull_description_text:  \nSo, I’m trying to get Python set up on my Windows machine. I’ve been following some guides, but it’s just not happening. I really need to install Python, you know? It’s crucial for my work, and I’m stuck here.",
+  "short_description": "Need help with Python installation on Windows.",
+  "description": "So, I’m trying to get Python set up on my Windows machine. I’ve been following some guides, but it’s just not happening. I really need to install Python, you know? It’s crucial for my work, and I’m stuck here."
+}

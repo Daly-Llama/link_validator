@@ -1,0 +1,20 @@
+{
+  "number": "INC0003334",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB06567",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view student course registrations in Banner Admin.\n\nfull_description_text: The user is trying to access course registrations for a student in Banner Admin for the current term. They are experiencing difficulty in finding this information. The issue seems to be related to navigating the system effectively to locate the desired student records.",
+  "short_description": "Unable to view student course registrations in Banner Admin.",
+  "description": "The user is trying to access course registrations for a student in Banner Admin for the current term. They are experiencing difficulty in finding this information. The issue seems to be related to navigating the system effectively to locate the desired student records."
+}

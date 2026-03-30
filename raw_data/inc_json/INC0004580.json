@@ -1,0 +1,20 @@
+{
+  "number": "INC0004580",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB09398",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: USB ports in Dental Hygiene workstation are not functioning.\n\nfull_description_text:  \nThe USB ports mounted in the Dental Hygiene workstation have stopped working. This issue arose while trying to connect essential devices for patient care. The technician noticed that no power was being supplied to the ports, which is quite unusual. It's important to address this promptly to ensure smooth operations in the clinic.",
+  "short_description": "USB ports in Dental Hygiene workstation are not functioning.",
+  "description": "The USB ports mounted in the Dental Hygiene workstation have stopped working. This issue arose while trying to connect essential devices for patient care. The technician noticed that no power was being supplied to the ports, which is quite unusual. It's important to address this promptly to ensure smooth operations in the clinic."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004228",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08582",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the evacuation and severe weather plan for Arts and Sciences.\n\nfull_description_text: So, during a call, someone was asking about what to do in case of an emergency, specifically regarding the evacuation plan for their building. They were really curious about how the Arts and Sciences department handles severe weather situations, you know, like storms or anything that might require people to leave quickly. It seemed like they wanted to make sure they knew the right steps to take, just in case something unexpected happened. It’s always good to be prepared, right?",
+  "short_description": "Inquiry about the evacuation and severe weather plan for Arts and Sciences.",
+  "description": "So, during a call, someone was asking about what to do in case of an emergency, specifically regarding the evacuation plan for their building. They were really curious about how the Arts and Sciences department handles severe weather situations, you know, like storms or anything that might require people to leave quickly. It seemed like they wanted to make sure they knew the right steps to take, just in case something unexpected happened. It’s always good to be prepared, right?"
+}

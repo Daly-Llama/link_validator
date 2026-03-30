@@ -1,0 +1,20 @@
+{
+  "number": "INC0004810",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB10168",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into Webex due to authorization error.\n\nfull_description_text:\n- The user, a student worker, is experiencing difficulties accessing Webex.  \n- An error message indicates that their account is not authorized for login.  \n- The user is advised to contact their administrator for assistance with this issue.  \n- Additional information required includes their username and job title for resolution.",
+  "short_description": "Unable to log into Webex due to authorization error.",
+  "description": "- The user, a student worker, is experiencing difficulties accessing Webex.  \n- An error message indicates that their account is not authorized for login.  \n- The user is advised to contact their administrator for assistance with this issue.  \n- Additional information required includes their username and job title for resolution."
+}

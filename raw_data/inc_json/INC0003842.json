@@ -1,0 +1,20 @@
+{
+  "number": "INC0003842",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07976",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble inserting a slicer in Excel during a call.\n\nfull_description_text: So, I was on the phone with a user who was trying to figure out how to insert a slicer in Excel, right? They were a bit confused and kept asking about the steps, but it seemed like they were missing something. It was like they knew what a slicer was but just couldn't get it into their spreadsheet.",
+  "short_description": "Trouble inserting a slicer in Excel during a call.",
+  "description": "So, I was on the phone with a user who was trying to figure out how to insert a slicer in Excel, right? They were a bit confused and kept asking about the steps, but it seemed like they were missing something. It was like they knew what a slicer was but just couldn't get it into their spreadsheet."
+}

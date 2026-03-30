@@ -1,0 +1,20 @@
+{
+  "number": "INC0003472",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB07148",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Not receiving notification emails from DocuSign.\n\nfull_description_text:  \n- The user is cc'd on a DocuSign envelope but is not getting any email notifications.  \n- They mentioned that they expected to receive updates but nothing has come through.  \n- This issue is causing confusion as they are unsure if the documents are being processed.  \n- The user is looking for help to resolve this email notification problem.",
+  "short_description": "Not receiving notification emails from DocuSign.",
+  "description": "- The user is cc'd on a DocuSign envelope but is not getting any email notifications.  \n- They mentioned that they expected to receive updates but nothing has come through.  \n- This issue is causing confusion as they are unsure if the documents are being processed.  \n- The user is looking for help to resolve this email notification problem."
+}

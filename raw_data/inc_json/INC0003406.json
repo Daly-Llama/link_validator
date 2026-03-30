@@ -1,0 +1,20 @@
+{
+  "number": "INC0003406",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB06862",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble shrinking an image for a PDF file in Adobe Acrobat\n\nfull_description_text:  \nSo, I'm trying to reduce the size of an image to fit into my PDF file, but it's just not working. I’m using Adobe Acrobat, and no matter what I do, I can't seem to get the image to shrink down. It's super frustrating because I need it to fit perfectly, but it keeps coming out too big.",
+  "short_description": "Trouble shrinking an image for a PDF file in Adobe Acrobat",
+  "description": "So, I'm trying to reduce the size of an image to fit into my PDF file, but it's just not working. I’m using Adobe Acrobat, and no matter what I do, I can't seem to get the image to shrink down. It's super frustrating because I need it to fit perfectly, but it keeps coming out too big."
+}

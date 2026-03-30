@@ -1,0 +1,20 @@
+{
+  "number": "INC0001130",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB00254",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access department calendar in Outlook.\n\nfull_description_text: User reports inability to connect to the department calendar in Outlook. The access was functioning properly yesterday. New staff members require access to this public calendar. This issue may affect their ability to coordinate schedules effectively.",
+  "short_description": "Unable to access department calendar in Outlook.",
+  "description": "User reports inability to connect to the department calendar in Outlook. The access was functioning properly yesterday. New staff members require access to this public calendar. This issue may affect their ability to coordinate schedules effectively."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001239",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB00458",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access Discoverer reports in Cognos.\n\nfull_description_text:\n- User is trying to access Discoverer reports but can't find them in Cognos.  \n- The reports needed are not available, causing a disruption in workflow.  \n- This issue is impacting the user's ability to retrieve necessary data for their tasks.",
+  "short_description": "Unable to access Discoverer reports in Cognos.",
+  "description": "- User is trying to access Discoverer reports but can't find them in Cognos.  \n- The reports needed are not available, causing a disruption in workflow.  \n- This issue is impacting the user's ability to retrieve necessary data for their tasks."
+}

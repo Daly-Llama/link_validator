@@ -1,0 +1,20 @@
+{
+  "number": "INC0002919",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB05296",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty joining a Webex meeting.\n\nfull_description_text: The user is experiencing challenges when attempting to join a Webex meeting. They are unsure of the steps required to successfully connect to the meeting. This issue may be causing delays in their participation and affecting their ability to collaborate effectively with others.",
+  "short_description": "Difficulty joining a Webex meeting.",
+  "description": "The user is experiencing challenges when attempting to join a Webex meeting. They are unsure of the steps required to successfully connect to the meeting. This issue may be causing delays in their participation and affecting their ability to collaborate effectively with others."
+}

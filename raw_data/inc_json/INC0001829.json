@@ -1,0 +1,20 @@
+{
+  "number": "INC0001829",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02025",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reach Display not displaying correctly on the television screen.\n\nfull_description_text:  \nThe Reach Display is not showing properly on the television. The screen resolution is off, causing some content to be cut off. This issue is happening in the Residence Hall. It seems like everything isn't fitting on the screen as it should.",
+  "short_description": "Reach Display not displaying correctly on the television screen.",
+  "description": "The Reach Display is not showing properly on the television. The screen resolution is off, causing some content to be cut off. This issue is happening in the Residence Hall. It seems like everything isn't fitting on the screen as it should."
+}

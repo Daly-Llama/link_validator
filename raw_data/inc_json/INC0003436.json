@@ -1,0 +1,20 @@
+{
+  "number": "INC0003436",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07004",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need to place a hold on a mailbox for litigation.\n\nfull_description_text:  \nSo, there's this situation where someone needs to put a hold on a mailbox because of some legal stuff going on. They want to make sure that nothing gets deleted or changed while the litigation is happening. It's all about keeping things safe and secure during this process, you know? Just trying to get that hold sorted out in Microsoft 365 Compliance.",
+  "short_description": "Need to place a hold on a mailbox for litigation.",
+  "description": "So, there's this situation where someone needs to put a hold on a mailbox because of some legal stuff going on. They want to make sure that nothing gets deleted or changed while the litigation is happening. It's all about keeping things safe and secure during this process, you know? Just trying to get that hold sorted out in Microsoft 365 Compliance."
+}

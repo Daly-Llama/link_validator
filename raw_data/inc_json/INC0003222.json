@@ -1,0 +1,20 @@
+{
+  "number": "INC0003222",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06161",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for University of South Dakota PowerPoint templates\n\nfull_description_text: So, the user was asking about PowerPoint templates, right? They specifically wanted to know if there are any templates from the University of South Dakota. It seems like they were looking for something from Marketing, but it’s not clear if they found anything. They just really need those templates for their presentation, I think.",
+  "short_description": "Request for University of South Dakota PowerPoint templates",
+  "description": "So, the user was asking about PowerPoint templates, right? They specifically wanted to know if there are any templates from the University of South Dakota. It seems like they were looking for something from Marketing, but it’s not clear if they found anything. They just really need those templates for their presentation, I think."
+}

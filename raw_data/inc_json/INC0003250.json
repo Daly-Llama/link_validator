@@ -1,0 +1,20 @@
+{
+  "number": "INC0003250",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB06249",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error running query on ZZ_PAYROLL_DISTRIB_NOPREDICATE table.\n\nfull_description_text: I tried to run a query on Banner ODS. But it gave me an error. It says something like \"table or view does not exist.\" I don’t know what that means. I just want to get my data.",
+  "short_description": "Error running query on ZZ_PAYROLL_DISTRIB_NOPREDICATE table.",
+  "description": "I tried to run a query on Banner ODS. But it gave me an error. It says something like \"table or view does not exist.\" I don’t know what that means. I just want to get my data."
+}

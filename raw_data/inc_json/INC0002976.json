@@ -1,0 +1,20 @@
+{
+  "number": "INC0002976",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB05437",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Webcam in Smart classroom is not functioning properly.\n\nfull_description_text: During a live phone call, the user reported that the webcam in the Smart classroom is not operational. They mentioned that they are unable to see any video or hear audio, which is critical for their needs. Additionally, the webcam has a blinking green light on the front, indicating some form of activity, yet it is not providing the expected output. This issue is affecting the classroom environment, which is designed for interactive learning and presentations.",
+  "short_description": "Webcam in Smart classroom is not functioning properly.",
+  "description": "During a live phone call, the user reported that the webcam in the Smart classroom is not operational. They mentioned that they are unable to see any video or hear audio, which is critical for their needs. Additionally, the webcam has a blinking green light on the front, indicating some form of activity, yet it is not providing the expected output. This issue is affecting the classroom environment, which is designed for interactive learning and presentations."
+}

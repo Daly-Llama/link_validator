@@ -1,0 +1,20 @@
+{
+  "number": "INC0004606",
+  "category": "Purchasing",
+  "subcategory": "Purchasing",
+  "correct_kb": "KB09475",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need application for state procurement card request.\n\nfull_description_text: The user is looking for the application to get a state procurement card. They are unsure where to find this document. It seems they need it for some kind of official process. The request was made during a phone call, and the user might be a bit confused about the steps involved.",
+  "short_description": "Need application for state procurement card request.",
+  "description": "The user is looking for the application to get a state procurement card. They are unsure where to find this document. It seems they need it for some kind of official process. The request was made during a phone call, and the user might be a bit confused about the steps involved."
+}

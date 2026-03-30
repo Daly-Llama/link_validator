@@ -1,0 +1,20 @@
+{
+  "number": "INC0004301",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08723",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Supervisor needs to fix errors in an employee's timesheet.\n\nfull_description_text:  \nSo, like, I was trying to get my timesheet all sorted out, right? But then I realized there were some errors, and I thought, \"How does a supervisor or superuser even go about correcting this?\" It’s kinda confusing because you think it should be easy, but it’s not, and I just need to know what steps they need to take to fix those mistakes. I mean, it’s all about getting those hours right, you know?",
+  "short_description": "Supervisor needs to fix errors in an employee's timesheet.",
+  "description": "So, like, I was trying to get my timesheet all sorted out, right? But then I realized there were some errors, and I thought, \"How does a supervisor or superuser even go about correcting this?\" It’s kinda confusing because you think it should be easy, but it’s not, and I just need to know what steps they need to take to fix those mistakes. I mean, it’s all about getting those hours right, you know?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001702",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01646",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Files created in color aren't printing in color.\n\nfull_description_text: So, I was trying to print some files that I made in color, right? But they just came out black and white, even though the printer settings say it's set to color. It's an HP Color Laserjet on Windows, but it’s not working like it should. Super frustrating!",
+  "short_description": "Files created in color aren't printing in color.",
+  "description": "So, I was trying to print some files that I made in color, right? But they just came out black and white, even though the printer settings say it's set to color. It's an HP Color Laserjet on Windows, but it’s not working like it should. Super frustrating!"
+}

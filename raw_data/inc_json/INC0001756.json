@@ -1,0 +1,20 @@
+{
+  "number": "INC0001756",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB01800",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Wireless microphone not functioning in smart classroom during Zoom session.\n\nfull_description_text: \nThe wireless microphone is not working in the classroom, causing issues for the students. There is feedback noise, and the students can't hear anything during the Zoom call. The microphone seems to be broken, and this is affecting the overall learning experience.",
+  "short_description": "Wireless microphone not functioning in smart classroom during Zoom session.",
+  "description": "The wireless microphone is not working in the classroom, causing issues for the students. There is feedback noise, and the students can't hear anything during the Zoom call. The microphone seems to be broken, and this is affecting the overall learning experience."
+}

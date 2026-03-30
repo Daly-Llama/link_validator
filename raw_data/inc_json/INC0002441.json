@@ -1,0 +1,20 @@
+{
+  "number": "INC0002441",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03842",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to configure computers as kiosks without auto-locking.\n\nfull_description_text: \nThe user is requesting assistance with setting up computers to function as kiosks. They specifically want these computers to remain active and not lock after a short period of inactivity. This is important for their intended use, as they need the kiosks to be readily available for users without interruptions. The request is made in the context of a Windows 10 environment, and the user has expressed a desire for clarity on this setup process.",
+  "short_description": "Request to configure computers as kiosks without auto-locking.",
+  "description": "The user is requesting assistance with setting up computers to function as kiosks. They specifically want these computers to remain active and not lock after a short period of inactivity. This is important for their intended use, as they need the kiosks to be readily available for users without interruptions. The request is made in the context of a Windows 10 environment, and the user has expressed a desire for clarity on this setup process."
+}

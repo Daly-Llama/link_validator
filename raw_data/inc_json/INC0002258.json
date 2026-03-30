@@ -1,0 +1,20 @@
+{
+  "number": "INC0002258",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03322",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Outlook Address book not reflecting updated position title\n\nfull_description_text:\n- The user is inquiring about the timeline for their position title update in the Outlook Address book.  \n- Currently, their title still appears as a student, which is incorrect and causing confusion.  \n- They received a mailing from the Theatre department that included an outdated department name due to this issue.  \n- The user originally started in a different department, but their old profile information is still being displayed.",
+  "short_description": "Outlook Address book not reflecting updated position title",
+  "description": "- The user is inquiring about the timeline for their position title update in the Outlook Address book.  \n- Currently, their title still appears as a student, which is incorrect and causing confusion.  \n- They received a mailing from the Theatre department that included an outdated department name due to this issue.  \n- The user originally started in a different department, but their old profile information is still being displayed."
+}

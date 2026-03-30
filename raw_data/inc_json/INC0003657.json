@@ -1,0 +1,20 @@
+{
+  "number": "INC0003657",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07776",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new file in Google Drive.\n\nfull_description_text:  \n- User is trying to create a new file on Google Drive.  \n- They are unsure of the steps to do this.  \n- The issue seems to be with the process, not the platform itself.  \n- Need guidance on how to proceed with file creation.",
+  "short_description": "Difficulty creating a new file in Google Drive.",
+  "description": "- User is trying to create a new file on Google Drive.  \n- They are unsure of the steps to do this.  \n- The issue seems to be with the process, not the platform itself.  \n- Need guidance on how to proceed with file creation."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004068",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08302",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help enhancing pictures in Word documents.\n\nfull_description_text: So, I was trying to make some images in my Word doc look better, you know, like adding some brightness or contrast. But I can't figure out how to enhance them properly. I thought there'd be an easy way to do it, but I'm just stuck. Any tips on how to make my pictures pop?",
+  "short_description": "Need help enhancing pictures in Word documents.",
+  "description": "So, I was trying to make some images in my Word doc look better, you know, like adding some brightness or contrast. But I can't figure out how to enhance them properly. I thought there'd be an easy way to do it, but I'm just stuck. Any tips on how to make my pictures pop?"
+}

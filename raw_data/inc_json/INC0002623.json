@@ -1,0 +1,20 @@
+{
+  "number": "INC0002623",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB04409",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to remove unregistered students from D2L course section.\n\nfull_description_text: So, during the call, the user mentioned that there are students listed in their D2L course who aren't actually registered in Banner. They were a bit confused about how to go about removing these students from the course. It seems like this is causing some issues with course management, and they just want to clean up the roster.",
+  "short_description": "Need to remove unregistered students from D2L course section.",
+  "description": "So, during the call, the user mentioned that there are students listed in their D2L course who aren't actually registered in Banner. They were a bit confused about how to go about removing these students from the course. It seems like this is causing some issues with course management, and they just want to clean up the roster."
+}

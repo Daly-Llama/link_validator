@@ -1,0 +1,20 @@
+{
+  "number": "INC0002114",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB02872",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Login issues for students and faculty on the online bookstore.\n\nfull_description_text:\n- Students are trying to order books but they get an error when logging in.  \n- Faculty members also want to adopt books for their courses but face the same problem.  \n- The error says their course registration info is not available yet, which can take some time.  \n- Some people might not be registered, so they can't see their courses in the bookstore.",
+  "short_description": "Login issues for students and faculty on the online bookstore.",
+  "description": "- Students are trying to order books but they get an error when logging in.  \n- Faculty members also want to adopt books for their courses but face the same problem.  \n- The error says their course registration info is not available yet, which can take some time.  \n- Some people might not be registered, so they can't see their courses in the bookstore."
+}

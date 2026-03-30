@@ -1,0 +1,20 @@
+{
+  "number": "INC0002428",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB03807",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to activate Office Pro Plus on Mac due to account restrictions.\n\nfull_description_text: \nThe user was trying to activate Office Pro Plus on their Mac but encountered an error message. It stated that their account doesn't allow editing on a Mac, which was confusing for them. They were advised to contact their Admin for more information about their office plan.",
+  "short_description": "Unable to activate Office Pro Plus on Mac due to account restrictions.",
+  "description": "The user was trying to activate Office Pro Plus on their Mac but encountered an error message. It stated that their account doesn't allow editing on a Mac, which was confusing for them. They were advised to contact their Admin for more information about their office plan."
+}

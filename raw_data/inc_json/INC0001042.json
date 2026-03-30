@@ -1,0 +1,20 @@
+{
+  "number": "INC0001042",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00066",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues connecting printer to wireless network in dorms\n\nfull_description_text:  \nSo, I was trying to get my printer to work in the dorms, right? But I can't figure out how to connect it to the wireless network. It's super frustrating because I thought it would be easy, but now I'm not even sure if I should've brought a printer to school at all.",
+  "short_description": "Issues connecting printer to wireless network in dorms",
+  "description": "So, I was trying to get my printer to work in the dorms, right? But I can't figure out how to connect it to the wireless network. It's super frustrating because I thought it would be easy, but now I'm not even sure if I should've brought a printer to school at all."
+}

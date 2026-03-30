@@ -1,0 +1,20 @@
+{
+  "number": "INC0002062",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02718",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unwanted D2L notifications received after graduation\n\nfull_description_text:\n- The user has reported receiving text notifications from D2L despite having graduated years ago.  \n- They express a desire to stop these notifications from appearing on their phone.  \n- This situation indicates a potential issue with the notification settings linked to their account.  \n- The user is seeking assistance to resolve this matter promptly.",
+  "short_description": "Unwanted D2L notifications received after graduation",
+  "description": "- The user has reported receiving text notifications from D2L despite having graduated years ago.  \n- They express a desire to stop these notifications from appearing on their phone.  \n- This situation indicates a potential issue with the notification settings linked to their account.  \n- The user is seeking assistance to resolve this matter promptly."
+}

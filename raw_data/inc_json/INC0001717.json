@@ -1,0 +1,20 @@
+{
+  "number": "INC0001717",
+  "category": "Technology",
+  "subcategory": "Digital Learning Resources",
+  "correct_kb": "KB01683",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Can't access the course mapping request form link.\n\nfull_description_text:  \nSo, I was trying to submit a course mapping request, but the link just isn't working. It keeps saying the server can't be found, and I got some weird error messages like \"this site can't be reached.\" I even tried running some network diagnostics, but nothing seems to help.",
+  "short_description": "Can't access the course mapping request form link.",
+  "description": "So, I was trying to submit a course mapping request, but the link just isn't working. It keeps saying the server can't be found, and I got some weird error messages like \"this site can't be reached.\" I even tried running some network diagnostics, but nothing seems to help."
+}

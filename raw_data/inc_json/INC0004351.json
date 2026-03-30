@@ -1,0 +1,20 @@
+{
+  "number": "INC0004351",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08801",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need custom profile for Coyote Card event reader in iValidate\n\nfull_description_text:  \nThe user is requesting a custom profile to be created for the Coyote Card event readers. They specifically want to have custom events added to the existing setup in iValidate. This request was submitted through the self-service form, indicating a need for tailored functionality to better suit their requirements. There might be some confusion about the exact specifications needed for the events, but the user is clear about wanting something unique.",
+  "short_description": "Need custom profile for Coyote Card event reader in iValidate",
+  "description": "The user is requesting a custom profile to be created for the Coyote Card event readers. They specifically want to have custom events added to the existing setup in iValidate. This request was submitted through the self-service form, indicating a need for tailored functionality to better suit their requirements. There might be some confusion about the exact specifications needed for the events, but the user is clear about wanting something unique."
+}

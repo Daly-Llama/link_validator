@@ -1,0 +1,20 @@
+{
+  "number": "INC0004626",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB09527",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: eSports lab computers unable to install Nvidia drivers correctly\n\nfull_description_text: \nDuring a call, the user reported that Nvidia was not appearing as a display adapter, with only Microsoft listed. They attempted to install the Nvidia drivers, but the installation process failed repeatedly. This issue is affecting the eSports lab computers, which are crucial for their operations. The user expressed frustration as they need the proper drivers for optimal performance.",
+  "short_description": "eSports lab computers unable to install Nvidia drivers correctly",
+  "description": "During a call, the user reported that Nvidia was not appearing as a display adapter, with only Microsoft listed. They attempted to install the Nvidia drivers, but the installation process failed repeatedly. This issue is affecting the eSports lab computers, which are crucial for their operations. The user expressed frustration as they need the proper drivers for optimal performance."
+}

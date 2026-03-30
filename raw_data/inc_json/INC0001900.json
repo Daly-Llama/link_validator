@@ -1,0 +1,20 @@
+{
+  "number": "INC0001900",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02214",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Audio Jack Error: Repeated Plugged/Unplugged Notifications\n\nfull_description_text:  \nUser reports audio jack issue.  \nComputer indicates audio jack is unplugged, then plugged back in repeatedly.  \nThis occurs during normal operation.  \nNo additional context provided.",
+  "short_description": "Audio Jack Error: Repeated Plugged/Unplugged Notifications",
+  "description": "User reports audio jack issue.  \nComputer indicates audio jack is unplugged, then plugged back in repeatedly.  \nThis occurs during normal operation.  \nNo additional context provided."
+}

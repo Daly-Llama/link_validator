@@ -1,0 +1,20 @@
+{
+  "number": "INC0004809",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB10166",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help sharing a Panopto video with the public.\n\nfull_description_text:  \nI was trying to make a video on Panopto available for everyone to see. But I don’t know how to share it publicly. It seems a bit complicated, and I want to make sure it’s done right. Can you help me with this?",
+  "short_description": "Need help sharing a Panopto video with the public.",
+  "description": "I was trying to make a video on Panopto available for everyone to see. But I don’t know how to share it publicly. It seems a bit complicated, and I want to make sure it’s done right. Can you help me with this?"
+}

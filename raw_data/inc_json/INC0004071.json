@@ -1,0 +1,20 @@
+{
+  "number": "INC0004071",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08305",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: User needs clarification on what Mail Merge is.\n\nfull_description_text:\n- The user is trying to understand the concept of Mail Merge.  \n- They are looking for a simple explanation of how it works.  \n- This inquiry may be related to their tasks involving document preparation.  \n- The user may not be familiar with technical terms in English.",
+  "short_description": "User needs clarification on what Mail Merge is.",
+  "description": "- The user is trying to understand the concept of Mail Merge.  \n- They are looking for a simple explanation of how it works.  \n- This inquiry may be related to their tasks involving document preparation.  \n- The user may not be familiar with technical terms in English."
+}

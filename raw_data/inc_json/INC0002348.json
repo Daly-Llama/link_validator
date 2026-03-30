@@ -1,0 +1,20 @@
+{
+  "number": "INC0002348",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03585",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion regarding transfer equivalency report for credits.\n\nfull_description_text: \nDuring a phone call, the student expressed confusion about their transfer equivalency report. They were trying to understand how their previous credits would apply to their current program but found the information unclear. The student mentioned that they are not sure what some of the terms mean and need assistance in interpreting the report correctly.",
+  "short_description": "Confusion regarding transfer equivalency report for credits.",
+  "description": "During a phone call, the student expressed confusion about their transfer equivalency report. They were trying to understand how their previous credits would apply to their current program but found the information unclear. The student mentioned that they are not sure what some of the terms mean and need assistance in interpreting the report correctly."
+}

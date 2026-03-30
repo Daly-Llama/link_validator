@@ -1,0 +1,20 @@
+{
+  "number": "INC0003496",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07243",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to remove file or folder on Lawrence using rmdir command.\n\nfull_description_text: The user attempted to remove a file or folder on the Lawrence HPC environment but encountered an error message. Specifically, using the rmdir command on a folder was unsuccessful, leading to confusion. This issue may be related to permissions or the state of the file system, but further investigation is needed to clarify the situation.",
+  "short_description": "Unable to remove file or folder on Lawrence using rmdir command.",
+  "description": "The user attempted to remove a file or folder on the Lawrence HPC environment but encountered an error message. Specifically, using the rmdir command on a folder was unsuccessful, leading to confusion. This issue may be related to permissions or the state of the file system, but further investigation is needed to clarify the situation."
+}

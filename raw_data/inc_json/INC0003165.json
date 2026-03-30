@@ -1,0 +1,20 @@
+{
+  "number": "INC0003165",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05973",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: USD cell phone and WiFi hotspot not connecting to network\n\nfull_description_text:  \nMy USD cell phone is not connecting to the network anymore. I tried a different SIM card and it worked fine, so it seems like a SIM card or AT&T issue. The settings show \"Not Available\" and \"Sim not provisioned.\" Also, my hotspot is saying there is no service.",
+  "short_description": "USD cell phone and WiFi hotspot not connecting to network",
+  "description": "My USD cell phone is not connecting to the network anymore. I tried a different SIM card and it worked fine, so it seems like a SIM card or AT&T issue. The settings show \"Not Available\" and \"Sim not provisioned.\" Also, my hotspot is saying there is no service."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002126",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02910",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Alumni email no longer has access to Office 365\n\nfull_description_text:  \nThe user is trying to keep their USD email but is having trouble. They noticed that their @coyotes.usd.edu email address doesn't work with Office 365 anymore. This is really frustrating for them because they rely on that email for important stuff. They just want to know what happened and how to fix it.",
+  "short_description": "Alumni email no longer has access to Office 365",
+  "description": "The user is trying to keep their USD email but is having trouble. They noticed that their @coyotes.usd.edu email address doesn't work with Office 365 anymore. This is really frustrating for them because they rely on that email for important stuff. They just want to know what happened and how to fix it."
+}

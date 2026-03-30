@@ -1,0 +1,20 @@
+{
+  "number": "INC0001171",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB00333",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help accessing DocuSign on my computer.\n\nfull_description_text: The user is trying to figure out how to get DocuSign on their computer. They want to send documents securely but are unsure if they have access. They need to be set up with DocuSign to proceed. The user is looking for guidance on the process to gain access.",
+  "short_description": "Need help accessing DocuSign on my computer.",
+  "description": "The user is trying to figure out how to get DocuSign on their computer. They want to send documents securely but are unsure if they have access. They need to be set up with DocuSign to proceed. The user is looking for guidance on the process to gain access."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001568",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB01228",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about laptop requirements for medical school admission\n\nfull_description_text:  \nSo, I was on the phone with a new med school student who's starting at USD in July. They were asking if their current laptop would meet the requirements for the Sanford School of Medicine. They really wanted to know what specs they should be looking for in a computer for med school. It seems like they just want to make sure they’re all set before classes start!",
+  "short_description": "Inquiry about laptop requirements for medical school admission",
+  "description": "So, I was on the phone with a new med school student who's starting at USD in July. They were asking if their current laptop would meet the requirements for the Sanford School of Medicine. They really wanted to know what specs they should be looking for in a computer for med school. It seems like they just want to make sure they’re all set before classes start!"
+}

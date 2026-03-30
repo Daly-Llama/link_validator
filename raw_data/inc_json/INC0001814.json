@@ -1,0 +1,20 @@
+{
+  "number": "INC0001814",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01973",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need access to the Business School SAS server (USD-SAS)\n\nfull_description_text: \nSo, the user was on the phone and they were saying they need access to this SAS server, which is for the Business School, right? It's called USD-SAS, and they mentioned something about using it with Enterprise Guide and maybe Enterprise Miner too. They seemed a bit confused about how to get in, and it sounded like they really needed it for their work at the Beacom School of Business. It was a bit unclear what exactly they were trying to do, but they definitely wanted access.",
+  "short_description": "Need access to the Business School SAS server (USD-SAS)",
+  "description": "So, the user was on the phone and they were saying they need access to this SAS server, which is for the Business School, right? It's called USD-SAS, and they mentioned something about using it with Enterprise Guide and maybe Enterprise Miner too. They seemed a bit confused about how to get in, and it sounded like they really needed it for their work at the Beacom School of Business. It was a bit unclear what exactly they were trying to do, but they definitely wanted access."
+}

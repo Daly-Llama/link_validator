@@ -1,0 +1,20 @@
+{
+  "number": "INC0003225",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB06168",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need temporary access to WebAdvisor for transcript viewing\n\nfull_description_text:  \n- The user, a former student, called in needing help.  \n- They mentioned they need temporary access to WebAdvisor to view their unofficial transcript.  \n- Since they are no longer a student, they were unsure how to access this information.  \n- The user is looking for guidance on how to proceed with viewing their academic history.",
+  "short_description": "Need temporary access to WebAdvisor for transcript viewing",
+  "description": "- The user, a former student, called in needing help.  \n- They mentioned they need temporary access to WebAdvisor to view their unofficial transcript.  \n- Since they are no longer a student, they were unsure how to access this information.  \n- The user is looking for guidance on how to proceed with viewing their academic history."
+}

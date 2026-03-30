@@ -1,0 +1,20 @@
+{
+  "number": "INC0004244",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08600",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Dakota Dome emergency and evacuation procedures inquiry\n\nfull_description_text:\n- User asking about Dakota Dome evacuation plan.  \n- They want to know severe weather procedures too.  \n- Confusion about what to do in emergencies.  \n- Need clear info for safety during events.",
+  "short_description": "Dakota Dome emergency and evacuation procedures inquiry",
+  "description": "- User asking about Dakota Dome evacuation plan.  \n- They want to know severe weather procedures too.  \n- Confusion about what to do in emergencies.  \n- Need clear info for safety during events."
+}

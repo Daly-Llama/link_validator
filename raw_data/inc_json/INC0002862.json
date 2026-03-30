@@ -1,0 +1,20 @@
+{
+  "number": "INC0002862",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05126",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to schedule TMS installation on my laptop\n\nfull_description_text:\n- So, I'm trying to get TMS set up on my laptop.  \n- Is there a way to book an appointment for IT to help with this?  \n- Just want to make sure I can get it running smoothly, you know?",
+  "short_description": "Need to schedule TMS installation on my laptop",
+  "description": "- So, I'm trying to get TMS set up on my laptop.  \n- Is there a way to book an appointment for IT to help with this?  \n- Just want to make sure I can get it running smoothly, you know?"
+}

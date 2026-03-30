@@ -1,0 +1,20 @@
+{
+  "number": "INC0001932",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02325",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to install Macroworks for macro-keyboards on Windows.\n\nfull_description_text:\n- The user called in asking for help with installing Macroworks 3.1 on their Windows machine.  \n- They mentioned that they rely on this software for their macro-keyboards, which are essential for their workflow.  \n- It seems they need this set up pretty quickly to continue their tasks without interruption.",
+  "short_description": "Request to install Macroworks for macro-keyboards on Windows.",
+  "description": "- The user called in asking for help with installing Macroworks 3.1 on their Windows machine.  \n- They mentioned that they rely on this software for their macro-keyboards, which are essential for their workflow.  \n- It seems they need this set up pretty quickly to continue their tasks without interruption."
+}

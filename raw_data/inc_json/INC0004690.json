@@ -1,0 +1,20 @@
+{
+  "number": "INC0004690",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09761",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Received accommodation memo from a different institution than USD.\n\nfull_description_text: A help desk analyst was on a call with a user who received an accommodation memo. This memo was issued by an entity that is not the USD Office of Accessibility. The user is unsure about the next steps to take regarding this memo, and they are seeking guidance on how to proceed with this situation. It is important to clarify the proper protocol for handling such documents that come from outside the USD system.",
+  "short_description": "Received accommodation memo from a different institution than USD.",
+  "description": "A help desk analyst was on a call with a user who received an accommodation memo. This memo was issued by an entity that is not the USD Office of Accessibility. The user is unsure about the next steps to take regarding this memo, and they are seeking guidance on how to proceed with this situation. It is important to clarify the proper protocol for handling such documents that come from outside the USD system."
+}

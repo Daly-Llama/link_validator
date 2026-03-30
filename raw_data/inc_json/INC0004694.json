@@ -1,0 +1,20 @@
+{
+  "number": "INC0004694",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB09787",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the existence of CSA and NFE Handbooks.\n\nfull_description_text:\n- During a live chat session, the user expressed curiosity regarding the availability of the CSA and NFE Handbooks, which are essential resources for understanding company policies.\n- They specifically inquired about the policies that pertain to their role, indicating a desire for clarity on how these guidelines impact their daily responsibilities.\n- The user seemed eager to ensure compliance and alignment with organizational standards, highlighting the importance of having access to these handbooks for effective job performance.\n- This inquiry reflects a proactive approach to understanding the frameworks that govern their position within the company.",
+  "short_description": "Inquiry about the existence of CSA and NFE Handbooks.",
+  "description": "- During a live chat session, the user expressed curiosity regarding the availability of the CSA and NFE Handbooks, which are essential resources for understanding company policies.\n- They specifically inquired about the policies that pertain to their role, indicating a desire for clarity on how these guidelines impact their daily responsibilities.\n- The user seemed eager to ensure compliance and alignment with organizational standards, highlighting the importance of having access to these handbooks for effective job performance.\n- This inquiry reflects a proactive approach to understanding the frameworks that govern their position within the company."
+}

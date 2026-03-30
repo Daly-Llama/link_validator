@@ -1,0 +1,20 @@
+{
+  "number": "INC0003513",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB07304",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need flyers and handouts for new faculty orientation and training.\n\nfull_description_text:  \nUser is assembling orientation folders for new faculty.  \nThey need flyers for Coyote Registration and handouts for RA training.  \nRequest came in during a call, urgency is clear.  \nJust trying to get everything ready for the events.",
+  "short_description": "Need flyers and handouts for new faculty orientation and training.",
+  "description": "User is assembling orientation folders for new faculty.  \nThey need flyers for Coyote Registration and handouts for RA training.  \nRequest came in during a call, urgency is clear.  \nJust trying to get everything ready for the events."
+}

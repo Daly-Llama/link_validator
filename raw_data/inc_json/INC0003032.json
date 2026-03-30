@@ -1,0 +1,20 @@
+{
+  "number": "INC0003032",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05616",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help locating my academic advisor\n\nfull_description_text:\n- User is trying to find out who their advisor is.  \n- They are using Degree Works and Coyote Connections.  \n- They seem confused about where to look for this info.",
+  "short_description": "Need help locating my academic advisor",
+  "description": "- User is trying to find out who their advisor is.  \n- They are using Degree Works and Coyote Connections.  \n- They seem confused about where to look for this info."
+}

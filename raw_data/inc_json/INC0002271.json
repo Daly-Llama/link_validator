@@ -1,0 +1,20 @@
+{
+  "number": "INC0002271",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03360",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Duo Security in USD accounts.\n\nfull_description_text:  \nUser asked about Duo Security.  \nThey are using USD accounts.  \nNeed clarification on its purpose.  \nNo further details provided.",
+  "short_description": "Inquiry about Duo Security in USD accounts.",
+  "description": "User asked about Duo Security.  \nThey are using USD accounts.  \nNeed clarification on its purpose.  \nNo further details provided."
+}

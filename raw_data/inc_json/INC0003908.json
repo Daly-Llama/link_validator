@@ -1,0 +1,20 @@
+{
+  "number": "INC0003908",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08054",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to create a contact in Outlook.\n\nfull_description_text: I was trying to add a new contact in Outlook, but I couldn't figure out how to do it. I clicked around and looked for options, but nothing seemed to work. It feels like there should be a simple way to create a contact, but I just can't find it. I'm not sure if I'm missing something obvious or if there's a specific button I need to press.",
+  "short_description": "Unable to create a contact in Outlook.",
+  "description": "I was trying to add a new contact in Outlook, but I couldn't figure out how to do it. I clicked around and looked for options, but nothing seemed to work. It feels like there should be a simple way to create a contact, but I just can't find it. I'm not sure if I'm missing something obvious or if there's a specific button I need to press."
+}

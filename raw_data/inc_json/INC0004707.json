@@ -1,0 +1,20 @@
+{
+  "number": "INC0004707",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB09821",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issue with stapling feature on multifunction copier\n\nfull_description_text:  \nUser is trying to utilize the stapling function on the copier. Encountering difficulties with the feature. The environment includes a USD-owned Windows computer and Papercut. Need clarification on how to properly access and use the stapling option.",
+  "short_description": "Issue with stapling feature on multifunction copier",
+  "description": "User is trying to utilize the stapling function on the copier. Encountering difficulties with the feature. The environment includes a USD-owned Windows computer and Papercut. Need clarification on how to properly access and use the stapling option."
+}

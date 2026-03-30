@@ -1,0 +1,20 @@
+{
+  "number": "INC0001616",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01380",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: User access issue in Mission Based Management (MBM) department.\n\nfull_description_text: \nA user is requesting access to a specific department within Mission Based Management (MBM). There is a concern that an individual currently has access to the MBM database, despite not being authorized. This situation needs to be addressed to ensure proper access control within the system.",
+  "short_description": "User access issue in Mission Based Management (MBM) department.",
+  "description": "A user is requesting access to a specific department within Mission Based Management (MBM). There is a concern that an individual currently has access to the MBM database, despite not being authorized. This situation needs to be addressed to ensure proper access control within the system."
+}

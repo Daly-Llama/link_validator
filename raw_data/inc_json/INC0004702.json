@@ -1,0 +1,20 @@
+{
+  "number": "INC0004702",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09814",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Docusign Printer fails to operate after installing PaperCut software.\n\nfull_description_text: The user reported that the Docusign Printer stopped working right after they installed the PaperCut software. They were trying to print a document when they noticed the issue. It seems like the installation might have caused some problems with the printer's functionality.",
+  "short_description": "Docusign Printer fails to operate after installing PaperCut software.",
+  "description": "The user reported that the Docusign Printer stopped working right after they installed the PaperCut software. They were trying to print a document when they noticed the issue. It seems like the installation might have caused some problems with the printer's functionality."
+}

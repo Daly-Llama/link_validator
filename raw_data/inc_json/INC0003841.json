@@ -1,0 +1,20 @@
+{
+  "number": "INC0003841",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07975",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding a report filter in Excel.\n\nfull_description_text:  \n- The user was attempting to add a report filter in Excel during a live call.  \n- They expressed confusion about the steps required to successfully implement the filter.  \n- The analyst noted that the user was familiar with Excel but needed clarification on this specific feature.  \n- There were some repeated questions about the process, indicating a lack of clear guidance.",
+  "short_description": "Difficulty adding a report filter in Excel.",
+  "description": "- The user was attempting to add a report filter in Excel during a live call.  \n- They expressed confusion about the steps required to successfully implement the filter.  \n- The analyst noted that the user was familiar with Excel but needed clarification on this specific feature.  \n- There were some repeated questions about the process, indicating a lack of clear guidance."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002505",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03998",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help checking a student's location for suspicious behavior.\n\nfull_description_text:  \nSo, I was in the computer lab and noticed some weird stuff going on with a student. I think they might be up to something suspicious, and I need ITS to help figure out where they are. Can someone look into this? Thanks!",
+  "short_description": "Need help checking a student's location for suspicious behavior.",
+  "description": "So, I was in the computer lab and noticed some weird stuff going on with a student. I think they might be up to something suspicious, and I need ITS to help figure out where they are. Can someone look into this? Thanks!"
+}

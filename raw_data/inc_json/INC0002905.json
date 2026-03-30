@@ -1,0 +1,20 @@
+{
+  "number": "INC0002905",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05269",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to install Vevo LAB Software in research lab\n\nfull_description_text:  \nThe user is trying to install Vevo LAB Software for Echo Image Analysis in a research lab environment. They are using a Windows system but are facing issues with the installation process. The request was submitted through a self-service form, indicating a need for assistance.",
+  "short_description": "Need to install Vevo LAB Software in research lab",
+  "description": "The user is trying to install Vevo LAB Software for Echo Image Analysis in a research lab environment. They are using a Windows system but are facing issues with the installation process. The request was submitted through a self-service form, indicating a need for assistance."
+}

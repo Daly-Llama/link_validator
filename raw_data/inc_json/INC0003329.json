@@ -1,0 +1,20 @@
+{
+  "number": "INC0003329",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB06553",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Error no_user_type prevents content display in Coyote Connections.\n\nfull_description_text:\n- The user is trying to access the homepage of Coyote Connections.  \n- Upon entering, they encounter an error message stating \"no_user_type.\"  \n- No content is visible on the reports page as a result.",
+  "short_description": "Error no_user_type prevents content display in Coyote Connections.",
+  "description": "- The user is trying to access the homepage of Coyote Connections.  \n- Upon entering, they encounter an error message stating \"no_user_type.\"  \n- No content is visible on the reports page as a result."
+}

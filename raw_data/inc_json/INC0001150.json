@@ -1,0 +1,20 @@
+{
+  "number": "INC0001150",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB00296",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access FM work order system for submitting requests\n\nfull_description_text: I’m trying to set up my account to get into the FM work order system but it’s not working. I can’t submit any work orders because I can’t access webtma at all. I just need to know how to get this sorted out so I can do my requests. It’s really frustrating not being able to submit anything.",
+  "short_description": "Unable to access FM work order system for submitting requests",
+  "description": "I’m trying to set up my account to get into the FM work order system but it’s not working. I can’t submit any work orders because I can’t access webtma at all. I just need to know how to get this sorted out so I can do my requests. It’s really frustrating not being able to submit anything."
+}

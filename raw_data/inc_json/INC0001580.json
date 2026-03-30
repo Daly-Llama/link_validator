@@ -1,0 +1,20 @@
+{
+  "number": "INC0001580",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01265",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: User unable to delete document from Perceptive Content/ImageNow workflow.\n\nfull_description_text: A student is having trouble deleting a document from the Perceptive Content/ImageNow workflow. They seem to be stuck in the counselor review folder in ImageNow. This issue is preventing them from moving forward, and it's causing some frustration. It would be great to get this sorted out for them.",
+  "short_description": "User unable to delete document from Perceptive Content/ImageNow workflow.",
+  "description": "A student is having trouble deleting a document from the Perceptive Content/ImageNow workflow. They seem to be stuck in the counselor review folder in ImageNow. This issue is preventing them from moving forward, and it's causing some frustration. It would be great to get this sorted out for them."
+}

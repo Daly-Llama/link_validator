@@ -1,0 +1,20 @@
+{
+  "number": "INC0002821",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB04957",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with scanning documents into Xtender remotely using mobile apps.\n\nfull_description_text: A field technician attempted to scan a picture using their mobile phone. The goal was to convert this image into a PDF document for submission. However, the process did not function as expected. The technician was using the Xtender system within the Banner environment, which may have contributed to the complications faced during this task.",
+  "short_description": "Issues with scanning documents into Xtender remotely using mobile apps.",
+  "description": "A field technician attempted to scan a picture using their mobile phone. The goal was to convert this image into a PDF document for submission. However, the process did not function as expected. The technician was using the Xtender system within the Banner environment, which may have contributed to the complications faced during this task."
+}

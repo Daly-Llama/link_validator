@@ -1,0 +1,20 @@
+{
+  "number": "INC0001742",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB01738",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Connections not displaying advisor assignments for students\n\nfull_description_text:  \nWhen accessing Coyote Connections, users are experiencing an issue where advisor information is not appearing. Students are able to log in, but both the class list and student list remain blank, leaving them without their assigned advisors or tags. This problem is impacting their ability to view important academic support details.",
+  "short_description": "Coyote Connections not displaying advisor assignments for students",
+  "description": "When accessing Coyote Connections, users are experiencing an issue where advisor information is not appearing. Students are able to log in, but both the class list and student list remain blank, leaving them without their assigned advisors or tags. This problem is impacting their ability to view important academic support details."
+}

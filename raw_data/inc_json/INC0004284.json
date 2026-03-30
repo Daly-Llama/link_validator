@@ -1,0 +1,20 @@
+{
+  "number": "INC0004284",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB08687",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble adding Coyote Card to GrubHub app\n\nfull_description_text:  \nSo, I was trying to figure out how to add my Coyote Card to the GrubHub app, but I just can't seem to get it to work. I thought it would be simple, but every time I try, it just doesn't go through. I'm not sure if I'm missing something or if there's a glitch or what, but it's really frustrating!",
+  "short_description": "Trouble adding Coyote Card to GrubHub app",
+  "description": "So, I was trying to figure out how to add my Coyote Card to the GrubHub app, but I just can't seem to get it to work. I thought it would be simple, but every time I try, it just doesn't go through. I'm not sure if I'm missing something or if there's a glitch or what, but it's really frustrating!"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004246",
+  "category": "Safety and Security",
+  "subcategory": "Evacuation and Severe Weather Plans",
+  "correct_kb": "KB08602",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about evacuation and severe weather plan for childcare center.\n\nfull_description_text:\n- The user is requesting information regarding the emergency evacuation plan for the Vucurevich Childcare Center Building.  \n- They are also interested in understanding the severe weather plan that is in place for the childcare center.  \n- This inquiry is important for ensuring safety and preparedness in case of emergencies.",
+  "short_description": "Inquiry about evacuation and severe weather plan for childcare center.",
+  "description": "- The user is requesting information regarding the emergency evacuation plan for the Vucurevich Childcare Center Building.  \n- They are also interested in understanding the severe weather plan that is in place for the childcare center.  \n- This inquiry is important for ensuring safety and preparedness in case of emergencies."
+}

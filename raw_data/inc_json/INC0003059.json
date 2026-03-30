@@ -1,0 +1,20 @@
+{
+  "number": "INC0003059",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB05681",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty verifying primary campus or home school in Self Service Banner.\n\nfull_description_text: A user is trying to check their primary campus or home school using the Self Service Banner. They are unsure how to find this information and are having trouble navigating the system. This has caused some confusion and they need assistance to resolve the issue.",
+  "short_description": "Difficulty verifying primary campus or home school in Self Service Banner.",
+  "description": "A user is trying to check their primary campus or home school using the Self Service Banner. They are unsure how to find this information and are having trouble navigating the system. This has caused some confusion and they need assistance to resolve the issue."
+}

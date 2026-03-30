@@ -1,0 +1,20 @@
+{
+  "number": "INC0002183",
+  "category": "Technology",
+  "subcategory": "Salesforce",
+  "correct_kb": "KB03103",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error with single sign-on login in Salesforce sandbox\n\nfull_description_text:  \n- I am trying to log in to Salesforce using single sign-on but it is not working.  \n- I get a message that says we can't log you in and it talks about something called SAML Assertion Validator.  \n- I also looked at the login history and it shows failed logins.  \n- This started happening after I refreshed the sandbox, and now I can't use single sign-on at all.",
+  "short_description": "Error with single sign-on login in Salesforce sandbox",
+  "description": "- I am trying to log in to Salesforce using single sign-on but it is not working.  \n- I get a message that says we can't log you in and it talks about something called SAML Assertion Validator.  \n- I also looked at the login history and it shows failed logins.  \n- This started happening after I refreshed the sandbox, and now I can't use single sign-on at all."
+}

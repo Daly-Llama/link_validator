@@ -1,0 +1,20 @@
+{
+  "number": "INC0003061",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB05688",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to select the \"Remember me for 30 days\" option in Duo.\n\nfull_description_text: The user is experiencing an issue where they cannot click the checkbox to remember their Duo authentication for a duration of 30 days. This functionality is crucial for streamlining their login process, but it appears to be unresponsive in the browser environment. They are seeking clarification on whether there is a method to save their Duo push notifications for an extended period.",
+  "short_description": "Unable to select the \"Remember me for 30 days\" option in Duo.",
+  "description": "The user is experiencing an issue where they cannot click the checkbox to remember their Duo authentication for a duration of 30 days. This functionality is crucial for streamlining their login process, but it appears to be unresponsive in the browser environment. They are seeking clarification on whether there is a method to save their Duo push notifications for an extended period."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001391",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00744",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to Legacy High Performance Computers\n\nfull_description_text:  \nThe user is looking to gain access to the Supercomputers and needs a Legacy HPC account created. They also mentioned having forgotten their password for the Lawrence system and requested assistance with resetting it. This situation arose during a phone call, and the user expressed a clear need for support in accessing these high-performance resources.",
+  "short_description": "Request for access to Legacy High Performance Computers",
+  "description": "The user is looking to gain access to the Supercomputers and needs a Legacy HPC account created. They also mentioned having forgotten their password for the Lawrence system and requested assistance with resetting it. This situation arose during a phone call, and the user expressed a clear need for support in accessing these high-performance resources."
+}

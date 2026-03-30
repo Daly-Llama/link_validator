@@ -1,0 +1,20 @@
+{
+  "number": "INC0001984",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB02475",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Zoom meeting discounts for the University\n\nfull_description_text:  \nThe user called to ask if the University offers any discounts for Zoom meetings. They mentioned that they are unsure about any special requirements. The conversation was brief and focused on this specific question.",
+  "short_description": "Inquiry about Zoom meeting discounts for the University",
+  "description": "The user called to ask if the University offers any discounts for Zoom meetings. They mentioned that they are unsure about any special requirements. The conversation was brief and focused on this specific question."
+}

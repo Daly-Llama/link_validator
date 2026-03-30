@@ -1,0 +1,20 @@
+{
+  "number": "INC0001848",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02064",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need access to deleted OneDrive account of ex-employee.\n\nfull_description_text: I'm trying to get into a OneDrive account that was deleted. This account belongs to a former employee, and I need access for some files. Not sure how to proceed with this.",
+  "short_description": "Need access to deleted OneDrive account of ex-employee.",
+  "description": "I'm trying to get into a OneDrive account that was deleted. This account belongs to a former employee, and I need access for some files. Not sure how to proceed with this."
+}

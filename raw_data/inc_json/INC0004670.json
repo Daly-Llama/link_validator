@@ -1,0 +1,20 @@
+{
+  "number": "INC0004670",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09691",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty submitting program assessment results in Nuventive.\n\nfull_description_text:  \nI’m trying to figure out how to submit my program assessment results in Nuventive. I don’t know where to enter these results, and it’s really confusing. I need to complete the learning outcomes assessment for my program, but I can’t find the right place to do it. It’s just not clear at all where I should be going to get this done.",
+  "short_description": "Difficulty submitting program assessment results in Nuventive.",
+  "description": "I’m trying to figure out how to submit my program assessment results in Nuventive. I don’t know where to enter these results, and it’s really confusing. I need to complete the learning outcomes assessment for my program, but I can’t find the right place to do it. It’s just not clear at all where I should be going to get this done."
+}

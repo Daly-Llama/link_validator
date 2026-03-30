@@ -1,0 +1,20 @@
+{
+  "number": "INC0001649",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01506",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Can't sign out of Windows 10 or 11 computers easily.\n\nfull_description_text:  \nI was trying to sign out of the computer, but it just wouldn't work. When I clicked on my name, it just showed a spinning circle and then nothing happened. The only way I could sign out was by using CTRL+ALT+DEL or right-clicking the icon, which is kinda annoying.",
+  "short_description": "Can't sign out of Windows 10 or 11 computers easily.",
+  "description": "I was trying to sign out of the computer, but it just wouldn't work. When I clicked on my name, it just showed a spinning circle and then nothing happened. The only way I could sign out was by using CTRL+ALT+DEL or right-clicking the icon, which is kinda annoying."
+}

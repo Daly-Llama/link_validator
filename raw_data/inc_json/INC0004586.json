@@ -1,0 +1,20 @@
+{
+  "number": "INC0004586",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09412",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty connecting to Azure Labs VM for Business School.\n\nfull_description_text:  \nEl usuario está intentando acceder a una máquina virtual en Azure Labs para la Escuela de Negocios. Sin embargo, no puede conectarse a la VM. Esto está causando problemas en su trabajo y necesita asistencia para resolver este problema de conexión.",
+  "short_description": "Difficulty connecting to Azure Labs VM for Business School.",
+  "description": "El usuario está intentando acceder a una máquina virtual en Azure Labs para la Escuela de Negocios. Sin embargo, no puede conectarse a la VM. Esto está causando problemas en su trabajo y necesita asistencia para resolver este problema de conexión."
+}

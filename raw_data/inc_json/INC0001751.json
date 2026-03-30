@@ -1,0 +1,20 @@
+{
+  "number": "INC0001751",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01784",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need access to SeqBuilder license after installation.\n\nfull_description_text: The user has already installed SeqBuilder on their system but is currently unable to access the license. They mentioned that they just need the license access to proceed with their work. This issue is affecting their ability to utilize the software effectively on both Windows and Mac environments.",
+  "short_description": "Need access to SeqBuilder license after installation.",
+  "description": "The user has already installed SeqBuilder on their system but is currently unable to access the license. They mentioned that they just need the license access to proceed with their work. This issue is affecting their ability to utilize the software effectively on both Windows and Mac environments."
+}

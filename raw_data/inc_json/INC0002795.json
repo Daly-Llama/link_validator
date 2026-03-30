@@ -1,0 +1,20 @@
+{
+  "number": "INC0002795",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Study Away",
+  "correct_kb": "KB04886",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about completing Health Information Form at Sanford.\n\nfull_description_text: \nUser is asking if they need to go to Sanford in Vermillion.  \nThey are trying to complete the Health Information Form.  \nThis is related to their study as an intern in research away.  \nClarification is needed on the location requirement for the form.",
+  "short_description": "Inquiry about completing Health Information Form at Sanford.",
+  "description": "User is asking if they need to go to Sanford in Vermillion.  \nThey are trying to complete the Health Information Form.  \nThis is related to their study as an intern in research away.  \nClarification is needed on the location requirement for the form."
+}

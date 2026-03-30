@@ -1,0 +1,20 @@
+{
+  "number": "INC0003826",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07959",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the use of formulas and functions in Excel\n\nfull_description_text:\n- The user is exploring the capabilities of Excel and is particularly interested in understanding how formulas and functions work within the application.\n- They are seeking clarity on the differences between these two concepts, as well as examples of how they can be applied in various scenarios.\n- This inquiry suggests a desire to enhance their spreadsheet skills, which could lead to more efficient data management and analysis.",
+  "short_description": "Inquiry about the use of formulas and functions in Excel",
+  "description": "- The user is exploring the capabilities of Excel and is particularly interested in understanding how formulas and functions work within the application.\n- They are seeking clarity on the differences between these two concepts, as well as examples of how they can be applied in various scenarios.\n- This inquiry suggests a desire to enhance their spreadsheet skills, which could lead to more efficient data management and analysis."
+}

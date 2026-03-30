@@ -1,0 +1,20 @@
+{
+  "number": "INC0004652",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09646",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to view students with accommodations in courses.\n\nfull_description_text: The user is trying to find out if any of their students have accommodations. They are facing difficulty in accessing this information. This issue may affect their ability to support students effectively.",
+  "short_description": "Unable to view students with accommodations in courses.",
+  "description": "The user is trying to find out if any of their students have accommodations. They are facing difficulty in accessing this information. This issue may affect their ability to support students effectively."
+}

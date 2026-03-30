@@ -1,0 +1,20 @@
+{
+  "number": "INC0003958",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08111",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to determine functionalities on the Qualtrics projects page.\n\nfull_description_text: \nThe user is currently navigating the projects page within the Qualtrics platform. They are experiencing difficulty understanding the available functionalities and options that can be utilized from this specific page. This confusion may stem from a lack of clear guidance or documentation regarding the features present on the projects page. As a result, the user is seeking clarification on what actions can be performed in this environment.",
+  "short_description": "Unable to determine functionalities on the Qualtrics projects page.",
+  "description": "The user is currently navigating the projects page within the Qualtrics platform. They are experiencing difficulty understanding the available functionalities and options that can be utilized from this specific page. This confusion may stem from a lack of clear guidance or documentation regarding the features present on the projects page. As a result, the user is seeking clarification on what actions can be performed in this environment."
+}

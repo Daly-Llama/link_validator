@@ -1,0 +1,20 @@
+{
+  "number": "INC0004742",
+  "category": "Technology",
+  "subcategory": "Slate",
+  "correct_kb": "KB09902",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty mapping international schools from Slate to Banner\n\nfull_description_text: The user is facing issues with international schools not matching in the Slate school table. This leads to manual entries in Banner SOAPCOL, which is time-consuming. They are asking if it's possible to map some frequently received schools to streamline the process.",
+  "short_description": "Difficulty mapping international schools from Slate to Banner",
+  "description": "The user is facing issues with international schools not matching in the Slate school table. This leads to manual entries in Banner SOAPCOL, which is time-consuming. They are asking if it's possible to map some frequently received schools to streamline the process."
+}

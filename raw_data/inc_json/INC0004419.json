@@ -1,0 +1,20 @@
+{
+  "number": "INC0004419",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB08994",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Supplemental Retirement Plan information from SDRS\n\nfull_description_text:\n- The employee is asking about the Supplemental Retirement Plan.  \n- They want to know where to find information on this plan.  \n- The call was made to the help desk for assistance.  \n- The employee's first language is not English, which may affect communication.",
+  "short_description": "Inquiry about Supplemental Retirement Plan information from SDRS",
+  "description": "- The employee is asking about the Supplemental Retirement Plan.  \n- They want to know where to find information on this plan.  \n- The call was made to the help desk for assistance.  \n- The employee's first language is not English, which may affect communication."
+}

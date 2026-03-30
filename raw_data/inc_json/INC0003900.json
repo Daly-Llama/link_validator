@@ -1,0 +1,20 @@
+{
+  "number": "INC0003900",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08046",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need assistance with starting Outlook options setup.\n\nfull_description_text: \nDuring a live phone call, the user asked how to get started with Outlook options. They were looking for guidance on the initial setup and configuration of the options available in Outlook. The user seemed unsure about where to begin and what settings to adjust for their needs. This confusion led to the request for help from the help desk analyst.",
+  "short_description": "Need assistance with starting Outlook options setup.",
+  "description": "During a live phone call, the user asked how to get started with Outlook options. They were looking for guidance on the initial setup and configuration of the options available in Outlook. The user seemed unsure about where to begin and what settings to adjust for their needs. This confusion led to the request for help from the help desk analyst."
+}

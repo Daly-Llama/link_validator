@@ -1,0 +1,20 @@
+{
+  "number": "INC0004760",
+  "category": "Health Sciences",
+  "subcategory": "Health Sciences",
+  "correct_kb": "KB09968",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the HESI Admission Assessment Exam details.\n\nfull_description_text: User asked about the Health Education Systems Incorporated Admission Assessment Exam. They wanted to know what potential applicants should be aware of regarding the HESI Exam. The conversation was during a live chat, and the user seemed to need clear info on the exam's purpose and requirements.",
+  "short_description": "Inquiry about the HESI Admission Assessment Exam details.",
+  "description": "User asked about the Health Education Systems Incorporated Admission Assessment Exam. They wanted to know what potential applicants should be aware of regarding the HESI Exam. The conversation was during a live chat, and the user seemed to need clear info on the exam's purpose and requirements."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003886",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08020",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble attaching a file in OneNote\n\nfull_description_text:  \n- So, the user was trying to attach a file in OneNote but couldn't figure it out.  \n- They were asking how to do it during a live chat, and it seemed a bit confusing for them.  \n- It’s like they just wanted to add a document but got stuck somewhere in the process.",
+  "short_description": "Trouble attaching a file in OneNote",
+  "description": "- So, the user was trying to attach a file in OneNote but couldn't figure it out.  \n- They were asking how to do it during a live chat, and it seemed a bit confusing for them.  \n- It’s like they just wanted to add a document but got stuck somewhere in the process."
+}

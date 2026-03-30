@@ -1,0 +1,20 @@
+{
+  "number": "INC0001799",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB01914",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with accessing Panopto recordings for distance learning class\n\nfull_description_text:  \nI am currently experiencing significant difficulties in locating the Panopto recordings for my graduate level distance learning class. Last semester, the recorded and streamed lectures functioned properly, but this semester, it seems that they are not working as expected. I have tried multiple times to access the recordings, but I am unable to find them, which is causing me considerable frustration and concern regarding my studies. It is imperative that I regain access to these recordings to ensure I can keep up with the course material effectively.",
+  "short_description": "Issues with accessing Panopto recordings for distance learning class",
+  "description": "I am currently experiencing significant difficulties in locating the Panopto recordings for my graduate level distance learning class. Last semester, the recorded and streamed lectures functioned properly, but this semester, it seems that they are not working as expected. I have tried multiple times to access the recordings, but I am unable to find them, which is causing me considerable frustration and concern regarding my studies. It is imperative that I regain access to these recordings to ensure I can keep up with the course material effectively."
+}

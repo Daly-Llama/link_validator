@@ -1,0 +1,20 @@
+{
+  "number": "INC0002776",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB04843",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Applications needing VPN access when working remotely from off-campus.\n\nfull_description_text:  \nI am currently working remotely and need to know which applications require a VPN connection when I am off-campus. It’s important for me to understand this because I want to ensure I can access everything I need without any interruptions. I have been trying to figure this out, but the information isn’t clear, and I want to avoid any issues while working. Please provide a detailed list of those applications that necessitate a VPN connection for remote access.",
+  "short_description": "Applications needing VPN access when working remotely from off-campus.",
+  "description": "I am currently working remotely and need to know which applications require a VPN connection when I am off-campus. It’s important for me to understand this because I want to ensure I can access everything I need without any interruptions. I have been trying to figure this out, but the information isn’t clear, and I want to avoid any issues while working. Please provide a detailed list of those applications that necessitate a VPN connection for remote access."
+}

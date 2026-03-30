@@ -1,0 +1,20 @@
+{
+  "number": "INC0004495",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09198",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request to change assigned room before semester begins\n\nfull_description_text:  \nThe user is inquiring about the process to change their assigned room prior to the start of the academic semester. They are specifically asking if it is possible to modify their room assignment and if they can also change their roommate before the move-in date. This request indicates a need for flexibility in housing arrangements, which may be critical for their upcoming academic experience. The user seems to be seeking clarity on the policies regarding room changes and roommate assignments, which could impact their living situation significantly.",
+  "short_description": "Request to change assigned room before semester begins",
+  "description": "The user is inquiring about the process to change their assigned room prior to the start of the academic semester. They are specifically asking if it is possible to modify their room assignment and if they can also change their roommate before the move-in date. This request indicates a need for flexibility in housing arrangements, which may be critical for their upcoming academic experience. The user seems to be seeking clarity on the policies regarding room changes and roommate assignments, which could impact their living situation significantly."
+}

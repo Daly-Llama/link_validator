@@ -1,0 +1,20 @@
+{
+  "number": "INC0003966",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08119",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty collaborating on Qualtrics projects.\n\nfull_description_text: \nThe user is experiencing challenges while attempting to collaborate on Qualtrics projects. They are unsure of the proper methods or tools available for effective collaboration within the platform. This issue was raised during a live phone call with a help desk analyst, indicating an immediate need for assistance in navigating the collaboration features of Qualtrics. The user seeks clarity on how to proceed with their project collaboration efforts.",
+  "short_description": "Difficulty collaborating on Qualtrics projects.",
+  "description": "The user is experiencing challenges while attempting to collaborate on Qualtrics projects. They are unsure of the proper methods or tools available for effective collaboration within the platform. This issue was raised during a live phone call with a help desk analyst, indicating an immediate need for assistance in navigating the collaboration features of Qualtrics. The user seeks clarity on how to proceed with their project collaboration efforts."
+}

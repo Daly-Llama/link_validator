@@ -1,0 +1,20 @@
+{
+  "number": "INC0003337",
+  "category": "Safety and Security",
+  "subcategory": "Personal Safety",
+  "correct_kb": "KB06592",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Inquiry about availability of campus safety escorts\n\nfull_description_text:  \nThe user is seeking information regarding the availability of campus safety escorts. There seems to be confusion about whether these services are currently operational. This inquiry may impact the safety and security measures on campus.",
+  "short_description": "Inquiry about availability of campus safety escorts",
+  "description": "The user is seeking information regarding the availability of campus safety escorts. There seems to be confusion about whether these services are currently operational. This inquiry may impact the safety and security measures on campus."
+}

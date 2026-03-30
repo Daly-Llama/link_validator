@@ -1,0 +1,20 @@
+{
+  "number": "INC0003257",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB06264",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Xtender shows a blank page and has a misspelled duplicate folder.\n\nfull_description_text: The user was trying to access Xtender but only got a blank page. They also mentioned that there's a duplicate folder in the system that's misspelled, which might be causing some confusion. It seems like this issue is preventing them from opening the necessary files.",
+  "short_description": "Xtender shows a blank page and has a misspelled duplicate folder.",
+  "description": "The user was trying to access Xtender but only got a blank page. They also mentioned that there's a duplicate folder in the system that's misspelled, which might be causing some confusion. It seems like this issue is preventing them from opening the necessary files."
+}

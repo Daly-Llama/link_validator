@@ -1,0 +1,20 @@
+{
+  "number": "INC0001675",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB01569",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Change default tray on color printer to tray 2.\n\nfull_description_text:  \n- The color printer is currently set to use tray 1, which is the bypass tray.  \n- The technician is unable to change the default setting to tray 2.  \n- This issue is affecting the printer's functionality and needs to be addressed.",
+  "short_description": "Change default tray on color printer to tray 2.",
+  "description": "- The color printer is currently set to use tray 1, which is the bypass tray.  \n- The technician is unable to change the default setting to tray 2.  \n- This issue is affecting the printer's functionality and needs to be addressed."
+}

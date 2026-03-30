@@ -1,0 +1,20 @@
+{
+  "number": "INC0003765",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07890",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty using older versions of Excel.\n\nfull_description_text: \nEl tecnico esta tratando de usar versiones viejas de Excel. No sabe como hacerlo y necesita ayuda. El problema es que no tiene claro los pasos o las funciones que debe usar en estas versiones. Esto le esta causando problemas en su trabajo diario.",
+  "short_description": "Difficulty using older versions of Excel.",
+  "description": "El tecnico esta tratando de usar versiones viejas de Excel. No sabe como hacerlo y necesita ayuda. El problema es que no tiene claro los pasos o las funciones que debe usar en estas versiones. Esto le esta causando problemas en su trabajo diario."
+}

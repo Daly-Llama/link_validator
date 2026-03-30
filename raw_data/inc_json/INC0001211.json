@@ -1,0 +1,20 @@
+{
+  "number": "INC0001211",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00391",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access important links and services in various browsers.\n\nfull_description_text: I’m trying to submit my final grades for my course but I can’t find the Final Grade link in SNAP. Also, I keep getting a McAfee pop up and D2L won’t open in Chrome, it just shows an error. I also have issues logging into usd.myprintdesk.net, it says the header field is too long. Slido isn’t loading when I try to create an account through Webex.",
+  "short_description": "Unable to access important links and services in various browsers.",
+  "description": "I’m trying to submit my final grades for my course but I can’t find the Final Grade link in SNAP. Also, I keep getting a McAfee pop up and D2L won’t open in Chrome, it just shows an error. I also have issues logging into usd.myprintdesk.net, it says the header field is too long. Slido isn’t loading when I try to create an account through Webex."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001095",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00181",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to change user access in Active Directory group\n\nfull_description_text:  \nI want to add or remove a user.  \nThis is for an Active Directory group.  \nI don’t know how to do it.  \nPlease help with the access change.",
+  "short_description": "Need to change user access in Active Directory group",
+  "description": "I want to add or remove a user.  \nThis is for an Active Directory group.  \nI don’t know how to do it.  \nPlease help with the access change."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001781",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB01866",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to access Panopto video in D2L course.\n\nfull_description_text:  \n- The user is trying to watch a video assigned by their online teacher.  \n- They are receiving a message that says they do not have access to view this session.  \n- This issue is happening in the D2L environment with Panopto videos.  \n- The user is confused about why they can't access the content.",
+  "short_description": "Unable to access Panopto video in D2L course.",
+  "description": "- The user is trying to watch a video assigned by their online teacher.  \n- They are receiving a message that says they do not have access to view this session.  \n- This issue is happening in the D2L environment with Panopto videos.  \n- The user is confused about why they can't access the content."
+}

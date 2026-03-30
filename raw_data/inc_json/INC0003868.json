@@ -1,0 +1,20 @@
+{
+  "number": "INC0003868",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08002",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: What is the OneNote Ribbon and how does it work?\n\nfull_description_text: So, I was just trying to figure out what the OneNote Ribbon is. You know, that thing at the top of the OneNote app? It has all those tabs and buttons, but I'm not really sure what everything does. I mean, it looks important, but I just need a bit of clarity on its purpose and functionality.",
+  "short_description": "What is the OneNote Ribbon and how does it work?",
+  "description": "So, I was just trying to figure out what the OneNote Ribbon is. You know, that thing at the top of the OneNote app? It has all those tabs and buttons, but I'm not really sure what everything does. I mean, it looks important, but I just need a bit of clarity on its purpose and functionality."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002872",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05149",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need guidance on sanitizing keyboard and mouse during COVID-19\n\nfull_description_text:  \nI am looking for information on how to properly sanitize my keyboard and mouse. Given the current COVID-19 situation, it's important to ensure that my computer hardware is clean. However, I am unsure about the best practices for cleaning these devices without causing damage. Any detailed instructions or recommendations would be greatly appreciated.",
+  "short_description": "Need guidance on sanitizing keyboard and mouse during COVID-19",
+  "description": "I am looking for information on how to properly sanitize my keyboard and mouse. Given the current COVID-19 situation, it's important to ensure that my computer hardware is clean. However, I am unsure about the best practices for cleaning these devices without causing damage. Any detailed instructions or recommendations would be greatly appreciated."
+}

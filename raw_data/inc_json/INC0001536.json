@@ -1,0 +1,20 @@
+{
+  "number": "INC0001536",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB01149",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to departing employee's email account\n\nfull_description_text:  \nThe user called in asking if they could get access to an employee's mailbox since that person is leaving USD. They mentioned needing either access to the account or a backup of the emails. There was some confusion about the process, and they seemed unsure about the technical steps involved in retrieving the information.",
+  "short_description": "Request for access to departing employee's email account",
+  "description": "The user called in asking if they could get access to an employee's mailbox since that person is leaving USD. They mentioned needing either access to the account or a backup of the emails. There was some confusion about the process, and they seemed unsure about the technical steps involved in retrieving the information."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002867",
+  "category": "Technology",
+  "subcategory": "Bookings",
+  "correct_kb": "KB05135",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty creating a new service in Microsoft Bookings.\n\nfull_description_text: The user is attempting to create a new service within Microsoft Bookings but is encountering issues. This problem arises in the context of using Microsoft Office 365. Further details on the specific error or behavior are not provided.",
+  "short_description": "Difficulty creating a new service in Microsoft Bookings.",
+  "description": "The user is attempting to create a new service within Microsoft Bookings but is encountering issues. This problem arises in the context of using Microsoft Office 365. Further details on the specific error or behavior are not provided."
+}

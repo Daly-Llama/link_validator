@@ -1,0 +1,20 @@
+{
+  "number": "INC0002088",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02796",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: SQL for Communication Disorders is not functioning properly.\n\nfull_description_text: The user is trying to access SQL for Communication Disorders. It just won't work. They are on Windows Server 2012 with Microsoft SQL. This is causing some confusion and delays.",
+  "short_description": "SQL for Communication Disorders is not functioning properly.",
+  "description": "The user is trying to access SQL for Communication Disorders. It just won't work. They are on Windows Server 2012 with Microsoft SQL. This is causing some confusion and delays."
+}

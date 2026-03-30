@@ -1,0 +1,20 @@
+{
+  "number": "INC0002655",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04511",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing pen tips for the SmartBoard in the classroom.\n\nfull_description_text: The user reported that the pen tips for the SmartBoard are absent. This issue was noted during a session in the smart classroom. The absence of pen tips is affecting the functionality of the SmartBoard. Further assistance may be required to resolve this matter.",
+  "short_description": "Missing pen tips for the SmartBoard in the classroom.",
+  "description": "The user reported that the pen tips for the SmartBoard are absent. This issue was noted during a session in the smart classroom. The absence of pen tips is affecting the functionality of the SmartBoard. Further assistance may be required to resolve this matter."
+}

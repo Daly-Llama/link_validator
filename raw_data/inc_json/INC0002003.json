@@ -1,0 +1,20 @@
+{
+  "number": "INC0002003",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02549",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop not charging or connecting to Thunderbolt dock.\n\nfull_description_text: The user reported that their Lenovo laptop is not charging when connected to the Thunderbolt dock. Additionally, the laptop is failing to establish a connection with the docking station altogether. This issue arose during a routine work session, and the user mentioned that they had previously used the dock without any problems.",
+  "short_description": "Laptop not charging or connecting to Thunderbolt dock.",
+  "description": "The user reported that their Lenovo laptop is not charging when connected to the Thunderbolt dock. Additionally, the laptop is failing to establish a connection with the docking station altogether. This issue arose during a routine work session, and the user mentioned that they had previously used the dock without any problems."
+}

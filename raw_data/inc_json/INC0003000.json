@@ -1,0 +1,20 @@
+{
+  "number": "INC0003000",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05491",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Poor Wi-Fi connectivity and slow internet speed in dorms.\n\nfull_description_text: \nThe user reported experiencing significant issues with the Wi-Fi connectivity in their dorm on campus. They indicated that their devices frequently disconnect from the network, and when connected, the internet speed is notably slow. This has hindered their ability to effectively use online resources for academic purposes. The problem appears to be specific to the Wi-Fi networks available in the resident halls, including eduroam and SDSecure.",
+  "short_description": "Poor Wi-Fi connectivity and slow internet speed in dorms.",
+  "description": "The user reported experiencing significant issues with the Wi-Fi connectivity in their dorm on campus. They indicated that their devices frequently disconnect from the network, and when connected, the internet speed is notably slow. This has hindered their ability to effectively use online resources for academic purposes. The problem appears to be specific to the Wi-Fi networks available in the resident halls, including eduroam and SDSecure."
+}

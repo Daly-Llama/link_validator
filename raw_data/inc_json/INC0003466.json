@@ -1,0 +1,20 @@
+{
+  "number": "INC0003466",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07117",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Academic catalog content and links are outdated.\n\nfull_description_text: The user has noticed that the content and images in the academic catalog are not current. Additionally, some catalog links are not functioning properly. This issue affects the accessibility and accuracy of the information provided to users.",
+  "short_description": "Academic catalog content and links are outdated.",
+  "description": "The user has noticed that the content and images in the academic catalog are not current. Additionally, some catalog links are not functioning properly. This issue affects the accessibility and accuracy of the information provided to users."
+}

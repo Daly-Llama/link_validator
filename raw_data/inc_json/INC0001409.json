@@ -1,0 +1,20 @@
+{
+  "number": "INC0001409",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00787",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to transfer calls to an extension from various phone numbers\n\nfull_description_text:  \nSo, I was trying to transfer a call to an extension, but it just wouldn't work. It seems like it doesn't matter which phone number I use, the transfer fails every time. This is really frustrating because I need to get these calls through.",
+  "short_description": "Unable to transfer calls to an extension from various phone numbers",
+  "description": "So, I was trying to transfer a call to an extension, but it just wouldn't work. It seems like it doesn't matter which phone number I use, the transfer fails every time. This is really frustrating because I need to get these calls through."
+}

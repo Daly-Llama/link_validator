@@ -1,0 +1,20 @@
+{
+  "number": "INC0004607",
+  "category": "Purchasing",
+  "subcategory": "Purchasing",
+  "correct_kb": "KB09476",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Do I need ITS approval for tech purchases?\n\nfull_description_text: So, I was thinking about buying some tech stuff. Like, do I really need to ask ITS first? I just want to know if I can go ahead or if I have to wait for some kind of approval. It’s kinda confusing, you know?",
+  "short_description": "Do I need ITS approval for tech purchases?",
+  "description": "So, I was thinking about buying some tech stuff. Like, do I really need to ask ITS first? I just want to know if I can go ahead or if I have to wait for some kind of approval. It’s kinda confusing, you know?"
+}

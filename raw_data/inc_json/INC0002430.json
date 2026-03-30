@@ -1,0 +1,20 @@
+{
+  "number": "INC0002430",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03814",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: PowerPoint file won't open on Windows 10\n\nfull_description_text:  \nI can't open my PowerPoint file. It just won't open at all. I'm using Windows 10 and Microsoft PowerPoint, but nothing happens when I try. This is really frustrating because I need to access my presentation.",
+  "short_description": "PowerPoint file won't open on Windows 10",
+  "description": "I can't open my PowerPoint file. It just won't open at all. I'm using Windows 10 and Microsoft PowerPoint, but nothing happens when I try. This is really frustrating because I need to access my presentation."
+}

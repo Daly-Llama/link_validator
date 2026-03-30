@@ -1,0 +1,20 @@
+{
+  "number": "INC0002890",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB05213",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble importing data file into Qualtrics survey from Psychdata\n\nfull_description_text:\n- The user was trying to import a data file into Qualtrics.  \n- They mentioned it was from Psychdata and were using Excel.  \n- There was some confusion about the steps needed to complete the import.  \n- The call was during a busy time, and they seemed a bit frustrated.",
+  "short_description": "Trouble importing data file into Qualtrics survey from Psychdata",
+  "description": "- The user was trying to import a data file into Qualtrics.  \n- They mentioned it was from Psychdata and were using Excel.  \n- There was some confusion about the steps needed to complete the import.  \n- The call was during a busy time, and they seemed a bit frustrated."
+}

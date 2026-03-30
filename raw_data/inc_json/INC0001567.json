@@ -1,0 +1,20 @@
+{
+  "number": "INC0001567",
+  "category": "Technology",
+  "subcategory": "Salesforce",
+  "correct_kb": "KB01226",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Cannot find Individual Email Results object in Salesforce\n\nfull_description_text:\n- User is on call, trying to see the Individual Email Results.  \n- They say it is missing in Salesforce, cannot find it anywhere.  \n- User is confused, thinks it should be there but it is not.  \n- They speak different language, so communication is a bit hard.",
+  "short_description": "Cannot find Individual Email Results object in Salesforce",
+  "description": "- User is on call, trying to see the Individual Email Results.  \n- They say it is missing in Salesforce, cannot find it anywhere.  \n- User is confused, thinks it should be there but it is not.  \n- They speak different language, so communication is a bit hard."
+}

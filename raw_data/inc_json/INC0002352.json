@@ -1,0 +1,20 @@
+{
+  "number": "INC0002352",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB03589",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about items to bring and restrictions for dorm living\n\nfull_description_text:  \nI am preparing to move into the dorms and I have some questions. Specifically, I would like to know what items I should bring with me to the dorms. Additionally, I am unsure about what items are not allowed in the dorms. Any guidance on this would be greatly appreciated.",
+  "short_description": "Inquiry about items to bring and restrictions for dorm living",
+  "description": "I am preparing to move into the dorms and I have some questions. Specifically, I would like to know what items I should bring with me to the dorms. Additionally, I am unsure about what items are not allowed in the dorms. Any guidance on this would be greatly appreciated."
+}

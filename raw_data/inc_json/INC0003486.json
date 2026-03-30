@@ -1,0 +1,20 @@
+{
+  "number": "INC0003486",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07204",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: SHATERM screen not displaying transfer course details for students\n\nfull_description_text: \nDuring a call, the user mentioned that when they access the SHATERM screen, it shows the overall GPA and hours for a student, which is good. However, they are really confused because it does not show the course details for the terms, which is what they expected to see. This issue seems to be causing some frustration as they rely on this information for their work. It’s unclear why the course details are missing, and they are looking for some clarity on this matter.",
+  "short_description": "SHATERM screen not displaying transfer course details for students",
+  "description": "During a call, the user mentioned that when they access the SHATERM screen, it shows the overall GPA and hours for a student, which is good. However, they are really confused because it does not show the course details for the terms, which is what they expected to see. This issue seems to be causing some frustration as they rely on this information for their work. It’s unclear why the course details are missing, and they are looking for some clarity on this matter."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004257",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08628",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to switch back to classic Outlook after update.\n\nfull_description_text:\n- The user updated Outlook 365 on their Windows 10 computer.  \n- They mentioned that they don't see the \"switch back to classic\" button.  \n- The user is looking for a way to revert to the classic version.",
+  "short_description": "Unable to switch back to classic Outlook after update.",
+  "description": "- The user updated Outlook 365 on their Windows 10 computer.  \n- They mentioned that they don't see the \"switch back to classic\" button.  \n- The user is looking for a way to revert to the classic version."
+}

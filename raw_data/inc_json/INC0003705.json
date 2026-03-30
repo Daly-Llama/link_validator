@@ -1,0 +1,20 @@
+{
+  "number": "INC0003705",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07828",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with formatting cells in Google Sheets\n\nfull_description_text:  \nSo, I was trying to format some cells in Google Sheets, but I just can't figure it out. I mean, I want to change the way the cells look, but nothing seems to work right. It's really frustrating because I thought it would be easy, but I'm just stuck and need some help with it.",
+  "short_description": "Need help with formatting cells in Google Sheets",
+  "description": "So, I was trying to format some cells in Google Sheets, but I just can't figure it out. I mean, I want to change the way the cells look, but nothing seems to work right. It's really frustrating because I thought it would be easy, but I'm just stuck and need some help with it."
+}

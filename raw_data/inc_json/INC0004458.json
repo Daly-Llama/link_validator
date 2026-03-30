@@ -1,0 +1,20 @@
+{
+  "number": "INC0004458",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09121",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about furniture included in dorm rooms\n\nfull_description_text:\n- So, like, the person was asking what stuff is in the dorm rooms, you know?  \n- They wanna know what kind of furniture comes with it, like beds and chairs and things.  \n- It’s kinda confusing because they’re not sure if there’s a table or just a bed, right?  \n- They were chatting live, and it seemed like they really needed to know this for, um, moving in or something.",
+  "short_description": "Inquiry about furniture included in dorm rooms",
+  "description": "- So, like, the person was asking what stuff is in the dorm rooms, you know?  \n- They wanna know what kind of furniture comes with it, like beds and chairs and things.  \n- It’s kinda confusing because they’re not sure if there’s a table or just a bed, right?  \n- They were chatting live, and it seemed like they really needed to know this for, um, moving in or something."
+}

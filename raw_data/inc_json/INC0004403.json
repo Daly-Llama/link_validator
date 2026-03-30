@@ -1,0 +1,20 @@
+{
+  "number": "INC0004403",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08956",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Foxit license activation issue on Windows computer\n\nfull_description_text: I lost access to Foxit on my computer after something was done to it. Now, it keeps prompting me to activate the license, and I don't know how to get it back. This is really frustrating because I need to use Foxit for my work.",
+  "short_description": "Foxit license activation issue on Windows computer",
+  "description": "I lost access to Foxit on my computer after something was done to it. Now, it keeps prompting me to activate the license, and I don't know how to get it back. This is really frustrating because I need to use Foxit for my work."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002275",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03369",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to roll over MBM to the new fiscal year.\n\nfull_description_text:  \nSo, I'm trying to get MBM rolled over to the new fiscal year, but I'm not sure how to do it. I just need it done so we can keep everything on track. It's kinda important for the budgeting stuff, you know? Just looking for some help to make it happen.",
+  "short_description": "Need to roll over MBM to the new fiscal year.",
+  "description": "So, I'm trying to get MBM rolled over to the new fiscal year, but I'm not sure how to do it. I just need it done so we can keep everything on track. It's kinda important for the budgeting stuff, you know? Just looking for some help to make it happen."
+}

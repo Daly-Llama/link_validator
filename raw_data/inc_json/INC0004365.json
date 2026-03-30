@@ -1,0 +1,20 @@
+{
+  "number": "INC0004365",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08852",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to join another university's Campus Alert System\n\nfull_description_text:  \nThe user is inquiring about the possibility of being added to a different university's Campus Alert System, specifically regarding the alerts that are sent out by Everbridge. They are currently receiving alerts from their own campus but are interested in receiving notifications from another institution. This request seems to stem from a desire to stay informed about events or emergencies that may occur at that other university. The user is unsure about the technicalities involved in this process and is seeking clarification on how it might be achieved.",
+  "short_description": "Request to join another university's Campus Alert System",
+  "description": "The user is inquiring about the possibility of being added to a different university's Campus Alert System, specifically regarding the alerts that are sent out by Everbridge. They are currently receiving alerts from their own campus but are interested in receiving notifications from another institution. This request seems to stem from a desire to stay informed about events or emergencies that may occur at that other university. The user is unsure about the technicalities involved in this process and is seeking clarification on how it might be achieved."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003163",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05968",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to set up online payment for application fees and deposits\n\nfull_description_text:  \nI am looking to have deposits and application fees set up for online payment. Specifically, I need to increase the deposit for the Physician Assistants Program on the Deposits website. Additionally, I would like to know what options are available for collecting fees for external courses or conferences.",
+  "short_description": "Request to set up online payment for application fees and deposits",
+  "description": "I am looking to have deposits and application fees set up for online payment. Specifically, I need to increase the deposit for the Physician Assistants Program on the Deposits website. Additionally, I would like to know what options are available for collecting fees for external courses or conferences."
+}

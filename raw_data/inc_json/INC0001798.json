@@ -1,0 +1,20 @@
+{
+  "number": "INC0001798",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01913",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to update document in DocuSign powerform\n\nfull_description_text:  \nI need to update the document used as a powerform in DocuSign.  \nAlso, I need to update the power signer links with a new document version.  \nThis is important for my current process and needs to be done soon.",
+  "short_description": "Need to update document in DocuSign powerform",
+  "description": "I need to update the document used as a powerform in DocuSign.  \nAlso, I need to update the power signer links with a new document version.  \nThis is important for my current process and needs to be done soon."
+}

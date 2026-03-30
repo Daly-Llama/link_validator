@@ -1,0 +1,20 @@
+{
+  "number": "INC0002410",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB03773",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to add a new subscriber to my Listserv.\n\nfull_description_text: I was trying to add a new subscriber to my Listserv, but it didn't work. I followed the steps, but nothing happened. It's frustrating because I need this done for my group. Can someone help me figure out what's going wrong?",
+  "short_description": "Unable to add a new subscriber to my Listserv.",
+  "description": "I was trying to add a new subscriber to my Listserv, but it didn't work. I followed the steps, but nothing happened. It's frustrating because I need this done for my group. Can someone help me figure out what's going wrong?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003611",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07728",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty accessing settings in Google Docs\n\nfull_description_text:\n- El usuario está intentando acceder a la configuración en Google Docs.  \n- No sabe cómo encontrar la opción para ver sus ajustes.  \n- Esto está causando confusión y frustración al no poder personalizar su experiencia.  \n- El usuario necesita ayuda para entender cómo acceder a estas configuraciones.",
+  "short_description": "Difficulty accessing settings in Google Docs",
+  "description": "- El usuario está intentando acceder a la configuración en Google Docs.  \n- No sabe cómo encontrar la opción para ver sus ajustes.  \n- Esto está causando confusión y frustración al no poder personalizar su experiencia.  \n- El usuario necesita ayuda para entender cómo acceder a estas configuraciones."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001537",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01150",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Security cameras not connecting to server in Milestone XProtect\n\nfull_description_text:\n- The security cameras are not working at all.  \n- I keep getting an error that says \"Connection to server failed. Retrying.\"  \n- Also, one of the cameras is turned sideways, which is really weird.  \n- I don't know why this is happening, but it's super frustrating!",
+  "short_description": "Security cameras not connecting to server in Milestone XProtect",
+  "description": "- The security cameras are not working at all.  \n- I keep getting an error that says \"Connection to server failed. Retrying.\"  \n- Also, one of the cameras is turned sideways, which is really weird.  \n- I don't know why this is happening, but it's super frustrating!"
+}

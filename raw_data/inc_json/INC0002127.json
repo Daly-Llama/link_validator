@@ -1,0 +1,20 @@
+{
+  "number": "INC0002127",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB02912",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help updating a report in Banner Student\n\nfull_description_text:  \nHola, I am trying to update a report or maybe an interface in Banner. I’m not really sure how to do it, and I could use some help. It’s important for my work, but I don’t know what steps to take. Thank you!",
+  "short_description": "Need help updating a report in Banner Student",
+  "description": "Hola, I am trying to update a report or maybe an interface in Banner. I’m not really sure how to do it, and I could use some help. It’s important for my work, but I don’t know what steps to take. Thank you!"
+}

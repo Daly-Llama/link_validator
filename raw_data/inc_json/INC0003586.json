@@ -1,0 +1,20 @@
+{
+  "number": "INC0003586",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07622",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty changing settings and preferences in D2L.\n\nfull_description_text:\n- The user is trying to change their settings and preferences in D2L but is facing issues.  \n- They are unsure of the steps to take and need guidance on how to proceed.  \n- The user may not be familiar with the interface, which could be causing confusion.  \n- Additional context about their specific settings or preferences is not provided.",
+  "short_description": "Difficulty changing settings and preferences in D2L.",
+  "description": "- The user is trying to change their settings and preferences in D2L but is facing issues.  \n- They are unsure of the steps to take and need guidance on how to proceed.  \n- The user may not be familiar with the interface, which could be causing confusion.  \n- Additional context about their specific settings or preferences is not provided."
+}

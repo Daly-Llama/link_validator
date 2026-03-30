@@ -1,0 +1,20 @@
+{
+  "number": "INC0002037",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB02639",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to register for classes due to registration hold.\n\nfull_description_text:\n- The user was attempting to register for classes through the Self Service portal.  \n- They encountered a message indicating that a hold was placed on their registration, preventing them from completing the process.  \n- This situation can be frustrating, especially when trying to finalize course selections for the upcoming term.  \n- Clarifying the reason for the hold would help the user understand the next steps they need to take.",
+  "short_description": "Unable to register for classes due to registration hold.",
+  "description": "- The user was attempting to register for classes through the Self Service portal.  \n- They encountered a message indicating that a hold was placed on their registration, preventing them from completing the process.  \n- This situation can be frustrating, especially when trying to finalize course selections for the upcoming term.  \n- Clarifying the reason for the hold would help the user understand the next steps they need to take."
+}

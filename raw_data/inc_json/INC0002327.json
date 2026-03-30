@@ -1,0 +1,20 @@
+{
+  "number": "INC0002327",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03538",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need verification of KnowBe4 training completion and certificate location.\n\nfull_description_text: The user is seeking confirmation that their KnowBe4 training has been successfully completed. They mentioned having finished the training but are unsure if there is a record of it. Additionally, they are looking for guidance on where to find their completion certificate, which is necessary for their accreditation process.",
+  "short_description": "Need verification of KnowBe4 training completion and certificate location.",
+  "description": "The user is seeking confirmation that their KnowBe4 training has been successfully completed. They mentioned having finished the training but are unsure if there is a record of it. Additionally, they are looking for guidance on where to find their completion certificate, which is necessary for their accreditation process."
+}

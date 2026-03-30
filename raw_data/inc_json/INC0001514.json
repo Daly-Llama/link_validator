@@ -1,0 +1,20 @@
+{
+  "number": "INC0001514",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB01078",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues logging into multiple USD websites and email accounts\n\nfull_description_text:\n- User can access the portal but can't log into email.  \n- Outlook is not accepting the password, even though the computer login works.  \n- User also can't log into SNAP with their username and password.  \n- They received a notification about a QuikPay email change.",
+  "short_description": "Issues logging into multiple USD websites and email accounts",
+  "description": "- User can access the portal but can't log into email.  \n- Outlook is not accepting the password, even though the computer login works.  \n- User also can't log into SNAP with their username and password.  \n- They received a notification about a QuikPay email change."
+}

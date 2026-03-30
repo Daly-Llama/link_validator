@@ -1,0 +1,20 @@
+{
+  "number": "INC0003255",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06260",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Coyote Card Mobile app not functioning properly\n\nfull_description_text:\n- I opened the Coyote Card mobile app, but it is not working.  \n- There is no option to add my card to Apple Wallet in the eAccounts app.  \n- I see an error message saying my login is correct, but my account is not registered in the Transact system.  \n- I need help to fix this issue with my Coyote Card Mobile.",
+  "short_description": "Coyote Card Mobile app not functioning properly",
+  "description": "- I opened the Coyote Card mobile app, but it is not working.  \n- There is no option to add my card to Apple Wallet in the eAccounts app.  \n- I see an error message saying my login is correct, but my account is not registered in the Transact system.  \n- I need help to fix this issue with my Coyote Card Mobile."
+}

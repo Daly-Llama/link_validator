@@ -1,0 +1,20 @@
+{
+  "number": "INC0002759",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB04809",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble connecting to Windows Virtual Desktop from off-campus.\n\nfull_description_text:  \nSo, I'm trying to get into the Windows Virtual Desktop while I'm off-campus, but it's just not working. I need to access some department network file shares, and I can't seem to figure out how to connect. It's super frustrating because I thought it would be easy, but now I'm stuck. Any help would be awesome!",
+  "short_description": "Trouble connecting to Windows Virtual Desktop from off-campus.",
+  "description": "So, I'm trying to get into the Windows Virtual Desktop while I'm off-campus, but it's just not working. I need to access some department network file shares, and I can't seem to figure out how to connect. It's super frustrating because I thought it would be easy, but now I'm stuck. Any help would be awesome!"
+}

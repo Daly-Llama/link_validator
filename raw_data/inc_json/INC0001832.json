@@ -1,0 +1,20 @@
+{
+  "number": "INC0001832",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02034",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cannot log into USD Library databases for online resources.\n\nfull_description_text:\n- I cannot log into the USD Library.  \n- I have problem with my password for ILLiad.  \n- The error says my username is wrong or no access.  \n- I am a student from non-USD BOR school and need help to access library databases.",
+  "short_description": "Cannot log into USD Library databases for online resources.",
+  "description": "- I cannot log into the USD Library.  \n- I have problem with my password for ILLiad.  \n- The error says my username is wrong or no access.  \n- I am a student from non-USD BOR school and need help to access library databases."
+}

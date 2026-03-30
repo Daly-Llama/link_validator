@@ -1,0 +1,20 @@
+{
+  "number": "INC0004265",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB08651",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: MS Steps Recorder not functioning or can't be added as optional app\n\nfull_description_text:  \nSo, the user was trying to enable Microsoft Steps Recorder on their Windows 10 machine, but it just wasn't working. They mentioned that they couldn't add it as an optional application, which is pretty frustrating. It seems like something's off with the GPEDIT.msc settings, but they didn't get into the details.",
+  "short_description": "MS Steps Recorder not functioning or can't be added as optional app",
+  "description": "So, the user was trying to enable Microsoft Steps Recorder on their Windows 10 machine, but it just wasn't working. They mentioned that they couldn't add it as an optional application, which is pretty frustrating. It seems like something's off with the GPEDIT.msc settings, but they didn't get into the details."
+}

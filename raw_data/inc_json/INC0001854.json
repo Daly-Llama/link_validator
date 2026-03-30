@@ -1,0 +1,20 @@
+{
+  "number": "INC0001854",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB02082",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to check if student set up Banner Self Service account\n\nfull_description_text:  \nThe admissions counselor is trying to find out if a student has set up their Banner Self Service account. They want to know if there's a way to see this info or if we can check it somehow. It's important for them to know who's already in the system.",
+  "short_description": "Need to check if student set up Banner Self Service account",
+  "description": "The admissions counselor is trying to find out if a student has set up their Banner Self Service account. They want to know if there's a way to see this info or if we can check it somehow. It's important for them to know who's already in the system."
+}

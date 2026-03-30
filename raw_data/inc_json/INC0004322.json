@@ -1,0 +1,20 @@
+{
+  "number": "INC0004322",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08759",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Reporting a crime near the USD campus\n\nfull_description_text:  \nSo, I was trying to report a crime that happened around the USD campus, but I’m not sure how to do it right. I filled out the form, but I’m worried I missed something important. It’s really confusing, and I just want to make sure the right people know what happened.",
+  "short_description": "Reporting a crime near the USD campus",
+  "description": "So, I was trying to report a crime that happened around the USD campus, but I’m not sure how to do it right. I filled out the form, but I’m worried I missed something important. It’s really confusing, and I just want to make sure the right people know what happened."
+}

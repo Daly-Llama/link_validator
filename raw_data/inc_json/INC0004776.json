@@ -1,0 +1,20 @@
+{
+  "number": "INC0004776",
+  "category": "Human Resources",
+  "subcategory": "Human Resources",
+  "correct_kb": "KB10041",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Common questions about the Affordable Care Act (ACA)  \n\nfull_description_text:  \nDuring a phone call, the user inquired about frequently asked questions regarding the Affordable Care Act, often referred to as ACA. They were looking for clarity on various aspects of the ACA, which is a significant piece of legislation in the United States. The conversation revolved around understanding the common queries that people have about this act. It seems that there is a lot of confusion and many questions that arise when discussing the Affordable Care Act, and the user wanted to know more about these typical inquiries.",
+  "short_description": "Common questions about the Affordable Care Act (ACA)  ",
+  "description": "During a phone call, the user inquired about frequently asked questions regarding the Affordable Care Act, often referred to as ACA. They were looking for clarity on various aspects of the ACA, which is a significant piece of legislation in the United States. The conversation revolved around understanding the common queries that people have about this act. It seems that there is a lot of confusion and many questions that arise when discussing the Affordable Care Act, and the user wanted to know more about these typical inquiries."
+}

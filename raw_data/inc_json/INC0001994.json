@@ -1,0 +1,20 @@
+{
+  "number": "INC0001994",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02521",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for correction of incorrectly created Cayuse guest account\n\nfull_description_text:  \nThe user is experiencing issues with the Cayuse IRB software implementation in the Office of Research. They have reported that the guest accounts for A-Tune are not functioning properly, as these accounts must be processed through the USD system for login access. Additionally, there is a specific request to amend the name associated with a Cayuse guest account that was created incorrectly. This situation is causing significant inconvenience and hindering the user's ability to proceed with necessary research activities.",
+  "short_description": "Request for correction of incorrectly created Cayuse guest account",
+  "description": "The user is experiencing issues with the Cayuse IRB software implementation in the Office of Research. They have reported that the guest accounts for A-Tune are not functioning properly, as these accounts must be processed through the USD system for login access. Additionally, there is a specific request to amend the name associated with a Cayuse guest account that was created incorrectly. This situation is causing significant inconvenience and hindering the user's ability to proceed with necessary research activities."
+}

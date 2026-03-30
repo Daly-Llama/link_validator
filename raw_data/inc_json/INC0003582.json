@@ -1,0 +1,20 @@
+{
+  "number": "INC0003582",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07594",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to email a student from the D2L classlist.\n\nfull_description_text: \nThe user is trying to email a student from their classlist in D2L but can't figure out how to do it. They need to send a message but are stuck on the process. This issue is causing a delay in communication with the student.",
+  "short_description": "Unable to email a student from the D2L classlist.",
+  "description": "The user is trying to email a student from their classlist in D2L but can't figure out how to do it. They need to send a message but are stuck on the process. This issue is causing a delay in communication with the student."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001404",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00774",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Computer goes to sleep too quickly, logging me out often.\n\nfull_description_text: My computer keeps logging me out way too often, and it goes to sleep after just 2 minutes of inactivity. It's super annoying because I can't even get through a quick task without it shutting down on me. I’m using Windows OS, and I really need it to stay awake longer so I can finish what I'm working on without interruptions.",
+  "short_description": "Computer goes to sleep too quickly, logging me out often.",
+  "description": "My computer keeps logging me out way too often, and it goes to sleep after just 2 minutes of inactivity. It's super annoying because I can't even get through a quick task without it shutting down on me. I’m using Windows OS, and I really need it to stay awake longer so I can finish what I'm working on without interruptions."
+}

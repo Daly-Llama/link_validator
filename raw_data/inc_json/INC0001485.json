@@ -1,0 +1,20 @@
+{
+  "number": "INC0001485",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB01001",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access BADM 723 VM due to desktop source unavailability.\n\nfull_description_text: The user is experiencing difficulties logging into the BADM 723 virtual machine desktop. An error message indicates that the assigned desktop source is currently unavailable, prompting the user to attempt reconnection later or reach out to the system administrator for assistance. This issue may affect productivity and requires timely resolution to restore access.",
+  "short_description": "Unable to access BADM 723 VM due to desktop source unavailability.",
+  "description": "The user is experiencing difficulties logging into the BADM 723 virtual machine desktop. An error message indicates that the assigned desktop source is currently unavailable, prompting the user to attempt reconnection later or reach out to the system administrator for assistance. This issue may affect productivity and requires timely resolution to restore access."
+}

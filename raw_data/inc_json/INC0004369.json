@@ -1,0 +1,20 @@
+{
+  "number": "INC0004369",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB08874",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Confusion about using administrative leave during emergency closings.\n\nfull_description_text: \nA field technician is unsure how to report administrative leave. This leave is granted during emergency closings, such as severe weather. The technician needs clarity on the process for timesheet reporting. The situation is governed by the South Dakota Board of Regents Policy.",
+  "short_description": "Confusion about using administrative leave during emergency closings.",
+  "description": "A field technician is unsure how to report administrative leave. This leave is granted during emergency closings, such as severe weather. The technician needs clarity on the process for timesheet reporting. The situation is governed by the South Dakota Board of Regents Policy."
+}

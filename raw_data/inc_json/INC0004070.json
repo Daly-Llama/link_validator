@@ -1,0 +1,20 @@
+{
+  "number": "INC0004070",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08304",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty adding a picture shape in Word.\n\nfull_description_text: The user is trying to figure out how to insert a picture shape in Word but is having trouble. They seem to be unsure of the steps involved and are looking for guidance on this specific task. It's important to clarify what they were doing when the issue arose, as it might help in understanding their needs better.",
+  "short_description": "Difficulty adding a picture shape in Word.",
+  "description": "The user is trying to figure out how to insert a picture shape in Word but is having trouble. They seem to be unsure of the steps involved and are looking for guidance on this specific task. It's important to clarify what they were doing when the issue arose, as it might help in understanding their needs better."
+}

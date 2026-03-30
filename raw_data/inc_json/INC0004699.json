@@ -1,0 +1,20 @@
+{
+  "number": "INC0004699",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09807",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Direct send email rejections from external sender using usd.edu.\n\nfull_description_text: I'm having trouble with emails from a partner using usd.edu. They keep getting direct send reject error messages when trying to reach us. It's really frustrating, and I need help figuring out what's going wrong.",
+  "short_description": "Direct send email rejections from external sender using usd.edu.",
+  "description": "I'm having trouble with emails from a partner using usd.edu. They keep getting direct send reject error messages when trying to reach us. It's really frustrating, and I need help figuring out what's going wrong."
+}

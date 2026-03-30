@@ -1,0 +1,20 @@
+{
+  "number": "INC0001092",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB00174",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues connecting to USD network via VPN while traveling\n\nfull_description_text:  \n- User is trying to access the USD network remotely while traveling.  \n- They are encountering a Network Security Alert during the connection attempt.  \n- There is uncertainty about using macOS' built-in VPN client for this purpose.  \n- User needs access to their office computer and Imagenow (Perceptive Content) off campus.",
+  "short_description": "Issues connecting to USD network via VPN while traveling",
+  "description": "- User is trying to access the USD network remotely while traveling.  \n- They are encountering a Network Security Alert during the connection attempt.  \n- There is uncertainty about using macOS' built-in VPN client for this purpose.  \n- User needs access to their office computer and Imagenow (Perceptive Content) off campus."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004778",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB10046",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Procedures for addressing suspected research misconduct\n\nfull_description_text:  \nDuring a live chat, the user inquired about the necessary steps to take if there are suspicions of research misconduct. They seemed unsure about the specific procedures that should be followed in such cases. The conversation lacked clarity, and there were some typos in their messages, which made it a bit difficult to understand their exact concerns.",
+  "short_description": "Procedures for addressing suspected research misconduct",
+  "description": "During a live chat, the user inquired about the necessary steps to take if there are suspicions of research misconduct. They seemed unsure about the specific procedures that should be followed in such cases. The conversation lacked clarity, and there were some typos in their messages, which made it a bit difficult to understand their exact concerns."
+}

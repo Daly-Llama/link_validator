@@ -1,0 +1,20 @@
+{
+  "number": "INC0001688",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB01605",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Device quarantined and unable to connect to network.\n\nfull_description_text:  \n- So, the user was trying to connect their computer to the WIFI.  \n- They got a message saying \"Quarantine Established\" and couldn't access the internet at all, even with an ethernet cable.  \n- Apparently, their system has a Trojan URC bot infection, which is why the network blocked them to protect other devices.  \n- It's a bit frustrating, right? They just want to get online!",
+  "short_description": "Device quarantined and unable to connect to network.",
+  "description": "- So, the user was trying to connect their computer to the WIFI.  \n- They got a message saying \"Quarantine Established\" and couldn't access the internet at all, even with an ethernet cable.  \n- Apparently, their system has a Trojan URC bot infection, which is why the network blocked them to protect other devices.  \n- It's a bit frustrating, right? They just want to get online!"
+}

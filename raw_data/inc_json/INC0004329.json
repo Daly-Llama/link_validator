@@ -1,0 +1,20 @@
+{
+  "number": "INC0004329",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB08766",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about safety and security contacts at USD Sioux Falls\n\nfull_description_text: \nThe caller is looking for information on who to reach out to regarding safety or security issues at the USD – Sioux Falls campus. They mentioned some concerns but didn't specify what they were, just that they felt it was important to get in touch with the right person. It seems like they might have encountered something unsettling, but the details were a bit vague. The campus environment can sometimes feel a bit overwhelming, especially if there are safety worries lingering in the air.",
+  "short_description": "Inquiry about safety and security contacts at USD Sioux Falls",
+  "description": "The caller is looking for information on who to reach out to regarding safety or security issues at the USD – Sioux Falls campus. They mentioned some concerns but didn't specify what they were, just that they felt it was important to get in touch with the right person. It seems like they might have encountered something unsettling, but the details were a bit vague. The campus environment can sometimes feel a bit overwhelming, especially if there are safety worries lingering in the air."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003666",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07785",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty naming a Google Site during setup.\n\nfull_description_text: The user was trying to set up their Google Site but got stuck on how to name it. They expressed confusion about the naming process and wanted guidance on what to enter. It seems they were looking for a straightforward way to proceed but felt unsure about the options available to them.",
+  "short_description": "Difficulty naming a Google Site during setup.",
+  "description": "The user was trying to set up their Google Site but got stuck on how to name it. They expressed confusion about the naming process and wanted guidance on what to enter. It seems they were looking for a straightforward way to proceed but felt unsure about the options available to them."
+}

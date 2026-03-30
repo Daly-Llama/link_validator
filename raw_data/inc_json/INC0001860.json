@@ -1,0 +1,20 @@
+{
+  "number": "INC0001860",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02097",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty connecting external hard drives to new computer.\n\nfull_description_text:\n- The user is trying to connect external hard drives to a new computer.  \n- They are having trouble getting the drives to work properly.  \n- The call was made to get help with this issue on a USD workstation.",
+  "short_description": "Difficulty connecting external hard drives to new computer.",
+  "description": "- The user is trying to connect external hard drives to a new computer.  \n- They are having trouble getting the drives to work properly.  \n- The call was made to get help with this issue on a USD workstation."
+}

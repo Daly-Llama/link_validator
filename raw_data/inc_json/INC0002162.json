@@ -1,0 +1,20 @@
+{
+  "number": "INC0002162",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB03018",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Student dropped course but still appears in D2L class list.\n\nfull_description_text:  \nSo, I was talking to a student who dropped a class, right? They checked the Self Service portal, and it says they’re not registered anymore, but they can still see the course in D2L. It’s kind of confusing because they’re on the class list in D2L but not in Banner-Student.",
+  "short_description": "Student dropped course but still appears in D2L class list.",
+  "description": "So, I was talking to a student who dropped a class, right? They checked the Self Service portal, and it says they’re not registered anymore, but they can still see the course in D2L. It’s kind of confusing because they’re on the class list in D2L but not in Banner-Student."
+}

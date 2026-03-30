@@ -1,0 +1,20 @@
+{
+  "number": "INC0004757",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09959",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: New staff member encounters login error for TRIO application.\n\nfull_description_text: A new staff member is trying to access the TRIO Student Support Services application on a Windows machine. However, they are facing an error when attempting to log in. This issue was reported during a phone call with the help desk, and it seems to be causing some delays in their onboarding process. The staff member is eager to get started but is currently unable to access the necessary resources.",
+  "short_description": "New staff member encounters login error for TRIO application.",
+  "description": "A new staff member is trying to access the TRIO Student Support Services application on a Windows machine. However, they are facing an error when attempting to log in. This issue was reported during a phone call with the help desk, and it seems to be causing some delays in their onboarding process. The staff member is eager to get started but is currently unable to access the necessary resources."
+}

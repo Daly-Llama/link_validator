@@ -1,0 +1,20 @@
+{
+  "number": "INC0003922",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08068",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to track multiple calendars in Outlook.\n\nfull_description_text:  \nI am trying to track multiple calendars in Outlook but it's not working. I don't know how to do it properly. It seems like I need help with this issue.",
+  "short_description": "Unable to track multiple calendars in Outlook.",
+  "description": "I am trying to track multiple calendars in Outlook but it's not working. I don't know how to do it properly. It seems like I need help with this issue."
+}

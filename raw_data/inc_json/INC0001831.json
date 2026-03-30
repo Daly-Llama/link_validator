@@ -1,0 +1,20 @@
+{
+  "number": "INC0001831",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB02033",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help adding departmental email accounts to Outlook on Mac\n\nfull_description_text:\n- The user was trying to set up their Outlook on a Mac, which is a bit tricky sometimes.  \n- They wanted to add some department email accounts, but it just wasn’t working out for them.  \n- It seems like they were a bit confused about the steps, and they really needed some guidance to get those emails in there.  \n- They mentioned something about how important it is for everyone to see the emails, so it’s kind of a big deal!",
+  "short_description": "Need help adding departmental email accounts to Outlook on Mac",
+  "description": "- The user was trying to set up their Outlook on a Mac, which is a bit tricky sometimes.  \n- They wanted to add some department email accounts, but it just wasn’t working out for them.  \n- It seems like they were a bit confused about the steps, and they really needed some guidance to get those emails in there.  \n- They mentioned something about how important it is for everyone to see the emails, so it’s kind of a big deal!"
+}

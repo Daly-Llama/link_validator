@@ -1,0 +1,20 @@
+{
+  "number": "INC0002423",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB03798",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble connecting to shared mailbox in Outlook Mobile\n\nfull_description_text:\n- User trying to access shared mailbox on phone.  \n- They can't find the option in Outlook Mobile.  \n- Need to read departmental emails but it's not working.  \n- Just using Office 365 and Exchange Online.",
+  "short_description": "Trouble connecting to shared mailbox in Outlook Mobile",
+  "description": "- User trying to access shared mailbox on phone.  \n- They can't find the option in Outlook Mobile.  \n- Need to read departmental emails but it's not working.  \n- Just using Office 365 and Exchange Online."
+}

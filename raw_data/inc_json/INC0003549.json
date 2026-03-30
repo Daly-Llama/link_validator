@@ -1,0 +1,20 @@
+{
+  "number": "INC0003549",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07396",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help setting up assigned iPad for work.\n\nfull_description_text:  \n- So, I was chatting with someone who just got an iPad for their job in facilities.  \n- They were really unsure about how to get it all set up and were asking a bunch of questions.  \n- It seems like they just want to know the steps to make it work, but they didn’t have any tech background, which made it a bit tricky.  \n- They mentioned they were using WebTMA, but that’s about all I got from them!",
+  "short_description": "Need help setting up assigned iPad for work.",
+  "description": "- So, I was chatting with someone who just got an iPad for their job in facilities.  \n- They were really unsure about how to get it all set up and were asking a bunch of questions.  \n- It seems like they just want to know the steps to make it work, but they didn’t have any tech background, which made it a bit tricky.  \n- They mentioned they were using WebTMA, but that’s about all I got from them!"
+}

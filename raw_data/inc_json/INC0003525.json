@@ -1,0 +1,20 @@
+{
+  "number": "INC0003525",
+  "category": "DakotaDome Lighting Control Touch Panel Not Working",
+  "subcategory": "Knowledge Base",
+  "correct_kb": "KB07341",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: DakotaDome lighting control touch panel shows unreachable webpage error.\n\nfull_description_text: \nSo, we were trying to use the touchpads for the lighting system at the DakotaDome, right? But both of them just popped up this error message saying the webpage isn’t available. It mentioned something about an unreachable address, which is super frustrating when you just want to get the lights working. I mean, it’s like they just decided to stop cooperating out of nowhere!",
+  "short_description": "DakotaDome lighting control touch panel shows unreachable webpage error.",
+  "description": "So, we were trying to use the touchpads for the lighting system at the DakotaDome, right? But both of them just popped up this error message saying the webpage isn’t available. It mentioned something about an unreachable address, which is super frustrating when you just want to get the lights working. I mean, it’s like they just decided to stop cooperating out of nowhere!"
+}

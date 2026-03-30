@@ -1,0 +1,20 @@
+{
+  "number": "INC0002598",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB04298",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Printer making loud noises while attempting to print.\n\nfull_description_text: Users in the computer lab have reported that the office printer is producing loud noises when trying to print. The sounds occur specifically when the printer is pulling paper from the tray. Additionally, there are instances where the printer fails to print altogether while making these strange noises.",
+  "short_description": "Printer making loud noises while attempting to print.",
+  "description": "Users in the computer lab have reported that the office printer is producing loud noises when trying to print. The sounds occur specifically when the printer is pulling paper from the tray. Additionally, there are instances where the printer fails to print altogether while making these strange noises."
+}

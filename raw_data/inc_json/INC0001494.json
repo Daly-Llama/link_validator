@@ -1,0 +1,20 @@
+{
+  "number": "INC0001494",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01024",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to remove PM number FM-123066 from schedule.\n\nfull_description_text:  \n- The user is requesting the removal of PM number FM-123066 from the preventative maintenance schedule.  \n- This PM is currently composed of two separate machine's PMs, which is causing confusion.  \n- Additionally, the user has asked for these PMs to be added into TMA and mirrored off other existing PMs.  \n- There is also an issue with the finished PM work order for UCV not displaying in the work order browse search for North Complex.",
+  "short_description": "Need to remove PM number FM-123066 from schedule.",
+  "description": "- The user is requesting the removal of PM number FM-123066 from the preventative maintenance schedule.  \n- This PM is currently composed of two separate machine's PMs, which is causing confusion.  \n- Additionally, the user has asked for these PMs to be added into TMA and mirrored off other existing PMs.  \n- There is also an issue with the finished PM work order for UCV not displaying in the work order browse search for North Complex."
+}

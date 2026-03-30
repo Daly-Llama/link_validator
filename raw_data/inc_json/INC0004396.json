@@ -1,0 +1,20 @@
+{
+  "number": "INC0004396",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08947",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy on network monitoring and defense\n\nfull_description_text:  \nThe user is seeking clarification on the security policy regarding network monitoring and defense. They are specifically interested in the guidelines outlined under CIS Control 13. This inquiry suggests a need for understanding compliance measures and security protocols in place. The request was submitted through the self-service form, indicating a formal approach to obtaining this information.",
+  "short_description": "Inquiry about USD security policy on network monitoring and defense",
+  "description": "The user is seeking clarification on the security policy regarding network monitoring and defense. They are specifically interested in the guidelines outlined under CIS Control 13. This inquiry suggests a need for understanding compliance measures and security protocols in place. The request was submitted through the self-service form, indicating a formal approach to obtaining this information."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002791",
+  "category": "Experiential Learning and Education Abroad",
+  "subcategory": "Experiential Learning and Education Abroad",
+  "correct_kb": "KB04882",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about the Alternative Week of Off-Campus Learning (AWOL)\n\nfull_description_text:\n- I would like to know what AWOL is.  \n- I'm curious about when I can apply for AWOL.  \n- Can you tell me how to apply for AWOL?  \n- Also, what is the cost to participate in AWOL?",
+  "short_description": "Questions about the Alternative Week of Off-Campus Learning (AWOL)",
+  "description": "- I would like to know what AWOL is.  \n- I'm curious about when I can apply for AWOL.  \n- Can you tell me how to apply for AWOL?  \n- Also, what is the cost to participate in AWOL?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003645",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07764",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Google Docs offline functionality and usage concerns\n\nfull_description_text:  \nUser wants to know how Google Docs operates without an internet connection.  \nThey are curious about the offline capabilities and features available.  \nUnderstanding this is crucial for their workflow and document access.  \nThey need clarity on what can be done offline versus online.",
+  "short_description": "Google Docs offline functionality and usage concerns",
+  "description": "User wants to know how Google Docs operates without an internet connection.  \nThey are curious about the offline capabilities and features available.  \nUnderstanding this is crucial for their workflow and document access.  \nThey need clarity on what can be done offline versus online."
+}

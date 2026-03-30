@@ -1,0 +1,20 @@
+{
+  "number": "INC0004515",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB09238",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Frequently asked questions about the Experience portal.\n\nfull_description_text:  \nThe user was looking for answers on the Experience portal. They had some common questions that needed clarification. It seems they were unsure about certain features and how to navigate the portal effectively. This is a common issue for many users trying to get familiar with the platform.",
+  "short_description": "Frequently asked questions about the Experience portal.",
+  "description": "The user was looking for answers on the Experience portal. They had some common questions that needed clarification. It seems they were unsure about certain features and how to navigate the portal effectively. This is a common issue for many users trying to get familiar with the platform."
+}

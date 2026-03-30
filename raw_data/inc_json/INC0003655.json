@@ -1,0 +1,20 @@
+{
+  "number": "INC0003655",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07774",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble creating a PDF with Grackle Docs\n\nfull_description_text:  \n- I'm trying to make a PDF with Grackle Docs but it's not working.  \n- I don't really know what I'm doing wrong, but I need help.  \n- Can someone please tell me how to do this?",
+  "short_description": "Trouble creating a PDF with Grackle Docs",
+  "description": "- I'm trying to make a PDF with Grackle Docs but it's not working.  \n- I don't really know what I'm doing wrong, but I need help.  \n- Can someone please tell me how to do this?"
+}

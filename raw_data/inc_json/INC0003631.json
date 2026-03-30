@@ -1,0 +1,20 @@
+{
+  "number": "INC0003631",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07749",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to determine who can remove collaborators on Google Docs.\n\nfull_description_text: A user inquired about the ability to remove collaborators on Google Docs during a phone call. They were unsure who has the authority to make these changes. The conversation focused on the permissions related to collaborator management.",
+  "short_description": "Unable to determine who can remove collaborators on Google Docs.",
+  "description": "A user inquired about the ability to remove collaborators on Google Docs during a phone call. They were unsure who has the authority to make these changes. The conversation focused on the permissions related to collaborator management."
+}

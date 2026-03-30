@@ -1,0 +1,20 @@
+{
+  "number": "INC0003432",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06991",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cable TV box cannot access a specific channel.\n\nfull_description_text:\n- The cable TV box shows a message that the channel is not available.  \n- It says the channel will be available shortly but never connects.  \n- This issue happens when trying to watch a specific channel.",
+  "short_description": "Cable TV box cannot access a specific channel.",
+  "description": "- The cable TV box shows a message that the channel is not available.  \n- It says the channel will be available shortly but never connects.  \n- This issue happens when trying to watch a specific channel."
+}

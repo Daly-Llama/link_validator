@@ -1,0 +1,20 @@
+{
+  "number": "INC0004653",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09647",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble finding Faculty instructions for Accommodate\n\nfull_description_text: So, the user was trying to figure out how to view the Faculty Resource for Accommodate, right? They called in asking, \"How do I find instructions for Accommodate?\" It seems like they were a bit lost and just needed some guidance on where to look for that info. It's kinda frustrating when you can't find what you need, especially when you're in the middle of something important.",
+  "short_description": "Trouble finding Faculty instructions for Accommodate",
+  "description": "So, the user was trying to figure out how to view the Faculty Resource for Accommodate, right? They called in asking, \"How do I find instructions for Accommodate?\" It seems like they were a bit lost and just needed some guidance on where to look for that info. It's kinda frustrating when you can't find what you need, especially when you're in the middle of something important."
+}

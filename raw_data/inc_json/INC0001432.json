@@ -1,0 +1,20 @@
+{
+  "number": "INC0001432",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00843",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to make external calls using Cisco VoIP phones.\n\nfull_description_text: \nThe user reported an inability to place calls to external numbers while utilizing their Cisco Voice over Internet Protocol (VoIP) phones. They indicated that they can successfully make calls within the internal network, but any attempt to dial outside results in failure. This issue was discussed during a live phone call with the help desk analyst, who noted the urgency of resolving the matter to ensure seamless communication. The user expressed frustration, as this limitation hinders their ability to connect with clients and partners outside the organization.",
+  "short_description": "Unable to make external calls using Cisco VoIP phones.",
+  "description": "The user reported an inability to place calls to external numbers while utilizing their Cisco Voice over Internet Protocol (VoIP) phones. They indicated that they can successfully make calls within the internal network, but any attempt to dial outside results in failure. This issue was discussed during a live phone call with the help desk analyst, who noted the urgency of resolving the matter to ensure seamless communication. The user expressed frustration, as this limitation hinders their ability to connect with clients and partners outside the organization."
+}

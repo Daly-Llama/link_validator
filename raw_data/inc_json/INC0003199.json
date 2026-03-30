@@ -1,0 +1,20 @@
+{
+  "number": "INC0003199",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06099",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't find a file I downloaded on Windows 10.\n\nfull_description_text: So, like, the user was trying to find this file they downloaded, right? They were on Windows 10 and using D2L and Outlook. They just can't seem to locate it anywhere, like, not in the downloads folder or anything. It's super frustrating because they really need that file, you know?",
+  "short_description": "Can't find a file I downloaded on Windows 10.",
+  "description": "So, like, the user was trying to find this file they downloaded, right? They were on Windows 10 and using D2L and Outlook. They just can't seem to locate it anywhere, like, not in the downloads folder or anything. It's super frustrating because they really need that file, you know?"
+}

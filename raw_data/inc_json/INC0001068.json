@@ -1,0 +1,20 @@
+{
+  "number": "INC0001068",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00122",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Zebra label printer not printing after adding new labels.\n\nfull_description_text: \nThe user reported that the Zebra printer is not working and has a red flashing light. They mentioned that after adding new labels, the printer stopped functioning. This issue needs to be addressed as the user is unable to print labels now.",
+  "short_description": "Zebra label printer not printing after adding new labels.",
+  "description": "The user reported that the Zebra printer is not working and has a red flashing light. They mentioned that after adding new labels, the printer stopped functioning. This issue needs to be addressed as the user is unable to print labels now."
+}

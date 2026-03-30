@@ -1,0 +1,20 @@
+{
+  "number": "INC0001698",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01630",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to open zipped files including .tar and .gz formats.\n\nfull_description_text: User downloaded zipped folders with multiple files. They are unable to open a zip file. Additionally, they have .tar and .gz files and are asking if there is a way to open those files. The issue persists despite using 7-Zip on Windows.",
+  "short_description": "Unable to open zipped files including .tar and .gz formats.",
+  "description": "User downloaded zipped folders with multiple files. They are unable to open a zip file. Additionally, they have .tar and .gz files and are asking if there is a way to open those files. The issue persists despite using 7-Zip on Windows."
+}

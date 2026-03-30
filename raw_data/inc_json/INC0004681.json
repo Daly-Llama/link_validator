@@ -1,0 +1,20 @@
+{
+  "number": "INC0004681",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB09734",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about submitting course reserves requests.\n\nfull_description_text:  \nThe user is seeking clarification on the process for submitting requests for course reserves. They are unsure about the appropriate timing and method for making these requests. This inquiry suggests a need for guidance on the institutional policies regarding course materials.",
+  "short_description": "Inquiry about submitting course reserves requests.",
+  "description": "The user is seeking clarification on the process for submitting requests for course reserves. They are unsure about the appropriate timing and method for making these requests. This inquiry suggests a need for guidance on the institutional policies regarding course materials."
+}

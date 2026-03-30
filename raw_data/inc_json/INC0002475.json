@@ -1,0 +1,20 @@
+{
+  "number": "INC0002475",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03936",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Error message after logging into myUSDPortal.\n\nfull_description_text: I was trying to log in to myUSDPortal, you know, the one at https://internal.usd.edu/d2l-engagement-report/index.cfm. Then, suddenly, an error popped up, and it said something like \"An error occurred. Contact your administrator for more information.\" It was really confusing because I just wanted to access my account, but instead, I got this strange message. The error details mentioned an Activity ID, which I don't really understand, and something about a relying party, cas.usd.edu.",
+  "short_description": "Error message after logging into myUSDPortal.",
+  "description": "I was trying to log in to myUSDPortal, you know, the one at https://internal.usd.edu/d2l-engagement-report/index.cfm. Then, suddenly, an error popped up, and it said something like \"An error occurred. Contact your administrator for more information.\" It was really confusing because I just wanted to access my account, but instead, I got this strange message. The error details mentioned an Activity ID, which I don't really understand, and something about a relying party, cas.usd.edu."
+}

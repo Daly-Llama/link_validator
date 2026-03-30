@@ -1,0 +1,20 @@
+{
+  "number": "INC0001245",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00467",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to watch video due to pop-up blocker in Internet Explorer\n\nfull_description_text:  \nThe user was trying to watch a video on their computer using Internet Explorer. When they clicked on the video, nothing happened, and they were confused about why it didn’t work. They mentioned something about a pop-up blocker, but it was unclear if that was the only issue. Additionally, they were having trouble exporting data to Excel, which seemed unrelated but added to their frustration.",
+  "short_description": "Unable to watch video due to pop-up blocker in Internet Explorer",
+  "description": "The user was trying to watch a video on their computer using Internet Explorer. When they clicked on the video, nothing happened, and they were confused about why it didn’t work. They mentioned something about a pop-up blocker, but it was unclear if that was the only issue. Additionally, they were having trouble exporting data to Excel, which seemed unrelated but added to their frustration."
+}

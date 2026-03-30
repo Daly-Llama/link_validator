@@ -1,0 +1,20 @@
+{
+  "number": "INC0001115",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00221",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with email reception and calendar updates in Outlook\n\nfull_description_text:  \nThe user is experiencing difficulties with their Outlook application on Windows, specifically not receiving any emails. Additionally, the calendar is failing to update, which is causing significant disruption to their scheduling and communication. This situation has led to a frustrating experience, as the user relies heavily on these features for daily tasks. Despite attempts to refresh the application, the issues persist, leaving the user in a challenging position.",
+  "short_description": "Issues with email reception and calendar updates in Outlook",
+  "description": "The user is experiencing difficulties with their Outlook application on Windows, specifically not receiving any emails. Additionally, the calendar is failing to update, which is causing significant disruption to their scheduling and communication. This situation has led to a frustrating experience, as the user relies heavily on these features for daily tasks. Despite attempts to refresh the application, the issues persist, leaving the user in a challenging position."
+}

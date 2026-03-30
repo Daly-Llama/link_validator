@@ -1,0 +1,20 @@
+{
+  "number": "INC0003292",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB06384",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for access to TeamDynamix for TDNext work\n\nfull_description_text:  \nUser is requesting access to TeamDynamix. They need to work in TDNext. The call was made to the help desk. Analyst noted the urgency of the access request. There was some confusion about the access levels required. User mentioned previous access issues, but details were unclear.",
+  "short_description": "Request for access to TeamDynamix for TDNext work",
+  "description": "User is requesting access to TeamDynamix. They need to work in TDNext. The call was made to the help desk. Analyst noted the urgency of the access request. There was some confusion about the access levels required. User mentioned previous access issues, but details were unclear."
+}

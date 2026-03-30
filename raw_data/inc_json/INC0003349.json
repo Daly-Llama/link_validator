@@ -1,0 +1,20 @@
+{
+  "number": "INC0003349",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB06618",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for refund due to failed print job charges\n\nfull_description_text:\n- A field technician attempted to print a document but encountered an error.  \n- The print job did not complete, yet the system charged for the attempt.  \n- The technician is requesting reimbursement for the funds deducted from their account.  \n- This issue involves Papercut, USD Print, and Coyote Cash systems.",
+  "short_description": "Request for refund due to failed print job charges",
+  "description": "- A field technician attempted to print a document but encountered an error.  \n- The print job did not complete, yet the system charged for the attempt.  \n- The technician is requesting reimbursement for the funds deducted from their account.  \n- This issue involves Papercut, USD Print, and Coyote Cash systems."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001752",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01788",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help accessing Slido for polling and license request.\n\nfull_description_text:  \nI want to use Slido for polling.  \nHow do I access it?  \nAlso, I need a license for Slido.  \nCan someone help me with this?",
+  "short_description": "Need help accessing Slido for polling and license request.",
+  "description": "I want to use Slido for polling.  \nHow do I access it?  \nAlso, I need a license for Slido.  \nCan someone help me with this?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003159",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05958",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty setting up a student on the Double Robot\n\nfull_description_text:\n- A field technician is trying to set up a student on a Double Robot.  \n- The setup process is unclear, leading to confusion.  \n- The technician is using Windows, Android, and Apple iOS devices.  \n- There is a need for guidance on the setup procedure.",
+  "short_description": "Difficulty setting up a student on the Double Robot",
+  "description": "- A field technician is trying to set up a student on a Double Robot.  \n- The setup process is unclear, leading to confusion.  \n- The technician is using Windows, Android, and Apple iOS devices.  \n- There is a need for guidance on the setup procedure."
+}

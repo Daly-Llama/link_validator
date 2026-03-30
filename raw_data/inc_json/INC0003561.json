@@ -1,0 +1,20 @@
+{
+  "number": "INC0003561",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07464",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Bitlocker asks for recovery key on computer startup\n\nfull_description_text: I turn on my computer and it says I need a recovery key. I don’t know why this is happening. I thought my Microsoft account would help. Now I can’t access my files.",
+  "short_description": "Bitlocker asks for recovery key on computer startup",
+  "description": "I turn on my computer and it says I need a recovery key. I don’t know why this is happening. I thought my Microsoft account would help. Now I can’t access my files."
+}

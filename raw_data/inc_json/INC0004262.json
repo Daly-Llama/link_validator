@@ -1,0 +1,20 @@
+{
+  "number": "INC0004262",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB08648",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about features of ReadSpeaker TextAid for D2L.\n\nfull_description_text:\n- The user is seeking information about ReadSpeaker TextAid and its functionalities.  \n- They are curious about what features this tool offers within the D2L environment.  \n- This inquiry suggests they may be looking to enhance their experience or assist others in using the tool effectively.",
+  "short_description": "Inquiry about features of ReadSpeaker TextAid for D2L.",
+  "description": "- The user is seeking information about ReadSpeaker TextAid and its functionalities.  \n- They are curious about what features this tool offers within the D2L environment.  \n- This inquiry suggests they may be looking to enhance their experience or assist others in using the tool effectively."
+}

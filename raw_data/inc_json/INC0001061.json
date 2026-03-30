@@ -1,0 +1,20 @@
+{
+  "number": "INC0001061",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00105",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Monitor is not turning on at all.\n\nfull_description_text: The monitor isn't working. I tried to turn it on but nothing happens. It's just dead, no lights or anything.",
+  "short_description": "Monitor is not turning on at all.",
+  "description": "The monitor isn't working. I tried to turn it on but nothing happens. It's just dead, no lights or anything."
+}

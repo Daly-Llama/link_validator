@@ -1,0 +1,20 @@
+{
+  "number": "INC0001121",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00235",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for SSH and FTP access to Science DMZ resource\n\nfull_description_text:  \nDuring a call, the user was trying to get access to a server in the Science DMZ. They mentioned needing both SSH and FTP access for a specific IP address. It seems like they were a bit confused about the process, but they really need this access to move forward with their work.",
+  "short_description": "Request for SSH and FTP access to Science DMZ resource",
+  "description": "During a call, the user was trying to get access to a server in the Science DMZ. They mentioned needing both SSH and FTP access for a specific IP address. It seems like they were a bit confused about the process, but they really need this access to move forward with their work."
+}

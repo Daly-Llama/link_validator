@@ -1,0 +1,20 @@
+{
+  "number": "INC0003154",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05951",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to update profile in D2L due to internal error.\n\nfull_description_text: The user was attempting to change their profile settings in Desire2Learn (D2L) when they encountered an internal error. This error prevented the page from processing the requested changes, leading to frustration during the live chat session. The issue seems to be related to the system's inability to handle the profile update, which is critical for user customization.",
+  "short_description": "Unable to update profile in D2L due to internal error.",
+  "description": "The user was attempting to change their profile settings in Desire2Learn (D2L) when they encountered an internal error. This error prevented the page from processing the requested changes, leading to frustration during the live chat session. The issue seems to be related to the system's inability to handle the profile update, which is critical for user customization."
+}

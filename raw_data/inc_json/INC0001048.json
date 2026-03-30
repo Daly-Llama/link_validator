@@ -1,0 +1,20 @@
+{
+  "number": "INC0001048",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00081",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: External wireless mouse and keyboard not functioning on Windows.\n\nfull_description_text:  \nDuring a live chat session, the user reported an inability to utilize their external wireless mouse and keyboard, which are essential peripherals for their Windows environment. Additionally, they mentioned that their USB printer and scanner were failing to establish a connection with the computer, further complicating their workflow. The user also expressed concern regarding an image from a USB microscope that was not displaying on the PC, indicating a potential issue with USB port functionality. This situation suggests a broader problem with the USB ports, which may require further investigation to determine the underlying cause of these connectivity failures.",
+  "short_description": "External wireless mouse and keyboard not functioning on Windows.",
+  "description": "During a live chat session, the user reported an inability to utilize their external wireless mouse and keyboard, which are essential peripherals for their Windows environment. Additionally, they mentioned that their USB printer and scanner were failing to establish a connection with the computer, further complicating their workflow. The user also expressed concern regarding an image from a USB microscope that was not displaying on the PC, indicating a potential issue with USB port functionality. This situation suggests a broader problem with the USB ports, which may require further investigation to determine the underlying cause of these connectivity failures."
+}

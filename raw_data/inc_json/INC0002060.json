@@ -1,0 +1,20 @@
+{
+  "number": "INC0002060",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02711",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: D2L courses are not appearing for the user.\n\nfull_description_text:  \n- The user is trying to access their courses on D2L but they’re just not showing up.  \n- They’ve checked multiple times and it’s like their classes have vanished.  \n- No course info or content is available, which is super frustrating for them.  \n- They really need to get back into their classes but can’t find anything!",
+  "short_description": "D2L courses are not appearing for the user.",
+  "description": "- The user is trying to access their courses on D2L but they’re just not showing up.  \n- They’ve checked multiple times and it’s like their classes have vanished.  \n- No course info or content is available, which is super frustrating for them.  \n- They really need to get back into their classes but can’t find anything!"
+}

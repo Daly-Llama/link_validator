@@ -1,0 +1,20 @@
+{
+  "number": "INC0001982",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02473",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need a link to a movie for classroom use\n\nfull_description_text:  \nI am looking for a link to a movie that I can show in my class. I need this for the USD classroom environment. It would be great if the link could support formats like DVD, VHS, MP4, or even online streaming. I just want to make sure I have the right access to show it to my students.",
+  "short_description": "Need a link to a movie for classroom use",
+  "description": "I am looking for a link to a movie that I can show in my class. I need this for the USD classroom environment. It would be great if the link could support formats like DVD, VHS, MP4, or even online streaming. I just want to make sure I have the right access to show it to my students."
+}

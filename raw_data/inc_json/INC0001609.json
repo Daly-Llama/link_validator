@@ -1,0 +1,20 @@
+{
+  "number": "INC0001609",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB01351",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Missing emails in Outlook's sent and trash folders\n\nfull_description_text:\n- User cannot find several emails in their inbox.  \n- Some emails are also missing from the sent and trash folders.  \n- This issue was reported during a phone call with the help desk.",
+  "short_description": "Missing emails in Outlook's sent and trash folders",
+  "description": "- User cannot find several emails in their inbox.  \n- Some emails are also missing from the sent and trash folders.  \n- This issue was reported during a phone call with the help desk."
+}

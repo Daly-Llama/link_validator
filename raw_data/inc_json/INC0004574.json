@@ -1,0 +1,20 @@
+{
+  "number": "INC0004574",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09387",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to know how often to send docs to Accessibility\n\nfull_description_text: So, like, I was chatting with someone about this thing. They wanna know how often they gotta send new papers to the Office of Accessibility. It’s kinda confusing, right? I mean, do they do it every month or just when they feel like it? Just trying to figure it out, you know?",
+  "short_description": "Need to know how often to send docs to Accessibility",
+  "description": "So, like, I was chatting with someone about this thing. They wanna know how often they gotta send new papers to the Office of Accessibility. It’s kinda confusing, right? I mean, do they do it every month or just when they feel like it? Just trying to figure it out, you know?"
+}

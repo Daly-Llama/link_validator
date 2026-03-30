@@ -1,0 +1,20 @@
+{
+  "number": "INC0001517",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB01089",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Printer shows ready status but fails to print documents.\n\nfull_description_text:\n- After a recent Windows update, I can't connect to my printer.  \n- When I try to print, it says \"Ready,\" but nothing happens.  \n- Right-clicking the printer gives me an error: Function address 0x00007FFC56C84BSA caused a protection fault.  \n- Some property pages may not be displayed, and I'm unsure what to do next.",
+  "short_description": "Printer shows ready status but fails to print documents.",
+  "description": "- After a recent Windows update, I can't connect to my printer.  \n- When I try to print, it says \"Ready,\" but nothing happens.  \n- Right-clicking the printer gives me an error: Function address 0x00007FFC56C84BSA caused a protection fault.  \n- Some property pages may not be displayed, and I'm unsure what to do next."
+}

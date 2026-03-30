@@ -1,0 +1,20 @@
+{
+  "number": "INC0003902",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08048",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about flags and reminders functionality in Outlook\n\nfull_description_text: \nThe user is seeking clarification on the purpose and use of flags and reminders in Outlook. They are unsure how these features can assist in managing their tasks and emails effectively. This inquiry was made during a live phone call with a help desk analyst.",
+  "short_description": "Inquiry about flags and reminders functionality in Outlook",
+  "description": "The user is seeking clarification on the purpose and use of flags and reminders in Outlook. They are unsure how these features can assist in managing their tasks and emails effectively. This inquiry was made during a live phone call with a help desk analyst."
+}

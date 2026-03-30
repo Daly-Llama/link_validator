@@ -1,0 +1,20 @@
+{
+  "number": "INC0003856",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB07990",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty formatting notes using OneNote shortcuts.\n\nfull_description_text: A field technician is trying to format notes in OneNote but is facing challenges. The technician is unsure about the specific shortcuts available for this task. This issue is causing delays in their work, as proper note formatting is essential for clear communication. The technician's limited familiarity with the software adds to the difficulty in resolving this matter.",
+  "short_description": "Difficulty formatting notes using OneNote shortcuts.",
+  "description": "A field technician is trying to format notes in OneNote but is facing challenges. The technician is unsure about the specific shortcuts available for this task. This issue is causing delays in their work, as proper note formatting is essential for clear communication. The technician's limited familiarity with the software adds to the difficulty in resolving this matter."
+}

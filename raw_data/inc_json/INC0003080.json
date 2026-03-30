@@ -1,0 +1,20 @@
+{
+  "number": "INC0003080",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05721",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Proxy list for timesheet and leave approval is incorrect or empty.\n\nfull_description_text: \nThe user is trying to submit a leave request in SNAP but encounters an issue with the Proxy list. It appears that the list is either empty or contains incorrect entries, which is preventing the approval process. They are seeking guidance on how to properly add or remove individuals from their Proxy list for timesheet and leave approvals.",
+  "short_description": "Proxy list for timesheet and leave approval is incorrect or empty.",
+  "description": "The user is trying to submit a leave request in SNAP but encounters an issue with the Proxy list. It appears that the list is either empty or contains incorrect entries, which is preventing the approval process. They are seeking guidance on how to properly add or remove individuals from their Proxy list for timesheet and leave approvals."
+}

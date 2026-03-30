@@ -1,0 +1,20 @@
+{
+  "number": "INC0002143",
+  "category": "Business Office",
+  "subcategory": "Business Office",
+  "correct_kb": "KB02968",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with making payments in SDePay for tuition and fees.\n\nfull_description_text:  \nThe user is trying to pay their bill through SDePay but is facing difficulties. They mentioned that their payment is not shown, and they are unsure how to proceed with paying for their tuition. Additionally, there is a concern about a charge for damages that needs to be removed before they can complete their payment for class fees. The user is also looking for guidance on checking out using Voc Rehab.",
+  "short_description": "Issues with making payments in SDePay for tuition and fees.",
+  "description": "The user is trying to pay their bill through SDePay but is facing difficulties. They mentioned that their payment is not shown, and they are unsure how to proceed with paying for their tuition. Additionally, there is a concern about a charge for damages that needs to be removed before they can complete their payment for class fees. The user is also looking for guidance on checking out using Voc Rehab."
+}

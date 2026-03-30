@@ -1,0 +1,20 @@
+{
+  "number": "INC0001018",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00033",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Laptop is experiencing a black screen issue.\n\nfull_description_text: \nThe user was using the laptop, and suddenly, the display went completely black. They reported that the laptop is not working at all, and there is no image on the screen. The screen is just black, and they cannot see anything, which is a problem because they need to access their files and applications. This issue is critical as it affects their ability to work effectively, and they are unsure what to do next.",
+  "short_description": "Laptop is experiencing a black screen issue.",
+  "description": "The user was using the laptop, and suddenly, the display went completely black. They reported that the laptop is not working at all, and there is no image on the screen. The screen is just black, and they cannot see anything, which is a problem because they need to access their files and applications. This issue is critical as it affects their ability to work effectively, and they are unsure what to do next."
+}

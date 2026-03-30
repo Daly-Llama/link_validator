@@ -1,0 +1,20 @@
+{
+  "number": "INC0003119",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB05823",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to select the \"Remember me for 30 days\" option in Duo.\n\nfull_description_text:\n- The user was attempting to utilize the Duo authentication system via their web browser.  \n- They expressed frustration over the inability to click the checkbox that allows them to be remembered for a duration of 30 days.  \n- This feature is intended to streamline the login process, yet it appears to be unresponsive in their current session.  \n- The user inquired if there exists a method to retain the Duo push notification for an extended period, indicating a desire for a more convenient authentication experience.",
+  "short_description": "Unable to select the \"Remember me for 30 days\" option in Duo.",
+  "description": "- The user was attempting to utilize the Duo authentication system via their web browser.  \n- They expressed frustration over the inability to click the checkbox that allows them to be remembered for a duration of 30 days.  \n- This feature is intended to streamline the login process, yet it appears to be unresponsive in their current session.  \n- The user inquired if there exists a method to retain the Duo push notification for an extended period, indicating a desire for a more convenient authentication experience."
+}

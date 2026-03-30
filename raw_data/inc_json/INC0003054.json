@@ -1,0 +1,20 @@
+{
+  "number": "INC0003054",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB05669",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to connect to Impero Console from admin stations.\n\nfull_description_text:\n- The Impero Server is operational and functioning as expected, however, the admin stations are experiencing connectivity issues.  \n- Attempts to access the Impero Console result in an unresponsive interface, preventing any administrative actions.  \n- This situation is occurring within the Testing Center environment, where the field technician is unable to perform necessary tasks due to this connectivity failure.  \n- It is important to note that the issue persists despite the server being up, indicating a potential problem with the connection protocols or network settings.",
+  "short_description": "Unable to connect to Impero Console from admin stations.",
+  "description": "- The Impero Server is operational and functioning as expected, however, the admin stations are experiencing connectivity issues.  \n- Attempts to access the Impero Console result in an unresponsive interface, preventing any administrative actions.  \n- This situation is occurring within the Testing Center environment, where the field technician is unable to perform necessary tasks due to this connectivity failure.  \n- It is important to note that the issue persists despite the server being up, indicating a potential problem with the connection protocols or network settings."
+}

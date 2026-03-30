@@ -1,0 +1,20 @@
+{
+  "number": "INC0003083",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05728",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Maternity and Paternity Leave policies\n\nfull_description_text:  \nI'm trying to find out what the Maternity and Paternity Leave policies are at USD. I need to understand how Paid Family Leave works in the experience portal. There seems to be a lack of clear information on this topic, and it's important for my planning.",
+  "short_description": "Inquiry about USD's Maternity and Paternity Leave policies",
+  "description": "I'm trying to find out what the Maternity and Paternity Leave policies are at USD. I need to understand how Paid Family Leave works in the experience portal. There seems to be a lack of clear information on this topic, and it's important for my planning."
+}

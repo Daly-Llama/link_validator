@@ -1,0 +1,20 @@
+{
+  "number": "INC0004001",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08223",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: What to do after completing a Panopto recording?\n\nfull_description_text: \nEl usuario ha terminado una grabación en Panopto. No está seguro de los pasos a seguir después de finalizar la grabación. Necesita orientación sobre el proceso posterior. Es importante aclarar qué acciones son necesarias tras la finalización.",
+  "short_description": "What to do after completing a Panopto recording?",
+  "description": "El usuario ha terminado una grabación en Panopto. No está seguro de los pasos a seguir después de finalizar la grabación. Necesita orientación sobre el proceso posterior. Es importante aclarar qué acciones son necesarias tras la finalización."
+}

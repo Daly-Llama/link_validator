@@ -1,0 +1,20 @@
+{
+  "number": "INC0001945",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02369",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to access email and send messages in Outlook.\n\nfull_description_text:  \nThe user is experiencing issues accessing their email through the USD Email platform. They reported being unable to send emails using their Outlook account, receiving multiple error messages. One error states, \"We are sorry, but you do not have access to Email,\" while another indicates a mailbox issue with the message \"Something went wrong mailbox couldn't be found.\" Additionally, an X-Auth-Error related to Microsoft.Exchange.Clients.Security.MailboxNotFoundException was noted, suggesting a potential access or configuration problem.",
+  "short_description": "Unable to access email and send messages in Outlook.",
+  "description": "The user is experiencing issues accessing their email through the USD Email platform. They reported being unable to send emails using their Outlook account, receiving multiple error messages. One error states, \"We are sorry, but you do not have access to Email,\" while another indicates a mailbox issue with the message \"Something went wrong mailbox couldn't be found.\" Additionally, an X-Auth-Error related to Microsoft.Exchange.Clients.Security.MailboxNotFoundException was noted, suggesting a potential access or configuration problem."
+}

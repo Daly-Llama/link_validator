@@ -1,0 +1,20 @@
+{
+  "number": "INC0001345",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB00659",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log in to Mac after multiple sign-in attempts.\n\nfull_description_text:  \nThe user is experiencing difficulties logging into their Mac, as the system prompts for a sign-in twice. Despite entering the correct credentials, access is denied after the second attempt. The user has not made any recent changes to their password and is connected via an ethernet cable, indicating a potential issue with the login process.",
+  "short_description": "Unable to log in to Mac after multiple sign-in attempts.",
+  "description": "The user is experiencing difficulties logging into their Mac, as the system prompts for a sign-in twice. Despite entering the correct credentials, access is denied after the second attempt. The user has not made any recent changes to their password and is connected via an ethernet cable, indicating a potential issue with the login process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003364",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06682",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble updating Windows 10 via Software Center\n\nfull_description_text:  \nI'm trying to update my Windows 10 through the Software Center, but it's just not working. I keep clicking on the update option, and nothing seems to happen. It's kinda frustrating because I thought it would be a simple process. Any idea why this might be happening?",
+  "short_description": "Trouble updating Windows 10 via Software Center",
+  "description": "I'm trying to update my Windows 10 through the Software Center, but it's just not working. I keep clicking on the update option, and nothing seems to happen. It's kinda frustrating because I thought it would be a simple process. Any idea why this might be happening?"
+}

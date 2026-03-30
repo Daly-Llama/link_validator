@@ -1,0 +1,20 @@
+{
+  "number": "INC0003883",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08017",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty creating and applying page templates in OneNote.\n\nfull_description_text: A user is trying to create and apply page templates in OneNote but is facing challenges. They are unsure of the steps involved and need guidance on how to effectively use this feature. This issue has made it difficult for them to organize their notes as intended.",
+  "short_description": "Difficulty creating and applying page templates in OneNote.",
+  "description": "A user is trying to create and apply page templates in OneNote but is facing challenges. They are unsure of the steps involved and need guidance on how to effectively use this feature. This issue has made it difficult for them to organize their notes as intended."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001667",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01553",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error message when trying to open pages in Banner\n\nfull_description_text: So, the user logged into Banner, right? But then, when they tried to open a page or screen, they got this weird error message. It said something like \"Service Invocation Failed,\" which sounds really bad. They were just trying to do their work, and now they can't see anything, which is super frustrating.",
+  "short_description": "Error message when trying to open pages in Banner",
+  "description": "So, the user logged into Banner, right? But then, when they tried to open a page or screen, they got this weird error message. It said something like \"Service Invocation Failed,\" which sounds really bad. They were just trying to do their work, and now they can't see anything, which is super frustrating."
+}

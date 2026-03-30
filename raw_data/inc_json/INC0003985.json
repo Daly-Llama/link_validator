@@ -1,0 +1,20 @@
+{
+  "number": "INC0003985",
+  "category": "Technology",
+  "subcategory": "DocuSign",
+  "correct_kb": "KB08170",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to send envelopes on behalf of another user in DocuSign.\n\nfull_description_text: \nI am trying to send envelopes in DocuSign, but I cannot do it for another user. I want to share my envelopes with another user in DocuSign, but I do not know how to do this. Also, I need to know if I can get my department's shared envelopes, because sharing is important for my work. It is confusing and I need help with this issue.",
+  "short_description": "Need to send envelopes on behalf of another user in DocuSign.",
+  "description": "I am trying to send envelopes in DocuSign, but I cannot do it for another user. I want to share my envelopes with another user in DocuSign, but I do not know how to do this. Also, I need to know if I can get my department's shared envelopes, because sharing is important for my work. It is confusing and I need help with this issue."
+}

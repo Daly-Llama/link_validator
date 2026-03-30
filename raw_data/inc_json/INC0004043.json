@@ -1,0 +1,20 @@
+{
+  "number": "INC0004043",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08271",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to drag and drop text in Word document.\n\nfull_description_text: The user was attempting to move text within a Word document using the drag and drop feature. However, they encountered difficulties, as the text did not transfer as expected. This issue arose during a live chat session with a help desk analyst, who was providing assistance. The user is familiar with basic Word functionalities but is struggling with this specific action.",
+  "short_description": "Unable to drag and drop text in Word document.",
+  "description": "The user was attempting to move text within a Word document using the drag and drop feature. However, they encountered difficulties, as the text did not transfer as expected. This issue arose during a live chat session with a help desk analyst, who was providing assistance. The user is familiar with basic Word functionalities but is struggling with this specific action."
+}

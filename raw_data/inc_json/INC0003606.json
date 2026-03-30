@@ -1,0 +1,20 @@
+{
+  "number": "INC0003606",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07723",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Students unable to access TurnItIn feedback and originality reports on D2L.\n\nfull_description_text: During a call, the user reported difficulties in accessing their feedback and originality check from TurnItIn on the D2L platform. They were trying to view their TurnItIn reports but encountered issues that prevented them from doing so. The user expressed confusion about the process and needed assistance to resolve this matter.",
+  "short_description": "Students unable to access TurnItIn feedback and originality reports on D2L.",
+  "description": "During a call, the user reported difficulties in accessing their feedback and originality check from TurnItIn on the D2L platform. They were trying to view their TurnItIn reports but encountered issues that prevented them from doing so. The user expressed confusion about the process and needed assistance to resolve this matter."
+}

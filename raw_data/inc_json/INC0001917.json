@@ -1,0 +1,20 @@
+{
+  "number": "INC0001917",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB02279",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to modify access for a Banner security group\n\nfull_description_text:\n- So, during a call, someone asked to change a security group in Banner.  \n- They want to add some screens and need Modify access instead of just query access.  \n- Just to clarify, this isn't for an individual request, it's a change for the whole security group.",
+  "short_description": "Request to modify access for a Banner security group",
+  "description": "- So, during a call, someone asked to change a security group in Banner.  \n- They want to add some screens and need Modify access instead of just query access.  \n- Just to clarify, this isn't for an individual request, it's a change for the whole security group."
+}

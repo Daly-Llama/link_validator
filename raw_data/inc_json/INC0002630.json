@@ -1,0 +1,20 @@
+{
+  "number": "INC0002630",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04443",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to remove unused audio and video equipment from conference room.\n\nfull_description_text: So, during the call, the user mentioned that they need to get rid of some audio and video gear in the conference room. They're doing some ceiling and HVAC work, and the monitor and TV on the wall are just not needed anymore. It sounds like they want everything taken out since it’s just taking up space and not being used at all.",
+  "short_description": "Need to remove unused audio and video equipment from conference room.",
+  "description": "So, during the call, the user mentioned that they need to get rid of some audio and video gear in the conference room. They're doing some ceiling and HVAC work, and the monitor and TV on the wall are just not needed anymore. It sounds like they want everything taken out since it’s just taking up space and not being used at all."
+}

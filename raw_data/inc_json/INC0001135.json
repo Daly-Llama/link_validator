@@ -1,0 +1,20 @@
+{
+  "number": "INC0001135",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00266",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with data backup on Windows 7 and 10\n\nfull_description_text:\n- The user was trying to back up their data.  \n- They expressed difficulty in the process and requested assistance.  \n- This issue affects both Windows 7 and 10 environments.  \n- The analyst was on a call with the user, who speaks Spanish.",
+  "short_description": "Need help with data backup on Windows 7 and 10",
+  "description": "- The user was trying to back up their data.  \n- They expressed difficulty in the process and requested assistance.  \n- This issue affects both Windows 7 and 10 environments.  \n- The analyst was on a call with the user, who speaks Spanish."
+}

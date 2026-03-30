@@ -1,0 +1,20 @@
+{
+  "number": "INC0002851",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB05096",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to add a red button to myUSD Quick Links\n\nfull_description_text:  \nThe user is requesting the addition of a new service to the Quick Links section of the myUSD portal. They specifically want this service to be represented as a red button for better visibility. This request indicates a need for improved access to services within the portal, which may enhance user experience. The user submitted this request through a self-service form, reflecting their desire for a more efficient navigation option.",
+  "short_description": "Request to add a red button to myUSD Quick Links",
+  "description": "The user is requesting the addition of a new service to the Quick Links section of the myUSD portal. They specifically want this service to be represented as a red button for better visibility. This request indicates a need for improved access to services within the portal, which may enhance user experience. The user submitted this request through a self-service form, reflecting their desire for a more efficient navigation option."
+}

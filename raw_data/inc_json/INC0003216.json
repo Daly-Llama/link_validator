@@ -1,0 +1,20 @@
+{
+  "number": "INC0003216",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06147",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for IT support at an event on USD Campus\n\nfull_description_text:  \nThe user is requesting the presence of an IT representative for an upcoming event at the USD Campus. They also mentioned the need to schedule a time to test the technology that will be utilized during the event. This support is specifically for an event taking place in Lee Med, and the user is looking for assistance to ensure everything runs smoothly.",
+  "short_description": "Request for IT support at an event on USD Campus",
+  "description": "The user is requesting the presence of an IT representative for an upcoming event at the USD Campus. They also mentioned the need to schedule a time to test the technology that will be utilized during the event. This support is specifically for an event taking place in Lee Med, and the user is looking for assistance to ensure everything runs smoothly."
+}

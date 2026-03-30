@@ -1,0 +1,20 @@
+{
+  "number": "INC0002055",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02696",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: International calls are failing to connect on VoIP.\n\nfull_description_text: I'm having trouble making international calls using VoIP. Every time I try, the calls just won't go through. It's really frustrating because I need to reach someone overseas.",
+  "short_description": "International calls are failing to connect on VoIP.",
+  "description": "I'm having trouble making international calls using VoIP. Every time I try, the calls just won't go through. It's really frustrating because I need to reach someone overseas."
+}

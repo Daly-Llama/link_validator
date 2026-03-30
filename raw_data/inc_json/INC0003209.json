@@ -1,0 +1,20 @@
+{
+  "number": "INC0003209",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06122",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to sign into Windows account on Windows 10.\n\nfull_description_text: The user is facing an issue where they can't sign into their Windows account. They received an error message saying, \"We can’t sign into your account.\" It seems like signing out and back in might fix it, but they were warned that any unsaved files or changes could be lost if they don't sign out now.",
+  "short_description": "Unable to sign into Windows account on Windows 10.",
+  "description": "The user is facing an issue where they can't sign into their Windows account. They received an error message saying, \"We can’t sign into your account.\" It seems like signing out and back in might fix it, but they were warned that any unsaved files or changes could be lost if they don't sign out now."
+}

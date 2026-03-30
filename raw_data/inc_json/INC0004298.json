@@ -1,0 +1,20 @@
+{
+  "number": "INC0004298",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08718",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help with STEM extension application process for international students.\n\nfull_description_text: So, the caller was asking about the STEM extension. They wanna know what steps to take to apply. Also, they were curious if there's a Facts Sheet for it. Just trying to get the info they need, you know?",
+  "short_description": "Need help with STEM extension application process for international students.",
+  "description": "So, the caller was asking about the STEM extension. They wanna know what steps to take to apply. Also, they were curious if there's a Facts Sheet for it. Just trying to get the info they need, you know?"
+}

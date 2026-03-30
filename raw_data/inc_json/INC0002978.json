@@ -1,0 +1,20 @@
+{
+  "number": "INC0002978",
+  "category": "Academic Advising",
+  "subcategory": "Coyote Connections (Navigate360)",
+  "correct_kb": "KB05440",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help setting Coyote Connections to Kiosk Mode\n\nfull_description_text: \nSo, I was on the phone with a user who was trying to figure out how to set Coyote Connections to Kiosk Mode. They seemed a bit confused about the steps and what exactly needed to be done. It was one of those moments where you just want to help but the instructions weren't clear at all.",
+  "short_description": "Need help setting Coyote Connections to Kiosk Mode",
+  "description": "So, I was on the phone with a user who was trying to figure out how to set Coyote Connections to Kiosk Mode. They seemed a bit confused about the steps and what exactly needed to be done. It was one of those moments where you just want to help but the instructions weren't clear at all."
+}

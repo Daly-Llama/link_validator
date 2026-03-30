@@ -1,0 +1,20 @@
+{
+  "number": "INC0001143",
+  "category": "Technology",
+  "subcategory": "Knowledge Centered Service (KCS)",
+  "correct_kb": "KB00287",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: How to link a knowledge article to a ticket in TeamDynamix\n\nfull_description_text:\n- The user created a ticket using a self-service form.  \n- They want to know how to link a knowledge base article to this ticket.  \n- There is confusion about the linking process in TeamDynamix.  \n- The user is looking for clear instructions on this task.",
+  "short_description": "How to link a knowledge article to a ticket in TeamDynamix",
+  "description": "- The user created a ticket using a self-service form.  \n- They want to know how to link a knowledge base article to this ticket.  \n- There is confusion about the linking process in TeamDynamix.  \n- The user is looking for clear instructions on this task."
+}

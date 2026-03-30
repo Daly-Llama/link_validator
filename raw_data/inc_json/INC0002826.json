@@ -1,0 +1,20 @@
+{
+  "number": "INC0002826",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB04984",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Internal error in D2L when accessing various features.\n\nfull_description_text: \nUser encountered an internal error while using Desire2Learn (D2L). The error message displayed was \"Bad Request - Header Field Too Long.\" This occurred when the user attempted to click on the Dropbox feature. Additionally, the same error appeared when accessing Grades and while trying to update their Profile. The system reported an internal error, indicating there was an issue processing the requested page.",
+  "short_description": "Internal error in D2L when accessing various features.",
+  "description": "User encountered an internal error while using Desire2Learn (D2L). The error message displayed was \"Bad Request - Header Field Too Long.\" This occurred when the user attempted to click on the Dropbox feature. Additionally, the same error appeared when accessing Grades and while trying to update their Profile. The system reported an internal error, indicating there was an issue processing the requested page."
+}

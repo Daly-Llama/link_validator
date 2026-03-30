@@ -1,0 +1,20 @@
+{
+  "number": "INC0002608",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB04342",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble accessing Wegner Health Sciences Library online resources\n\nfull_description_text:\n- So, the SDSU student is trying to get into the Wegner Library online.  \n- They’re having some issues and can’t seem to access the resources.  \n- It’s a bit frustrating, you know? Just trying to get their work done.",
+  "short_description": "Trouble accessing Wegner Health Sciences Library online resources",
+  "description": "- So, the SDSU student is trying to get into the Wegner Library online.  \n- They’re having some issues and can’t seem to access the resources.  \n- It’s a bit frustrating, you know? Just trying to get their work done."
+}

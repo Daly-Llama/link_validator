@@ -1,0 +1,20 @@
+{
+  "number": "INC0001200",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00377",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Instructor not receiving emails sent through D2L platform.\n\nfull_description_text:  \nThe user reported that they attempted to send an email via the D2L system, but their instructor did not receive it. Each time they try to send an email, they get an error message stating that the recipient cannot receive the message. The user mentioned that they can only send emails through the D2L mail system and received a delivery failure notice for the address brightspace@d2l.sdbor.edu.",
+  "short_description": "Instructor not receiving emails sent through D2L platform.",
+  "description": "The user reported that they attempted to send an email via the D2L system, but their instructor did not receive it. Each time they try to send an email, they get an error message stating that the recipient cannot receive the message. The user mentioned that they can only send emails through the D2L mail system and received a delivery failure notice for the address brightspace@d2l.sdbor.edu."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002282",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB03385",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: 25Live fails to load with a fatal error message.\n\nfull_description_text: User attempted to log into 25Live. An error occurred, displaying opensaml::FatalprofileException. The error message suggests contacting the administrator for further assistance. The issue was logged with an activity ID for reference.",
+  "short_description": "25Live fails to load with a fatal error message.",
+  "description": "User attempted to log into 25Live. An error occurred, displaying opensaml::FatalprofileException. The error message suggests contacting the administrator for further assistance. The issue was logged with an activity ID for reference."
+}

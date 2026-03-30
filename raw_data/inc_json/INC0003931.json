@@ -1,0 +1,20 @@
+{
+  "number": "INC0003931",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB08078",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty accessing files in OneDrive.\n\nfull_description_text:\n- The user, a field technician, is attempting to access a specific file stored within the OneDrive cloud storage service. \n- Despite following standard procedures, the technician is encountering challenges that prevent successful file retrieval. \n- This issue may stem from various factors, including potential connectivity problems or configuration settings within the OneDrive environment. \n- Further investigation is required to ascertain the precise nature of the access difficulties being experienced.",
+  "short_description": "Difficulty accessing files in OneDrive.",
+  "description": "- The user, a field technician, is attempting to access a specific file stored within the OneDrive cloud storage service. \n- Despite following standard procedures, the technician is encountering challenges that prevent successful file retrieval. \n- This issue may stem from various factors, including potential connectivity problems or configuration settings within the OneDrive environment. \n- Further investigation is required to ascertain the precise nature of the access difficulties being experienced."
+}

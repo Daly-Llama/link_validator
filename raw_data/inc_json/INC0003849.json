@@ -1,0 +1,20 @@
+{
+  "number": "INC0003849",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07983",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Changing the display format of subtotals in Excel.\n\nfull_description_text:  \nThe user is looking to modify how subtotals are presented in their Excel spreadsheets. They want to enhance the visibility or format of these subtotals for better clarity and understanding. This adjustment is crucial for their data analysis and reporting needs, ensuring that the information is easily interpretable.",
+  "short_description": "Changing the display format of subtotals in Excel.",
+  "description": "The user is looking to modify how subtotals are presented in their Excel spreadsheets. They want to enhance the visibility or format of these subtotals for better clarity and understanding. This adjustment is crucial for their data analysis and reporting needs, ensuring that the information is easily interpretable."
+}

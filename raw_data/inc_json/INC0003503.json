@@ -1,0 +1,20 @@
+{
+  "number": "INC0003503",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07271",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to renew Arc GIS Pro and Arc GIS licenses soon.\n\nfull_description_text:  \nHey, so I just noticed that both the Arc GIS Pro and Arc GIS licenses are about to expire in just 6 days. I’m not sure if there’s a specific process we need to follow for the renewal, but it’s kinda urgent since we rely on these tools for our fieldwork. Can someone help me figure this out before we lose access?",
+  "short_description": "Need to renew Arc GIS Pro and Arc GIS licenses soon.",
+  "description": "Hey, so I just noticed that both the Arc GIS Pro and Arc GIS licenses are about to expire in just 6 days. I’m not sure if there’s a specific process we need to follow for the renewal, but it’s kinda urgent since we rely on these tools for our fieldwork. Can someone help me figure this out before we lose access?"
+}

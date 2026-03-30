@@ -1,0 +1,20 @@
+{
+  "number": "INC0002941",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB05344",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty running the Building Activity Change Times Report in 25Live\n\nfull_description_text:\n- So, I was trying to figure out how to run this report called the Building Activity Change Times Report in 25Live.  \n- I thought it would be easy, but honestly, I just couldn't find the right way to do it.  \n- It’s like, I’m not sure if I’m missing something or if there’s a step I just don’t get.  \n- I really need to know how to get this report running because it seems important!",
+  "short_description": "Difficulty running the Building Activity Change Times Report in 25Live",
+  "description": "- So, I was trying to figure out how to run this report called the Building Activity Change Times Report in 25Live.  \n- I thought it would be easy, but honestly, I just couldn't find the right way to do it.  \n- It’s like, I’m not sure if I’m missing something or if there’s a step I just don’t get.  \n- I really need to know how to get this report running because it seems important!"
+}

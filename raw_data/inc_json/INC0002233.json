@@ -1,0 +1,20 @@
+{
+  "number": "INC0002233",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03249",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User unable to access their disabled Google account.\n\nfull_description_text:  \nSo, during the call, the user mentioned that they were trying to log into their Google account but found themselves completely locked out. They said their G Suite account has been disabled, which is really frustrating for them. It seems like they need to regain access to their account urgently, but they’re not sure what caused the issue in the first place.",
+  "short_description": "User unable to access their disabled Google account.",
+  "description": "So, during the call, the user mentioned that they were trying to log into their Google account but found themselves completely locked out. They said their G Suite account has been disabled, which is really frustrating for them. It seems like they need to regain access to their account urgently, but they’re not sure what caused the issue in the first place."
+}

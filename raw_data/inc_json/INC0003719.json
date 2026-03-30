@@ -1,0 +1,20 @@
+{
+  "number": "INC0003719",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07842",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty using Named Functions in Google Sheets\n\nfull_description_text:\n- The user is trying to understand how to implement Named Functions in Google Sheets.  \n- They are experiencing challenges with the functionality and are unsure of the steps involved.  \n- The issue arose during a live chat session with a help desk analyst, indicating a need for clear guidance.  \n- The user may have limited proficiency in English, which could affect their understanding of the instructions.",
+  "short_description": "Difficulty using Named Functions in Google Sheets",
+  "description": "- The user is trying to understand how to implement Named Functions in Google Sheets.  \n- They are experiencing challenges with the functionality and are unsure of the steps involved.  \n- The issue arose during a live chat session with a help desk analyst, indicating a need for clear guidance.  \n- The user may have limited proficiency in English, which could affect their understanding of the instructions."
+}

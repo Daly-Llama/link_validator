@@ -1,0 +1,20 @@
+{
+  "number": "INC0004146",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08421",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need guidance on planning a PowerPoint presentation.\n\nfull_description_text:  \n- The user is seeking assistance with the initial steps for planning a PowerPoint presentation.  \n- They are unsure about how to effectively organize their ideas and content for the presentation.  \n- The request indicates a need for clarity on the planning process, which may involve outlining key points and structuring the slides.",
+  "short_description": "Need guidance on planning a PowerPoint presentation.",
+  "description": "- The user is seeking assistance with the initial steps for planning a PowerPoint presentation.  \n- They are unsure about how to effectively organize their ideas and content for the presentation.  \n- The request indicates a need for clarity on the planning process, which may involve outlining key points and structuring the slides."
+}

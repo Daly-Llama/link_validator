@@ -1,0 +1,20 @@
+{
+  "number": "INC0004184",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB08482",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty printing client documents securely on Toshiba Copier\n\nfull_description_text:  \n- The team is trying to print important client documents using a Toshiba Copier.  \n- They are working in a legal clinic environment and need to ensure the printing is secure.  \n- The issue arises because they are using personal laptops instead of University owned computers.  \n- This situation may complicate the printing process and raise concerns about document security.",
+  "short_description": "Difficulty printing client documents securely on Toshiba Copier",
+  "description": "- The team is trying to print important client documents using a Toshiba Copier.  \n- They are working in a legal clinic environment and need to ensure the printing is secure.  \n- The issue arises because they are using personal laptops instead of University owned computers.  \n- This situation may complicate the printing process and raise concerns about document security."
+}

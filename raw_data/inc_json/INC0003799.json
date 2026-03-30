@@ -1,0 +1,20 @@
+{
+  "number": "INC0003799",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07932",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the SUMIFS function in Excel\n\nfull_description_text: \nUser is asking about the SUMIFS function in Excel. They want to know what it is and how it works. The SUMIFS function is used for summing values based on multiple criteria. It is important for data analysis and reporting in spreadsheets.",
+  "short_description": "Inquiry about the SUMIFS function in Excel",
+  "description": "User is asking about the SUMIFS function in Excel. They want to know what it is and how it works. The SUMIFS function is used for summing values based on multiple criteria. It is important for data analysis and reporting in spreadsheets."
+}

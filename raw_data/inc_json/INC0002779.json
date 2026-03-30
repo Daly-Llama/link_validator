@@ -1,0 +1,20 @@
+{
+  "number": "INC0002779",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB04852",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need access to Adobe Creative Cloud software.\n\nfull_description_text:  \nSo, the user was trying to get into Adobe Creative Cloud, right? They just really need access to the software but are having some trouble. It’s kinda important for what they’re working on, and they called in for help.",
+  "short_description": "Need access to Adobe Creative Cloud software.",
+  "description": "So, the user was trying to get into Adobe Creative Cloud, right? They just really need access to the software but are having some trouble. It’s kinda important for what they’re working on, and they called in for help."
+}

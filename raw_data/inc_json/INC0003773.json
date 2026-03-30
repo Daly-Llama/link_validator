@@ -1,0 +1,20 @@
+{
+  "number": "INC0003773",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07905",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help creating charts in Excel.\n\nfull_description_text:  \n- So, I was on the phone with a user, right?  \n- They were trying to figure out how to make charts in Excel, which is like, super common, I guess.  \n- They kept asking, \"How do I create charts in Excel?\" and it seemed like they were a bit lost, you know?  \n- It was just one of those moments where you think, \"Wow, this is a basic thing, but they really need help!\"",
+  "short_description": "Need help creating charts in Excel.",
+  "description": "- So, I was on the phone with a user, right?  \n- They were trying to figure out how to make charts in Excel, which is like, super common, I guess.  \n- They kept asking, \"How do I create charts in Excel?\" and it seemed like they were a bit lost, you know?  \n- It was just one of those moments where you think, \"Wow, this is a basic thing, but they really need help!\""
+}

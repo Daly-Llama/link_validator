@@ -1,0 +1,20 @@
+{
+  "number": "INC0003027",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05600",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: MacBook unable to connect to WiFi networks after router reset.\n\nfull_description_text: \nThe user reported that their MacBook is not connecting to any wireless networks, both on and off campus. This issue started about two days ago, which is around the same time they reset their home wireless router. While the computer can access a few specific websites, other applications like Safari and Outlook are unable to connect to any other sites or servers.",
+  "short_description": "MacBook unable to connect to WiFi networks after router reset.",
+  "description": "The user reported that their MacBook is not connecting to any wireless networks, both on and off campus. This issue started about two days ago, which is around the same time they reset their home wireless router. While the computer can access a few specific websites, other applications like Safari and Outlook are unable to connect to any other sites or servers."
+}

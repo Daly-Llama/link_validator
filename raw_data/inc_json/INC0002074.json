@@ -1,0 +1,20 @@
+{
+  "number": "INC0002074",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB02752",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need to update mainline greeting for VoIP voicemail system.\n\nfull_description_text: \nSo, the user was trying to change the greeting for the mainline, right? They mentioned it needs to be updated, like, ASAP. It’s for the VoIP voicemail system, and they’re the greeting admin. Just a simple change, but it’s kinda crucial for the callers, you know?",
+  "short_description": "Need to update mainline greeting for VoIP voicemail system.",
+  "description": "So, the user was trying to change the greeting for the mainline, right? They mentioned it needs to be updated, like, ASAP. It’s for the VoIP voicemail system, and they’re the greeting admin. Just a simple change, but it’s kinda crucial for the callers, you know?"
+}

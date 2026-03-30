@@ -1,0 +1,20 @@
+{
+  "number": "INC0002644",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04485",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to populate FUPLOAD spreadsheet with index data.\n\nfull_description_text:  \nI can't get the FUPLOAD spreadsheet to show the indexes. The sql_import tab should auto-populate when I open it. But it just keeps the old data. I think it might be because I'm not in the right Active Directory group.",
+  "short_description": "Unable to populate FUPLOAD spreadsheet with index data.",
+  "description": "I can't get the FUPLOAD spreadsheet to show the indexes. The sql_import tab should auto-populate when I open it. But it just keeps the old data. I think it might be because I'm not in the right Active Directory group."
+}

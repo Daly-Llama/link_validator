@@ -1,0 +1,20 @@
+{
+  "number": "INC0003114",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB05793",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User wants to cancel a purchase order in SDEzBuy.\n\nfull_description_text: The user called in asking if they could cancel their purchase order. They seemed a bit confused about the process and mentioned they were trying to do it through SDEzBuy. There was some background noise on the call, and they were also talking about how they had ordered some office supplies. It was a bit hard to follow everything they were saying, but the main point was about the cancellation.",
+  "short_description": "User wants to cancel a purchase order in SDEzBuy.",
+  "description": "The user called in asking if they could cancel their purchase order. They seemed a bit confused about the process and mentioned they were trying to do it through SDEzBuy. There was some background noise on the call, and they were also talking about how they had ordered some office supplies. It was a bit hard to follow everything they were saying, but the main point was about the cancellation."
+}

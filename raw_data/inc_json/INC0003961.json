@@ -1,0 +1,20 @@
+{
+  "number": "INC0003961",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08114",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty creating a question in Qualtrics survey tool.\n\nfull_description_text: \nThe user is attempting to create a question within the Qualtrics platform, which is a tool used for surveys and data collection. However, they are encountering challenges and are unsure of the steps required to successfully add a question to their survey. This situation has led to some confusion, as the user is not very familiar with the technical aspects of the software and is seeking guidance on how to proceed. They have submitted this inquiry through the self-service form, hoping for assistance in navigating the process.",
+  "short_description": "Difficulty creating a question in Qualtrics survey tool.",
+  "description": "The user is attempting to create a question within the Qualtrics platform, which is a tool used for surveys and data collection. However, they are encountering challenges and are unsure of the steps required to successfully add a question to their survey. This situation has led to some confusion, as the user is not very familiar with the technical aspects of the software and is seeking guidance on how to proceed. They have submitted this inquiry through the self-service form, hoping for assistance in navigating the process."
+}

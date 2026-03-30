@@ -1,0 +1,20 @@
+{
+  "number": "INC0002416",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03786",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: McAfee License Expiration Error in Chrome\n\nfull_description_text:\n- The user reported an issue while logging into Chrome.  \n- They received a message stating that their McAfee License has expired today.  \n- This error prevents them from accessing certain features.  \n- The call was made in Spanish, indicating a need for language support.",
+  "short_description": "McAfee License Expiration Error in Chrome",
+  "description": "- The user reported an issue while logging into Chrome.  \n- They received a message stating that their McAfee License has expired today.  \n- This error prevents them from accessing certain features.  \n- The call was made in Spanish, indicating a need for language support."
+}

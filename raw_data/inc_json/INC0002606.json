@@ -1,0 +1,20 @@
+{
+  "number": "INC0002606",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04324",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to fully remove deleted emails from Outlook.\n\nfull_description_text: User wants to know how to remove deleted email. They are unsure if it is completely gone. They are using Outlook and need clear steps. The issue is about purging items that were deleted.",
+  "short_description": "Need to fully remove deleted emails from Outlook.",
+  "description": "User wants to know how to remove deleted email. They are unsure if it is completely gone. They are using Outlook and need clear steps. The issue is about purging items that were deleted."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004605",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09473",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for disability accommodation at a public event\n\nfull_description_text:\n- User is seeking information on how to request accommodations for a disability.  \n- The request is specifically related to participation in a public event.  \n- Clarity on the process for making this request is needed.  \n- The user is likely unfamiliar with the necessary steps or contacts involved.",
+  "short_description": "Request for disability accommodation at a public event",
+  "description": "- User is seeking information on how to request accommodations for a disability.  \n- The request is specifically related to participation in a public event.  \n- Clarity on the process for making this request is needed.  \n- The user is likely unfamiliar with the necessary steps or contacts involved."
+}

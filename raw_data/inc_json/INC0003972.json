@@ -1,0 +1,20 @@
+{
+  "number": "INC0003972",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08125",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open Microsoft Word application.\n\nfull_description_text: \nThe user was trying to open the Microsoft Word application on their computer. They clicked on the icon, but nothing happened, and the program did not launch as expected. This issue is causing frustration because they need to create a document urgently. The user is not sure if it is a problem with the software or their computer settings, but they are looking for help to resolve this situation.",
+  "short_description": "Unable to open Microsoft Word application.",
+  "description": "The user was trying to open the Microsoft Word application on their computer. They clicked on the icon, but nothing happened, and the program did not launch as expected. This issue is causing frustration because they need to create a document urgently. The user is not sure if it is a problem with the software or their computer settings, but they are looking for help to resolve this situation."
+}

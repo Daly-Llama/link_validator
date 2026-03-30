@@ -1,0 +1,20 @@
+{
+  "number": "INC0004798",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB10116",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to use Claude in Copilot Agent.\n\nfull_description_text:  \nThe user is trying to figure out how to select Claude while using the Copilot Agent. They are specifically looking for guidance on integrating Claude within the Copilot Studio environment. This issue is causing some confusion, and they need clarity on the steps involved.",
+  "short_description": "Unable to use Claude in Copilot Agent.",
+  "description": "The user is trying to figure out how to select Claude while using the Copilot Agent. They are specifically looking for guidance on integrating Claude within the Copilot Studio environment. This issue is causing some confusion, and they need clarity on the steps involved."
+}

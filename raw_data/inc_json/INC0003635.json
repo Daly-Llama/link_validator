@@ -1,0 +1,20 @@
+{
+  "number": "INC0003635",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07754",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Options for printing a Google Doc are unclear.\n\nfull_description_text: So, here's the deal: someone is trying to figure out how to print a Google Doc, but they're totally lost on the options available. They might be looking for different ways to get that document onto paper, but it seems like the info isn't super clear. It's like, do they need to use a specific setting or something? Anyway, they just want to know what their choices are for printing this thing without any hassle.",
+  "short_description": "Options for printing a Google Doc are unclear.",
+  "description": "So, here's the deal: someone is trying to figure out how to print a Google Doc, but they're totally lost on the options available. They might be looking for different ways to get that document onto paper, but it seems like the info isn't super clear. It's like, do they need to use a specific setting or something? Anyway, they just want to know what their choices are for printing this thing without any hassle."
+}

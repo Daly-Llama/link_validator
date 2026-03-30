@@ -1,0 +1,20 @@
+{
+  "number": "INC0004056",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08290",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with compatibility mode and conversion in Word\n\nfull_description_text:  \nSo, I was just trying to work on a document in Word, and I noticed that it was stuck in compatibility mode, which is super annoying. I mean, I get that it’s supposed to help with older versions, but it’s really not what I need right now. I’m not sure how to convert it out of this mode, and it’s just making everything more complicated than it should be. Can someone help me figure out how to get out of this compatibility mode mess?",
+  "short_description": "Issues with compatibility mode and conversion in Word",
+  "description": "So, I was just trying to work on a document in Word, and I noticed that it was stuck in compatibility mode, which is super annoying. I mean, I get that it’s supposed to help with older versions, but it’s really not what I need right now. I’m not sure how to convert it out of this mode, and it’s just making everything more complicated than it should be. Can someone help me figure out how to get out of this compatibility mode mess?"
+}

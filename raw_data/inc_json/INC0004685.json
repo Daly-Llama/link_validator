@@ -1,0 +1,20 @@
+{
+  "number": "INC0004685",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09747",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble installing multifunction printer on personal device\n\nfull_description_text:  \nI'm trying to get this multifunction printer set up on my personal computer, but I can't figure it out. I thought it would be easy, but it’s just not working like I expected. I’m using my own laptop and I really need to print something important, but I don’t know what to do next. Can someone help me with the installation?",
+  "short_description": "Trouble installing multifunction printer on personal device",
+  "description": "I'm trying to get this multifunction printer set up on my personal computer, but I can't figure it out. I thought it would be easy, but it’s just not working like I expected. I’m using my own laptop and I really need to print something important, but I don’t know what to do next. Can someone help me with the installation?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002448",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB03858",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Difficulty using Meet Me numbers for phone conferencing\n\nfull_description_text:  \nSo, it seems like there's some confusion about how to actually use those Meet Me numbers for phone calls. The user is trying to set up a conference call using their Cisco VoIP phones but is unsure of the steps involved. They might be looking for a simple guide or just some clarity on what to do next. It's a common issue, and it can be a bit frustrating when you're just trying to connect with others!",
+  "short_description": "Difficulty using Meet Me numbers for phone conferencing",
+  "description": "So, it seems like there's some confusion about how to actually use those Meet Me numbers for phone calls. The user is trying to set up a conference call using their Cisco VoIP phones but is unsure of the steps involved. They might be looking for a simple guide or just some clarity on what to do next. It's a common issue, and it can be a bit frustrating when you're just trying to connect with others!"
+}

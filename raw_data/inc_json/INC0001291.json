@@ -1,0 +1,20 @@
+{
+  "number": "INC0001291",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00553",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty blocking SPAM emails in Outlook Web Access.\n\nfull_description_text: \nThe user is struggling with unwanted SPAM emails in their Outlook account. They were looking for a way to block these annoying messages but weren't sure how to do it. During the call, they expressed frustration over the constant influx of SPAM and wanted a simple solution to manage their inbox better.",
+  "short_description": "Difficulty blocking SPAM emails in Outlook Web Access.",
+  "description": "The user is struggling with unwanted SPAM emails in their Outlook account. They were looking for a way to block these annoying messages but weren't sure how to do it. During the call, they expressed frustration over the constant influx of SPAM and wanted a simple solution to manage their inbox better."
+}

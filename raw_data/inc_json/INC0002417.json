@@ -1,0 +1,20 @@
+{
+  "number": "INC0002417",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03788",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access Self-Service, SDepay, or D2L due to error.\n\nfull_description_text:  \nA field technician is trying to log into Self-Service, SDepay, and D2L. They encounter an \"Invalid UDC ID mapping\" error. This issue prevents access to essential services. It's crucial to resolve this for smooth operations.",
+  "short_description": "Unable to access Self-Service, SDepay, or D2L due to error.",
+  "description": "A field technician is trying to log into Self-Service, SDepay, and D2L. They encounter an \"Invalid UDC ID mapping\" error. This issue prevents access to essential services. It's crucial to resolve this for smooth operations."
+}

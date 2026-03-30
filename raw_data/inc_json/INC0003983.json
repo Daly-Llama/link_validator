@@ -1,0 +1,20 @@
+{
+  "number": "INC0003983",
+  "category": "Admissions",
+  "subcategory": "Scholarships",
+  "correct_kb": "KB08160",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about scholarships for Arts & Sciences students\n\nfull_description_text:  \nHey there! I'm trying to find out what scholarships are available for students in the College of Arts & Sciences. I’ve been looking around but can’t seem to find a clear list or any details. It would be super helpful to know what options I have, especially since I’m really interested in funding my studies!",
+  "short_description": "Inquiry about scholarships for Arts & Sciences students",
+  "description": "Hey there! I'm trying to find out what scholarships are available for students in the College of Arts & Sciences. I’ve been looking around but can’t seem to find a clear list or any details. It would be super helpful to know what options I have, especially since I’m really interested in funding my studies!"
+}

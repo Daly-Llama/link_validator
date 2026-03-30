@@ -1,0 +1,20 @@
+{
+  "number": "INC0001021",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00038",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Pop-ups are being blocked in Safari on Mac OSX.\n\nfull_description_text: The user is trying to access a website that requires pop-ups. However, Safari is blocking these pop-ups. This is causing issues with the functionality of the site. The user needs assistance to resolve this problem.",
+  "short_description": "Pop-ups are being blocked in Safari on Mac OSX.",
+  "description": "The user is trying to access a website that requires pop-ups. However, Safari is blocking these pop-ups. This is causing issues with the functionality of the site. The user needs assistance to resolve this problem."
+}

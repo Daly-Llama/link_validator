@@ -1,0 +1,20 @@
+{
+  "number": "INC0001664",
+  "category": "Technology",
+  "subcategory": "OneDrive",
+  "correct_kb": "KB01541",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Missing files from OneDrive account on computer\n\nfull_description_text:  \nI am experiencing an issue where my files have disappeared from their folders in OneDrive. While I can see them on the OneDrive website, they are not appearing on my computer. This is causing confusion and I am unsure why this is happening.",
+  "short_description": "Missing files from OneDrive account on computer",
+  "description": "I am experiencing an issue where my files have disappeared from their folders in OneDrive. While I can see them on the OneDrive website, they are not appearing on my computer. This is causing confusion and I am unsure why this is happening."
+}

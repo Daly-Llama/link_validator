@@ -1,0 +1,20 @@
+{
+  "number": "INC0002524",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04078",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update student list in MBM portal for PA program.\n\nfull_description_text: The user called in saying they need to remove some PA students and add new ones in the MBM portal. They mentioned it’s for the PA program specifically, but didn’t give much detail on which students. It seems like they’re having trouble managing the student list effectively.",
+  "short_description": "Need to update student list in MBM portal for PA program.",
+  "description": "The user called in saying they need to remove some PA students and add new ones in the MBM portal. They mentioned it’s for the PA program specifically, but didn’t give much detail on which students. It seems like they’re having trouble managing the student list effectively."
+}

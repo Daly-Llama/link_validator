@@ -1,0 +1,20 @@
+{
+  "number": "INC0002887",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05209",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help granting access to Outlook email folders for another user.\n\nfull_description_text: So, I got this request about letting someone else see specific email folders in Outlook. The person is kinda confused about how to do it and just wants to know the steps. It seems like they’re trying to share some important info but aren’t sure how to give that access properly.",
+  "short_description": "Need help granting access to Outlook email folders for another user.",
+  "description": "So, I got this request about letting someone else see specific email folders in Outlook. The person is kinda confused about how to do it and just wants to know the steps. It seems like they’re trying to share some important info but aren’t sure how to give that access properly."
+}

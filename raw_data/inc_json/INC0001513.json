@@ -1,0 +1,20 @@
+{
+  "number": "INC0001513",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB01077",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Class is missing from D2L platform.\n\nfull_description_text: I can't find my class in D2L anymore. It just disappeared and I don't know why. I was trying to log in and see my course, but it's not there. This is really confusing and frustrating for me.",
+  "short_description": "Class is missing from D2L platform.",
+  "description": "I can't find my class in D2L anymore. It just disappeared and I don't know why. I was trying to log in and see my course, but it's not there. This is really confusing and frustrating for me."
+}

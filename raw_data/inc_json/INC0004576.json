@@ -1,0 +1,20 @@
+{
+  "number": "INC0004576",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09389",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Parents seeking guidance on supporting students transitioning to college.\n\nfull_description_text: During a live chat session, a help desk analyst received an inquiry from a parent regarding how to effectively support their child as they transition to college. The parent expressed concerns about the challenges their student might face and was looking for strategies to assist them during this significant change. The conversation highlighted the emotional and logistical complexities involved in this transition, indicating a need for resources and information tailored to parents.",
+  "short_description": "Parents seeking guidance on supporting students transitioning to college.",
+  "description": "During a live chat session, a help desk analyst received an inquiry from a parent regarding how to effectively support their child as they transition to college. The parent expressed concerns about the challenges their student might face and was looking for strategies to assist them during this significant change. The conversation highlighted the emotional and logistical complexities involved in this transition, indicating a need for resources and information tailored to parents."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003516",
+  "category": "Human Resources",
+  "subcategory": "Benefits",
+  "correct_kb": "KB07313",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Employee injured at work, need to report it.\n\nfull_description_text: I had an accident at work and got hurt. I’m not sure how to fill out the report for worker’s comp. Can someone help me with the steps to report this injury?",
+  "short_description": "Employee injured at work, need to report it.",
+  "description": "I had an accident at work and got hurt. I’m not sure how to fill out the report for worker’s comp. Can someone help me with the steps to report this injury?"
+}

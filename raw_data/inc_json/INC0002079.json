@@ -1,0 +1,20 @@
+{
+  "number": "INC0002079",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB02767",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to recover unsaved document after Word was closed unexpectedly.\n\nfull_description_text:  \nThe customer was working on a document in Microsoft Word, and suddenly, their machine rebooted. This caused them to lose all the work they had done because they did not save it before the reboot. They were very upset because they thought they could get it back, but now they are not sure what to do. It’s really important for them to find a way to recover that document, as it had a lot of important information.",
+  "short_description": "Unable to recover unsaved document after Word was closed unexpectedly.",
+  "description": "The customer was working on a document in Microsoft Word, and suddenly, their machine rebooted. This caused them to lose all the work they had done because they did not save it before the reboot. They were very upset because they thought they could get it back, but now they are not sure what to do. It’s really important for them to find a way to recover that document, as it had a lot of important information."
+}

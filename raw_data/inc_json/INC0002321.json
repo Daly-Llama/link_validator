@@ -1,0 +1,20 @@
+{
+  "number": "INC0002321",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB03525",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need guidance on submitting a residency appeal.\n\nfull_description_text:  \nThe student is looking to submit a residency appeal. They are unsure of the exact process to follow. It’s important to have all the necessary documents ready. The appeal submission can be a bit confusing, and clarity is essential for success.",
+  "short_description": "Need guidance on submitting a residency appeal.",
+  "description": "The student is looking to submit a residency appeal. They are unsure of the exact process to follow. It’s important to have all the necessary documents ready. The appeal submission can be a bit confusing, and clarity is essential for success."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004181",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB08458",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Printing issue with Toshiba MFC from USB device.\n\nfull_description_text:\n- User wants to print from a USB on Toshiba MFC.  \n- They are not sure if it works or how to do it.  \n- Need help figuring out if printing from USB is possible.",
+  "short_description": "Printing issue with Toshiba MFC from USB device.",
+  "description": "- User wants to print from a USB on Toshiba MFC.  \n- They are not sure if it works or how to do it.  \n- Need help figuring out if printing from USB is possible."
+}

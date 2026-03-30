@@ -1,0 +1,20 @@
+{
+  "number": "INC0001655",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB01523",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to add resource add-ons in 25Live.\n\nfull_description_text:\n- During a live chat session, the user inquired about the possibility of adding resource add-ons in 25Live.  \n- They expressed a need for additional resources to enhance their current setup, indicating that they were exploring options for better functionality.  \n- The conversation highlighted their interest in expanding capabilities within the 25Live environment, but they were unsure of the process to initiate this request.  \n- Overall, the user was looking for guidance on how to proceed with adding these resource add-ons effectively.",
+  "short_description": "Request to add resource add-ons in 25Live.",
+  "description": "- During a live chat session, the user inquired about the possibility of adding resource add-ons in 25Live.  \n- They expressed a need for additional resources to enhance their current setup, indicating that they were exploring options for better functionality.  \n- The conversation highlighted their interest in expanding capabilities within the 25Live environment, but they were unsure of the process to initiate this request.  \n- Overall, the user was looking for guidance on how to proceed with adding these resource add-ons effectively."
+}

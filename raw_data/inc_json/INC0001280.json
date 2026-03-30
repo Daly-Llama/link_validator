@@ -1,0 +1,20 @@
+{
+  "number": "INC0001280",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00540",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to log in due to domain unavailability error.\n\nfull_description_text: \nThe user is experiencing difficulties logging into their USD laptop. They are encountering an error message stating that the domain is unavailable, which prevents them from signing in with their credentials. Additionally, there is a notification indicating that network accounts are not accessible, further complicating the login process. This issue may be related to network connectivity or domain configuration.",
+  "short_description": "Unable to log in due to domain unavailability error.",
+  "description": "The user is experiencing difficulties logging into their USD laptop. They are encountering an error message stating that the domain is unavailable, which prevents them from signing in with their credentials. Additionally, there is a notification indicating that network accounts are not accessible, further complicating the login process. This issue may be related to network connectivity or domain configuration."
+}

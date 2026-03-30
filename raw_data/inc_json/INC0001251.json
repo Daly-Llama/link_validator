@@ -1,0 +1,20 @@
+{
+  "number": "INC0001251",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00479",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Computer freezing with popups and high disk usage issues\n\nfull_description_text:  \nEl usuario reporta que su computadora se está congelando y muestra múltiples ventanas emergentes. No puede acceder a Task Manager y el sistema no responde al intentar abrir documentos o conectarse a internet. Además, la máquina está atascada en la pantalla de inicio de sesión y muestra un uso del disco del 100%, lo que retrasa la apertura de aplicaciones.",
+  "short_description": "Computer freezing with popups and high disk usage issues",
+  "description": "El usuario reporta que su computadora se está congelando y muestra múltiples ventanas emergentes. No puede acceder a Task Manager y el sistema no responde al intentar abrir documentos o conectarse a internet. Además, la máquina está atascada en la pantalla de inicio de sesión y muestra un uso del disco del 100%, lo que retrasa la apertura de aplicaciones."
+}

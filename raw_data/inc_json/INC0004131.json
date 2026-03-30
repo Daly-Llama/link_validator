@@ -1,0 +1,20 @@
+{
+  "number": "INC0004131",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08405",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty adding content controls in Word.\n\nfull_description_text:\n- The user is attempting to add content controls in Word.  \n- They are unsure of the process and require assistance.  \n- This issue may affect their document formatting and functionality.  \n- The user submitted the ticket through a self-service form.",
+  "short_description": "Difficulty adding content controls in Word.",
+  "description": "- The user is attempting to add content controls in Word.  \n- They are unsure of the process and require assistance.  \n- This issue may affect their document formatting and functionality.  \n- The user submitted the ticket through a self-service form."
+}

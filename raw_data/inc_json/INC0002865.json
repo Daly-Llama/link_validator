@@ -1,0 +1,20 @@
+{
+  "number": "INC0002865",
+  "category": "Technology",
+  "subcategory": "Bookings",
+  "correct_kb": "KB05131",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help starting with Microsoft Bookings for scheduling.\n\nfull_description_text:\n- The user is looking to get started with Microsoft Bookings.  \n- They want to organize schedules for both employees and customers.  \n- It seems they’re unsure about how to begin using the tool.  \n- They called in for some guidance on this process.",
+  "short_description": "Need help starting with Microsoft Bookings for scheduling.",
+  "description": "- The user is looking to get started with Microsoft Bookings.  \n- They want to organize schedules for both employees and customers.  \n- It seems they’re unsure about how to begin using the tool.  \n- They called in for some guidance on this process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004202",
+  "category": "Technology",
+  "subcategory": "Data Governance",
+  "correct_kb": "KB08530",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Data Governance Roles and their definitions.\n\nfull_description_text:\n- User is asking about the roles in Data Governance.  \n- They want to understand what these roles are and how they function.  \n- This question indicates a need for clarity on responsibilities within Data Governance.  \n- The user may be unfamiliar with the terminology and seeks detailed information.",
+  "short_description": "Inquiry about Data Governance Roles and their definitions.",
+  "description": "- User is asking about the roles in Data Governance.  \n- They want to understand what these roles are and how they function.  \n- This question indicates a need for clarity on responsibilities within Data Governance.  \n- The user may be unfamiliar with the terminology and seeks detailed information."
+}

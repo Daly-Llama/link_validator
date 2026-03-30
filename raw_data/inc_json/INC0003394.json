@@ -1,0 +1,20 @@
+{
+  "number": "INC0003394",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06818",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to reserve a Coyote Card Reader for an event.\n\nfull_description_text: The user inquired about the process for reserving a Coyote Card Reader for an upcoming event. They expressed uncertainty regarding the availability and reservation procedure for the card reader. This issue arose during a live phone call with the help desk, where the user was seeking immediate assistance.",
+  "short_description": "Unable to reserve a Coyote Card Reader for an event.",
+  "description": "The user inquired about the process for reserving a Coyote Card Reader for an upcoming event. They expressed uncertainty regarding the availability and reservation procedure for the card reader. This issue arose during a live phone call with the help desk, where the user was seeking immediate assistance."
+}

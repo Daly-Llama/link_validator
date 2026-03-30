@@ -1,0 +1,20 @@
+{
+  "number": "INC0004765",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09994",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Microsoft Defender and wdavdaemon popups on macOS during login\n\nfull_description_text: \nUpon logging into my office computer this morning, I encountered an unexpected situation where two distinct popup windows appeared on my macOS system. The first window was from \"Microsoft Defender,\" which requested permission to filter network content, indicating that all network activity on my Mac could potentially be monitored or filtered. Simultaneously, another popup from \"wdavdaemon\" appeared, stating that it would like to utilize a new network extension, which can be enabled through the Login Items & Extensions settings. This network extension is designed to operate in the background, ostensibly to monitor network traffic on my Mac, raising concerns about privacy and system performance.",
+  "short_description": "Microsoft Defender and wdavdaemon popups on macOS during login",
+  "description": "Upon logging into my office computer this morning, I encountered an unexpected situation where two distinct popup windows appeared on my macOS system. The first window was from \"Microsoft Defender,\" which requested permission to filter network content, indicating that all network activity on my Mac could potentially be monitored or filtered. Simultaneously, another popup from \"wdavdaemon\" appeared, stating that it would like to utilize a new network extension, which can be enabled through the Login Items & Extensions settings. This network extension is designed to operate in the background, ostensibly to monitor network traffic on my Mac, raising concerns about privacy and system performance."
+}

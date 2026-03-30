@@ -1,0 +1,20 @@
+{
+  "number": "INC0003086",
+  "category": "Human Resources",
+  "subcategory": "Time & Leave",
+  "correct_kb": "KB05732",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's Annual Leave Policy and usage.\n\nfull_description_text:  \n- The user is curious about the Annual Leave Policy at USD, which is important for planning time off.  \n- They want to know how to properly use their Annual Leave, which can be a bit confusing sometimes.  \n- It's essential to understand these policies to ensure they can take their well-deserved breaks without any issues.  \n- The user might be looking for specific details on how to request leave or any forms they need to fill out.",
+  "short_description": "Inquiry about USD's Annual Leave Policy and usage.",
+  "description": "- The user is curious about the Annual Leave Policy at USD, which is important for planning time off.  \n- They want to know how to properly use their Annual Leave, which can be a bit confusing sometimes.  \n- It's essential to understand these policies to ensure they can take their well-deserved breaks without any issues.  \n- The user might be looking for specific details on how to request leave or any forms they need to fill out."
+}

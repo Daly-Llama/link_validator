@@ -1,0 +1,20 @@
+{
+  "number": "INC0002435",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03827",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Request for setup and reset of new iPad or Android tablet\n\nfull_description_text:\n- Employee needs assistance with setting up a new iPad.  \n- There is a request to reset the iPad for installation.  \n- The issue involves both iPad and Android tablet environments.",
+  "short_description": "Request for setup and reset of new iPad or Android tablet",
+  "description": "- Employee needs assistance with setting up a new iPad.  \n- There is a request to reset the iPad for installation.  \n- The issue involves both iPad and Android tablet environments."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002959",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05394",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Shared Drive quota warning email sent to file updater.\n\nfull_description_text: A user received a quota warning email regarding the Shared Drive after they updated a file. This notification indicates that the storage limit for the Shared Drive is approaching. The email was specifically directed to the individual who made the last modification to the file.",
+  "short_description": "Shared Drive quota warning email sent to file updater.",
+  "description": "A user received a quota warning email regarding the Shared Drive after they updated a file. This notification indicates that the storage limit for the Shared Drive is approaching. The email was specifically directed to the individual who made the last modification to the file."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002063",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02719",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Confusion over email titled \"Sorry Coyote, You Failed a Phishing Test\"\n\nfull_description_text:  \nThe user received an email with the subject line indicating failure in a phishing test. They are uncertain if this email is legitimate or part of another phishing attempt. The context involves a security training environment, specifically KnowBe4 and Office365 ATP. Clarification is needed regarding the authenticity of this communication.",
+  "short_description": "Confusion over email titled \"Sorry Coyote, You Failed a Phishing Test\"",
+  "description": "The user received an email with the subject line indicating failure in a phishing test. They are uncertain if this email is legitimate or part of another phishing attempt. The context involves a security training environment, specifically KnowBe4 and Office365 ATP. Clarification is needed regarding the authenticity of this communication."
+}

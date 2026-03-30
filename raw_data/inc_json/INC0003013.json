@@ -1,0 +1,20 @@
+{
+  "number": "INC0003013",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05533",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issue with loading Federal Cohorts into Banner after Census Extract Freeze\n\nfull_description_text:  \nThe user is trying to load Federal Cohorts into Banner following the Fall record Type 1 Census Extract Freeze that occurs in September each year. This process is supposed to happen right after the freeze, but there seems to be a problem. The list for USD Regent Scholars is generated from RIS at the end of September, and it’s unclear why the cohorts are not being loaded as expected.",
+  "short_description": "Issue with loading Federal Cohorts into Banner after Census Extract Freeze",
+  "description": "The user is trying to load Federal Cohorts into Banner following the Fall record Type 1 Census Extract Freeze that occurs in September each year. This process is supposed to happen right after the freeze, but there seems to be a problem. The list for USD Regent Scholars is generated from RIS at the end of September, and it’s unclear why the cohorts are not being loaded as expected."
+}

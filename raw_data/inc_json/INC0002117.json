@@ -1,0 +1,20 @@
+{
+  "number": "INC0002117",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB02879",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access book ordering page on Charlie's Bookstore website.\n\nfull_description_text: The user is attempting to order books for their class through USD's Online Bookstore, specifically via Charlie's Bookstore website. However, when they click the link to access the ordering page, they encounter an error indicating that the page does not exist. This issue is preventing them from completing their order, which is essential for their upcoming classes.",
+  "short_description": "Unable to access book ordering page on Charlie's Bookstore website.",
+  "description": "The user is attempting to order books for their class through USD's Online Bookstore, specifically via Charlie's Bookstore website. However, when they click the link to access the ordering page, they encounter an error indicating that the page does not exist. This issue is preventing them from completing their order, which is essential for their upcoming classes."
+}

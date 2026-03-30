@@ -1,0 +1,20 @@
+{
+  "number": "INC0002289",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB03422",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to update Medical Resident's SSN in database\n\nfull_description_text: \nUser wants to change a Medical Resident's SSN.  \nThey submitted a form for this.  \nThe database is for Residents and Affiliates.  \nIt is important to have the correct information.",
+  "short_description": "Need to update Medical Resident's SSN in database",
+  "description": "User wants to change a Medical Resident's SSN.  \nThey submitted a form for this.  \nThe database is for Residents and Affiliates.  \nIt is important to have the correct information."
+}

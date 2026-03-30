@@ -1,0 +1,20 @@
+{
+  "number": "INC0003938",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB08086",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty joining a team in Microsoft Teams.\n\nfull_description_text:\n- The user inquired about the process to join a team in Microsoft Teams.  \n- They expressed confusion regarding the necessary steps to complete this action.  \n- The request was made during a live phone call with a help desk analyst.  \n- The analyst noted that the user primarily speaks Spanish.",
+  "short_description": "Difficulty joining a team in Microsoft Teams.",
+  "description": "- The user inquired about the process to join a team in Microsoft Teams.  \n- They expressed confusion regarding the necessary steps to complete this action.  \n- The request was made during a live phone call with a help desk analyst.  \n- The analyst noted that the user primarily speaks Spanish."
+}

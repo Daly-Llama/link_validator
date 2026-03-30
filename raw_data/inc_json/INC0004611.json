@@ -1,0 +1,20 @@
+{
+  "number": "INC0004611",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB09480",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: When to use a fume hood in the lab?\n\nfull_description_text: I was in the lab and not sure when to use the fume hood. Like, is it for every experiment or just some? I need to know this for safety stuff, but it’s kinda confusing. Can someone help me figure this out?",
+  "short_description": "When to use a fume hood in the lab?",
+  "description": "I was in the lab and not sure when to use the fume hood. Like, is it for every experiment or just some? I need to know this for safety stuff, but it’s kinda confusing. Can someone help me figure this out?"
+}

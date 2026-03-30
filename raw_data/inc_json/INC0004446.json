@@ -1,0 +1,20 @@
+{
+  "number": "INC0004446",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB09079",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: User unable to log into USD account due to forgotten password.\n\nfull_description_text: \nThe user is having issues logging into their USD account because they forgot their password. They mentioned that their password manager indicated their password was compromised online, prompting the need for a reset. The request was made through email, and they are looking for assistance with the password change process.",
+  "short_description": "User unable to log into USD account due to forgotten password.",
+  "description": "The user is having issues logging into their USD account because they forgot their password. They mentioned that their password manager indicated their password was compromised online, prompting the need for a reset. The request was made through email, and they are looking for assistance with the password change process."
+}

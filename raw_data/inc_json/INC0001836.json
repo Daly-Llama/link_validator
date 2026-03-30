@@ -1,0 +1,20 @@
+{
+  "number": "INC0001836",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02038",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need to order and install SPSS licenses for office computer.\n\nfull_description_text:\n- The user is looking to get SPSS software set up on their office computer.  \n- They need to order the necessary licenses to proceed with the installation.  \n- This request came through an email, and the user is likely familiar with the software.  \n- It's important to ensure they have everything they need to get SPSS running smoothly.",
+  "short_description": "Need to order and install SPSS licenses for office computer.",
+  "description": "- The user is looking to get SPSS software set up on their office computer.  \n- They need to order the necessary licenses to proceed with the installation.  \n- This request came through an email, and the user is likely familiar with the software.  \n- It's important to ensure they have everything they need to get SPSS running smoothly."
+}

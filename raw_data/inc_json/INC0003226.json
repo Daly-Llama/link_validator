@@ -1,0 +1,20 @@
+{
+  "number": "INC0003226",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB06171",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Cognos folder missing after Banner migration, causing report access issues.\n\nfull_description_text:\n- The user is attempting to run a course report for Fall 2021 but can only see options up to Summer 2019. \n- They are experiencing a missing Cognos folder, which is critical for accessing necessary reports. \n- When trying to execute the Banner Security Name Search Report_v2 or other reports in the specified path, an error message appears, indicating a logon failure. \n- The user is encouraged to reach out for assistance, as this issue is impacting their ability to retrieve important data.",
+  "short_description": "Cognos folder missing after Banner migration, causing report access issues.",
+  "description": "- The user is attempting to run a course report for Fall 2021 but can only see options up to Summer 2019. \n- They are experiencing a missing Cognos folder, which is critical for accessing necessary reports. \n- When trying to execute the Banner Security Name Search Report_v2 or other reports in the specified path, an error message appears, indicating a logon failure. \n- The user is encouraged to reach out for assistance, as this issue is impacting their ability to retrieve important data."
+}

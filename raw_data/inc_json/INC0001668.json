@@ -1,0 +1,20 @@
+{
+  "number": "INC0001668",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB01554",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Can't attach files in Outlook, getting an error message.\n\nfull_description_text: So, I was on the phone with a user who was trying to send an email but couldn’t attach any files. They kept getting this weird error saying something about the messaging interfaces and an unknown error. It was really frustrating for them, and they mentioned that restarting Outlook didn’t help at all. They just wanted to send some pictures to a friend, but now they’re stuck!",
+  "short_description": "Can't attach files in Outlook, getting an error message.",
+  "description": "So, I was on the phone with a user who was trying to send an email but couldn’t attach any files. They kept getting this weird error saying something about the messaging interfaces and an unknown error. It was really frustrating for them, and they mentioned that restarting Outlook didn’t help at all. They just wanted to send some pictures to a friend, but now they’re stuck!"
+}

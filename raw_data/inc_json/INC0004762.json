@@ -1,0 +1,20 @@
+{
+  "number": "INC0004762",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB09982",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Incorrect amount charged, need Coyote Cash refund for customer.\n\nfull_description_text: I was working with a customer who got charged the wrong amount. Now, I need to request a refund for them as an offsite vendor. This issue is causing some confusion, and it's important to get it sorted out quickly.",
+  "short_description": "Incorrect amount charged, need Coyote Cash refund for customer.",
+  "description": "I was working with a customer who got charged the wrong amount. Now, I need to request a refund for them as an offsite vendor. This issue is causing some confusion, and it's important to get it sorted out quickly."
+}

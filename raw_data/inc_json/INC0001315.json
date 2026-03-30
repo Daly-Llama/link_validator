@@ -1,0 +1,20 @@
+{
+  "number": "INC0001315",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB00592",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Local printer and scanner are not functioning properly.\n\nfull_description_text: \nThe user reported issues with their local printer, stating that it is unable to print or scan. They mentioned that the printer in the technician's office is not communicating with the computer, and there is a problem with a toner cartridge being stuck. This has caused significant disruption to their workflow, as they rely on the printer for daily tasks.",
+  "short_description": "Local printer and scanner are not functioning properly.",
+  "description": "The user reported issues with their local printer, stating that it is unable to print or scan. They mentioned that the printer in the technician's office is not communicating with the computer, and there is a problem with a toner cartridge being stuck. This has caused significant disruption to their workflow, as they rely on the printer for daily tasks."
+}

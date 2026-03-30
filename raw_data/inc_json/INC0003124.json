@@ -1,0 +1,20 @@
+{
+  "number": "INC0003124",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05836",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to share Outlook Calendar details with external users.\n\nfull_description_text:\n- I'm trying to figure out how to share my Outlook Calendar with someone outside my organization, like a friend or a colleague who uses Gmail. \n- I want to share all the juicy details of my events, not just the boring free/busy slots that don’t really tell them anything useful. \n- It’s a bit frustrating because I thought sharing calendars would be straightforward, but it seems like there are some hidden settings or permissions I need to navigate. \n- If only it were as easy as sending an email, but alas, here I am, stuck in the calendar-sharing conundrum!",
+  "short_description": "Unable to share Outlook Calendar details with external users.",
+  "description": "- I'm trying to figure out how to share my Outlook Calendar with someone outside my organization, like a friend or a colleague who uses Gmail. \n- I want to share all the juicy details of my events, not just the boring free/busy slots that don’t really tell them anything useful. \n- It’s a bit frustrating because I thought sharing calendars would be straightforward, but it seems like there are some hidden settings or permissions I need to navigate. \n- If only it were as easy as sending an email, but alas, here I am, stuck in the calendar-sharing conundrum!"
+}

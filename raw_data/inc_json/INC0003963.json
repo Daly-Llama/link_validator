@@ -1,0 +1,20 @@
+{
+  "number": "INC0003963",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08116",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about question settings in Qualtrics\n\nfull_description_text:\n- User wants to know the question settings in Qualtrics.\n- They are specifically interested in the Question Behavior setting.\n- The request was submitted through a self-service form.",
+  "short_description": "Inquiry about question settings in Qualtrics",
+  "description": "- User wants to know the question settings in Qualtrics.\n- They are specifically interested in the Question Behavior setting.\n- The request was submitted through a self-service form."
+}

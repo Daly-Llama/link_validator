@@ -1,0 +1,20 @@
+{
+  "number": "INC0002503",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB03992",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about ticket status in USD IT Ticketing System\n\nfull_description_text:  \nUser submitted a ticket to USD IT Service Desk.  \nThey want to know the current status.  \nThis was done during a live chat session.  \nNeed quick update on ticket progress.",
+  "short_description": "Inquiry about ticket status in USD IT Ticketing System",
+  "description": "User submitted a ticket to USD IT Service Desk.  \nThey want to know the current status.  \nThis was done during a live chat session.  \nNeed quick update on ticket progress."
+}

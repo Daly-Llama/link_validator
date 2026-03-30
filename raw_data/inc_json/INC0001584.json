@@ -1,0 +1,20 @@
+{
+  "number": "INC0001584",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB01277",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to change permissions in ImageNow.\n\nfull_description_text:\n- User needs permissions to complete tasks in ImageNow.  \n- They also want to remove some permissions.  \n- This was discussed during a call with the help desk.  \n- The user speaks Spanish as their first language.",
+  "short_description": "Need to change permissions in ImageNow.",
+  "description": "- User needs permissions to complete tasks in ImageNow.  \n- They also want to remove some permissions.  \n- This was discussed during a call with the help desk.  \n- The user speaks Spanish as their first language."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003489",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB07211",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Surface Pro camera is not working or installed properly.\n\nfull_description_text: The user reported that the camera on their Surface Pro is not functional. They mentioned that it seems to be either not installed or not working at all. This issue is occurring on a Windows 10 environment, and it was discussed during a live chat session. The user is looking for assistance to resolve this camera problem.",
+  "short_description": "Surface Pro camera is not working or installed properly.",
+  "description": "The user reported that the camera on their Surface Pro is not functional. They mentioned that it seems to be either not installed or not working at all. This issue is occurring on a Windows 10 environment, and it was discussed during a live chat session. The user is looking for assistance to resolve this camera problem."
+}

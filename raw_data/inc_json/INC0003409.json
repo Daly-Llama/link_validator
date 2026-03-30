@@ -1,0 +1,20 @@
+{
+  "number": "INC0003409",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB06899",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Phish Alert Button in Outlook is not functioning properly.\n\nfull_description_text: The user encountered an issue while attempting to report suspicious emails through the Phish Alert Button in Outlook. Despite their efforts, they were unable to submit the report, receiving an error message indicating a request failure with status code 403. This situation has left the user uncertain about how to proceed with reporting potential phishing attempts.",
+  "short_description": "Phish Alert Button in Outlook is not functioning properly.",
+  "description": "The user encountered an issue while attempting to report suspicious emails through the Phish Alert Button in Outlook. Despite their efforts, they were unable to submit the report, receiving an error message indicating a request failure with status code 403. This situation has left the user uncertain about how to proceed with reporting potential phishing attempts."
+}

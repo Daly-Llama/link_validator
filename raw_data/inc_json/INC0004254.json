@@ -1,0 +1,20 @@
+{
+  "number": "INC0004254",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB08621",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to find pop-up to redeem BIOL151 code on Pearson site\n\nfull_description_text:\n- User is on the Pearson site attempting to redeem a code for BIOL151.\n- The necessary pop-up for code redemption is not appearing.\n- This issue is preventing access to course materials and may affect user progress.",
+  "short_description": "Unable to find pop-up to redeem BIOL151 code on Pearson site",
+  "description": "- User is on the Pearson site attempting to redeem a code for BIOL151.\n- The necessary pop-up for code redemption is not appearing.\n- This issue is preventing access to course materials and may affect user progress."
+}

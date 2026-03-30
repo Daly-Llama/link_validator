@@ -1,0 +1,20 @@
+{
+  "number": "INC0002824",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04981",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need to quickly recall a sent email in Outlook 365.\n\nfull_description_text: I just replied to an email and now I want to take it back. Is there a way to recall it fast? I’m using Outlook 365, but I’m not sure how this works or if it’s even possible.",
+  "short_description": "Need to quickly recall a sent email in Outlook 365.",
+  "description": "I just replied to an email and now I want to take it back. Is there a way to recall it fast? I’m using Outlook 365, but I’m not sure how this works or if it’s even possible."
+}

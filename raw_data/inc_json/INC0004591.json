@@ -1,0 +1,20 @@
+{
+  "number": "INC0004591",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09433",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need list of approved and denied software inventory.\n\nfull_description_text: So, I was wondering if there's a list of all the software we can use and the ones we can't. Like, is there an inventory of approved and denied software? It'd be super helpful to know what’s okay and what’s not.",
+  "short_description": "Need list of approved and denied software inventory.",
+  "description": "So, I was wondering if there's a list of all the software we can use and the ones we can't. Like, is there an inventory of approved and denied software? It'd be super helpful to know what’s okay and what’s not."
+}

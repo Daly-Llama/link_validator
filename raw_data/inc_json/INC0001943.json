@@ -1,0 +1,20 @@
+{
+  "number": "INC0001943",
+  "category": "Academic Advising",
+  "subcategory": "Academic Advising",
+  "correct_kb": "KB02367",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to check for holds before student registration.\n\nfull_description_text: \nThe user is trying to prepare for their registration but is facing an issue. They want to check for any holds on their account to see when they can register, but they can't find the necessary information. This is happening in the Banner system through the Student Registration Self Service, and it's affecting all internet browsers.",
+  "short_description": "Unable to check for holds before student registration.",
+  "description": "The user is trying to prepare for their registration but is facing an issue. They want to check for any holds on their account to see when they can register, but they can't find the necessary information. This is happening in the Banner system through the Student Registration Self Service, and it's affecting all internet browsers."
+}

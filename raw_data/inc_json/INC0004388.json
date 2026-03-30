@@ -1,0 +1,20 @@
+{
+  "number": "INC0004388",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08939",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy for asset configuration\n\nfull_description_text:\n- The user was asking about the security policy related to the secure configuration of enterprise assets and software.  \n- They seemed a bit confused about the specifics of CIS Control 4 and how it applies to their environment.  \n- It’s important to clarify what the USD guidelines are for ensuring assets are properly secured.",
+  "short_description": "Inquiry about USD security policy for asset configuration",
+  "description": "- The user was asking about the security policy related to the secure configuration of enterprise assets and software.  \n- They seemed a bit confused about the specifics of CIS Control 4 and how it applies to their environment.  \n- It’s important to clarify what the USD guidelines are for ensuring assets are properly secured."
+}

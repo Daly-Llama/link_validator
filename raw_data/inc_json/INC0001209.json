@@ -1,0 +1,20 @@
+{
+  "number": "INC0001209",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00389",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for access to a network drive or shared folder\n\nfull_description_text:  \nI need access to the network drive. Can you give me permission for the shared folder? I submitted this request through the form.",
+  "short_description": "Request for access to a network drive or shared folder",
+  "description": "I need access to the network drive. Can you give me permission for the shared folder? I submitted this request through the form."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003639",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07758",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with using Google Docs offline securely\n\nfull_description_text: So, I was on the phone with this user, right? They were trying to figure out how to use Google Docs when they’re not connected to the internet, like when you’re on a plane or something, but they were super concerned about keeping everything secure, you know? They kept asking about the steps to set it up and if there were any risks involved, and honestly, it was a bit of a jumble trying to explain it all while they were just wanting to get their work done without any hiccups. It’s like, they really needed to know how to make it work offline without compromising their data, but it was a bit tricky to get all the details straight.",
+  "short_description": "Issues with using Google Docs offline securely",
+  "description": "So, I was on the phone with this user, right? They were trying to figure out how to use Google Docs when they’re not connected to the internet, like when you’re on a plane or something, but they were super concerned about keeping everything secure, you know? They kept asking about the steps to set it up and if there were any risks involved, and honestly, it was a bit of a jumble trying to explain it all while they were just wanting to get their work done without any hiccups. It’s like, they really needed to know how to make it work offline without compromising their data, but it was a bit tricky to get all the details straight."
+}

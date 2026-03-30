@@ -1,0 +1,20 @@
+{
+  "number": "INC0002479",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03942",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need installation of ENVI+IDL and license server update\n\nfull_description_text:  \nSo, the user was on the phone asking for ENVI+IDL to be installed. They also mentioned needing an update for the ENVI License Server, but it got a bit jumbled in the conversation. It seems like they really want to get everything set up properly, but the details were a bit all over the place.",
+  "short_description": "Need installation of ENVI+IDL and license server update",
+  "description": "So, the user was on the phone asking for ENVI+IDL to be installed. They also mentioned needing an update for the ENVI License Server, but it got a bit jumbled in the conversation. It seems like they really want to get everything set up properly, but the details were a bit all over the place."
+}

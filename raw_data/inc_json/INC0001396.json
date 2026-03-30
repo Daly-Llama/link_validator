@@ -1,0 +1,20 @@
+{
+  "number": "INC0001396",
+  "category": "Technology",
+  "subcategory": "Windows",
+  "correct_kb": "KB00757",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Default programs in Windows 10 are not opening as expected.\n\nfull_description_text:  \nI'm having trouble with my default programs in Windows 10. For some reason, PDFs are opening in the wrong program, and JPEG files keep trying to open in Adobe Acrobat instead of Photos. It's really frustrating because I just want to use the right apps for my files, and I can't figure out how to change it back.",
+  "short_description": "Default programs in Windows 10 are not opening as expected.",
+  "description": "I'm having trouble with my default programs in Windows 10. For some reason, PDFs are opening in the wrong program, and JPEG files keep trying to open in Adobe Acrobat instead of Photos. It's really frustrating because I just want to use the right apps for my files, and I can't figure out how to change it back."
+}

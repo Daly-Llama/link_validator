@@ -1,0 +1,20 @@
+{
+  "number": "INC0002672",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB04567",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble accessing email on Mac after Duo MFA setup\n\nfull_description_text:  \nSet up Duo MFA on my Mac. Now can't access my email. Need to configure the mail app to work with Duo. It's not syncing or letting me in.",
+  "short_description": "Trouble accessing email on Mac after Duo MFA setup",
+  "description": "Set up Duo MFA on my Mac. Now can't access my email. Need to configure the mail app to work with Duo. It's not syncing or letting me in."
+}

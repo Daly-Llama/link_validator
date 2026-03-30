@@ -1,0 +1,20 @@
+{
+  "number": "INC0002161",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB03015",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for a Meet-Me number for phone conferencing\n\nfull_description_text:  \nSo, during a call, the user mentioned they need a Meet-Me number for their VoIP phone conferencing. They were looking to set up a conference call but didn't have the number handy. It seems like they just want to get things rolling with their meeting, but they're stuck without that number.",
+  "short_description": "Request for a Meet-Me number for phone conferencing",
+  "description": "So, during a call, the user mentioned they need a Meet-Me number for their VoIP phone conferencing. They were looking to set up a conference call but didn't have the number handy. It seems like they just want to get things rolling with their meeting, but they're stuck without that number."
+}

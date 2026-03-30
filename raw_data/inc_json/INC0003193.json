@@ -1,0 +1,20 @@
+{
+  "number": "INC0003193",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB06080",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: VPN connection failed due to domain name resolution error.\n\nfull_description_text: \nThe user is trying to sign into the Cisco AnyConnect VPN. They are getting an error message that says the VPN connection failed because of unsuccessful domain name resolution. This means the system cannot find the domain name needed to connect. The user is confused and needs help to understand why this is happening.",
+  "short_description": "VPN connection failed due to domain name resolution error.",
+  "description": "The user is trying to sign into the Cisco AnyConnect VPN. They are getting an error message that says the VPN connection failed because of unsuccessful domain name resolution. This means the system cannot find the domain name needed to connect. The user is confused and needs help to understand why this is happening."
+}

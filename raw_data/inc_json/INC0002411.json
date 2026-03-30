@@ -1,0 +1,20 @@
+{
+  "number": "INC0002411",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB03774",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to save data in Banner due to concurrency violation error\n\nfull_description_text: \nThe user is trying to save their work in the Banner system but is facing a problem. They keep getting this error message that says \"CONCURRENCY VIOLATION ERROR\" which means that the data was changed by another user, or something like that. It seems like when they are on the SAADCRV screen, it just keeps spinning and doesn't actually save anything. Also, there is a notification about a \"query only role\" that pops up when they are doing their accounting tasks, which is really confusing for them.",
+  "short_description": "Unable to save data in Banner due to concurrency violation error",
+  "description": "The user is trying to save their work in the Banner system but is facing a problem. They keep getting this error message that says \"CONCURRENCY VIOLATION ERROR\" which means that the data was changed by another user, or something like that. It seems like when they are on the SAADCRV screen, it just keeps spinning and doesn't actually save anything. Also, there is a notification about a \"query only role\" that pops up when they are doing their accounting tasks, which is really confusing for them."
+}

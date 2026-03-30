@@ -1,0 +1,20 @@
+{
+  "number": "INC0002446",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03853",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Laptop not displaying desktop on projector in classroom.\n\nfull_description_text: I was trying to connect my laptop to the projector using HDMI or VGA cable in the classroom. But it only shows a blank Windows background and I can't see my desktop. My laptop seems to be stuck in extended mode and I don't know how to fix it.",
+  "short_description": "Laptop not displaying desktop on projector in classroom.",
+  "description": "I was trying to connect my laptop to the projector using HDMI or VGA cable in the classroom. But it only shows a blank Windows background and I can't see my desktop. My laptop seems to be stuck in extended mode and I don't know how to fix it."
+}

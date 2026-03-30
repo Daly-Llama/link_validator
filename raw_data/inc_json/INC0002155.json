@@ -1,0 +1,20 @@
+{
+  "number": "INC0002155",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02998",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Running out of space on C: Drive due to OneDrive\n\nfull_description_text:  \nI’m having a problem with my C: drive, it’s almost full because of OneDrive. I don’t know how to move OneDrive to another location to save space. It’s really frustrating because I need more room for my files, but OneDrive is taking up too much space on my computer. Can someone help me with this?",
+  "short_description": "Running out of space on C: Drive due to OneDrive",
+  "description": "I’m having a problem with my C: drive, it’s almost full because of OneDrive. I don’t know how to move OneDrive to another location to save space. It’s really frustrating because I need more room for my files, but OneDrive is taking up too much space on my computer. Can someone help me with this?"
+}

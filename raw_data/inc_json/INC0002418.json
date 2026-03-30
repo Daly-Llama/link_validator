@@ -1,0 +1,20 @@
+{
+  "number": "INC0002418",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB03789",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Global Address list in Outlook shows incorrect contact details.\n\nfull_description_text: During a live chat, the user reported that the Global Address list in Outlook is not showing the correct information. They mentioned that this issue is causing confusion when trying to find contacts. The analyst noted that the user seemed frustrated with the situation, as it was affecting their ability to communicate effectively.",
+  "short_description": "Global Address list in Outlook shows incorrect contact details.",
+  "description": "During a live chat, the user reported that the Global Address list in Outlook is not showing the correct information. They mentioned that this issue is causing confusion when trying to find contacts. The analyst noted that the user seemed frustrated with the situation, as it was affecting their ability to communicate effectively."
+}

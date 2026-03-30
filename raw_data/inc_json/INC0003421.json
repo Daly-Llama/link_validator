@@ -1,0 +1,20 @@
+{
+  "number": "INC0003421",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06936",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update Add-on Flex Dates in Transact\n\nfull_description_text:\n- The user was trying to change the Add-on Flex Dates in Transact.  \n- They requested to adjust the flex percentage to either 20% or 15% for certain dates.  \n- There was some confusion about which dates needed the updates, but they were very clear on the percentages.  \n- The call was friendly, and the user seemed eager to get this sorted out quickly.",
+  "short_description": "Need to update Add-on Flex Dates in Transact",
+  "description": "- The user was trying to change the Add-on Flex Dates in Transact.  \n- They requested to adjust the flex percentage to either 20% or 15% for certain dates.  \n- There was some confusion about which dates needed the updates, but they were very clear on the percentages.  \n- The call was friendly, and the user seemed eager to get this sorted out quickly."
+}

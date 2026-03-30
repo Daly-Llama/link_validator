@@ -1,0 +1,20 @@
+{
+  "number": "INC0003551",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB07401",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to uninstall Adobe Creative Cloud Complete on Windows 10\n\nfull_description_text: \nThe user expressed a desire to remove Adobe Creative Cloud Complete from their Windows 10 system. During the call, they indicated that they no longer require the software and are seeking guidance on the uninstallation process. The conversation focused on ensuring that all components of the application are properly removed from the device.",
+  "short_description": "Request to uninstall Adobe Creative Cloud Complete on Windows 10",
+  "description": "The user expressed a desire to remove Adobe Creative Cloud Complete from their Windows 10 system. During the call, they indicated that they no longer require the software and are seeking guidance on the uninstallation process. The conversation focused on ensuring that all components of the application are properly removed from the device."
+}

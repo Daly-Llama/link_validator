@@ -1,0 +1,20 @@
+{
+  "number": "INC0003453",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB07072",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with sending Qualtrics emails and receiving responses.\n\nfull_description_text:  \n- I was trying to send out some Qualtrics surveys to gather feedback, but I noticed something strange.  \n- Even though I hit the send button, I haven’t received any responses at all, which is super frustrating!  \n- Then I got this weird message saying my weekly email limit was reached, which I didn’t even know was a thing.  \n- It said I have to wait until the limit resets, and I’m just sitting here wondering when that will be and if I should contact someone in my organization about it.",
+  "short_description": "Issues with sending Qualtrics emails and receiving responses.",
+  "description": "- I was trying to send out some Qualtrics surveys to gather feedback, but I noticed something strange.  \n- Even though I hit the send button, I haven’t received any responses at all, which is super frustrating!  \n- Then I got this weird message saying my weekly email limit was reached, which I didn’t even know was a thing.  \n- It said I have to wait until the limit resets, and I’m just sitting here wondering when that will be and if I should contact someone in my organization about it."
+}

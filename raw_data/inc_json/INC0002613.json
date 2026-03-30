@@ -1,0 +1,20 @@
+{
+  "number": "INC0002613",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04366",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: TV or projector not showing laptop or PC display in conference room.\n\nfull_description_text: \nDuring a call, the user mentioned that the TV or projector in the conference room isn't showing anything from their laptop when they connect it with the HDMI or VGA cable. They tried to use the room computer as well, but it also failed to display on the TV. It seems like there’s a problem with getting any signal to show up on the screen, which is quite frustrating for them.",
+  "short_description": "TV or projector not showing laptop or PC display in conference room.",
+  "description": "During a call, the user mentioned that the TV or projector in the conference room isn't showing anything from their laptop when they connect it with the HDMI or VGA cable. They tried to use the room computer as well, but it also failed to display on the TV. It seems like there’s a problem with getting any signal to show up on the screen, which is quite frustrating for them."
+}

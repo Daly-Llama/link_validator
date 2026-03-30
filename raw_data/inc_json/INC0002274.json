@@ -1,0 +1,20 @@
+{
+  "number": "INC0002274",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03366",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need SharePoint to open automatically on computer login.\n\nfull_description_text: \nThe user is requesting assistance with configuring their system to ensure that SharePoint opens automatically when they log into their computer. They are currently using Mozilla Firefox as their browser within a SharePoint environment. The user expressed difficulty in achieving this setup and requires guidance to resolve the issue effectively.",
+  "short_description": "Need SharePoint to open automatically on computer login.",
+  "description": "The user is requesting assistance with configuring their system to ensure that SharePoint opens automatically when they log into their computer. They are currently using Mozilla Firefox as their browser within a SharePoint environment. The user expressed difficulty in achieving this setup and requires guidance to resolve the issue effectively."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003996",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB08215",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty recording PowerPoint presentations in Panopto on Mac.\n\nfull_description_text: User attempting to record a PowerPoint presentation using Panopto on a Mac. Encountered issues with the recording functionality. The process was unclear, leading to confusion. Need assistance to resolve this recording problem.",
+  "short_description": "Difficulty recording PowerPoint presentations in Panopto on Mac.",
+  "description": "User attempting to record a PowerPoint presentation using Panopto on a Mac. Encountered issues with the recording functionality. The process was unclear, leading to confusion. Need assistance to resolve this recording problem."
+}

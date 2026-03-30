@@ -1,0 +1,20 @@
+{
+  "number": "INC0003259",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB06271",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Attendees unable to join Webex meeting before host starts.\n\nfull_description_text:  \n- The user was inquiring about the process for allowing attendees to join a Webex meeting prior to the host.  \n- They also expressed interest in enabling a waiting room feature within the platform.  \n- This situation arose during a live phone call with a help desk analyst, who noted the need for clarity on these functionalities.  \n- There were some minor misunderstandings regarding the order of operations for setting these features up.",
+  "short_description": "Attendees unable to join Webex meeting before host starts.",
+  "description": "- The user was inquiring about the process for allowing attendees to join a Webex meeting prior to the host.  \n- They also expressed interest in enabling a waiting room feature within the platform.  \n- This situation arose during a live phone call with a help desk analyst, who noted the need for clarity on these functionalities.  \n- There were some minor misunderstandings regarding the order of operations for setting these features up."
+}

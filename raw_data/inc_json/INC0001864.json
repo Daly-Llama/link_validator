@@ -1,0 +1,20 @@
+{
+  "number": "INC0001864",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02106",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need info on iPad versions and retiring employee's computer.\n\nfull_description_text: So, I was on the phone with this person, right? They were asking about the iPads, like, what version are they? And then they also mentioned something about a computer from an employee who's retiring, which is kinda important too, I guess. It was a bit confusing, but they really wanted to know all this info about the equipment, like, ASAP!",
+  "short_description": "Need info on iPad versions and retiring employee's computer.",
+  "description": "So, I was on the phone with this person, right? They were asking about the iPads, like, what version are they? And then they also mentioned something about a computer from an employee who's retiring, which is kinda important too, I guess. It was a bit confusing, but they really wanted to know all this info about the equipment, like, ASAP!"
+}

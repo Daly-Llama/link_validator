@@ -1,0 +1,20 @@
+{
+  "number": "INC0003448",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07054",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Employees unable to view their KnowBe4 training status.\n\nfull_description_text: \nA user is trying to check which employees have not completed their assigned training in KnowBe4. They are also inquiring about their own training status. Additionally, the user has received notifications indicating that their training is still incomplete.",
+  "short_description": "Employees unable to view their KnowBe4 training status.",
+  "description": "A user is trying to check which employees have not completed their assigned training in KnowBe4. They are also inquiring about their own training status. Additionally, the user has received notifications indicating that their training is still incomplete."
+}

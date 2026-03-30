@@ -1,0 +1,20 @@
+{
+  "number": "INC0002355",
+  "category": "Admissions",
+  "subcategory": "Admissions",
+  "correct_kb": "KB03592",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty scheduling a campus visit for admissions.\n\nfull_description_text: So, the caller was trying to figure out how to set up a campus visit, right? They were a bit confused about the process and wanted to know the steps involved. It seems like they just needed some guidance on how to get that visit scheduled, but things got a little tangled up during the call.",
+  "short_description": "Difficulty scheduling a campus visit for admissions.",
+  "description": "So, the caller was trying to figure out how to set up a campus visit, right? They were a bit confused about the process and wanted to know the steps involved. It seems like they just needed some guidance on how to get that visit scheduled, but things got a little tangled up during the call."
+}

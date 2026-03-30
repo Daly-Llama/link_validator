@@ -1,0 +1,20 @@
+{
+  "number": "INC0002852",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB05098",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: User wants to purchase rented book from Akademos.\n\nfull_description_text: User is renting a book from Akademos. They want to keep it. They ask how to buy it. Need clear steps for purchase process.",
+  "short_description": "User wants to purchase rented book from Akademos.",
+  "description": "User is renting a book from Akademos. They want to keep it. They ask how to buy it. Need clear steps for purchase process."
+}

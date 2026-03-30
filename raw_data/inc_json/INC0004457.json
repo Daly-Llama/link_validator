@@ -1,0 +1,20 @@
+{
+  "number": "INC0004457",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09115",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Requesting a loft for a bed in traditional dorms\n\nfull_description_text:  \nThe user is inquiring about the process to request a loft for their bed. They need to complete the loft request form available in the Housing Portal. It is important to note that certain dorms, such as Coyote Village and McFadden Hall, are not eligible for this request. Additionally, there is a fee associated with the loft that will be charged at the beginning of each semester.",
+  "short_description": "Requesting a loft for a bed in traditional dorms",
+  "description": "The user is inquiring about the process to request a loft for their bed. They need to complete the loft request form available in the Housing Portal. It is important to note that certain dorms, such as Coyote Village and McFadden Hall, are not eligible for this request. Additionally, there is a fee associated with the loft that will be charged at the beginning of each semester."
+}

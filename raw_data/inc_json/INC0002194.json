@@ -1,0 +1,20 @@
+{
+  "number": "INC0002194",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03128",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Computer unexpectedly shuts down during data acquisition.\n\nfull_description_text:  \nI've been working on my desktop, trying to gather some important data, and it just shut down on me out of nowhere—twice today! It's really frustrating because I was in the middle of things, and now I'm worried about losing my progress. This has never happened before, and I’m not sure what’s causing it.",
+  "short_description": "Computer unexpectedly shuts down during data acquisition.",
+  "description": "I've been working on my desktop, trying to gather some important data, and it just shut down on me out of nowhere—twice today! It's really frustrating because I was in the middle of things, and now I'm worried about losing my progress. This has never happened before, and I’m not sure what’s causing it."
+}

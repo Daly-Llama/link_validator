@@ -1,0 +1,20 @@
+{
+  "number": "INC0004288",
+  "category": "Business Office",
+  "subcategory": "Business Office",
+  "correct_kb": "KB08694",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need information on obtaining Vendor or Guest Parking Permits\n\nfull_description_text: \nThe user was asking about where to get Vendor or Guest Parking Permits. They were confused and needed help finding the right place. They mentioned they are a vendor and have guests needing parking. The call was in Spanish, and the user seemed unsure about the process.",
+  "short_description": "Need information on obtaining Vendor or Guest Parking Permits",
+  "description": "The user was asking about where to get Vendor or Guest Parking Permits. They were confused and needed help finding the right place. They mentioned they are a vendor and have guests needing parking. The call was in Spanish, and the user seemed unsure about the process."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001647",
+  "category": "Technology",
+  "subcategory": "Calendars",
+  "correct_kb": "KB01499",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to change the default calendar on my iPhone.\n\nfull_description_text:  \nI’m trying to set a different calendar as the default on my iPhone. It’s not working out, and I’m not sure what to do next. I just want to make sure my iCloud Calendar is the one that shows up by default.",
+  "short_description": "Need to change the default calendar on my iPhone.",
+  "description": "I’m trying to set a different calendar as the default on my iPhone. It’s not working out, and I’m not sure what to do next. I just want to make sure my iCloud Calendar is the one that shows up by default."
+}

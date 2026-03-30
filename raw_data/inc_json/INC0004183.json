@@ -1,0 +1,20 @@
+{
+  "number": "INC0004183",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB08473",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reporting an injury that happened at work.\n\nfull_description_text: So, the caller was trying to figure out how to report an injury that happened while they were working. They seemed a bit confused about the whole process and just wanted to know what steps to take next. It was clear they needed some guidance on filling out the injury form.",
+  "short_description": "Reporting an injury that happened at work.",
+  "description": "So, the caller was trying to figure out how to report an injury that happened while they were working. They seemed a bit confused about the whole process and just wanted to know what steps to take next. It was clear they needed some guidance on filling out the injury form."
+}

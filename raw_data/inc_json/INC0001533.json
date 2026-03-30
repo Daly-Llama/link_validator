@@ -1,0 +1,20 @@
+{
+  "number": "INC0001533",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01137",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Docking station causing issues with network and peripherals.\n\nfull_description_text: \nUser reports problems with their docking station. The network connection is not working, and both the external mouse and keyboard are unresponsive. Additionally, the screen freezes when connected. Charging is functional, but monitors and peripherals fail to operate properly.",
+  "short_description": "Docking station causing issues with network and peripherals.",
+  "description": "User reports problems with their docking station. The network connection is not working, and both the external mouse and keyboard are unresponsive. Additionally, the screen freezes when connected. Charging is functional, but monitors and peripherals fail to operate properly."
+}

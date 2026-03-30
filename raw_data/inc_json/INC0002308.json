@@ -1,0 +1,20 @@
+{
+  "number": "INC0002308",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB03501",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Students can't see feedback and originality check on D2L.\n\nfull_description_text: Students trying to check their feedback and originality stuff from TurnItIn on D2L can't find it. They don’t know how to see the reports. It’s causing confusion and they need help.",
+  "short_description": "Students can't see feedback and originality check on D2L.",
+  "description": "Students trying to check their feedback and originality stuff from TurnItIn on D2L can't find it. They don’t know how to see the reports. It’s causing confusion and they need help."
+}

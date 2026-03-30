@@ -1,0 +1,20 @@
+{
+  "number": "INC0003975",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB08128",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty accessing Google Docs via D2L for SDSU students\n\nfull_description_text: During a recent call, a help desk analyst received a request from an SDSU student who was attempting to log in to Google Docs through the D2L platform. The student expressed frustration over being unable to access the University of South Dakota's Google documents, which are essential for their coursework. This issue appears to be affecting multiple users within the D2L environment, indicating a potential access problem that needs further investigation.",
+  "short_description": "Difficulty accessing Google Docs via D2L for SDSU students",
+  "description": "During a recent call, a help desk analyst received a request from an SDSU student who was attempting to log in to Google Docs through the D2L platform. The student expressed frustration over being unable to access the University of South Dakota's Google documents, which are essential for their coursework. This issue appears to be affecting multiple users within the D2L environment, indicating a potential access problem that needs further investigation."
+}

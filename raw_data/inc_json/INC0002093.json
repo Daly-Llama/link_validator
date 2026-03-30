@@ -1,0 +1,20 @@
+{
+  "number": "INC0002093",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02809",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues accessing Campus Groups and managing club details.\n\nfull_description_text:  \nUser is unable to access Campus Groups. They also want a club removed and need to change the primary contact for their club. There are multiple issues happening at once, and it's unclear what the root cause is.",
+  "short_description": "Issues accessing Campus Groups and managing club details.",
+  "description": "User is unable to access Campus Groups. They also want a club removed and need to change the primary contact for their club. There are multiple issues happening at once, and it's unclear what the root cause is."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004389",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08940",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about USD security policy for Audit Log Management\n\nfull_description_text:  \nI need to know about the security policy. It's about Audit Log Management. I was looking for information on this. What does USD say about it? I just want to understand the rules.",
+  "short_description": "Inquiry about USD security policy for Audit Log Management",
+  "description": "I need to know about the security policy. It's about Audit Log Management. I was looking for information on this. What does USD say about it? I just want to understand the rules."
+}

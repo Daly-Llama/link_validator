@@ -1,0 +1,20 @@
+{
+  "number": "INC0003461",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB07098",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: TMA phone number needs to be updated on iSD and email.\n\nfull_description_text: A field technician was trying to update the TMA phone number on the iSD and email. They created a Work Order from the Request Log, but it was accepted without a location mentioned in the subject line. This has caused some confusion regarding the contact details that need to be changed.",
+  "short_description": "TMA phone number needs to be updated on iSD and email.",
+  "description": "A field technician was trying to update the TMA phone number on the iSD and email. They created a Work Order from the Request Log, but it was accepted without a location mentioned in the subject line. This has caused some confusion regarding the contact details that need to be changed."
+}

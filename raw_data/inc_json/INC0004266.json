@@ -1,0 +1,20 @@
+{
+  "number": "INC0004266",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB08655",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access Student Game Day Tickets due to website looping.\n\nfull_description_text: \nI was trying to log in to get my tickets for the game day, you know, the student tickets. But the website, it just keeps looping, like going through many URLs, over and over, and it’s very frustrating. There is this button that says Press & Hold, but I cannot get past it, like it’s stuck or something. I just want to get my tickets, but this issue is making it impossible, and I don’t know what to do.",
+  "short_description": "Unable to access Student Game Day Tickets due to website looping.",
+  "description": "I was trying to log in to get my tickets for the game day, you know, the student tickets. But the website, it just keeps looping, like going through many URLs, over and over, and it’s very frustrating. There is this button that says Press & Hold, but I cannot get past it, like it’s stuck or something. I just want to get my tickets, but this issue is making it impossible, and I don’t know what to do."
+}

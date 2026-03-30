@@ -1,0 +1,20 @@
+{
+  "number": "INC0004541",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB09326",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need self-evaluation templates for annual reviews.\n\nfull_description_text:  \nSo, I was talking to this person on the phone, right? They were asking me where to find these self-evaluation templates for their annual reviews. They need to submit one to their supervisor, and they also want their employees to do the same for performance evaluations. It seemed a bit confusing for them, and they were really trying to get it sorted out quickly, but I could tell they were struggling with the words a bit.",
+  "short_description": "Need self-evaluation templates for annual reviews.",
+  "description": "So, I was talking to this person on the phone, right? They were asking me where to find these self-evaluation templates for their annual reviews. They need to submit one to their supervisor, and they also want their employees to do the same for performance evaluations. It seemed a bit confusing for them, and they were really trying to get it sorted out quickly, but I could tell they were struggling with the words a bit."
+}

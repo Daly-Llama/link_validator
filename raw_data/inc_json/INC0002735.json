@@ -1,0 +1,20 @@
+{
+  "number": "INC0002735",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB04752",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Do I need to fill out a FAFSA form for financial aid?\n\nfull_description_text: \nI am wondering if it is really necessary to complete the FAFSA form for financial aid. I have heard different things, and I am not sure if it is required or not. It feels confusing, and I just want to know if I must do this to get help with my education costs. Please help me understand if filling out the FAFSA is a must or if there are other options available.",
+  "short_description": "Do I need to fill out a FAFSA form for financial aid?",
+  "description": "I am wondering if it is really necessary to complete the FAFSA form for financial aid. I have heard different things, and I am not sure if it is required or not. It feels confusing, and I just want to know if I must do this to get help with my education costs. Please help me understand if filling out the FAFSA is a must or if there are other options available."
+}

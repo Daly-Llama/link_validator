@@ -1,0 +1,20 @@
+{
+  "number": "INC0004197",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08520",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outlook meetings always add Teams info automatically.\n\nfull_description_text:  \nCuando trato de crear una reunión en Outlook, siempre se agrega información de Teams. Cambia mi ubicación y no sé cómo quitar eso. Necesito ayuda porque no quiero que Teams esté en mis invitaciones.",
+  "short_description": "Outlook meetings always add Teams info automatically.",
+  "description": "Cuando trato de crear una reunión en Outlook, siempre se agrega información de Teams. Cambia mi ubicación y no sé cómo quitar eso. Necesito ayuda porque no quiero que Teams esté en mis invitaciones."
+}

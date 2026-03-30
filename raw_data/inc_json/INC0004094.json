@@ -1,0 +1,20 @@
+{
+  "number": "INC0004094",
+  "category": "Technology",
+  "subcategory": "LockDown Browser",
+  "correct_kb": "KB08354",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about Respondus Monitor functionality and setup.\n\nfull_description_text: \nEl usuario está buscando información sobre qué es Respondus Monitor. No está claro cómo se configura o utiliza esta herramienta. Se requiere más información para entender su propósito y funcionamiento.",
+  "short_description": "Inquiry about Respondus Monitor functionality and setup.",
+  "description": "El usuario está buscando información sobre qué es Respondus Monitor. No está claro cómo se configura o utiliza esta herramienta. Se requiere más información para entender su propósito y funcionamiento."
+}

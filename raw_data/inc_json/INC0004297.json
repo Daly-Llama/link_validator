@@ -1,0 +1,20 @@
+{
+  "number": "INC0004297",
+  "category": "Student Services",
+  "subcategory": "International",
+  "correct_kb": "KB08717",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with completing Form I-983 for STEM OPT training.\n\nfull_description_text:  \nUser is an international student.  \nThey need to complete Form I-983 for training.  \nUnsure about the necessary steps to participate in training.  \nLooking for guidance on what to do next.",
+  "short_description": "Issues with completing Form I-983 for STEM OPT training.",
+  "description": "User is an international student.  \nThey need to complete Form I-983 for training.  \nUnsure about the necessary steps to participate in training.  \nLooking for guidance on what to do next."
+}

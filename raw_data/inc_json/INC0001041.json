@@ -1,0 +1,20 @@
+{
+  "number": "INC0001041",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00064",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Microsoft Office functionality on a Mac computer\n\nfull_description_text: The user is inquiring about the compatibility of Microsoft Office with their Macintosh computer. They want to know if the software will operate effectively on macOS X. This question indicates a need for clarity regarding software usage on their device.",
+  "short_description": "Microsoft Office functionality on a Mac computer",
+  "description": "The user is inquiring about the compatibility of Microsoft Office with their Macintosh computer. They want to know if the software will operate effectively on macOS X. This question indicates a need for clarity regarding software usage on their device."
+}

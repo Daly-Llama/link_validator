@@ -1,0 +1,20 @@
+{
+  "number": "INC0002397",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03721",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to whitelist an email domain for service messages\n\nfull_description_text: \nDuring a call, the user mentioned that their department relies on a service that sends important emails. They are concerned that these messages might get blocked or end up in the SPAM folder. So, they are requesting to have the email domain whitelisted to ensure smooth communication. It's really important for them to receive these emails without any issues.",
+  "short_description": "Request to whitelist an email domain for service messages",
+  "description": "During a call, the user mentioned that their department relies on a service that sends important emails. They are concerned that these messages might get blocked or end up in the SPAM folder. So, they are requesting to have the email domain whitelisted to ensure smooth communication. It's really important for them to receive these emails without any issues."
+}

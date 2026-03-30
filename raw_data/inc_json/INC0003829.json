@@ -1,0 +1,20 @@
+{
+  "number": "INC0003829",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07962",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Understanding ranges and individual cells in Excel.\n\nfull_description_text:  \nA field technician was exploring the functionalities of Microsoft Excel, specifically focusing on the concepts of ranges and individual cells. While attempting to grasp these fundamental elements, they encountered confusion regarding how to differentiate between a range, which encompasses multiple cells, and a single cell, which represents a solitary data point. This lack of clarity hindered their ability to effectively utilize Excel for data management tasks. The technician was seeking a comprehensive explanation to enhance their understanding of these basic yet essential components of the software.",
+  "short_description": "Understanding ranges and individual cells in Excel.",
+  "description": "A field technician was exploring the functionalities of Microsoft Excel, specifically focusing on the concepts of ranges and individual cells. While attempting to grasp these fundamental elements, they encountered confusion regarding how to differentiate between a range, which encompasses multiple cells, and a single cell, which represents a solitary data point. This lack of clarity hindered their ability to effectively utilize Excel for data management tasks. The technician was seeking a comprehensive explanation to enhance their understanding of these basic yet essential components of the software."
+}

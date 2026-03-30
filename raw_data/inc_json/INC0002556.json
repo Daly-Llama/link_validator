@@ -1,0 +1,20 @@
+{
+  "number": "INC0002556",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB04169",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Security camera feed freezes and requires program restart.\n\nfull_description_text: So, the user was just trying to check the security camera feed on their Milestone XProtect Smart Client, right? But then, out of nowhere, the screens started locking up and timing out, which is super frustrating! Every time they wanted to switch views, they had to completely close the program and reopen it, which takes forever. It’s like, why can’t it just work smoothly?",
+  "short_description": "Security camera feed freezes and requires program restart.",
+  "description": "So, the user was just trying to check the security camera feed on their Milestone XProtect Smart Client, right? But then, out of nowhere, the screens started locking up and timing out, which is super frustrating! Every time they wanted to switch views, they had to completely close the program and reopen it, which takes forever. It’s like, why can’t it just work smoothly?"
+}

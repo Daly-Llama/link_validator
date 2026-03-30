@@ -1,0 +1,20 @@
+{
+  "number": "INC0002163",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB03019",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Zoom account limitations affecting recording and meeting capabilities\n\nfull_description_text:  \nUser is recording lectures using their USD Zoom account.  \nSessions are ending prematurely after 1 hour.  \nUser encounters a 40-minute limit for meetings.  \nThey need to enable audio transcripts and add alternative hosts.  \nUser requests an upgrade for increased participant capacity and missing features.",
+  "short_description": "Zoom account limitations affecting recording and meeting capabilities",
+  "description": "User is recording lectures using their USD Zoom account.  \nSessions are ending prematurely after 1 hour.  \nUser encounters a 40-minute limit for meetings.  \nThey need to enable audio transcripts and add alternative hosts.  \nUser requests an upgrade for increased participant capacity and missing features."
+}

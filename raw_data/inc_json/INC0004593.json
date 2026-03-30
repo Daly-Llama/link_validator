@@ -1,0 +1,20 @@
+{
+  "number": "INC0004593",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09446",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Trouble accessing Annual Security and Compliance Training links\n\nfull_description_text:  \nSo, like, the user was trying to find the link for the Annual Security Training, right? They also mentioned something about Slate Agreement and, um, other trainings like Title IX and FERPA, I think? But they were having a hard time figuring out where to go for all that stuff. It seems like they just need help getting to the right place for these compliance trainings, you know?",
+  "short_description": "Trouble accessing Annual Security and Compliance Training links",
+  "description": "So, like, the user was trying to find the link for the Annual Security Training, right? They also mentioned something about Slate Agreement and, um, other trainings like Title IX and FERPA, I think? But they were having a hard time figuring out where to go for all that stuff. It seems like they just need help getting to the right place for these compliance trainings, you know?"
+}

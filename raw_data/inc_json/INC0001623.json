@@ -1,0 +1,20 @@
+{
+  "number": "INC0001623",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01408",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to reset voucher generation date in MBM for faculty activity.\n\nfull_description_text:  \nI am trying to edit the faculty activity information in MBM, but it is locked. I also need to re-print vouchers or enclosures. The voucher generation date needs to be reset so I can do this.",
+  "short_description": "Need to reset voucher generation date in MBM for faculty activity.",
+  "description": "I am trying to edit the faculty activity information in MBM, but it is locked. I also need to re-print vouchers or enclosures. The voucher generation date needs to be reset so I can do this."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002870",
+  "category": "Technology",
+  "subcategory": "TeamDynamix",
+  "correct_kb": "KB05147",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty signing into Coyote One Stop to manage tickets.\n\nfull_description_text:  \nDuring a phone call, the user expressed frustration about accessing Coyote One Stop to handle various tickets. They were unsure how to log into TeamDynamix, which is essential for managing Questions, Changes, Service Requests, and Incidents. This issue is impacting their ability to work effectively, and they need assistance to navigate the login process.",
+  "short_description": "Difficulty signing into Coyote One Stop to manage tickets.",
+  "description": "During a phone call, the user expressed frustration about accessing Coyote One Stop to handle various tickets. They were unsure how to log into TeamDynamix, which is essential for managing Questions, Changes, Service Requests, and Incidents. This issue is impacting their ability to work effectively, and they need assistance to navigate the login process."
+}

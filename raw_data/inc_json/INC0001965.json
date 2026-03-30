@@ -1,0 +1,20 @@
+{
+  "number": "INC0001965",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02420",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't find start quiz button in D2L for retake.\n\nfull_description_text: \nI was given another try on a quiz by my teacher. But I can't see the start quiz button. I tried using Chrome and Firefox, but it’s still not there. This is really confusing and I need to start the quiz.",
+  "short_description": "Can't find start quiz button in D2L for retake.",
+  "description": "I was given another try on a quiz by my teacher. But I can't see the start quiz button. I tried using Chrome and Firefox, but it’s still not there. This is really confusing and I need to start the quiz."
+}

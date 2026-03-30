@@ -1,0 +1,20 @@
+{
+  "number": "INC0001393",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00748",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Touchpad on Fujitsu E744 laptop is unresponsive\n\nfull_description_text:\n- So, the user called in saying their touchpad just stopped working.  \n- They mentioned seeing an error about Synaptics TouchPad Enhancements not working.  \n- Also, there's a green light in the upper left corner of the touchpad, but it’s still not responding at all.",
+  "short_description": "Touchpad on Fujitsu E744 laptop is unresponsive",
+  "description": "- So, the user called in saying their touchpad just stopped working.  \n- They mentioned seeing an error about Synaptics TouchPad Enhancements not working.  \n- Also, there's a green light in the upper left corner of the touchpad, but it’s still not responding at all."
+}

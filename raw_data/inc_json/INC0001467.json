@@ -1,0 +1,20 @@
+{
+  "number": "INC0001467",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00942",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to backup or transfer emails in Outlook\n\nfull_description_text:\n- User wants a copy of their emails.  \n- They asked if it's possible to transfer emails to a new account.  \n- This is happening in Microsoft Outlook, but details are a bit unclear.  \n- The analyst is on a call, and the user speaks Spanish as their first language.",
+  "short_description": "Need to backup or transfer emails in Outlook",
+  "description": "- User wants a copy of their emails.  \n- They asked if it's possible to transfer emails to a new account.  \n- This is happening in Microsoft Outlook, but details are a bit unclear.  \n- The analyst is on a call, and the user speaks Spanish as their first language."
+}

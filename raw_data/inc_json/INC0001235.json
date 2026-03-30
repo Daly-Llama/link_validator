@@ -1,0 +1,20 @@
+{
+  "number": "INC0001235",
+  "category": "Technology",
+  "subcategory": "TMA",
+  "correct_kb": "KB00442",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to add or update employee access in TMA application\n\nfull_description_text: \nI was on the phone with a user who needs help adding a new employee to TMA. They also mentioned needing to update access for some existing users, like giving them the ability to look up their own time cards. There were some errors too, like \"You are not authorized for this page!\" which made it clear they were having trouble accessing certain features. It seems like there’s a lot of confusion around who can do what in TMA, and they really need this sorted out quickly.",
+  "short_description": "Need to add or update employee access in TMA application",
+  "description": "I was on the phone with a user who needs help adding a new employee to TMA. They also mentioned needing to update access for some existing users, like giving them the ability to look up their own time cards. There were some errors too, like \"You are not authorized for this page!\" which made it clear they were having trouble accessing certain features. It seems like there’s a lot of confusion around who can do what in TMA, and they really need this sorted out quickly."
+}

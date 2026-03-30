@@ -1,0 +1,20 @@
+{
+  "number": "INC0004789",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB10094",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Confusion about when to use Teams, SharePoint, or OneDrive\n\nfull_description_text:  \nThe user is unsure about the differences between Microsoft Teams, SharePoint, and OneDrive. They are seeking clarification on when to utilize each platform. This confusion is impacting their ability to effectively collaborate and store files. The user requires guidance to make informed decisions on which tool to use in various scenarios.",
+  "short_description": "Confusion about when to use Teams, SharePoint, or OneDrive",
+  "description": "The user is unsure about the differences between Microsoft Teams, SharePoint, and OneDrive. They are seeking clarification on when to utilize each platform. This confusion is impacting their ability to effectively collaborate and store files. The user requires guidance to make informed decisions on which tool to use in various scenarios."
+}

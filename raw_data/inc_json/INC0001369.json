@@ -1,0 +1,20 @@
+{
+  "number": "INC0001369",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00695",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: SMARTBoard not responding to pen or slide advancement\n\nfull_description_text:\n- The user turned on the SMARTBoard in the smart classroom.  \n- The power button is showing a steady green light, which usually means it’s on.  \n- However, the board is not responding to the pen input or allowing the slides to advance.  \n- This is causing a problem because the user needs to use the board for their presentation.",
+  "short_description": "SMARTBoard not responding to pen or slide advancement",
+  "description": "- The user turned on the SMARTBoard in the smart classroom.  \n- The power button is showing a steady green light, which usually means it’s on.  \n- However, the board is not responding to the pen input or allowing the slides to advance.  \n- This is causing a problem because the user needs to use the board for their presentation."
+}

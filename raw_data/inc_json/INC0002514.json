@@ -1,0 +1,20 @@
+{
+  "number": "INC0002514",
+  "category": "Technology",
+  "subcategory": "Cognos",
+  "correct_kb": "KB04031",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need a secure folder created in Cognos for reports.\n\nfull_description_text:  \nI’m hoping to get a secure folder set up in Cognos. I want to have some reports saved there so I can run them whenever I need. It would really help me out if this could be done soon, as I rely on these reports for my work.",
+  "short_description": "Need a secure folder created in Cognos for reports.",
+  "description": "I’m hoping to get a secure folder set up in Cognos. I want to have some reports saved there so I can run them whenever I need. It would really help me out if this could be done soon, as I rely on these reports for my work."
+}

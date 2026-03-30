@@ -1,0 +1,20 @@
+{
+  "number": "INC0002639",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04473",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues with setting drop dates for the online bookstore\n\nfull_description_text: User was trying to set drop dates. They said it affects billing for FDAs. There seems to be confusion about how to do it. Need help figuring this out.",
+  "short_description": "Issues with setting drop dates for the online bookstore",
+  "description": "User was trying to set drop dates. They said it affects billing for FDAs. There seems to be confusion about how to do it. Need help figuring this out."
+}

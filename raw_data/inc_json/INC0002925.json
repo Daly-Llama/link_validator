@@ -1,0 +1,20 @@
+{
+  "number": "INC0002925",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05304",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Difficulty placing a VoIP call on hold in Cisco system.\n\nfull_description_text:  \nUser attempted to place a VoIP call on hold.  \nThe action was not successful.  \nThis occurred within the Cisco VoIP environment.  \nClarification on the hold feature is needed.",
+  "short_description": "Difficulty placing a VoIP call on hold in Cisco system.",
+  "description": "User attempted to place a VoIP call on hold.  \nThe action was not successful.  \nThis occurred within the Cisco VoIP environment.  \nClarification on the hold feature is needed."
+}

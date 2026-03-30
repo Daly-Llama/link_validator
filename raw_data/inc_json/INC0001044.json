@@ -1,0 +1,20 @@
+{
+  "number": "INC0001044",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB00071",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Reporting a potentially phishing email in Outlook 365.\n\nfull_description_text:  \nThe user is concerned about an email they received and suspects it may be a phishing attempt. They are seeking guidance on how to report this email as suspicious or malicious within Outlook 365. The situation involves both the desktop and mobile versions of Outlook, indicating a need for clarity on the reporting process across different platforms. The user is uncertain if the email is a scam and requires assistance to address their concerns effectively.",
+  "short_description": "Reporting a potentially phishing email in Outlook 365.",
+  "description": "The user is concerned about an email they received and suspects it may be a phishing attempt. They are seeking guidance on how to report this email as suspicious or malicious within Outlook 365. The situation involves both the desktop and mobile versions of Outlook, indicating a need for clarity on the reporting process across different platforms. The user is uncertain if the email is a scam and requires assistance to address their concerns effectively."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001184",
+  "category": "Technology",
+  "subcategory": "Salesforce",
+  "correct_kb": "KB00350",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for Salesforce access for a user.\n\nfull_description_text:  \nDuring a call, the user asked for help to request access to Salesforce. They mentioned needing access for someone else. The request was specifically for Salesforce and Salesforce Marketing Cloud.",
+  "short_description": "Request for Salesforce access for a user.",
+  "description": "During a call, the user asked for help to request access to Salesforce. They mentioned needing access for someone else. The request was specifically for Salesforce and Salesforce Marketing Cloud."
+}

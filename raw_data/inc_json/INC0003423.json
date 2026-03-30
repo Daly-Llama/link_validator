@@ -1,0 +1,20 @@
+{
+  "number": "INC0003423",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06941",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to find image for Campus ID in Coyote Card Mobile\n\nfull_description_text:\n- The user attempted to set up their Coyote Card Mobile application.  \n- An error message appeared stating \"Image Not Found,\" indicating that the system could not locate an image linked to their Campus ID.  \n- The user was advised to contact their system administrator for further assistance regarding error codes 5260, 6002, and 6124.",
+  "short_description": "Unable to find image for Campus ID in Coyote Card Mobile",
+  "description": "- The user attempted to set up their Coyote Card Mobile application.  \n- An error message appeared stating \"Image Not Found,\" indicating that the system could not locate an image linked to their Campus ID.  \n- The user was advised to contact their system administrator for further assistance regarding error codes 5260, 6002, and 6124."
+}

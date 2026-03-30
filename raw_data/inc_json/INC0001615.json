@@ -1,0 +1,20 @@
+{
+  "number": "INC0001615",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB01373",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to remove a user from VoIP services temporarily\n\nfull_description_text:  \nThe user is currently seeking assistance with the process of removing an individual from the Voice over Internet Protocol (VoIP) system. This request arises from the necessity to suspend the user's access to the phone services until a suitable replacement is found and hired. The situation is pressing, as the removal is required to ensure that the VoIP resources are managed effectively during this transitional period. The user is looking for guidance on how to formally initiate this request through the appropriate channels.",
+  "short_description": "Request to remove a user from VoIP services temporarily",
+  "description": "The user is currently seeking assistance with the process of removing an individual from the Voice over Internet Protocol (VoIP) system. This request arises from the necessity to suspend the user's access to the phone services until a suitable replacement is found and hired. The situation is pressing, as the removal is required to ensure that the VoIP resources are managed effectively during this transitional period. The user is looking for guidance on how to formally initiate this request through the appropriate channels."
+}

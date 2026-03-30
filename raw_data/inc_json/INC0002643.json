@@ -1,0 +1,20 @@
+{
+  "number": "INC0002643",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04481",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for installation of DNAStar software on Windows and Mac.\n\nfull_description_text: \nThe user is requesting the installation of DNAStar software. They specifically mentioned Seqbuilder as part of the installation. This request is for both Windows and Mac environments. The user expects assistance in completing this installation process.",
+  "short_description": "Request for installation of DNAStar software on Windows and Mac.",
+  "description": "The user is requesting the installation of DNAStar software. They specifically mentioned Seqbuilder as part of the installation. This request is for both Windows and Mac environments. The user expects assistance in completing this installation process."
+}

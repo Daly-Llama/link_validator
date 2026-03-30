@@ -1,0 +1,20 @@
+{
+  "number": "INC0003674",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07793",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about settings available in Google Sites.\n\nfull_description_text:  \nDuring a recent call, the user inquired about the various settings available in Google Sites. They were looking for specific information regarding configuration options. The conversation highlighted a need for clarity on the settings that can be adjusted within the platform.",
+  "short_description": "Inquiry about settings available in Google Sites.",
+  "description": "During a recent call, the user inquired about the various settings available in Google Sites. They were looking for specific information regarding configuration options. The conversation highlighted a need for clarity on the settings that can be adjusted within the platform."
+}

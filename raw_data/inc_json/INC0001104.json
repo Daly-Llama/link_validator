@@ -1,0 +1,20 @@
+{
+  "number": "INC0001104",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00196",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: VoIP phone not registering, unable to make or receive calls.\n\nfull_description_text: The user reported that their VoIP phone is not working properly. It keeps saying it's registering with a spinning icon, but they can't make or receive calls. The phone goes in and out of registration, showing an error that it's not registered.",
+  "short_description": "VoIP phone not registering, unable to make or receive calls.",
+  "description": "The user reported that their VoIP phone is not working properly. It keeps saying it's registering with a spinning icon, but they can't make or receive calls. The phone goes in and out of registration, showing an error that it's not registered."
+}

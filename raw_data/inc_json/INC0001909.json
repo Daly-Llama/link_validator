@@ -1,0 +1,20 @@
+{
+  "number": "INC0001909",
+  "category": "Technology",
+  "subcategory": "Webex",
+  "correct_kb": "KB02253",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access Webex meeting from Outlook.\n\nfull_description_text:\n- The user is trying to join a Webex meeting.  \n- They are getting an error that says \"Can't Reach This Page.\"  \n- They also want to know how to add the Webex icon to Outlook.  \n- This is causing issues with accessing meetings and using the application.",
+  "short_description": "Unable to access Webex meeting from Outlook.",
+  "description": "- The user is trying to join a Webex meeting.  \n- They are getting an error that says \"Can't Reach This Page.\"  \n- They also want to know how to add the Webex icon to Outlook.  \n- This is causing issues with accessing meetings and using the application."
+}

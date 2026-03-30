@@ -1,0 +1,20 @@
+{
+  "number": "INC0002339",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03571",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Images not displaying in Desire2Learn quiz questions.\n\nfull_description_text: During a live chat session, the user reported that images attached to quiz questions in Desire2Learn are not appearing. While the alt text is visible, all graphics are missing from the online course. This issue affects the overall presentation of the course material, making it difficult for students to engage with the content effectively.",
+  "short_description": "Images not displaying in Desire2Learn quiz questions.",
+  "description": "During a live chat session, the user reported that images attached to quiz questions in Desire2Learn are not appearing. While the alt text is visible, all graphics are missing from the online course. This issue affects the overall presentation of the course material, making it difficult for students to engage with the content effectively."
+}

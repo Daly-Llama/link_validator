@@ -1,0 +1,20 @@
+{
+  "number": "INC0002778",
+  "category": "Technology",
+  "subcategory": "Remote Access",
+  "correct_kb": "KB04849",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Issues accessing multiple university resources while connected to VPN\n\nfull_description_text:  \nThe user reported difficulties accessing various university resources while connected to the VPN. They specifically mentioned being unable to reach the Banner Finance screens, map their network drive, and access Imagenow, BlackBoard, and Metasys. This issue seems to be affecting their ability to perform essential tasks remotely.",
+  "short_description": "Issues accessing multiple university resources while connected to VPN",
+  "description": "The user reported difficulties accessing various university resources while connected to the VPN. They specifically mentioned being unable to reach the Banner Finance screens, map their network drive, and access Imagenow, BlackBoard, and Metasys. This issue seems to be affecting their ability to perform essential tasks remotely."
+}

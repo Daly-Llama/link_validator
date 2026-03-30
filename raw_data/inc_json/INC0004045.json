@@ -1,0 +1,20 @@
+{
+  "number": "INC0004045",
+  "category": "Academic Advising",
+  "subcategory": "High School Dual Credit",
+  "correct_kb": "KB08273",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues with continuing dual credit after WD or F grade.\n\nfull_description_text: \nA user is asking about how to proceed with dual credit courses after they have either withdrawn or failed a previous class. They want to know the steps to take next. This situation seems to be causing some confusion regarding eligibility and options available.",
+  "short_description": "Issues with continuing dual credit after WD or F grade.",
+  "description": "A user is asking about how to proceed with dual credit courses after they have either withdrawn or failed a previous class. They want to know the steps to take next. This situation seems to be causing some confusion regarding eligibility and options available."
+}

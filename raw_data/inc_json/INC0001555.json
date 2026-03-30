@@ -1,0 +1,20 @@
+{
+  "number": "INC0001555",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01188",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reach Display is displaying an error message on Windows 10.\n\nfull_description_text: During a phone call, the user reported that their Reach Display is showing an error message. They are using Windows 10 with the Reach Content Player, and it seems to be interrupting their work. The user expressed some frustration, as they were unsure how to proceed with the display issue.",
+  "short_description": "Reach Display is displaying an error message on Windows 10.",
+  "description": "During a phone call, the user reported that their Reach Display is showing an error message. They are using Windows 10 with the Reach Content Player, and it seems to be interrupting their work. The user expressed some frustration, as they were unsure how to proceed with the display issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004430",
+  "category": "Technology",
+  "subcategory": "Bookings",
+  "correct_kb": "KB09026",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to add custom questions to Microsoft Bookings page.\n\nfull_description_text:  \nSo, I'm trying to set up my Microsoft Bookings page. I want to add some custom questions, but I can't. It says I don't have the rights to do it. Super frustrating!",
+  "short_description": "Unable to add custom questions to Microsoft Bookings page.",
+  "description": "So, I'm trying to set up my Microsoft Bookings page. I want to add some custom questions, but I can't. It says I don't have the rights to do it. Super frustrating!"
+}

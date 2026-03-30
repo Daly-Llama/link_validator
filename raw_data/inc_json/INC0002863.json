@@ -1,0 +1,20 @@
+{
+  "number": "INC0002863",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB05128",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Confusion about dialing procedures on Cisco VoIP phones\n\nfull_description_text:\n- The user was trying to make a call using a Cisco VoIP phone and was unsure about the dialing process.\n- They specifically asked whether they needed to dial 9 before entering the phone number.\n- This situation arose during a live chat session with a help desk analyst, highlighting the need for clarity on dialing protocols. \n- Understanding the correct dialing procedure is essential for effective communication in a VoIP environment.",
+  "short_description": "Confusion about dialing procedures on Cisco VoIP phones",
+  "description": "- The user was trying to make a call using a Cisco VoIP phone and was unsure about the dialing process.\n- They specifically asked whether they needed to dial 9 before entering the phone number.\n- This situation arose during a live chat session with a help desk analyst, highlighting the need for clarity on dialing protocols. \n- Understanding the correct dialing procedure is essential for effective communication in a VoIP environment."
+}

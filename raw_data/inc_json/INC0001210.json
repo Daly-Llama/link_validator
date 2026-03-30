@@ -1,0 +1,20 @@
+{
+  "number": "INC0001210",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00390",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Office computer is producing an unusual loud noise.\n\nfull_description_text:\n- So, during our chat, you mentioned that your office computer is making this really loud sound.  \n- It sounds like something's off, right?  \n- You said it’s a strange noise, and I can imagine that must be pretty annoying while you’re trying to work.  \n- Let’s figure out what’s going on with that!",
+  "short_description": "Office computer is producing an unusual loud noise.",
+  "description": "- So, during our chat, you mentioned that your office computer is making this really loud sound.  \n- It sounds like something's off, right?  \n- You said it’s a strange noise, and I can imagine that must be pretty annoying while you’re trying to work.  \n- Let’s figure out what’s going on with that!"
+}

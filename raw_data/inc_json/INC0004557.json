@@ -1,0 +1,20 @@
+{
+  "number": "INC0004557",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09358",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Questions about applying for a married housing exemption while engaged.\n\nfull_description_text:  \nThe user is seeking clarification on the process of applying for a married housing exemption despite being engaged. They have several questions regarding the eligibility requirements and the likelihood of approval for such an exemption. This indicates a need for detailed guidance on the application process and criteria for married exemptions.",
+  "short_description": "Questions about applying for a married housing exemption while engaged.",
+  "description": "The user is seeking clarification on the process of applying for a married housing exemption despite being engaged. They have several questions regarding the eligibility requirements and the likelihood of approval for such an exemption. This indicates a need for detailed guidance on the application process and criteria for married exemptions."
+}

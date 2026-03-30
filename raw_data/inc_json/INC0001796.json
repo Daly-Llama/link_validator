@@ -1,0 +1,20 @@
+{
+  "number": "INC0001796",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01905",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need to update content on MWDeafConference website.\n\nfull_description_text: So, during the call, the user mentioned they really need some content updated on the MWDeafConference website. They were pretty clear about what they wanted changed, but it seems like there’s a bit of confusion on how to get that done. It’s all about making sure the info is current, you know? Just trying to help them out with this website issue!",
+  "short_description": "Need to update content on MWDeafConference website.",
+  "description": "So, during the call, the user mentioned they really need some content updated on the MWDeafConference website. They were pretty clear about what they wanted changed, but it seems like there’s a bit of confusion on how to get that done. It’s all about making sure the info is current, you know? Just trying to help them out with this website issue!"
+}

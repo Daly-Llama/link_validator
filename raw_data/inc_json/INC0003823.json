@@ -1,0 +1,20 @@
+{
+  "number": "INC0003823",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07956",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Basics of using formulas in Excel are unclear.\n\nfull_description_text: I was trying to understand how to use formulas in Excel. There are so many things, like adding numbers or doing calculations, but I don’t really get it. It seems like there are rules or something, but I’m not sure what they are. Can someone explain the basics of these formulas?",
+  "short_description": "Basics of using formulas in Excel are unclear.",
+  "description": "I was trying to understand how to use formulas in Excel. There are so many things, like adding numbers or doing calculations, but I don’t really get it. It seems like there are rules or something, but I’m not sure what they are. Can someone explain the basics of these formulas?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003035",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05620",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about donating to United Way via payroll deduction\n\nfull_description_text:  \nUser wants to make a donation to United Way.  \nThey are asking if payroll deduction is an option.  \nThe inquiry is specifically about the United Way of Vermillion.  \nUser is looking for clear instructions on how to proceed.",
+  "short_description": "Inquiry about donating to United Way via payroll deduction",
+  "description": "User wants to make a donation to United Way.  \nThey are asking if payroll deduction is an option.  \nThe inquiry is specifically about the United Way of Vermillion.  \nUser is looking for clear instructions on how to proceed."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002426",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB03803",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to add phone number in Duo application.\n\nfull_description_text: So, during the call, the user was trying to add their phone number in the Duo app, right? But then, out of nowhere, they got this weird error message saying, \"Error [Phone Number] cannot be added.\" It was like, if they entered it by mistake, they should just go back and re-enter it, but if not, they were told to contact their admin to get it added. It was a bit confusing, and honestly, I wasn't sure if it was a glitch or something else entirely, but it definitely seemed like a hassle for them!",
+  "short_description": "Unable to add phone number in Duo application.",
+  "description": "So, during the call, the user was trying to add their phone number in the Duo app, right? But then, out of nowhere, they got this weird error message saying, \"Error [Phone Number] cannot be added.\" It was like, if they entered it by mistake, they should just go back and re-enter it, but if not, they were told to contact their admin to get it added. It was a bit confusing, and honestly, I wasn't sure if it was a glitch or something else entirely, but it definitely seemed like a hassle for them!"
+}

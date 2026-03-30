@@ -1,0 +1,20 @@
+{
+  "number": "INC0002297",
+  "category": "Technology",
+  "subcategory": "Banner Finance or HR",
+  "correct_kb": "KB03456",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Documents are not appearing in Banner Finance system.\n\nfull_description_text: So, during the call, the user mentioned that they were trying to post some documents in the Banner Finance system, but they just weren't showing up anywhere. They checked FGIDOCR, which is where you can usually see completed documents, but nothing was there. It’s kinda weird because they also looked at FGIBDSR and FGIGLAC for expenses, and those documents weren’t showing up either, not even in a queue or anything. It’s like they just vanished!",
+  "short_description": "Documents are not appearing in Banner Finance system.",
+  "description": "So, during the call, the user mentioned that they were trying to post some documents in the Banner Finance system, but they just weren't showing up anywhere. They checked FGIDOCR, which is where you can usually see completed documents, but nothing was there. It’s kinda weird because they also looked at FGIBDSR and FGIGLAC for expenses, and those documents weren’t showing up either, not even in a queue or anything. It’s like they just vanished!"
+}

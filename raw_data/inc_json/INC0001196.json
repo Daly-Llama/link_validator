@@ -1,0 +1,20 @@
+{
+  "number": "INC0001196",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB00370",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Scheduling door access for specific events on USD Campus\n\nfull_description_text:\n- The user is asking about scheduling door access.  \n- They want to unlock doors for certain events.  \n- This is related to Coyote Card access on the USD Campus.  \n- The user is not very familiar with the technical details.",
+  "short_description": "Scheduling door access for specific events on USD Campus",
+  "description": "- The user is asking about scheduling door access.  \n- They want to unlock doors for certain events.  \n- This is related to Coyote Card access on the USD Campus.  \n- The user is not very familiar with the technical details."
+}

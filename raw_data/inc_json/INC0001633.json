@@ -1,0 +1,20 @@
+{
+  "number": "INC0001633",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01431",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Course missing from Coyote Connection Progress Report for instructor.\n\nfull_description_text: An instructor has reported that a specific course is absent from their Coyote Connection Progress Report. This issue may impact the instructor's ability to track student progress effectively. The missing course could lead to discrepancies in reporting and hinder educational assessments. Further investigation is required to determine the cause of this omission.",
+  "short_description": "Course missing from Coyote Connection Progress Report for instructor.",
+  "description": "An instructor has reported that a specific course is absent from their Coyote Connection Progress Report. This issue may impact the instructor's ability to track student progress effectively. The missing course could lead to discrepancies in reporting and hinder educational assessments. Further investigation is required to determine the cause of this omission."
+}

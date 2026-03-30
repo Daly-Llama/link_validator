@@ -1,0 +1,20 @@
+{
+  "number": "INC0002213",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB03185",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Questions about using Chromebooks for work and Zoom compatibility\n\nfull_description_text:  \nI am considering using a Chromebook for my work at USD and have some questions. Specifically, I want to know if I can access Google Apps on the device. Additionally, I am curious if Zoom will function properly on a Chromebook. I would appreciate any information regarding these concerns.",
+  "short_description": "Questions about using Chromebooks for work and Zoom compatibility",
+  "description": "I am considering using a Chromebook for my work at USD and have some questions. Specifically, I want to know if I can access Google Apps on the device. Additionally, I am curious if Zoom will function properly on a Chromebook. I would appreciate any information regarding these concerns."
+}

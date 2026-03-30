@@ -1,0 +1,20 @@
+{
+  "number": "INC0004166",
+  "category": "Technology",
+  "subcategory": "PowerPoint",
+  "correct_kb": "KB08441",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about various types of transitions in PowerPoint.\n\nfull_description_text: The user is looking for information on the different types of transitions available in PowerPoint. They are unsure about what transitions can be used and how they work. This confusion has led to a need for clarification on the subject.",
+  "short_description": "Inquiry about various types of transitions in PowerPoint.",
+  "description": "The user is looking for information on the different types of transitions available in PowerPoint. They are unsure about what transitions can be used and how they work. This confusion has led to a need for clarification on the subject."
+}

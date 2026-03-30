@@ -1,0 +1,20 @@
+{
+  "number": "INC0003550",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB07400",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Trouble importing and exporting contacts in Outlook.\n\nfull_description_text:  \nI’m trying to import and export contacts in Outlook. It’s not going smoothly. I’m not sure what steps to follow or if I’m missing something. Just need some clarity on the process.",
+  "short_description": "Trouble importing and exporting contacts in Outlook.",
+  "description": "I’m trying to import and export contacts in Outlook. It’s not going smoothly. I’m not sure what steps to follow or if I’m missing something. Just need some clarity on the process."
+}

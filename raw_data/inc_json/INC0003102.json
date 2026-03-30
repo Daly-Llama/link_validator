@@ -1,0 +1,20 @@
+{
+  "number": "INC0003102",
+  "category": "Human Resources",
+  "subcategory": "Payroll",
+  "correct_kb": "KB05771",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: W-2 income does not match contract salary amount.\n\nfull_description_text:  \nThe user is experiencing a discrepancy where the income reported on their W-2 form does not align with the salary stated in their contract. This issue raises concerns about the accuracy of the income documentation. The user is seeking clarification on why this mismatch is occurring and what it means for their financial records.",
+  "short_description": "W-2 income does not match contract salary amount.",
+  "description": "The user is experiencing a discrepancy where the income reported on their W-2 form does not align with the salary stated in their contract. This issue raises concerns about the accuracy of the income documentation. The user is seeking clarification on why this mismatch is occurring and what it means for their financial records."
+}

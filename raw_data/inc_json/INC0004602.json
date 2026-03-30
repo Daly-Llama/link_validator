@@ -1,0 +1,20 @@
+{
+  "number": "INC0004602",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB09470",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Reply All fails with mixed EABSSC.USD.EDU email addresses.\n\nfull_description_text: So, the user was trying to use the Reply All feature in Outlook, but it just wasn’t working. They noticed it only happens when there are recipients with those @eabssc.usd.edu addresses mixed in with others. It’s a bit frustrating since they rely on that function for group emails.",
+  "short_description": "Reply All fails with mixed EABSSC.USD.EDU email addresses.",
+  "description": "So, the user was trying to use the Reply All feature in Outlook, but it just wasn’t working. They noticed it only happens when there are recipients with those @eabssc.usd.edu addresses mixed in with others. It’s a bit frustrating since they rely on that function for group emails."
+}

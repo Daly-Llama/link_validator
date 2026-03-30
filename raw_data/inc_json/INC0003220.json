@@ -1,0 +1,20 @@
+{
+  "number": "INC0003220",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB06152",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Problem with Upward Bound process flow\n\nfull_description_text:  \nI am having issues with the Upward Bound process flow. I don’t understand how it works. It seems like something is not right with the steps. Can someone help me with this?",
+  "short_description": "Problem with Upward Bound process flow",
+  "description": "I am having issues with the Upward Bound process flow. I don’t understand how it works. It seems like something is not right with the steps. Can someone help me with this?"
+}

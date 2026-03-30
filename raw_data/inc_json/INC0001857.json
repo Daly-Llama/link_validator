@@ -1,0 +1,20 @@
+{
+  "number": "INC0001857",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB02089",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Issues updating contact preferences in the Campus Alert System.\n\nfull_description_text:  \nSo, it looks like there's a bit of confusion about updating contact info in the Campus Alert System. The user wants to ensure their details are correct but isn't sure how to go about it. It's important to get this sorted out, especially for alerts. Let’s figure out what went wrong here!",
+  "short_description": "Issues updating contact preferences in the Campus Alert System.",
+  "description": "So, it looks like there's a bit of confusion about updating contact info in the Campus Alert System. The user wants to ensure their details are correct but isn't sure how to go about it. It's important to get this sorted out, especially for alerts. Let’s figure out what went wrong here!"
+}

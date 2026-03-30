@@ -1,0 +1,20 @@
+{
+  "number": "INC0003274",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB06310",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Re-install audio and video equipment in classrooms and conference rooms.\n\nfull_description_text: The user needs audio and video equipment re-installed. This equipment was taken out for facilities work. It affects both the classroom and the conference room. The user is unsure when it will be done.",
+  "short_description": "Re-install audio and video equipment in classrooms and conference rooms.",
+  "description": "The user needs audio and video equipment re-installed. This equipment was taken out for facilities work. It affects both the classroom and the conference room. The user is unsure when it will be done."
+}

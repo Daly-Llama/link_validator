@@ -1,0 +1,20 @@
+{
+  "number": "INC0001436",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00852",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Web form on USD website is not submitting properly\n\nfull_description_text: So, I was trying to fill out this form on the USD website, you know, the public one, and it just wouldn’t work! Every time I hit submit, I got this weird error saying something about loading content and that element DDN_SITE2 is undefined or something like that. It’s super frustrating because I really need to change a part of the form, but it just keeps failing on me. Can someone please look into this?",
+  "short_description": "Web form on USD website is not submitting properly",
+  "description": "So, I was trying to fill out this form on the USD website, you know, the public one, and it just wouldn’t work! Every time I hit submit, I got this weird error saying something about loading content and that element DDN_SITE2 is undefined or something like that. It’s super frustrating because I really need to change a part of the form, but it just keeps failing on me. Can someone please look into this?"
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004211",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB08550",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Error when sending email to D2L classlist due to permissions.\n\nfull_description_text:\n- The user attempted to send an email to the classlist in Desire2Learn (D2L).  \n- An error message indicated that additional permissions are required to add the email addresses of users.  \n- The user was advised to contact their system administrator for access.  \n- This issue prevents communication with the classlist through the platform.",
+  "short_description": "Error when sending email to D2L classlist due to permissions.",
+  "description": "- The user attempted to send an email to the classlist in Desire2Learn (D2L).  \n- An error message indicated that additional permissions are required to add the email addresses of users.  \n- The user was advised to contact their system administrator for access.  \n- This issue prevents communication with the classlist through the platform."
+}

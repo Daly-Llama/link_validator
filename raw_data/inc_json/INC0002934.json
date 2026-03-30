@@ -1,0 +1,20 @@
+{
+  "number": "INC0002934",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05331",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Applications requiring specific web browsers for optimal performance\n\nfull_description_text:  \nI am trying to access various applications, but I am unsure which web browsers are necessary for them to function properly. This includes programs like WebNow, Evisions, and Desire2Learn. I would appreciate clarification on the browser requirements for these applications.",
+  "short_description": "Applications requiring specific web browsers for optimal performance",
+  "description": "I am trying to access various applications, but I am unsure which web browsers are necessary for them to function properly. This includes programs like WebNow, Evisions, and Desire2Learn. I would appreciate clarification on the browser requirements for these applications."
+}

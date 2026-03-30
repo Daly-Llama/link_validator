@@ -1,0 +1,20 @@
+{
+  "number": "INC0002657",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04513",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Signature pads not functioning in clinic on Windows 10.\n\nfull_description_text:\n- The signature pads are not working in our clinic.  \n- This is causing problems for us when we try to get signatures.  \n- We are using Windows 10 and SigPlus for this.  \n- We need help to fix this issue.",
+  "short_description": "Signature pads not functioning in clinic on Windows 10.",
+  "description": "- The signature pads are not working in our clinic.  \n- This is causing problems for us when we try to get signatures.  \n- We are using Windows 10 and SigPlus for this.  \n- We need help to fix this issue."
+}

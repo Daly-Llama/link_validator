@@ -1,0 +1,20 @@
+{
+  "number": "INC0002059",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02709",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Quiz scores not appearing in D2L for some students.\n\nfull_description_text:  \n- A help desk analyst received a call from a user concerned about missing quiz grades.  \n- Students submitted their quizzes yesterday, but their scores are absent from the Grades section.  \n- The quiz was set to automatically export scores, and other students have received their grades without issue.  \n- Attempts to manually grade the quizzes have not resolved the problem, leaving the user frustrated.",
+  "short_description": "Quiz scores not appearing in D2L for some students.",
+  "description": "- A help desk analyst received a call from a user concerned about missing quiz grades.  \n- Students submitted their quizzes yesterday, but their scores are absent from the Grades section.  \n- The quiz was set to automatically export scores, and other students have received their grades without issue.  \n- Attempts to manually grade the quizzes have not resolved the problem, leaving the user frustrated."
+}

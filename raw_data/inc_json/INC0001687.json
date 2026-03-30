@@ -1,0 +1,20 @@
+{
+  "number": "INC0001687",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01601",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Fujitsu Battery Charging Control Update Tool notification on laptop.\n\nfull_description_text: \nThe user reported that a notification regarding the Fujitsu Battery Charging Control Update Tool is appearing on their laptop. This issue is occurring on a Fujitsu laptop that was purchased between 2010 and 2016. The user is seeking clarification on the purpose of this tool and why it is being displayed.",
+  "short_description": "Fujitsu Battery Charging Control Update Tool notification on laptop.",
+  "description": "The user reported that a notification regarding the Fujitsu Battery Charging Control Update Tool is appearing on their laptop. This issue is occurring on a Fujitsu laptop that was purchased between 2010 and 2016. The user is seeking clarification on the purpose of this tool and why it is being displayed."
+}

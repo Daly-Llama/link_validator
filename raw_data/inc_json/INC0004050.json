@@ -1,0 +1,20 @@
+{
+  "number": "INC0004050",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08284",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help adding a book fold in Word document.\n\nfull_description_text:  \nI’m trying to make my Word document have a book fold, but I don’t know how to do it. I looked around but couldn’t find clear steps. Can someone please explain it simply? I just want my pages to look like a book!",
+  "short_description": "Need help adding a book fold in Word document.",
+  "description": "I’m trying to make my Word document have a book fold, but I don’t know how to do it. I looked around but couldn’t find clear steps. Can someone please explain it simply? I just want my pages to look like a book!"
+}

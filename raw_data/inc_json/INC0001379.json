@@ -1,0 +1,20 @@
+{
+  "number": "INC0001379",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB00716",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Ethernet connection issues causing internet access failure\n\nfull_description_text:  \nThe user reported that their office computer is unable to connect to the internet via a hardwired Ethernet cable. They are receiving multiple error messages, including \"Not connected to the internet\" and \"A network cable is not properly plugged in or may be broken.\" This issue is particularly critical as the user is a student taking a test over the LAN network and is experiencing drops in connectivity. Additionally, they mentioned sync issues with OneDrive and difficulties accessing files in Teams, indicating a broader impact on their work.",
+  "short_description": "Ethernet connection issues causing internet access failure",
+  "description": "The user reported that their office computer is unable to connect to the internet via a hardwired Ethernet cable. They are receiving multiple error messages, including \"Not connected to the internet\" and \"A network cable is not properly plugged in or may be broken.\" This issue is particularly critical as the user is a student taking a test over the LAN network and is experiencing drops in connectivity. Additionally, they mentioned sync issues with OneDrive and difficulties accessing files in Teams, indicating a broader impact on their work."
+}

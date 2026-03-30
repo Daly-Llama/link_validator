@@ -1,0 +1,20 @@
+{
+  "number": "INC0003730",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07853",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Question about the theme tool in Google Blogger\n\nfull_description_text:  \nSo, I was trying to figure out this theme tool in Google Blogger. Like, what is it exactly? I just don’t get what it does or how to use it. Can someone explain it to me?",
+  "short_description": "Question about the theme tool in Google Blogger",
+  "description": "So, I was trying to figure out this theme tool in Google Blogger. Like, what is it exactly? I just don’t get what it does or how to use it. Can someone explain it to me?"
+}

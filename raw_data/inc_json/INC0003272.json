@@ -1,0 +1,20 @@
+{
+  "number": "INC0003272",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB06307",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Microsoft Editor's Spelling & Grammar Checker\n\nfull_description_text:  \nSo, I was on the phone with a user who was curious about Microsoft Editor. They wanted to know more about its Spelling & Grammar Checker feature, especially how it works and what it can do for them. They mentioned they often write in English but sometimes struggle with grammar, so this tool could really help them out. It was a friendly chat, and I could tell they were eager to learn more about this feature.",
+  "short_description": "Inquiry about Microsoft Editor's Spelling & Grammar Checker",
+  "description": "So, I was on the phone with a user who was curious about Microsoft Editor. They wanted to know more about its Spelling & Grammar Checker feature, especially how it works and what it can do for them. They mentioned they often write in English but sometimes struggle with grammar, so this tool could really help them out. It was a friendly chat, and I could tell they were eager to learn more about this feature."
+}

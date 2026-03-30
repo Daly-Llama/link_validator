@@ -1,0 +1,20 @@
+{
+  "number": "INC0002377",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB03649",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request to create a distribution group in Office 365 email.\n\nfull_description_text: \nDuring a live chat session, the user asked if it was possible to create a Global Address book in Office 365. They specifically wanted to know about getting a distribution group created for easier email communication. The user seemed to be looking for a way to streamline their email process, and they were quite clear about their request. It was mentioned multiple times that they needed this distribution group for better organization in Outlook, which is part of the Office 365 environment.",
+  "short_description": "Request to create a distribution group in Office 365 email.",
+  "description": "During a live chat session, the user asked if it was possible to create a Global Address book in Office 365. They specifically wanted to know about getting a distribution group created for easier email communication. The user seemed to be looking for a way to streamline their email process, and they were quite clear about their request. It was mentioned multiple times that they needed this distribution group for better organization in Outlook, which is part of the Office 365 environment."
+}

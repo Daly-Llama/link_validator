@@ -1,0 +1,20 @@
+{
+  "number": "INC0004077",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08311",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to change building block content in Word.\n\nfull_description_text: \nDuring a live chat session, the user expressed difficulty in modifying the building block content within Microsoft Word. They were attempting to update specific text elements but encountered issues that prevented them from making the necessary changes. The user mentioned that they had previously done this without any problems, which added to their frustration. Additionally, they were using a standard version of Word on a Windows operating system, but the exact version was not specified.",
+  "short_description": "Unable to change building block content in Word.",
+  "description": "During a live chat session, the user expressed difficulty in modifying the building block content within Microsoft Word. They were attempting to update specific text elements but encountered issues that prevented them from making the necessary changes. The user mentioned that they had previously done this without any problems, which added to their frustration. Additionally, they were using a standard version of Word on a Windows operating system, but the exact version was not specified."
+}

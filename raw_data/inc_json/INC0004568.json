@@ -1,0 +1,20 @@
+{
+  "number": "INC0004568",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09381",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about exam accommodations transitioning from high school to college.\n\nfull_description_text:  \nDuring a recent phone call, a student expressed concern about their exam accommodations as they transition from high school to college. They wanted to know if the same support they received previously would be available to them in their new academic environment. This question highlights the importance of understanding how accommodations may change and what resources are available to ensure a smooth transition.",
+  "short_description": "Inquiry about exam accommodations transitioning from high school to college.",
+  "description": "During a recent phone call, a student expressed concern about their exam accommodations as they transition from high school to college. They wanted to know if the same support they received previously would be available to them in their new academic environment. This question highlights the importance of understanding how accommodations may change and what resources are available to ensure a smooth transition."
+}

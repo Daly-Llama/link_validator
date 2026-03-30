@@ -1,0 +1,20 @@
+{
+  "number": "INC0004028",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB08256",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble accessing the mini toolbar in Word.\n\nfull_description_text:  \n- So, like, the user was trying to use Word, right?  \n- They were asking about this thing called the mini toolbar, which is supposed to pop up.  \n- But, like, it just wasn’t showing up for them, and they were kinda confused about what to do.  \n- They really wanted to know how to get it to show up, you know?",
+  "short_description": "Trouble accessing the mini toolbar in Word.",
+  "description": "- So, like, the user was trying to use Word, right?  \n- They were asking about this thing called the mini toolbar, which is supposed to pop up.  \n- But, like, it just wasn’t showing up for them, and they were kinda confused about what to do.  \n- They really wanted to know how to get it to show up, you know?"
+}

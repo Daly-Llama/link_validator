@@ -1,0 +1,20 @@
+{
+  "number": "INC0003793",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07925",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Understanding relative referencing in Excel.\n\nfull_description_text:\n- So, during our chat, you asked about relative referencing in Excel.  \n- It seems like you're trying to figure out how it works and why it's useful.  \n- Just to clarify, relative referencing adjusts cell references when you copy formulas, right?  \n- Let me know if you need more details on that!",
+  "short_description": "Understanding relative referencing in Excel.",
+  "description": "- So, during our chat, you asked about relative referencing in Excel.  \n- It seems like you're trying to figure out how it works and why it's useful.  \n- Just to clarify, relative referencing adjusts cell references when you copy formulas, right?  \n- Let me know if you need more details on that!"
+}

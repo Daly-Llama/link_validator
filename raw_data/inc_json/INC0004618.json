@@ -1,0 +1,20 @@
+{
+  "number": "INC0004618",
+  "category": "Student Services",
+  "subcategory": "Student Services",
+  "correct_kb": "KB09494",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the Student Conduct Processes\n\nfull_description_text: \nSo, during the call, the user was really curious, like super curious, about what exactly the Student Conduct Processes are, you know? They were asking a lot of questions, trying to understand how it all works and what steps are involved. It seemed like they wanted to get a clear picture of the whole process, like what happens if there's an issue or something. They just kept repeating, \"What are the processes?\" and \"How does it work?\" It was a bit of a back-and-forth, but they really wanted to know!",
+  "short_description": "Inquiry about the Student Conduct Processes",
+  "description": "So, during the call, the user was really curious, like super curious, about what exactly the Student Conduct Processes are, you know? They were asking a lot of questions, trying to understand how it all works and what steps are involved. It seemed like they wanted to get a clear picture of the whole process, like what happens if there's an issue or something. They just kept repeating, \"What are the processes?\" and \"How does it work?\" It was a bit of a back-and-forth, but they really wanted to know!"
+}

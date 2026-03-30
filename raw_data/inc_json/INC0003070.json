@@ -1,0 +1,20 @@
+{
+  "number": "INC0003070",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB05706",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Poor audio quality when sharing music or videos on Zoom.\n\nfull_description_text:\n- The user was attempting to share audio from YouTube and music during a Zoom meeting.  \n- Unfortunately, they experienced significant audio quality issues, which affected the overall experience for participants.  \n- This situation arose while trying to enhance the meeting with engaging content, but the sound quality did not meet expectations.  \n- The user is seeking guidance on how to improve the audio quality for future sessions, ensuring a better experience for everyone involved.",
+  "short_description": "Poor audio quality when sharing music or videos on Zoom.",
+  "description": "- The user was attempting to share audio from YouTube and music during a Zoom meeting.  \n- Unfortunately, they experienced significant audio quality issues, which affected the overall experience for participants.  \n- This situation arose while trying to enhance the meeting with engaging content, but the sound quality did not meet expectations.  \n- The user is seeking guidance on how to improve the audio quality for future sessions, ensuring a better experience for everyone involved."
+}

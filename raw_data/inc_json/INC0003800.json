@@ -1,0 +1,20 @@
+{
+  "number": "INC0003800",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07933",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Understanding the ROUND function in Excel\n\nfull_description_text: So, I was on the phone with a user who was really curious about this ROUND function in Excel, right? They were trying to figure out how to use it but got a bit lost in the details. It’s like, they wanted to know what it does exactly, and I mean, it’s all about rounding numbers, but there’s more to it, you know? Anyway, they seemed a bit confused about when to use it and how it actually works in different scenarios, which is totally understandable given how Excel can be sometimes.",
+  "short_description": "Understanding the ROUND function in Excel",
+  "description": "So, I was on the phone with a user who was really curious about this ROUND function in Excel, right? They were trying to figure out how to use it but got a bit lost in the details. It’s like, they wanted to know what it does exactly, and I mean, it’s all about rounding numbers, but there’s more to it, you know? Anyway, they seemed a bit confused about when to use it and how it actually works in different scenarios, which is totally understandable given how Excel can be sometimes."
+}

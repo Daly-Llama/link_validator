@@ -1,0 +1,20 @@
+{
+  "number": "INC0003627",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07745",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty using a revised version of a Google Doc\n\nfull_description_text: \nThe user is having trouble with using a revised version of a Google Doc. They are unsure how to properly utilize this updated document. There is confusion about whether they should be using this revised version or not. This issue was discussed during a live phone call with the help desk analyst.",
+  "short_description": "Difficulty using a revised version of a Google Doc",
+  "description": "The user is having trouble with using a revised version of a Google Doc. They are unsure how to properly utilize this updated document. There is confusion about whether they should be using this revised version or not. This issue was discussed during a live phone call with the help desk analyst."
+}

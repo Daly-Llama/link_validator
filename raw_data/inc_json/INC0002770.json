@@ -1,0 +1,20 @@
+{
+  "number": "INC0002770",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04836",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Microphone not detected by Zoom in smart classroom setup\n\nfull_description_text:  \nUser attempted to create a Zoom meeting.  \nThe room microphone appears functional.  \nHowever, Zoom does not recognize the microphone.  \nThis issue occurred in the smart classroom environment.",
+  "short_description": "Microphone not detected by Zoom in smart classroom setup",
+  "description": "User attempted to create a Zoom meeting.  \nThe room microphone appears functional.  \nHowever, Zoom does not recognize the microphone.  \nThis issue occurred in the smart classroom environment."
+}

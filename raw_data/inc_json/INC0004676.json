@@ -1,0 +1,20 @@
+{
+  "number": "INC0004676",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB09716",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Concerns about using power outlets in Japan while traveling.\n\nfull_description_text: So, here's the deal—you're heading to Japan soon, right? You mentioned that you've heard plugging in your devices should be a breeze, but there's this little nagging thought about needing an adaptor to switch from a 3-prong to a 2-prong setup. It's like, do you really need to worry about that? I mean, it’s just power outlets, but you want to make sure your gadgets don’t end up fried or something, right?",
+  "short_description": "Concerns about using power outlets in Japan while traveling.",
+  "description": "So, here's the deal—you're heading to Japan soon, right? You mentioned that you've heard plugging in your devices should be a breeze, but there's this little nagging thought about needing an adaptor to switch from a 3-prong to a 2-prong setup. It's like, do you really need to worry about that? I mean, it’s just power outlets, but you want to make sure your gadgets don’t end up fried or something, right?"
+}

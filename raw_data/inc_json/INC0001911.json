@@ -1,0 +1,20 @@
+{
+  "number": "INC0001911",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB02268",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for access to Microsoft Visio and Project licenses\n\nfull_description_text: \nI am trying to find out if we have Microsoft Visio available on campus. Also, I would like to know if I can get a license for Project Pro. I need these licenses for my work, and I am not sure if they are accessible to me. Can someone please confirm this?",
+  "short_description": "Request for access to Microsoft Visio and Project licenses",
+  "description": "I am trying to find out if we have Microsoft Visio available on campus. Also, I would like to know if I can get a license for Project Pro. I need these licenses for my work, and I am not sure if they are accessible to me. Can someone please confirm this?"
+}

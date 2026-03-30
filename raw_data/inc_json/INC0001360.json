@@ -1,0 +1,20 @@
+{
+  "number": "INC0001360",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00684",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Laptop brightness controls are unresponsive on HP EliteBook 840 G5.\n\nfull_description_text: The user mentioned that the brightness buttons on the keyboard aren't working at all. They can't adjust the screen brightness, which is pretty frustrating. It's an HP EliteBook 840 G5, and they were just trying to make the screen brighter. This issue seems to have come up suddenly during their work.",
+  "short_description": "Laptop brightness controls are unresponsive on HP EliteBook 840 G5.",
+  "description": "The user mentioned that the brightness buttons on the keyboard aren't working at all. They can't adjust the screen brightness, which is pretty frustrating. It's an HP EliteBook 840 G5, and they were just trying to make the screen brighter. This issue seems to have come up suddenly during their work."
+}

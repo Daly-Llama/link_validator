@@ -1,0 +1,20 @@
+{
+  "number": "INC0001613",
+  "category": "Technology",
+  "subcategory": "Purchasing & Discounts",
+  "correct_kb": "KB01366",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request for Adobe Creative Cloud License and pricing information\n\nfull_description_text:  \nUser is looking to obtain an Adobe Creative Cloud license for their computer.  \nThey specifically need Adobe Acrobat Pro for forms.  \nUser is also curious about the price difference between Creative Cloud and Adobe InDesign.  \nAdditionally, they mentioned wanting to work with SignUpGenius software and are interested in a device license.",
+  "short_description": "Request for Adobe Creative Cloud License and pricing information",
+  "description": "User is looking to obtain an Adobe Creative Cloud license for their computer.  \nThey specifically need Adobe Acrobat Pro for forms.  \nUser is also curious about the price difference between Creative Cloud and Adobe InDesign.  \nAdditionally, they mentioned wanting to work with SignUpGenius software and are interested in a device license."
+}

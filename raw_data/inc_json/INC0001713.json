@@ -1,0 +1,20 @@
+{
+  "number": "INC0001713",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB01672",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Assistance required for forwarding Cisco VoIP phone.\n\nfull_description_text:\n- The user is seeking help with forwarding their Cisco VoIP phone.  \n- They are currently unable to set up the forwarding feature as needed.  \n- This issue is impacting their ability to manage calls effectively.",
+  "short_description": "Assistance required for forwarding Cisco VoIP phone.",
+  "description": "- The user is seeking help with forwarding their Cisco VoIP phone.  \n- They are currently unable to set up the forwarding feature as needed.  \n- This issue is impacting their ability to manage calls effectively."
+}

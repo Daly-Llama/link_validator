@@ -1,0 +1,20 @@
+{
+  "number": "INC0004594",
+  "category": "Purchasing",
+  "subcategory": "Purchasing",
+  "correct_kb": "KB09449",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need help finding procurement policies for purchasing supplies.\n\nfull_description_text: User is looking for where to find the policies about buying equipment and supplies. They are not sure where to look and need clear guidance. The chat session was difficult because of language barriers, making it hard to understand the exact location of the information.",
+  "short_description": "Need help finding procurement policies for purchasing supplies.",
+  "description": "User is looking for where to find the policies about buying equipment and supplies. They are not sure where to look and need clear guidance. The chat session was difficult because of language barriers, making it hard to understand the exact location of the information."
+}

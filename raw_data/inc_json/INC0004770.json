@@ -1,0 +1,20 @@
+{
+  "number": "INC0004770",
+  "category": "Health Sciences",
+  "subcategory": "Health Sciences",
+  "correct_kb": "KB10029",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with paying and registering for HESI Admission Assessment Exam\n\nfull_description_text:\n- So, the user was trying to figure out how to pay for the HESI Admission Assessment Exam.  \n- They also wanted to know how to register for a testing time and what to do to prepare for it.  \n- There was some confusion, and they seemed a bit lost on the steps needed.  \n- The user speaks another language, so it might be a bit tricky to understand everything clearly.",
+  "short_description": "Issues with paying and registering for HESI Admission Assessment Exam",
+  "description": "- So, the user was trying to figure out how to pay for the HESI Admission Assessment Exam.  \n- They also wanted to know how to register for a testing time and what to do to prepare for it.  \n- There was some confusion, and they seemed a bit lost on the steps needed.  \n- The user speaks another language, so it might be a bit tricky to understand everything clearly."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0002880",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB05184",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty copying surveys from PsychData to Qualtrics.\n\nfull_description_text: \nDuring a call, the user asked if it was possible to copy surveys from PsychData to Qualtrics. They were trying to move data between these two platforms but were unsure how to do it. The user seemed confused about the process and wanted clear guidance on this issue.",
+  "short_description": "Difficulty copying surveys from PsychData to Qualtrics.",
+  "description": "During a call, the user asked if it was possible to copy surveys from PsychData to Qualtrics. They were trying to move data between these two platforms but were unsure how to do it. The user seemed confused about the process and wanted clear guidance on this issue."
+}

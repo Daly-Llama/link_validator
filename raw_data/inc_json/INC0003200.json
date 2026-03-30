@@ -1,0 +1,20 @@
+{
+  "number": "INC0003200",
+  "category": "Technology",
+  "subcategory": "Panopto",
+  "correct_kb": "KB06101",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need help automating Zoom recordings to D2L Panopto folder\n\nfull_description_text:  \nSo, I was chatting with someone who really wants to make their life easier when it comes to Zoom recordings. They’re trying to figure out how to set things up so that every time they record a class, it just automatically moves over to this D2L Panopto video library without them having to lift a finger. They also mentioned something about wanting tech fellows to be able to edit captions, but honestly, they were a bit fuzzy on the details. It sounds like a bit of a hassle to do it all manually, and they just want a smoother process!",
+  "short_description": "Need help automating Zoom recordings to D2L Panopto folder",
+  "description": "So, I was chatting with someone who really wants to make their life easier when it comes to Zoom recordings. They’re trying to figure out how to set things up so that every time they record a class, it just automatically moves over to this D2L Panopto video library without them having to lift a finger. They also mentioned something about wanting tech fellows to be able to edit captions, but honestly, they were a bit fuzzy on the details. It sounds like a bit of a hassle to do it all manually, and they just want a smoother process!"
+}

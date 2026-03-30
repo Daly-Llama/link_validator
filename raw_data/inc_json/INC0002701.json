@@ -1,0 +1,20 @@
+{
+  "number": "INC0002701",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB04663",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Computer incorrectly identified as NAT device on eduroam network.\n\nfull_description_text: \nDuring a live phone call, the user reported encountering an error message while attempting to access a specific website, which stated, \"NAT Device Detected.\" This error indicates that the system has erroneously classified the user's device, a Chromebook, as one that performs network address translation (NAT), a classification typically reserved for devices such as wireless access points or routers. The message further instructs the user to disconnect the device and connect directly to the network to regain access, which raises concerns about the accuracy of device identification on the eduroam network, particularly in relation to the device type being misidentified as a Google Chromecast.",
+  "short_description": "Computer incorrectly identified as NAT device on eduroam network.",
+  "description": "During a live phone call, the user reported encountering an error message while attempting to access a specific website, which stated, \"NAT Device Detected.\" This error indicates that the system has erroneously classified the user's device, a Chromebook, as one that performs network address translation (NAT), a classification typically reserved for devices such as wireless access points or routers. The message further instructs the user to disconnect the device and connect directly to the network to regain access, which raises concerns about the accuracy of device identification on the eduroam network, particularly in relation to the device type being misidentified as a Google Chromecast."
+}

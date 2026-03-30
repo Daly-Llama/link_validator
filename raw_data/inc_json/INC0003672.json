@@ -1,0 +1,20 @@
+{
+  "number": "INC0003672",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07791",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to copy the link of my published Google Site.\n\nfull_description_text: \nEl usuario está intentando copiar el enlace de su Google Site publicado. Sin embargo, no puede encontrar la opción para hacerlo. Esto está causando frustración, ya que necesita compartir el enlace con otros.",
+  "short_description": "Unable to copy the link of my published Google Site.",
+  "description": "El usuario está intentando copiar el enlace de su Google Site publicado. Sin embargo, no puede encontrar la opción para hacerlo. Esto está causando frustración, ya que necesita compartir el enlace con otros."
+}

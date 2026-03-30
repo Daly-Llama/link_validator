@@ -1,0 +1,20 @@
+{
+  "number": "INC0003397",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB06840",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Options for project management in Microsoft Teams for users.\n\nfull_description_text:\n- User asked about tools for managing projects in Teams.  \n- They wanted to know what students and staff can use.  \n- Unclear if they need specific features or general info.",
+  "short_description": "Options for project management in Microsoft Teams for users.",
+  "description": "- User asked about tools for managing projects in Teams.  \n- They wanted to know what students and staff can use.  \n- Unclear if they need specific features or general info."
+}

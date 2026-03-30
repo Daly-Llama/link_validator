@@ -1,0 +1,20 @@
+{
+  "number": "INC0002015",
+  "category": "Technology",
+  "subcategory": "Teams",
+  "correct_kb": "KB02585",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Prevent Microsoft Teams from auto-starting on Windows boot.\n\nfull_description_text: \nEl usuario está experimentando un problema donde Microsoft Teams se inicia automáticamente cada vez que enciende su computadora con Windows. Esto ocurre sin que el usuario lo haya solicitado, lo que puede ser molesto y consumir recursos innecesarios. El usuario busca una manera de desactivar esta función para que Teams no se inicie automáticamente al arrancar el sistema.",
+  "short_description": "Prevent Microsoft Teams from auto-starting on Windows boot.",
+  "description": "El usuario está experimentando un problema donde Microsoft Teams se inicia automáticamente cada vez que enciende su computadora con Windows. Esto ocurre sin que el usuario lo haya solicitado, lo que puede ser molesto y consumir recursos innecesarios. El usuario busca una manera de desactivar esta función para que Teams no se inicie automáticamente al arrancar el sistema."
+}

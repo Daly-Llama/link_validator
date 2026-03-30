@@ -1,0 +1,20 @@
+{
+  "number": "INC0002076",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB02759",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Students can't submit to Turnitin due to missing email addresses.\n\nfull_description_text: So, like, students are having this issue where they can't submit their stuff to Turnitin. It keeps saying there’s no valid email or something, and it’s just a mess. We really need to get this course fixed up and repopulated, 'cause it’s not working right. It’s super frustrating for everyone involved!",
+  "short_description": "Students can't submit to Turnitin due to missing email addresses.",
+  "description": "So, like, students are having this issue where they can't submit their stuff to Turnitin. It keeps saying there’s no valid email or something, and it’s just a mess. We really need to get this course fixed up and repopulated, 'cause it’s not working right. It’s super frustrating for everyone involved!"
+}

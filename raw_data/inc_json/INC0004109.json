@@ -1,0 +1,20 @@
+{
+  "number": "INC0004109",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08372",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: How to repeat a table heading in Word\n\nfull_description_text: The user is trying to format a table in Word. They want to repeat the heading for each page. This is important for clarity in their document. They are unsure how to do this correctly.",
+  "short_description": "How to repeat a table heading in Word",
+  "description": "The user is trying to format a table in Word. They want to repeat the heading for each page. This is important for clarity in their document. They are unsure how to do this correctly."
+}

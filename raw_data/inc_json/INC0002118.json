@@ -1,0 +1,20 @@
+{
+  "number": "INC0002118",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02887",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help creating security groups for Materials Management.\n\nfull_description_text:\n- Hola, estoy tratando de crear unos grupos de seguridad para el módulo de gestión de materiales.  \n- No estoy seguro de cómo hacerlo y me gustaría que me ayudaran con eso.  \n- Creo que es importante para que podamos manejar mejor los permisos y el acceso.",
+  "short_description": "Need help creating security groups for Materials Management.",
+  "description": "- Hola, estoy tratando de crear unos grupos de seguridad para el módulo de gestión de materiales.  \n- No estoy seguro de cómo hacerlo y me gustaría que me ayudaran con eso.  \n- Creo que es importante para que podamos manejar mejor los permisos y el acceso."
+}

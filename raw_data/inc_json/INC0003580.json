@@ -1,0 +1,20 @@
+{
+  "number": "INC0003580",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07567",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show moderate technical familiarity. There should be several noticeable typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble accessing grade settings in D2L\n\nfull_description_text:\n- User trying to find grade settings in D2L.  \n- Can't seem to locate the option anywhere.  \n- Need help with this issue ASAP.",
+  "short_description": "Trouble accessing grade settings in D2L",
+  "description": "- User trying to find grade settings in D2L.  \n- Can't seem to locate the option anywhere.  \n- Need help with this issue ASAP."
+}

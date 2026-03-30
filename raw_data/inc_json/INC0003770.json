@@ -1,0 +1,20 @@
+{
+  "number": "INC0003770",
+  "category": "Human Resources",
+  "subcategory": "YourFuture",
+  "correct_kb": "KB07898",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view job descriptions in Yourfuture.\n\nfull_description_text:\n- User is trying to access job descriptions in Yourfuture.  \n- They cannot find the option to view them.  \n- This issue needs immediate attention.  \n- User is frustrated with the lack of access.",
+  "short_description": "Unable to view job descriptions in Yourfuture.",
+  "description": "- User is trying to access job descriptions in Yourfuture.  \n- They cannot find the option to view them.  \n- This issue needs immediate attention.  \n- User is frustrated with the lack of access."
+}

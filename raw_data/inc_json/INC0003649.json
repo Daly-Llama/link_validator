@@ -1,0 +1,20 @@
+{
+  "number": "INC0003649",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07768",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty using the Accessibility Check feature in Grackle Docs\n\nfull_description_text:  \nUn técnico de campo está intentando utilizar la función de verificación de accesibilidad en Grackle Docs, pero se encuentra con dificultades. A pesar de seguir los pasos indicados, el técnico no logra acceder a la funcionalidad deseada, lo que impide la correcta evaluación de la accesibilidad del documento. Este problema es crítico, ya que afecta la capacidad de garantizar que los documentos cumplan con los estándares de accesibilidad necesarios. La situación se complica aún más debido a la falta de información clara sobre cómo proceder en este caso específico.",
+  "short_description": "Difficulty using the Accessibility Check feature in Grackle Docs",
+  "description": "Un técnico de campo está intentando utilizar la función de verificación de accesibilidad en Grackle Docs, pero se encuentra con dificultades. A pesar de seguir los pasos indicados, el técnico no logra acceder a la funcionalidad deseada, lo que impide la correcta evaluación de la accesibilidad del documento. Este problema es crítico, ya que afecta la capacidad de garantizar que los documentos cumplan con los estándares de accesibilidad necesarios. La situación se complica aún más debido a la falta de información clara sobre cómo proceder en este caso específico."
+}

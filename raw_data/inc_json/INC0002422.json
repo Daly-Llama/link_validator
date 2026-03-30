@@ -1,0 +1,20 @@
+{
+  "number": "INC0002422",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB03795",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need for an update to a PowerShell script.\n\nfull_description_text:  \n- The user was on the phone and mentioned they need a change to a PowerShell script.  \n- They said something about it not working like it should, but the details were a bit unclear.  \n- The analyst took the request, but there might be some confusion about what exactly needs to be updated.  \n- The user seemed to expect a quick fix, but it’s not clear what the specific issue is with the script.",
+  "short_description": "Need for an update to a PowerShell script.",
+  "description": "- The user was on the phone and mentioned they need a change to a PowerShell script.  \n- They said something about it not working like it should, but the details were a bit unclear.  \n- The analyst took the request, but there might be some confusion about what exactly needs to be updated.  \n- The user seemed to expect a quick fix, but it’s not clear what the specific issue is with the script."
+}

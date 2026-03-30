@@ -1,0 +1,20 @@
+{
+  "number": "INC0001694",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01618",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Can't block unwanted email in Outlook.\n\nfull_description_text:  \nI'm trying to block this annoying email in Outlook, but it just keeps showing up in my inbox. I've even tried unsubscribing from it, but nothing seems to work. It's really frustrating because I thought I had it sorted out, but here we are again!",
+  "short_description": "Can't block unwanted email in Outlook.",
+  "description": "I'm trying to block this annoying email in Outlook, but it just keeps showing up in my inbox. I've even tried unsubscribing from it, but nothing seems to work. It's really frustrating because I thought I had it sorted out, but here we are again!"
+}

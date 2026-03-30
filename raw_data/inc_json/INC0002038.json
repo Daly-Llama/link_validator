@@ -1,0 +1,20 @@
+{
+  "number": "INC0002038",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02640",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Advisors need help removing advising holds in Banner.\n\nfull_description_text:  \n- The user called in asking how to remove advising holds.  \n- They mentioned they were using the Self Service feature in Banner.  \n- There was some confusion about the steps involved, and they seemed a bit frustrated.  \n- The advisor was trying to assist a student but couldn't proceed due to the hold.",
+  "short_description": "Advisors need help removing advising holds in Banner.",
+  "description": "- The user called in asking how to remove advising holds.  \n- They mentioned they were using the Self Service feature in Banner.  \n- There was some confusion about the steps involved, and they seemed a bit frustrated.  \n- The advisor was trying to assist a student but couldn't proceed due to the hold."
+}

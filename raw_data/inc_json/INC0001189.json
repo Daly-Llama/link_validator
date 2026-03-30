@@ -1,0 +1,20 @@
+{
+  "number": "INC0001189",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB00355",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to upload files to D2L dropbox for assignment submission.\n\nfull_description_text: The user is experiencing issues while trying to submit an assignment to the D2L dropbox. They reported receiving multiple error messages, including prompts for alternative text and file restriction notifications. This situation is preventing the successful upload of their files. The user is seeking assistance to resolve this matter promptly.",
+  "short_description": "Unable to upload files to D2L dropbox for assignment submission.",
+  "description": "The user is experiencing issues while trying to submit an assignment to the D2L dropbox. They reported receiving multiple error messages, including prompts for alternative text and file restriction notifications. This situation is preventing the successful upload of their files. The user is seeking assistance to resolve this matter promptly."
+}

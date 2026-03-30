@@ -1,0 +1,20 @@
+{
+  "number": "INC0002762",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB04816",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Trouble making copies on the multifunction copier.\n\nfull_description_text: So, I was on the phone with a user who was trying to make copies on the multifunction copier. They seemed a bit confused about the process and kept asking how to get it to work. It sounded like they were pressing the wrong buttons or something, but they didn't really explain much more than that.",
+  "short_description": "Trouble making copies on the multifunction copier.",
+  "description": "So, I was on the phone with a user who was trying to make copies on the multifunction copier. They seemed a bit confused about the process and kept asking how to get it to work. It sounded like they were pressing the wrong buttons or something, but they didn't really explain much more than that."
+}

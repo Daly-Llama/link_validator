@@ -1,0 +1,20 @@
+{
+  "number": "INC0002421",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB03793",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Signature not appearing when printing from Adobe Acrobat Pro.\n\nfull_description_text: The user is trying to print a fillable PDF that includes a signature line. However, when they print the document, the signature does not show up on the printed form. This issue seems to occur consistently, indicating a potential problem with how Adobe Acrobat Pro handles the signature field during printing.",
+  "short_description": "Signature not appearing when printing from Adobe Acrobat Pro.",
+  "description": "The user is trying to print a fillable PDF that includes a signature line. However, when they print the document, the signature does not show up on the printed form. This issue seems to occur consistently, indicating a potential problem with how Adobe Acrobat Pro handles the signature field during printing."
+}

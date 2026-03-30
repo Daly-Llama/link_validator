@@ -1,0 +1,20 @@
+{
+  "number": "INC0001566",
+  "category": "Technology",
+  "subcategory": "ImageNow / Perceptive Content",
+  "correct_kb": "KB01225",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Outdated Perceptive Content/ImageNow eform needs an update.\n\nfull_description_text: The current Perceptive Content/ImageNow eform is outdated and does not reflect the approved programs by BOR. Users are experiencing issues due to this outdated eform, which needs to be updated to align with the recent approvals. It is important to address this to ensure proper functionality and compliance.",
+  "short_description": "Outdated Perceptive Content/ImageNow eform needs an update.",
+  "description": "The current Perceptive Content/ImageNow eform is outdated and does not reflect the approved programs by BOR. Users are experiencing issues due to this outdated eform, which needs to be updated to align with the recent approvals. It is important to address this to ensure proper functionality and compliance."
+}

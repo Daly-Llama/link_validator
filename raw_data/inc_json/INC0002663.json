@@ -1,0 +1,20 @@
+{
+  "number": "INC0002663",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04539",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Wireless Gyration mouse not functioning in smart classroom.\n\nfull_description_text:  \nI am having trouble with the wireless Gyration mouse. It just isn't working at all in the conference room. I tried using it during class, but it doesn't respond.",
+  "short_description": "Wireless Gyration mouse not functioning in smart classroom.",
+  "description": "I am having trouble with the wireless Gyration mouse. It just isn't working at all in the conference room. I tried using it during class, but it doesn't respond."
+}

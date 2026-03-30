@@ -1,0 +1,20 @@
+{
+  "number": "INC0002858",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB05111",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unexpected Quarantine folder appears in Outlook.\n\nfull_description_text:  \nUser sees a folder named Quarantine in Outlook. They did not create this folder. It just appeared. This is confusing for the user. They want to know why it is there.",
+  "short_description": "Unexpected Quarantine folder appears in Outlook.",
+  "description": "User sees a folder named Quarantine in Outlook. They did not create this folder. It just appeared. This is confusing for the user. They want to know why it is there."
+}

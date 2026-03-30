@@ -1,0 +1,20 @@
+{
+  "number": "INC0004097",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08360",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Difficulty editing and adjusting images in Word.\n\nfull_description_text: The user is experiencing challenges when attempting to edit and adjust images within Microsoft Word. They are unsure of the steps required to modify images effectively. This issue may hinder their ability to enhance document visuals as needed.",
+  "short_description": "Difficulty editing and adjusting images in Word.",
+  "description": "The user is experiencing challenges when attempting to edit and adjust images within Microsoft Word. They are unsure of the steps required to modify images effectively. This issue may hinder their ability to enhance document visuals as needed."
+}

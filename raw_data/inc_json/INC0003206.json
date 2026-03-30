@@ -1,0 +1,20 @@
+{
+  "number": "INC0003206",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB06115",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to open protected Excel file from SECUREMAIL.\n\nfull_description_text:  \nI am trying to access a protected Excel file that was sent to me via SECUREMAIL, but I keep encountering an error message. It states that I do not have the necessary credentials to open the workbook and suggests that I request updated permission from the sender. This situation is preventing me from accessing important information, and I would appreciate any assistance in resolving this issue.",
+  "short_description": "Unable to open protected Excel file from SECUREMAIL.",
+  "description": "I am trying to access a protected Excel file that was sent to me via SECUREMAIL, but I keep encountering an error message. It states that I do not have the necessary credentials to open the workbook and suggests that I request updated permission from the sender. This situation is preventing me from accessing important information, and I would appreciate any assistance in resolving this issue."
+}

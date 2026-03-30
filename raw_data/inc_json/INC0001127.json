@@ -1,0 +1,20 @@
+{
+  "number": "INC0001127",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB00246",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Unable to send email to a specific recipient in Outlook\n\nfull_description_text:\n- A user is trying to send an email to a specific recipient but is facing issues.  \n- They received an error message stating that their message couldn't be delivered.  \n- The error indicates that the receiving email server reported a problem, which is preventing the email from going through.  \n- This situation is causing frustration as the user is unable to communicate effectively.",
+  "short_description": "Unable to send email to a specific recipient in Outlook",
+  "description": "- A user is trying to send an email to a specific recipient but is facing issues.  \n- They received an error message stating that their message couldn't be delivered.  \n- The error indicates that the receiving email server reported a problem, which is preventing the email from going through.  \n- This situation is causing frustration as the user is unable to communicate effectively."
+}

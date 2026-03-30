@@ -1,0 +1,20 @@
+{
+  "number": "INC0003005",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB05516",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Delay and unresponsiveness when printing to network printer.\n\nfull_description_text: So, the user was trying to print from Excel and suddenly the program just freezes, like it says \"Not Responding\" for a long time. It’s really frustrating because after a few minutes, it finally prints, but that wait is just too much. They also mentioned that this happens sometimes when using Adobe and Word too, not just Excel.",
+  "short_description": "Delay and unresponsiveness when printing to network printer.",
+  "description": "So, the user was trying to print from Excel and suddenly the program just freezes, like it says \"Not Responding\" for a long time. It’s really frustrating because after a few minutes, it finally prints, but that wait is just too much. They also mentioned that this happens sometimes when using Adobe and Word too, not just Excel."
+}

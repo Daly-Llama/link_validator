@@ -1,0 +1,20 @@
+{
+  "number": "INC0004434",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB09036",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Computer isolated by Defender due to malware detection.\n\nfull_description_text:  \n- The computer is isolated, which means it can't connect to the Internet.  \n- This isolation happened because Microsoft Defender found some malware, which is not good.  \n- So now, the machine is stuck and can't do anything online, which is a problem.  \n- The user was just trying to use the computer, and now it’s not working right.",
+  "short_description": "Computer isolated by Defender due to malware detection.",
+  "description": "- The computer is isolated, which means it can't connect to the Internet.  \n- This isolation happened because Microsoft Defender found some malware, which is not good.  \n- So now, the machine is stuck and can't do anything online, which is a problem.  \n- The user was just trying to use the computer, and now it’s not working right."
+}

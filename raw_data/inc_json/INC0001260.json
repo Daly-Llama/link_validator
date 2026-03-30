@@ -1,0 +1,20 @@
+{
+  "number": "INC0001260",
+  "category": "Technology",
+  "subcategory": "Banner / Self Service Banner",
+  "correct_kb": "KB00492",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Error message when clicking BDM Display Document button in Banner\n\nfull_description_text: \nDuring a live chat, the user reported an error when trying to access the BDM Display Document button in the Banner application. The error message indicated a .NET Server Error, specifically stating that no assertions were found. This issue seems to be related to an unhandled exception that occurred during the web request execution. The user was using Internet Explorer and WebXtender at the time of the incident.",
+  "short_description": "Error message when clicking BDM Display Document button in Banner",
+  "description": "During a live chat, the user reported an error when trying to access the BDM Display Document button in the Banner application. The error message indicated a .NET Server Error, specifically stating that no assertions were found. This issue seems to be related to an unhandled exception that occurred during the web request execution. The user was using Internet Explorer and WebXtender at the time of the incident."
+}

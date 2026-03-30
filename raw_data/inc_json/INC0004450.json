@@ -1,0 +1,20 @@
+{
+  "number": "INC0004450",
+  "category": "Technology",
+  "subcategory": "Zoom",
+  "correct_kb": "KB09086",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to activate the Zoom AI Companion feature.\n\nfull_description_text:  \nI was trying to use the Zoom application for a meeting and heard about this cool AI Companion feature. I really wanted to turn it on, but I couldn't figure out how to do it. I looked everywhere in the settings, but it just wasn't clear to me. It would be great if someone could help me with this!",
+  "short_description": "Unable to activate the Zoom AI Companion feature.",
+  "description": "I was trying to use the Zoom application for a meeting and heard about this cool AI Companion feature. I really wanted to turn it on, but I couldn't figure out how to do it. I looked everywhere in the settings, but it just wasn't clear to me. It would be great if someone could help me with this!"
+}

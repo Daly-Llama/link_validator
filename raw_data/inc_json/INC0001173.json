@@ -1,0 +1,20 @@
+{
+  "number": "INC0001173",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00335",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to connect to usd.edu website using Firefox browser\n\nfull_description_text: \nThe user reported an issue while trying to access the website www.usd.edu using Firefox. They encountered an error message indicating that the website is improperly configured. This issue occurred on both macOS and Windows 10 environments during their attempt to connect.",
+  "short_description": "Unable to connect to usd.edu website using Firefox browser",
+  "description": "The user reported an issue while trying to access the website www.usd.edu using Firefox. They encountered an error message indicating that the website is improperly configured. This issue occurred on both macOS and Windows 10 environments during their attempt to connect."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004756",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09952",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Daily import file process for StarRez is failing since September 25th.\n\nfull_description_text: So, the Housing team was just checking their daily import file, right? They noticed that the last time it actually worked was on September 25th, and ever since then, every single daily load has been showing up as \"failed.\" It's like something's gone totally wrong with the whole process, and they can't figure out why it's not picking up the file from the Demographics folder anymore.",
+  "short_description": "Daily import file process for StarRez is failing since September 25th.",
+  "description": "So, the Housing team was just checking their daily import file, right? They noticed that the last time it actually worked was on September 25th, and ever since then, every single daily load has been showing up as \"failed.\" It's like something's gone totally wrong with the whole process, and they can't figure out why it's not picking up the file from the Demographics folder anymore."
+}

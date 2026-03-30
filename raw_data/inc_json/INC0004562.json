@@ -1,0 +1,20 @@
+{
+  "number": "INC0004562",
+  "category": "Health Sciences",
+  "subcategory": "CORE",
+  "correct_kb": "KB09364",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log clinical hours in CORE ELMS.\n\nfull_description_text:  \nI am trying to log my clinical hours.  \nI can't find the option to log hours.  \nThe video shows it in the top right corner, but I don't see it.  \nI need help with this issue.",
+  "short_description": "Unable to log clinical hours in CORE ELMS.",
+  "description": "I am trying to log my clinical hours.  \nI can't find the option to log hours.  \nThe video shows it in the top right corner, but I don't see it.  \nI need help with this issue."
+}

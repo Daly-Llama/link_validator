@@ -1,0 +1,20 @@
+{
+  "number": "INC0004603",
+  "category": "Accessibility",
+  "subcategory": "Accessibility",
+  "correct_kb": "KB09471",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Student's first-time request for academic accommodations.\n\nfull_description_text:\n- So, a student reached out during a live chat, looking to get academic accommodations for the first time.  \n- They mentioned they were unsure about the process and what info they needed to provide.  \n- It seems like they just want to make sure they’re set up properly with the Office of Accessibility.  \n- Oh, and they were a bit nervous about how it all works, which is totally understandable!",
+  "short_description": "Student's first-time request for academic accommodations.",
+  "description": "- So, a student reached out during a live chat, looking to get academic accommodations for the first time.  \n- They mentioned they were unsure about the process and what info they needed to provide.  \n- It seems like they just want to make sure they’re set up properly with the Office of Accessibility.  \n- Oh, and they were a bit nervous about how it all works, which is totally understandable!"
+}

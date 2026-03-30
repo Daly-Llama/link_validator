@@ -1,0 +1,20 @@
+{
+  "number": "INC0001352",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00670",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Laptop fails to switch to correct view mode when undocked.\n\nfull_description_text: The laptop does not display in the correct view mode after being removed from the docking station. This issue occurs when traveling, making it difficult to use the laptop effectively. The user is unable to adjust the display settings to the desired configuration.",
+  "short_description": "Laptop fails to switch to correct view mode when undocked.",
+  "description": "The laptop does not display in the correct view mode after being removed from the docking station. This issue occurs when traveling, making it difficult to use the laptop effectively. The user is unable to adjust the display settings to the desired configuration."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003683",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07802",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty sharing a Google Site through a link.\n\nfull_description_text: The user was attempting to share their Google Site with colleagues during a collaborative project. However, they encountered challenges in generating a shareable link, which hindered their ability to distribute the site effectively. This issue arose while they were on a call, seeking immediate assistance to facilitate the sharing process. The urgency of the situation was compounded by the need for timely collaboration among team members.",
+  "short_description": "Difficulty sharing a Google Site through a link.",
+  "description": "The user was attempting to share their Google Site with colleagues during a collaborative project. However, they encountered challenges in generating a shareable link, which hindered their ability to distribute the site effectively. This issue arose while they were on a call, seeking immediate assistance to facilitate the sharing process. The urgency of the situation was compounded by the need for timely collaboration among team members."
+}

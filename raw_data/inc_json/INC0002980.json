@@ -1,0 +1,20 @@
+{
+  "number": "INC0002980",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05448",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty opening HEIC files on Windows 10 with GIMP.\n\nfull_description_text: User is trying to open HEIC files on Windows 10. They have installed GIMP but are unsure how to save the file as .jpg. The process of opening and converting these files is unclear to them. They need assistance with this specific file format issue.",
+  "short_description": "Difficulty opening HEIC files on Windows 10 with GIMP.",
+  "description": "User is trying to open HEIC files on Windows 10. They have installed GIMP but are unsure how to save the file as .jpg. The process of opening and converting these files is unclear to them. They need assistance with this specific file format issue."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0001106",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00199",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Copier frequently jams during double-sided printing tasks.\n\nfull_description_text: The user reported that the Toshiba copier consistently jams whenever they attempt to print double-sided documents. During the call, they mentioned receiving an error indicating that the job status shows the document as \"skipped.\" Additionally, they were advised to check the paper drawer for any issues.",
+  "short_description": "Copier frequently jams during double-sided printing tasks.",
+  "description": "The user reported that the Toshiba copier consistently jams whenever they attempt to print double-sided documents. During the call, they mentioned receiving an error indicating that the job status shows the document as \"skipped.\" Additionally, they were advised to check the paper drawer for any issues."
+}

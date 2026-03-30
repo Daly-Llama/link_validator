@@ -1,0 +1,20 @@
+{
+  "number": "INC0004442",
+  "category": "Technology",
+  "subcategory": "Technology",
+  "correct_kb": "KB09060",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Resources needed for parents regarding school information\n\nfull_description_text:\n- The caller was inquiring about various resources available for parents.  \n- They expressed a need for information that could assist them in navigating school-related issues.  \n- The conversation included questions about what parents typically need to know, but specifics were not provided.  \n- There were some interruptions during the call, which may have affected the clarity of the request.",
+  "short_description": "Resources needed for parents regarding school information",
+  "description": "- The caller was inquiring about various resources available for parents.  \n- They expressed a need for information that could assist them in navigating school-related issues.  \n- The conversation included questions about what parents typically need to know, but specifics were not provided.  \n- There were some interruptions during the call, which may have affected the clarity of the request."
+}

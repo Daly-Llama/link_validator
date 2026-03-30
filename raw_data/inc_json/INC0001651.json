@@ -1,0 +1,20 @@
+{
+  "number": "INC0001651",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01511",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Firefox not working with CRM, keeps loading student details.\n\nfull_description_text: \nSo, I was trying to use Firefox to look up a student in the CRM, but it just keeps loading and loading. I clicked on the student, and nothing happens, it just sits there. Also, there was this error about a popup being blocked from sp.usd.edu, whatever that means. It's really frustrating because I need to get this info for my work, and now I can't.",
+  "short_description": "Firefox not working with CRM, keeps loading student details.",
+  "description": "So, I was trying to use Firefox to look up a student in the CRM, but it just keeps loading and loading. I clicked on the student, and nothing happens, it just sits there. Also, there was this error about a popup being blocked from sp.usd.edu, whatever that means. It's really frustrating because I need to get this info for my work, and now I can't."
+}

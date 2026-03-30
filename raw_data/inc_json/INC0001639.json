@@ -1,0 +1,20 @@
+{
+  "number": "INC0001639",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB01464",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Scanner produces black lines during scanning operations.\n\nfull_description_text:\n- The user is experiencing issues with the Canon DR 6030C scanner.  \n- Scans are not coming out clean, and there is a noticeable black line on the scanned documents.  \n- This problem occurs when using the scanner in conjunction with the HP MFC.",
+  "short_description": "Scanner produces black lines during scanning operations.",
+  "description": "- The user is experiencing issues with the Canon DR 6030C scanner.  \n- Scans are not coming out clean, and there is a noticeable black line on the scanned documents.  \n- This problem occurs when using the scanner in conjunction with the HP MFC."
+}

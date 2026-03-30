@@ -1,0 +1,20 @@
+{
+  "number": "INC0003269",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB06304",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Excel shows memory error during data processing.\n\nfull_description_text: So, the user was trying to work on a large Excel file. Suddenly, they got this annoying memory error. They mentioned something about not having enough memory to finish the task. It seems like they might need to close other apps or maybe even switch to a 64-bit version of Excel.",
+  "short_description": "Excel shows memory error during data processing.",
+  "description": "So, the user was trying to work on a large Excel file. Suddenly, they got this annoying memory error. They mentioned something about not having enough memory to finish the task. It seems like they might need to close other apps or maybe even switch to a 64-bit version of Excel."
+}

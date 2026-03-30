@@ -1,0 +1,20 @@
+{
+  "number": "INC0004449",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB09083",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "5",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Update needed for VoIP billing invoice recipients.\n\nfull_description_text:  \nThe monthly billing invoice for the VoIP phone service is currently being sent to just one individual, which is not ideal. It is important that this invoice also reaches another person, as it should be a shared responsibility. Can we please get this updated so that both parties receive the necessary billing information? This change is crucial for ensuring that all relevant stakeholders are informed and can manage the billing process effectively.",
+  "short_description": "Update needed for VoIP billing invoice recipients.",
+  "description": "The monthly billing invoice for the VoIP phone service is currently being sent to just one individual, which is not ideal. It is important that this invoice also reaches another person, as it should be a shared responsibility. Can we please get this updated so that both parties receive the necessary billing information? This change is crucial for ensuring that all relevant stakeholders are informed and can manage the billing process effectively."
+}

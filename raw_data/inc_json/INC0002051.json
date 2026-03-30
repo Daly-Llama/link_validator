@@ -1,0 +1,20 @@
+{
+  "number": "INC0002051",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB02682",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimal tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need to provide documentation for FAFSA independence status.\n\nfull_description_text:  \nI got an email about my FAFSA. They say I need to show proof of being independent. Also, I need to correct my FAFSA. I don’t understand what to do next.",
+  "short_description": "Need to provide documentation for FAFSA independence status.",
+  "description": "I got an email about my FAFSA. They say I need to show proof of being independent. Also, I need to correct my FAFSA. I don’t understand what to do next."
+}

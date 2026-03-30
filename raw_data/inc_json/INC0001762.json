@@ -1,0 +1,20 @@
+{
+  "number": "INC0001762",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01813",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be distracting grammar usage and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Need desktop access to ACEware Student Manager software.\n\nfull_description_text:  \nUser wants to access ACEware on their desktop. They are having trouble getting in. It's for registration and course management. They need help with this access issue.",
+  "short_description": "Need desktop access to ACEware Student Manager software.",
+  "description": "User wants to access ACEware on their desktop. They are having trouble getting in. It's for registration and course management. They need help with this access issue."
+}

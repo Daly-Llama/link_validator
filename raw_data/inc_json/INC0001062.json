@@ -1,0 +1,20 @@
+{
+  "number": "INC0001062",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB00107",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Voicemail PIN not working on Cisco VoIP phone\n\nfull_description_text:\n- User cannot listen to voicemail because the passcode is not accepted.  \n- They also cannot delete messages from their voicemail.  \n- User is asking for help to reset their phone password.",
+  "short_description": "Voicemail PIN not working on Cisco VoIP phone",
+  "description": "- User cannot listen to voicemail because the passcode is not accepted.  \n- They also cannot delete messages from their voicemail.  \n- User is asking for help to reset their phone password."
+}

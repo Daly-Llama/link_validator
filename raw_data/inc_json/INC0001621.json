@@ -1,0 +1,20 @@
+{
+  "number": "INC0001621",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01400",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need a quote to upgrade Stata software from SE13 to SE15\n\nfull_description_text:  \nI have Stata/SE13 and I wanna upgrade to Stata/SE15. Can I please get a quote for upgrading to Stata/MP 16 (2-core) and also for the Prof+ Plan upgrades from Stata/SE 15? Just looking for some info on that, thanks!",
+  "short_description": "Need a quote to upgrade Stata software from SE13 to SE15",
+  "description": "I have Stata/SE13 and I wanna upgrade to Stata/SE15. Can I please get a quote for upgrading to Stata/MP 16 (2-core) and also for the Prof+ Plan upgrades from Stata/SE 15? Just looking for some info on that, thanks!"
+}

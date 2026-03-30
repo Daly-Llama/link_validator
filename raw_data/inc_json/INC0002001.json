@@ -1,0 +1,20 @@
+{
+  "number": "INC0002001",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02545",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to delete an unnecessary SharePoint site.\n\nfull_description_text: \nThe user called in asking for help to remove a SharePoint site they no longer need. They mentioned that it’s just taking up space and they’re not sure how to go about deleting it. It seems like they want to make sure it’s done properly without any issues.",
+  "short_description": "Request to delete an unnecessary SharePoint site.",
+  "description": "The user called in asking for help to remove a SharePoint site they no longer need. They mentioned that it’s just taking up space and they’re not sure how to go about deleting it. It seems like they want to make sure it’s done properly without any issues."
+}

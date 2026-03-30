@@ -1,0 +1,20 @@
+{
+  "number": "INC0003585",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07621",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Restoring a deleted discussion forum or topic issue.\n\nfull_description_text: A discussion forum or topic was accidentally deleted. The technician needs to know how to restore it. This is affecting ongoing conversations and user engagement. Immediate action is required to recover the lost content.",
+  "short_description": "Restoring a deleted discussion forum or topic issue.",
+  "description": "A discussion forum or topic was accidentally deleted. The technician needs to know how to restore it. This is affecting ongoing conversations and user engagement. Immediate action is required to recover the lost content."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003677",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07796",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty adding a page to Google Sites.\n\nfull_description_text:  \n- The user was attempting to enhance their Google Site by incorporating a new page.  \n- During the process, they encountered challenges that prevented them from successfully adding the desired content.  \n- The user expressed confusion regarding the steps involved, indicating a need for clarification on the procedure.  \n- This issue arose while they were actively engaged in a live support call, seeking immediate assistance.",
+  "short_description": "Difficulty adding a page to Google Sites.",
+  "description": "- The user was attempting to enhance their Google Site by incorporating a new page.  \n- During the process, they encountered challenges that prevented them from successfully adding the desired content.  \n- The user expressed confusion regarding the steps involved, indicating a need for clarification on the procedure.  \n- This issue arose while they were actively engaged in a live support call, seeking immediate assistance."
+}

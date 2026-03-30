@@ -1,0 +1,20 @@
+{
+  "number": "INC0003390",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB06806",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Deposit to Coyote Card not appearing in account.\n\nfull_description_text: \nThe user called to report a problem with their Coyote Card. They made a deposit, but it is not showing in their account. This is causing confusion and concern for them. They want to know why the deposit is missing and how to fix it.",
+  "short_description": "Deposit to Coyote Card not appearing in account.",
+  "description": "The user called to report a problem with their Coyote Card. They made a deposit, but it is not showing in their account. This is causing confusion and concern for them. They want to know why the deposit is missing and how to fix it."
+}

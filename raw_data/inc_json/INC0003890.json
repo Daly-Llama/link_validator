@@ -1,0 +1,20 @@
+{
+  "number": "INC0003890",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08024",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about basic drawing tools in Outlook\n\nfull_description_text:\n- The user is seeking information regarding the fundamental drawing tools available in Outlook.  \n- They may be looking to enhance their document presentations or notes using these features.  \n- The request indicates a need for clarity on the specific tools and their functionalities within the Outlook environment.",
+  "short_description": "Inquiry about basic drawing tools in Outlook",
+  "description": "- The user is seeking information regarding the fundamental drawing tools available in Outlook.  \n- They may be looking to enhance their document presentations or notes using these features.  \n- The request indicates a need for clarity on the specific tools and their functionalities within the Outlook environment."
+}

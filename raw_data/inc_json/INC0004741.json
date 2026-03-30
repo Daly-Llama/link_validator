@@ -1,0 +1,20 @@
+{
+  "number": "INC0004741",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB09900",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Team not appearing as Microsoft 365 Group in Outlook.\n\nfull_description_text: The user is experiencing an issue where their Team is not visible as a Microsoft 365 Group in Outlook. This situation arose during their attempt to access group functionalities within the application. They are uncertain if there is a specific setting or configuration that needs to be adjusted to resolve this visibility problem.",
+  "short_description": "Team not appearing as Microsoft 365 Group in Outlook.",
+  "description": "The user is experiencing an issue where their Team is not visible as a Microsoft 365 Group in Outlook. This situation arose during their attempt to access group functionalities within the application. They are uncertain if there is a specific setting or configuration that needs to be adjusted to resolve this visibility problem."
+}

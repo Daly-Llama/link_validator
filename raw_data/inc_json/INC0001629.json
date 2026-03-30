@@ -1,0 +1,20 @@
+{
+  "number": "INC0001629",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01419",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help creating a desktop shortcut for quick access\n\nfull_description_text:  \nEl usuario está buscando una manera de crear un acceso directo en su escritorio para poder acceder a sus programas o archivos favoritos más fácilmente. Parece que no está seguro de cómo hacerlo en su computadora con Windows. Esto es importante porque tener un acceso directo puede ahorrar tiempo y hacer que su experiencia sea más fluida. Quizás ha intentado arrastrar y soltar, pero no está funcionando como esperaba.",
+  "short_description": "Need help creating a desktop shortcut for quick access",
+  "description": "El usuario está buscando una manera de crear un acceso directo en su escritorio para poder acceder a sus programas o archivos favoritos más fácilmente. Parece que no está seguro de cómo hacerlo en su computadora con Windows. Esto es importante porque tener un acceso directo puede ahorrar tiempo y hacer que su experiencia sea más fluida. Quizás ha intentado arrastrar y soltar, pero no está funcionando como esperaba."
+}

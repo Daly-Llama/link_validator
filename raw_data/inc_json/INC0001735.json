@@ -1,0 +1,20 @@
+{
+  "number": "INC0001735",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01725",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Issues with Directory Image Management causing server errors\n\nfull_description_text:  \nI'm having trouble with the Directory Image Management app. It keeps throwing a server error and pictures just aren't showing up at all. It's really frustrating because the functionality isn't working correctly, and I can't figure out why.",
+  "short_description": "Issues with Directory Image Management causing server errors",
+  "description": "I'm having trouble with the Directory Image Management app. It keeps throwing a server error and pictures just aren't showing up at all. It's really frustrating because the functionality isn't working correctly, and I can't figure out why."
+}

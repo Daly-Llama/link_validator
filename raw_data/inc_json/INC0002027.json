@@ -1,0 +1,20 @@
+{
+  "number": "INC0002027",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB02616",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Request for loaner tech equipment in Lee Med Building\n\nfull_description_text:\n- Need to borrow some tech stuff from ITS in Lee Med.  \n- Looking for a HP LaserJet printer and maybe a laptop too.  \n- Not sure how the loaning process works, but I really need it.",
+  "short_description": "Request for loaner tech equipment in Lee Med Building",
+  "description": "- Need to borrow some tech stuff from ITS in Lee Med.  \n- Looking for a HP LaserJet printer and maybe a laptop too.  \n- Not sure how the loaning process works, but I really need it."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004584",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09410",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty assigning Azure Lab machines to B-School students\n\nfull_description_text:\n- So, I was on the phone with a user who needed help assigning those Azure Lab machines to students in the Business School. \n- They were trying to figure out how to get the published virtual machines into the hands of the right users, but it just wasn’t working out. \n- The user mentioned something about needing to do this quickly for an upcoming project, which added a bit of urgency to the situation. \n- I think they were a bit confused about the whole process, and honestly, it felt like we were going in circles for a while there!",
+  "short_description": "Difficulty assigning Azure Lab machines to B-School students",
+  "description": "- So, I was on the phone with a user who needed help assigning those Azure Lab machines to students in the Business School. \n- They were trying to figure out how to get the published virtual machines into the hands of the right users, but it just wasn’t working out. \n- The user mentioned something about needing to do this quickly for an upcoming project, which added a bit of urgency to the situation. \n- I think they were a bit confused about the whole process, and honestly, it felt like we were going in circles for a while there!"
+}

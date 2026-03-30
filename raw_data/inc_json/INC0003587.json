@@ -1,0 +1,20 @@
+{
+  "number": "INC0003587",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07623",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about display and settings in D2L\n\nfull_description_text:  \nThe user is seeking clarification on their display settings within D2L. They have questions regarding default view, reply, and subscription settings. This indicates a need for understanding how these configurations affect their experience in the platform.",
+  "short_description": "Inquiry about display and settings in D2L",
+  "description": "The user is seeking clarification on their display settings within D2L. They have questions regarding default view, reply, and subscription settings. This indicates a need for understanding how these configurations affect their experience in the platform."
+}

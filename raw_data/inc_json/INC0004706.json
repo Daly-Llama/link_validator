@@ -1,0 +1,20 @@
+{
+  "number": "INC0004706",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09819",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Error importing room or meal plan data to Banner\n\nfull_description_text:\n- Users in the housing department are experiencing difficulties when attempting to import room assignments or meal plan data into Banner.  \n- The process is failing with the error message: ORA-29283: invalid file operation.  \n- This issue arises when using the SZPRIMP or SZPMIMP functions.  \n- Assistance is required to address this matter promptly.",
+  "short_description": "Error importing room or meal plan data to Banner",
+  "description": "- Users in the housing department are experiencing difficulties when attempting to import room assignments or meal plan data into Banner.  \n- The process is failing with the error message: ORA-29283: invalid file operation.  \n- This issue arises when using the SZPRIMP or SZPMIMP functions.  \n- Assistance is required to address this matter promptly."
+}

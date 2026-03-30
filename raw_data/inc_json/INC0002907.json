@@ -1,0 +1,20 @@
+{
+  "number": "INC0002907",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB05275",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help scheduling a Webex meeting.\n\nfull_description_text:  \n- I want to schedule a Webex meeting but I don't know how.  \n- I tried looking for options but can't find anything clear.  \n- Can someone please help me with this?",
+  "short_description": "Need help scheduling a Webex meeting.",
+  "description": "- I want to schedule a Webex meeting but I don't know how.  \n- I tried looking for options but can't find anything clear.  \n- Can someone please help me with this?"
+}

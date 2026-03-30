@@ -1,0 +1,20 @@
+{
+  "number": "INC0002871",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB05148",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about book pickup duration at Charlie's Bookstore\n\nfull_description_text:\n- I’m trying to find out how long I have to pick up my books at Charlie's Bookstore in the MUC.  \n- I chose to have my books delivered there, but I’m not sure about the pickup time.  \n- Can someone let me know the timeframe for picking up my books?",
+  "short_description": "Inquiry about book pickup duration at Charlie's Bookstore",
+  "description": "- I’m trying to find out how long I have to pick up my books at Charlie's Bookstore in the MUC.  \n- I chose to have my books delivered there, but I’m not sure about the pickup time.  \n- Can someone let me know the timeframe for picking up my books?"
+}

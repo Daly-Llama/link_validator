@@ -1,0 +1,20 @@
+{
+  "number": "INC0001658",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01529",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Need guest login info for USD domain computers.\n\nfull_description_text:\n- So, I was on the phone with someone who needed help.  \n- They asked if there’s a guest login for USD computers, like for the lab and classroom ones.  \n- They want a way for students to get online without using their own profiles, you know?  \n- Just trying to figure out if there’s a universal guest account for all five computers.",
+  "short_description": "Need guest login info for USD domain computers.",
+  "description": "- So, I was on the phone with someone who needed help.  \n- They asked if there’s a guest login for USD computers, like for the lab and classroom ones.  \n- They want a way for students to get online without using their own profiles, you know?  \n- Just trying to figure out if there’s a universal guest account for all five computers."
+}

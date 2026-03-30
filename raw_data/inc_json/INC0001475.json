@@ -1,0 +1,20 @@
+{
+  "number": "INC0001475",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00966",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access computer due to Bitlocker recovery key request.\n\nfull_description_text: \nThe user is experiencing an issue with their USD laptop, as they cannot access it. They are being prompted to enter a Bitlocker recovery key, which they do not have. This situation is causing frustration, as they are unable to use their computer for work or personal tasks.",
+  "short_description": "Unable to access computer due to Bitlocker recovery key request.",
+  "description": "The user is experiencing an issue with their USD laptop, as they cannot access it. They are being prompted to enter a Bitlocker recovery key, which they do not have. This situation is causing frustration, as they are unable to use their computer for work or personal tasks."
+}

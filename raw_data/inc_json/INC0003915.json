@@ -1,0 +1,20 @@
+{
+  "number": "INC0003915",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB08061",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help organizing email folders in Outlook\n\nfull_description_text:\n- I’m trying to figure out how to set up my email folders in Outlook.  \n- I want to create a good structure so I can find my emails easily.  \n- Can someone guide me on how to do this?",
+  "short_description": "Need help organizing email folders in Outlook",
+  "description": "- I’m trying to figure out how to set up my email folders in Outlook.  \n- I want to create a good structure so I can find my emails easily.  \n- Can someone guide me on how to do this?"
+}

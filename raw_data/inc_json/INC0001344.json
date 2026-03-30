@@ -1,0 +1,20 @@
+{
+  "number": "INC0001344",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB00656",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Microsoft Office 2016 activation issue on Windows devices\n\nfull_description_text:\n- The user reported that their Microsoft Office 2016 was not activated as of yesterday.  \n- They encountered multiple error messages indicating that most features of Excel, Word, and PowerPoint have been disabled due to activation issues.  \n- Additionally, the user mentioned that their school account is no longer active, which may be contributing to the activation problem.  \n- The situation was discussed during a live chat session with a help desk analyst.",
+  "short_description": "Microsoft Office 2016 activation issue on Windows devices",
+  "description": "- The user reported that their Microsoft Office 2016 was not activated as of yesterday.  \n- They encountered multiple error messages indicating that most features of Excel, Word, and PowerPoint have been disabled due to activation issues.  \n- Additionally, the user mentioned that their school account is no longer active, which may be contributing to the activation problem.  \n- The situation was discussed during a live chat session with a help desk analyst."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0004528",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB09292",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Need help managing my Duo devices.\n\nfull_description_text:  \nSo, I’m trying to figure out how to manage my Duo devices. Like, I really don’t know what to do here. I mean, I have these devices, and I just want to manage them, you know? It’s kinda confusing, and I could really use some help with this Duo stuff.",
+  "short_description": "Need help managing my Duo devices.",
+  "description": "So, I’m trying to figure out how to manage my Duo devices. Like, I really don’t know what to do here. I mean, I have these devices, and I just want to manage them, you know? It’s kinda confusing, and I could really use some help with this Duo stuff."
+}

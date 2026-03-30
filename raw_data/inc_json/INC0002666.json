@@ -1,0 +1,20 @@
+{
+  "number": "INC0002666",
+  "category": "Technology",
+  "subcategory": "Phones and Audio Conferencing",
+  "correct_kb": "KB04547",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to set up an 800 toll-free number for VoIP phone.\n\nfull_description_text: \nThe user is trying to establish a toll-free 800 number for their VoIP phone system, which is crucial for enhancing customer communication. They have expressed a desire to make it easier for clients to reach them without incurring charges, but they seem a bit confused about the setup process. It appears they might not have all the necessary information or steps to proceed, and they are looking for guidance on how to get this number activated. Additionally, they mentioned something about wanting to ensure that the number is easy to remember, which is a common concern for businesses aiming to improve their outreach.",
+  "short_description": "Request to set up an 800 toll-free number for VoIP phone.",
+  "description": "The user is trying to establish a toll-free 800 number for their VoIP phone system, which is crucial for enhancing customer communication. They have expressed a desire to make it easier for clients to reach them without incurring charges, but they seem a bit confused about the setup process. It appears they might not have all the necessary information or steps to proceed, and they are looking for guidance on how to get this number activated. Additionally, they mentioned something about wanting to ensure that the number is easy to remember, which is a common concern for businesses aiming to improve their outreach."
+}

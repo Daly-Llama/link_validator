@@ -1,0 +1,20 @@
+{
+  "number": "INC0001156",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00304",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Application blocked by Java ruleset, preventing access to Argos.\n\nfull_description_text: The application is blocked with Java pop-up windows. The screen flashes and does not open. I need Argos for the transcripts, but I can't access it due to the security error.",
+  "short_description": "Application blocked by Java ruleset, preventing access to Argos.",
+  "description": "The application is blocked with Java pop-up windows. The screen flashes and does not open. I need Argos for the transcripts, but I can't access it due to the security error."
+}

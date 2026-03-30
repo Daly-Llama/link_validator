@@ -1,0 +1,20 @@
+{
+  "number": "INC0004192",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08494",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Sponsor does not require submission by an authorized representative.\n\nfull_description_text: During a recent call, the user inquired about the scenario where the sponsor does not necessitate submission by an authorized representative, or AOR. They were seeking clarification on the implications of this policy and how it affects their current processes. The conversation highlighted the need for understanding the requirements set by the sponsor in such cases, as it could impact their submissions significantly.",
+  "short_description": "Sponsor does not require submission by an authorized representative.",
+  "description": "During a recent call, the user inquired about the scenario where the sponsor does not necessitate submission by an authorized representative, or AOR. They were seeking clarification on the implications of this policy and how it affects their current processes. The conversation highlighted the need for understanding the requirements set by the sponsor in such cases, as it could impact their submissions significantly."
+}

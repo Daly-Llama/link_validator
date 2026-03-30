@@ -1,0 +1,20 @@
+{
+  "number": "INC0002045",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB02661",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to place graphic on digital signage TV.\n\nfull_description_text: \nThe user was trying to figure out how to request a graphic for the digital signage. They specifically mentioned wanting a flyer or advertisement to be displayed on the Reach Digital sign. There seems to be some confusion about the process for submitting such requests, and they were looking for guidance on the next steps. It's unclear if they have the correct access or if there's a specific form needed for this.",
+  "short_description": "Request to place graphic on digital signage TV.",
+  "description": "The user was trying to figure out how to request a graphic for the digital signage. They specifically mentioned wanting a flyer or advertisement to be displayed on the Reach Digital sign. There seems to be some confusion about the process for submitting such requests, and they were looking for guidance on the next steps. It's unclear if they have the correct access or if there's a specific form needed for this."
+}

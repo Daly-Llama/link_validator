@@ -1,0 +1,20 @@
+{
+  "number": "INC0003716",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07839",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with setting permissions for Google Sheets file access\n\nfull_description_text: \nSo, the user was trying to figure out how to choose what people can do with their Google Sheets file. They were on the call asking about it, and it seems like they just couldn't get the permissions right. They wanted to know how to limit what others can do, like editing or viewing, but it was all confusing for them. They kept repeating the same question about file access and permissions.",
+  "short_description": "Issues with setting permissions for Google Sheets file access",
+  "description": "So, the user was trying to figure out how to choose what people can do with their Google Sheets file. They were on the call asking about it, and it seems like they just couldn't get the permissions right. They wanted to know how to limit what others can do, like editing or viewing, but it was all confusing for them. They kept repeating the same question about file access and permissions."
+}

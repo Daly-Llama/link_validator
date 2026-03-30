@@ -1,0 +1,20 @@
+{
+  "number": "INC0001563",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB01210",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Frequent Outlook crashes on desktop and mobile applications.\n\nfull_description_text: \nThe user is experiencing recurrent crashes with Outlook, occurring approximately five times daily. This issue manifests when attempting to open emails, leading to the application becoming unresponsive. Error messages indicate that Outlook is struggling to retrieve data from the Microsoft Exchange server at outlook.office365.com, and users are prompted with notifications suggesting a temporary issue. Additionally, there are instances where the application fails to function correctly, necessitating a complete closure of Outlook to regain functionality.",
+  "short_description": "Frequent Outlook crashes on desktop and mobile applications.",
+  "description": "The user is experiencing recurrent crashes with Outlook, occurring approximately five times daily. This issue manifests when attempting to open emails, leading to the application becoming unresponsive. Error messages indicate that Outlook is struggling to retrieve data from the Microsoft Exchange server at outlook.office365.com, and users are prompted with notifications suggesting a temporary issue. Additionally, there are instances where the application fails to function correctly, necessitating a complete closure of Outlook to regain functionality."
+}

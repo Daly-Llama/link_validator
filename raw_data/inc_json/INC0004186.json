@@ -1,0 +1,20 @@
+{
+  "number": "INC0004186",
+  "category": "Research and Sponsored Programs",
+  "subcategory": "Research and Sponsored Programs",
+  "correct_kb": "KB08488",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about authorized signatories for grants and contracts\n\nfull_description_text:\n- The user is seeking clarification on who is authorized to sign grants and contracts.  \n- This inquiry may impact the processing of important documents and agreements.  \n- Understanding the signatory authority is crucial for compliance and operational efficiency.  \n- The user requires this information to ensure proper procedures are followed in their organization.",
+  "short_description": "Inquiry about authorized signatories for grants and contracts",
+  "description": "- The user is seeking clarification on who is authorized to sign grants and contracts.  \n- This inquiry may impact the processing of important documents and agreements.  \n- Understanding the signatory authority is crucial for compliance and operational efficiency.  \n- The user requires this information to ensure proper procedures are followed in their organization."
+}

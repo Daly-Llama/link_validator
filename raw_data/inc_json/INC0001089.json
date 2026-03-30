@@ -1,0 +1,20 @@
+{
+  "number": "INC0001089",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00166",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to access USD Library databases remotely.\n\nfull_description_text: \nDuring a phone call, the user expressed frustration about not being able to log into the USD Online Research Databases. They mentioned that their login credentials seem to no longer work, which is preventing them from accessing essential Library resources while off-site. The user is relying on these resources for their research, and this issue is causing significant delays in their work. They are particularly concerned about missing important information needed for their projects.",
+  "short_description": "Unable to access USD Library databases remotely.",
+  "description": "During a phone call, the user expressed frustration about not being able to log into the USD Online Research Databases. They mentioned that their login credentials seem to no longer work, which is preventing them from accessing essential Library resources while off-site. The user is relying on these resources for their research, and this issue is causing significant delays in their work. They are particularly concerned about missing important information needed for their projects."
+}

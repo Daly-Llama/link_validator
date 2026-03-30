@@ -1,0 +1,20 @@
+{
+  "number": "INC0002860",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB05119",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a short and minimally polite tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unauthorized printing to staff network printer by students.\n\nfull_description_text: \nDuring a live chat, the analyst reported that students are accessing the network printer meant for staff. This unauthorized printing is causing issues in the workflow. The user inquired about the possibility of password protecting the printer to prevent further misuse. The situation requires immediate attention to secure the printing resources.",
+  "short_description": "Unauthorized printing to staff network printer by students.",
+  "description": "During a live chat, the analyst reported that students are accessing the network printer meant for staff. This unauthorized printing is causing issues in the workflow. The user inquired about the possibility of password protecting the printer to prevent further misuse. The situation requires immediate attention to secure the printing resources."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003872",
+  "category": "Technology",
+  "subcategory": "OneNote",
+  "correct_kb": "KB08006",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty titling sections and pages in OneNote\n\nfull_description_text: \nSo, I was on the phone with a user who was trying to figure out how to title their sections and pages in OneNote. They seemed a bit confused and mentioned that they wanted to keep everything organized but just couldn't find the right way to do it. It was a bit of a struggle for them, and they really wanted to make sure their notes looked good.",
+  "short_description": "Difficulty titling sections and pages in OneNote",
+  "description": "So, I was on the phone with a user who was trying to figure out how to title their sections and pages in OneNote. They seemed a bit confused and mentioned that they wanted to keep everything organized but just couldn't find the right way to do it. It was a bit of a struggle for them, and they really wanted to make sure their notes looked good."
+}

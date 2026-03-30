@@ -1,0 +1,20 @@
+{
+  "number": "INC0002185",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB03107",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with equipment in the Nursing Sim Lab\n\nfull_description_text:\n- The Nursing Sim Lab is currently experiencing several equipment problems.  \n- The camera is not displaying images, and the mannequin is also not functioning properly.  \n- Additionally, the Sim Recorder is not working, which is affecting the overall simulation experience.  \n- Assistance is needed to resolve these issues in the Nursing Sim Lab.",
+  "short_description": "Issues with equipment in the Nursing Sim Lab",
+  "description": "- The Nursing Sim Lab is currently experiencing several equipment problems.  \n- The camera is not displaying images, and the mannequin is also not functioning properly.  \n- Additionally, the Sim Recorder is not working, which is affecting the overall simulation experience.  \n- Assistance is needed to resolve these issues in the Nursing Sim Lab."
+}

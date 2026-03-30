@@ -1,0 +1,20 @@
+{
+  "number": "INC0004735",
+  "category": "Housing and Meal Plans",
+  "subcategory": "Housing and Meal Plans",
+  "correct_kb": "KB09883",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Dining hall hours and options inquiry at USD's Vermillion Campus\n\nfull_description_text: User seeks information on dining hall hours. They want to know what options are available. The inquiry is regarding USD's Vermillion Campus dining services. There is a need for clarity on operational times and food choices.",
+  "short_description": "Dining hall hours and options inquiry at USD's Vermillion Campus",
+  "description": "User seeks information on dining hall hours. They want to know what options are available. The inquiry is regarding USD's Vermillion Campus dining services. There is a need for clarity on operational times and food choices."
+}

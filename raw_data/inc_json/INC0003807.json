@@ -1,0 +1,20 @@
+{
+  "number": "INC0003807",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07940",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be poor spelling and grammar and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "5",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Inquiry about the DATEDIF function in Excel.\n\nfull_description_text: \nSo, during a live chat, the user asked what the DATEDIF function is in Excel. They seemed a bit confused about how it works and its purpose. It's a function that calculates the difference between two dates, but they didn't provide specific examples or context. The analyst was trying to help but needed more details to assist effectively.",
+  "short_description": "Inquiry about the DATEDIF function in Excel.",
+  "description": "So, during a live chat, the user asked what the DATEDIF function is in Excel. They seemed a bit confused about how it works and its purpose. It's a function that calculates the difference between two dates, but they didn't provide specific examples or context. The analyst was trying to help but needed more details to assist effectively."
+}

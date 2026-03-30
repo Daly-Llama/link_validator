@@ -1,0 +1,20 @@
+{
+  "number": "INC0002574",
+  "category": "Technology",
+  "subcategory": "Microsoft Office",
+  "correct_kb": "KB04216",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to install Word add-in after Office 365 upgrade.\n\nfull_description_text:  \nUser attempted to install an add-in for Microsoft Word.  \nThis action was initiated post-upgrade to Office 365.  \nAn error message was encountered: \"Sorry, Office 365 has been configured to prevent individual acquisition of Office Add-ins.\"  \nThe configuration settings appear to restrict the installation process, leading to this impediment.",
+  "short_description": "Unable to install Word add-in after Office 365 upgrade.",
+  "description": "User attempted to install an add-in for Microsoft Word.  \nThis action was initiated post-upgrade to Office 365.  \nAn error message was encountered: \"Sorry, Office 365 has been configured to prevent individual acquisition of Office Add-ins.\"  \nThe configuration settings appear to restrict the installation process, leading to this impediment."
+}

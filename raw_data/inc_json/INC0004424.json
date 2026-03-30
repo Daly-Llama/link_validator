@@ -1,0 +1,20 @@
+{
+  "number": "INC0004424",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB09011",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to set up online payment for deposits and application fees\n\nfull_description_text:  \nThe user is seeking guidance on how to initiate the process for establishing online payment options for deposits and application fees associated with various programs. Specifically, there is a need to increase the deposit amount for the Physician Assistants Program on the Deposits website, as well as to update the pricing for the Summer Music Camp Application on the Storefront. Additionally, the user inquires about the available methods for collecting external course registration or conference fees, indicating a broader interest in enhancing the financial transaction capabilities within the Nelnet Storefront environment. This request is pertinent to the University of South Dakota and involves coordination with Financial Services for proper implementation.",
+  "short_description": "Request to set up online payment for deposits and application fees",
+  "description": "The user is seeking guidance on how to initiate the process for establishing online payment options for deposits and application fees associated with various programs. Specifically, there is a need to increase the deposit amount for the Physician Assistants Program on the Deposits website, as well as to update the pricing for the Summer Music Camp Application on the Storefront. Additionally, the user inquires about the available methods for collecting external course registration or conference fees, indicating a broader interest in enhancing the financial transaction capabilities within the Nelnet Storefront environment. This request is pertinent to the University of South Dakota and involves coordination with Financial Services for proper implementation."
+}

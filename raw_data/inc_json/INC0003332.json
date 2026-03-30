@@ -1,0 +1,20 @@
+{
+  "number": "INC0003332",
+  "category": "Technology",
+  "subcategory": "25Live",
+  "correct_kb": "KB06559",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble confirming 25Live event on the USD Calendar\n\nfull_description_text:\n- I was trying to confirm an event from 25Live to be added to the USD Calendar.  \n- It seems like there is a problem with the confirmation process, and I’m not sure what to do.  \n- I really need this event to be on the calendar, but I can’t figure out how to make it happen.  \n- Please help me with this issue because it’s important for me to see the event listed!",
+  "short_description": "Trouble confirming 25Live event on the USD Calendar",
+  "description": "- I was trying to confirm an event from 25Live to be added to the USD Calendar.  \n- It seems like there is a problem with the confirmation process, and I’m not sure what to do.  \n- I really need this event to be on the calendar, but I can’t figure out how to make it happen.  \n- Please help me with this issue because it’s important for me to see the event listed!"
+}

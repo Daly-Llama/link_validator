@@ -1,0 +1,20 @@
+{
+  "number": "INC0001455",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00911",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Computer beeping and flashing red, will not turn on.\n\nfull_description_text: User reports that the desktop computer is not turning on. It is making beeping sounds and a red light is flashing. This issue occurs when trying to power on the HP desktop running Microsoft Windows. The user is unable to boot the system.",
+  "short_description": "Computer beeping and flashing red, will not turn on.",
+  "description": "User reports that the desktop computer is not turning on. It is making beeping sounds and a red light is flashing. This issue occurs when trying to power on the HP desktop running Microsoft Windows. The user is unable to boot the system."
+}

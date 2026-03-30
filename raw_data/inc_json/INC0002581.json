@@ -1,0 +1,20 @@
+{
+  "number": "INC0002581",
+  "category": "Charlie's Bookstore & Fan Shop",
+  "subcategory": "Charlie's Bookstore & Fan Shop",
+  "correct_kb": "KB04251",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to verify student book orders on Charlie's Bookstore website.\n\nfull_description_text: A field technician is attempting to check if students have placed orders for their books through the online bookstore. However, they are encountering difficulties accessing the order information on the Charlie's Bookstore website. This issue may impact the ability to confirm student purchases effectively.",
+  "short_description": "Unable to verify student book orders on Charlie's Bookstore website.",
+  "description": "A field technician is attempting to check if students have placed orders for their books through the online bookstore. However, they are encountering difficulties accessing the order information on the Charlie's Bookstore website. This issue may impact the ability to confirm student purchases effectively."
+}

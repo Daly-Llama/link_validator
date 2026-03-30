@@ -1,0 +1,20 @@
+{
+  "number": "INC0003959",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08112",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Options for project types in Qualtrics are unclear.\n\nfull_description_text:  \n- During a live chat, the user was trying to figure out what project types they could select in Qualtrics.  \n- They seemed a bit confused and wanted to know all the different options available.  \n- It was a busy day, and they were hoping to get started on their project soon, but the lack of clarity was holding them back.  \n- The user mentioned they had seen some articles but still had questions, which made the chat feel a bit longer than expected.",
+  "short_description": "Options for project types in Qualtrics are unclear.",
+  "description": "- During a live chat, the user was trying to figure out what project types they could select in Qualtrics.  \n- They seemed a bit confused and wanted to know all the different options available.  \n- It was a busy day, and they were hoping to get started on their project soon, but the lack of clarity was holding them back.  \n- The user mentioned they had seen some articles but still had questions, which made the chat feel a bit longer than expected."
+}

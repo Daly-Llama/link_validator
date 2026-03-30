@@ -1,0 +1,20 @@
+{
+  "number": "INC0003569",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB07506",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with PSI and PAN online testing at the center\n\nfull_description_text:\n- The testing center is experiencing problems with the PSI/PAN online testing system.  \n- Staff are unable to effectively schedule, track, and start exams through the admin site.  \n- This issue is impacting the proctoring of exams for the new testing authority.",
+  "short_description": "Issues with PSI and PAN online testing at the center",
+  "description": "- The testing center is experiencing problems with the PSI/PAN online testing system.  \n- Staff are unable to effectively schedule, track, and start exams through the admin site.  \n- This issue is impacting the proctoring of exams for the new testing authority."
+}

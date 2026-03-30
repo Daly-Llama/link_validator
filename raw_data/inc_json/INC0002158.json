@@ -1,0 +1,20 @@
+{
+  "number": "INC0002158",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB03007",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Request to import student list into Transact system\n\nfull_description_text:\n- A help desk analyst received a call regarding a student account import.  \n- The caller requested to import a list of IDs for housing early arrivals.  \n- The list is intended for use in the Transact system for various programs.",
+  "short_description": "Request to import student list into Transact system",
+  "description": "- A help desk analyst received a call regarding a student account import.  \n- The caller requested to import a list of IDs for housing early arrivals.  \n- The list is intended for use in the Transact system for various programs."
+}

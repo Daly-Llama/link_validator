@@ -1,0 +1,20 @@
+{
+  "number": "INC0002734",
+  "category": "Financial Aid",
+  "subcategory": "Financial Aid",
+  "correct_kb": "KB04751",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty completing Entrance Counseling for Federal Financial Aid\n\nfull_description_text:\n- The user is attempting to fulfill the Entrance Counseling requirement for Federal Aid.  \n- They are seeking guidance on the steps necessary to complete this process.  \n- This issue may impact their eligibility for financial assistance.  \n- The user is familiar with the financial aid process but requires specific instructions.",
+  "short_description": "Difficulty completing Entrance Counseling for Federal Financial Aid",
+  "description": "- The user is attempting to fulfill the Entrance Counseling requirement for Federal Aid.  \n- They are seeking guidance on the steps necessary to complete this process.  \n- This issue may impact their eligibility for financial assistance.  \n- The user is familiar with the financial aid process but requires specific instructions."
+}

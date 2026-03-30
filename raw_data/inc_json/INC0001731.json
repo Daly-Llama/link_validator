@@ -1,0 +1,20 @@
+{
+  "number": "INC0001731",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB01709",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Trouble logging into D2L due to CAS authorization error.\n\nfull_description_text:\n- So, I was just trying to log into D2L, you know, the online learning platform we use for classes. \n- Everything was going fine until I hit the login button, and bam! I got this error message saying, \"Application not authorized to use CAS.\" \n- It's super frustrating because I really need to access my course materials, and I thought CAS was supposed to make logging in easier, not harder! \n- I’m not sure if it’s a glitch or something else, but I just wanted to get into my account without any hassle.",
+  "short_description": "Trouble logging into D2L due to CAS authorization error.",
+  "description": "- So, I was just trying to log into D2L, you know, the online learning platform we use for classes. \n- Everything was going fine until I hit the login button, and bam! I got this error message saying, \"Application not authorized to use CAS.\" \n- It's super frustrating because I really need to access my course materials, and I thought CAS was supposed to make logging in easier, not harder! \n- I’m not sure if it’s a glitch or something else, but I just wanted to get into my account without any hassle."
+}

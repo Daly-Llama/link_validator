@@ -1,0 +1,20 @@
+{
+  "number": "INC0004371",
+  "category": "Technology",
+  "subcategory": "Bookings",
+  "correct_kb": "KB08886",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about Microsoft Bookings for setting up training appointments.\n\nfull_description_text:  \nThe user is looking for information on Microsoft Bookings and how it can be utilized to schedule appointments for training sessions. They are unsure about the features and capabilities of the tool. This inquiry came up during a live phone call, indicating a need for clarity on how to effectively use the application for their training needs.",
+  "short_description": "Inquiry about Microsoft Bookings for setting up training appointments.",
+  "description": "The user is looking for information on Microsoft Bookings and how it can be utilized to schedule appointments for training sessions. They are unsure about the features and capabilities of the tool. This inquiry came up during a live phone call, indicating a need for clarity on how to effectively use the application for their training needs."
+}

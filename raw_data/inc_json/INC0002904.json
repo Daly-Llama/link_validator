@@ -1,0 +1,20 @@
+{
+  "number": "INC0002904",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB05268",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use an even and factual tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Search functionality in the Portal returns HTTP Status 403 error.\n\nfull_description_text:  \n- The user was trying to use the search feature in the Portal.  \n- Instead of getting the expected results, they received an HTTP Status 403 message.  \n- This indicates that access to the search function is somehow restricted or blocked.  \n- The issue occurred while the user was actively engaged in using the myUSD environment.",
+  "short_description": "Search functionality in the Portal returns HTTP Status 403 error.",
+  "description": "- The user was trying to use the search feature in the Portal.  \n- Instead of getting the expected results, they received an HTTP Status 403 message.  \n- This indicates that access to the search function is somehow restricted or blocked.  \n- The issue occurred while the user was actively engaged in using the myUSD environment."
+}

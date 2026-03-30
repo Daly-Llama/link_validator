@@ -1,0 +1,20 @@
+{
+  "number": "INC0002716",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04699",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Question about listserv send policy details.\n\nfull_description_text: User wants to know about the send policy. They are asking what can be sent on the listserv. It’s a bit confusing for them. They need clear info on this.",
+  "short_description": "Question about listserv send policy details.",
+  "description": "User wants to know about the send policy. They are asking what can be sent on the listserv. It’s a bit confusing for them. They need clear info on this."
+}

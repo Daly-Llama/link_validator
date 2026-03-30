@@ -1,0 +1,20 @@
+{
+  "number": "INC0003563",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07476",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: ALEKS Respondus Lockdown Testing fails on Chromebooks for students.\n\nfull_description_text: \nSo, it looks like the ALEKS website just isn't playing nice with Chromebooks, especially for those dual credit students using the Respondus Lockdown and Monitor component. They were trying to take their tests, but the system isn't compatible, which is a real bummer. It's causing some major headaches for everyone involved, and we need to figure out what's going on.",
+  "short_description": "ALEKS Respondus Lockdown Testing fails on Chromebooks for students.",
+  "description": "So, it looks like the ALEKS website just isn't playing nice with Chromebooks, especially for those dual credit students using the Respondus Lockdown and Monitor component. They were trying to take their tests, but the system isn't compatible, which is a real bummer. It's causing some major headaches for everyone involved, and we need to figure out what's going on."
+}

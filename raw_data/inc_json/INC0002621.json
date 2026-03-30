@@ -1,0 +1,20 @@
+{
+  "number": "INC0002621",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB04401",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Unable to view and respond to emails in Office 365 Outlook.\n\nfull_description_text: The user was trying to access their emails in Outlook and Outlook on the Web but encountered issues. They were unable to view or respond to incoming messages, which disrupted their workflow. This problem occurred while they were actively managing their email communications.",
+  "short_description": "Unable to view and respond to emails in Office 365 Outlook.",
+  "description": "The user was trying to access their emails in Outlook and Outlook on the Web but encountered issues. They were unable to view or respond to incoming messages, which disrupted their workflow. This problem occurred while they were actively managing their email communications."
+}

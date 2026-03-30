@@ -1,0 +1,20 @@
+{
+  "number": "INC0004087",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB08331",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: PDF printing fails to include image from Milestone XProtect.\n\nfull_description_text: User tries to print to PDF. Image area is blank. No picture shows up. This happens in Milestone XProtect on Windows 10.",
+  "short_description": "PDF printing fails to include image from Milestone XProtect.",
+  "description": "User tries to print to PDF. Image area is blank. No picture shows up. This happens in Milestone XProtect on Windows 10."
+}

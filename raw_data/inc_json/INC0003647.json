@@ -1,0 +1,20 @@
+{
+  "number": "INC0003647",
+  "category": "Technology",
+  "subcategory": "Google Apps",
+  "correct_kb": "KB07766",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help using headings in Grackle Docs.\n\nfull_description_text:  \nSo, I was trying to figure out how to use headings in Grackle Docs, but I just can't seem to get it right. I mean, I thought it would be straightforward, but every time I try to format a heading, it just doesn't look like what I expected. It's super frustrating because I want my document to look professional, but I'm stuck here not knowing what to do.",
+  "short_description": "Need help using headings in Grackle Docs.",
+  "description": "So, I was trying to figure out how to use headings in Grackle Docs, but I just can't seem to get it right. I mean, I thought it would be straightforward, but every time I try to format a heading, it just doesn't look like what I expected. It's super frustrating because I want my document to look professional, but I'm stuck here not knowing what to do."
+}

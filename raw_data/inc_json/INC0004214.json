@@ -1,0 +1,20 @@
+{
+  "number": "INC0004214",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB08558",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about the definition of Personally Identifiable Information (PII)\n\nfull_description_text:  \nDuring a phone call, the user requested clarification on what constitutes Personally Identifiable Information (PII). They expressed uncertainty about the specific types of data that fall under this category. This inquiry may relate to compliance or data handling practices within their organization.",
+  "short_description": "Inquiry about the definition of Personally Identifiable Information (PII)",
+  "description": "During a phone call, the user requested clarification on what constitutes Personally Identifiable Information (PII). They expressed uncertainty about the specific types of data that fall under this category. This inquiry may relate to compliance or data handling practices within their organization."
+}

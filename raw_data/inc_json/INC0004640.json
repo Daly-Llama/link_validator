@@ -1,0 +1,20 @@
+{
+  "number": "INC0004640",
+  "category": "Technology",
+  "subcategory": "Printers",
+  "correct_kb": "KB09566",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty understanding how to print using USD Print.\n\nfull_description_text: The user inquired about the USD Print service. They were unsure of the printing process with the multifunction copier. Clarification was needed on how to initiate printing tasks. The context involved both student and faculty usage of the PaperCut system.",
+  "short_description": "Difficulty understanding how to print using USD Print.",
+  "description": "The user inquired about the USD Print service. They were unsure of the printing process with the multifunction copier. Clarification was needed on how to initiate printing tasks. The context involved both student and faculty usage of the PaperCut system."
+}

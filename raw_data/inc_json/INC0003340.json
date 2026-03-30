@@ -1,0 +1,20 @@
+{
+  "number": "INC0003340",
+  "category": "Safety and Security",
+  "subcategory": "Campus Safety",
+  "correct_kb": "KB06595",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issue with USD Threat Assessment Team operations\n\nfull_description_text:  \nThe user was trying to access the USD Threat Assessment Team resources but encountered difficulties. They mentioned that the team was not responding as expected during their urgent request. The situation seemed critical, and the user expressed frustration over the lack of communication from the team.",
+  "short_description": "Issue with USD Threat Assessment Team operations",
+  "description": "The user was trying to access the USD Threat Assessment Team resources but encountered difficulties. They mentioned that the team was not responding as expected during their urgent request. The situation seemed critical, and the user expressed frustration over the lack of communication from the team."
+}

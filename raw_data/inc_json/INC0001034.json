@@ -1,0 +1,20 @@
+{
+  "number": "INC0001034",
+  "category": "Registrar",
+  "subcategory": "Registrar",
+  "correct_kb": "KB00055",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a short and minimal tone. The writing should have reasonable amount of detail and show strong technical proficiency. There should be several noticeable typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "3",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with viewing and ordering transcripts in Self-Service.\n\nfull_description_text: \nThe user is trying to view their Unofficial Transcript but is encountering problems. They also mentioned getting an error when attempting to order their Official transcripts. Additionally, they inquired about the possibility of a refund for their transcript order. There seems to be confusion and frustration regarding the transcript request process.",
+  "short_description": "Issues with viewing and ordering transcripts in Self-Service.",
+  "description": "The user is trying to view their Unofficial Transcript but is encountering problems. They also mentioned getting an error when attempting to order their Official transcripts. Additionally, they inquired about the possibility of a refund for their transcript order. There seems to be confusion and frustration regarding the transcript request process."
+}

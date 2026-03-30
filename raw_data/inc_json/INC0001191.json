@@ -1,0 +1,20 @@
+{
+  "number": "INC0001191",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB00358",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Missing portlet and resources in myUSD Portal\n\nfull_description_text:  \nThe user is experiencing an issue where certain content, specifically a portlet, is no longer visible in the myUSD Portal. Previously, they had access to a tab that included essential resources, but it has disappeared from their home page. Additionally, the new employee requires access to specific options related to \"Med school,\" which are also not appearing as expected. This situation is causing confusion and hindering their ability to utilize the portal effectively.",
+  "short_description": "Missing portlet and resources in myUSD Portal",
+  "description": "The user is experiencing an issue where certain content, specifically a portlet, is no longer visible in the myUSD Portal. Previously, they had access to a tab that included essential resources, but it has disappeared from their home page. Additionally, the new employee requires access to specific options related to \"Med school,\" which are also not appearing as expected. This situation is causing confusion and hindering their ability to utilize the portal effectively."
+}

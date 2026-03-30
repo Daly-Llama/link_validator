@@ -1,0 +1,20 @@
+{
+  "number": "INC0002054",
+  "category": "Technology",
+  "subcategory": "University Sites",
+  "correct_kb": "KB02691",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a warm and approachable tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "5",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help finding faculty portal usernames for Digital Measures.\n\nfull_description_text:\n- I am trying to access the faculty portal usernames.  \n- This is important for me to make users in Digital Measures.  \n- I would appreciate any guidance on how to locate this information.  \n- Thank you for your help!",
+  "short_description": "Need help finding faculty portal usernames for Digital Measures.",
+  "description": "- I am trying to access the faculty portal usernames.  \n- This is important for me to make users in Digital Measures.  \n- I would appreciate any guidance on how to locate this information.  \n- Thank you for your help!"
+}

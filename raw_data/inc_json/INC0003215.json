@@ -1,0 +1,20 @@
+{
+  "number": "INC0003215",
+  "category": "Technology",
+  "subcategory": "Adobe",
+  "correct_kb": "KB06145",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be a few minor typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Question about using Adobe license at Black Hills Playhouse\n\nfull_description_text:  \n- Hey, I was wondering if I can use my USD Adobe license at BHP Education.  \n- Like, does it work for the Black Hills Playhouse?  \n- I just want to make sure before I try to use it.",
+  "short_description": "Question about using Adobe license at Black Hills Playhouse",
+  "description": "- Hey, I was wondering if I can use my USD Adobe license at BHP Education.  \n- Like, does it work for the Black Hills Playhouse?  \n- I just want to make sure before I try to use it."
+}

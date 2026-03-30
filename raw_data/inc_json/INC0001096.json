@@ -1,0 +1,20 @@
+{
+  "number": "INC0001096",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB00184",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to connect to Brother PT-P700 label maker on Windows 10.\n\nfull_description_text: The user is experiencing difficulties establishing a connection with their Brother PT-P700 label maker while using Microsoft Windows 10. Despite following the standard procedures for connecting devices, the label maker remains unresponsive. This issue may be related to driver compatibility or network settings, but further investigation is needed to determine the exact cause.",
+  "short_description": "Unable to connect to Brother PT-P700 label maker on Windows 10.",
+  "description": "The user is experiencing difficulties establishing a connection with their Brother PT-P700 label maker while using Microsoft Windows 10. Despite following the standard procedures for connecting devices, the label maker remains unresponsive. This issue may be related to driver compatibility or network settings, but further investigation is needed to determine the exact cause."
+}

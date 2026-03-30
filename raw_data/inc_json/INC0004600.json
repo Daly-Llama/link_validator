@@ -1,0 +1,20 @@
+{
+  "number": "INC0004600",
+  "category": "Safety and Security",
+  "subcategory": "Environmental Health & Safety",
+  "correct_kb": "KB09461",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a warm and approachable tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be poor spelling and grammar and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "2",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Inquiry about USD's compliance with new EPA Methylene Chloride ruling\n\nfull_description_text: \nSo, during the call, the user was really curious about how USD is handling the new EPA ruling regarding Methylene Chloride, you know, that chemical that’s been in the news a lot lately. They wanted to know specifically what steps are being taken to comply with these new regulations, which is super important for safety and environmental reasons. It seems like there’s a lot of concern about this, and they were looking for detailed information on the protocols for substituting and eliminating Methylene Chloride. It’s a big topic, and they just needed clarity on what’s being done to meet these new standards.",
+  "short_description": "Inquiry about USD's compliance with new EPA Methylene Chloride ruling",
+  "description": "So, during the call, the user was really curious about how USD is handling the new EPA ruling regarding Methylene Chloride, you know, that chemical that’s been in the news a lot lately. They wanted to know specifically what steps are being taken to comply with these new regulations, which is super important for safety and environmental reasons. It seems like there’s a lot of concern about this, and they were looking for detailed information on the protocols for substituting and eliminating Methylene Chloride. It’s a big topic, and they just needed clarity on what’s being done to meet these new standards."
+}

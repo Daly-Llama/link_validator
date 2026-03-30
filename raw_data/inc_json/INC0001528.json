@@ -1,0 +1,20 @@
+{
+  "number": "INC0001528",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01124",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be poor spelling and grammar and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "5",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "2",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need help with hardware upgrades for university computer.\n\nfull_description_text:  \nI want to upgrade my SSD drive.  \nAlso, I need a charging cable for my laptop.  \nMy desktop makes a clicking sound sometimes.  \nI think I need more RAM and a PCIe card too.  \nMy battery doesn't hold charge well.",
+  "short_description": "Need help with hardware upgrades for university computer.",
+  "description": "I want to upgrade my SSD drive.  \nAlso, I need a charging cable for my laptop.  \nMy desktop makes a clicking sound sometimes.  \nI think I need more RAM and a PCIe card too.  \nMy battery doesn't hold charge well."
+}

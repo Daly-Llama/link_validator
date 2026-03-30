@@ -1,0 +1,20 @@
+{
+  "number": "INC0002061",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02716",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "4",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Issues with smart classroom equipment not functioning properly\n\nfull_description_text: \nThe user reported multiple problems with the smart classroom setup during a live call. They are unable to start the classroom equipment, and the projector is either not turning on or is flashing intermittently. Additionally, the touch panel is unresponsive, and the laser pointer is not working, which is impacting their ability to conduct the session effectively.",
+  "short_description": "Issues with smart classroom equipment not functioning properly",
+  "description": "The user reported multiple problems with the smart classroom setup during a live call. They are unable to start the classroom equipment, and the projector is either not turning on or is flashing intermittently. Additionally, the touch panel is unresponsive, and the laser pointer is not working, which is impacting their ability to conduct the session effectively."
+}

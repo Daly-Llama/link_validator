@@ -1,0 +1,20 @@
+{
+  "number": "INC0004064",
+  "category": "Technology",
+  "subcategory": "Word",
+  "correct_kb": "KB08298",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Inquiry about the function of Building Blocks in Word\n\nfull_description_text:\n- The user is seeking clarification on the concept of Building Blocks within Microsoft Word.  \n- They are unsure about how these features can enhance their document creation process.  \n- This inquiry suggests a need for a better understanding of Word's functionalities to improve efficiency.  \n- The user is likely looking for detailed information to utilize these features effectively.",
+  "short_description": "Inquiry about the function of Building Blocks in Word",
+  "description": "- The user is seeking clarification on the concept of Building Blocks within Microsoft Word.  \n- They are unsure about how these features can enhance their document creation process.  \n- This inquiry suggests a need for a better understanding of Word's functionalities to improve efficiency.  \n- The user is likely looking for detailed information to utilize these features effectively."
+}

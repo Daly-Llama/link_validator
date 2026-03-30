@@ -1,0 +1,20 @@
+{
+  "number": "INC0003449",
+  "category": "Technology",
+  "subcategory": "Security & Safe Computing",
+  "correct_kb": "KB07056",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Request for email notification on new employee training completion\n\nfull_description_text: During a live chat, a help desk analyst inquired about receiving email notifications when new employees finish their initial HR training. They were specifically interested in how to set this up for KnowBe4 training campaigns. The analyst wanted to ensure that they stay informed about employee progress in training, which is crucial for onboarding.",
+  "short_description": "Request for email notification on new employee training completion",
+  "description": "During a live chat, a help desk analyst inquired about receiving email notifications when new employees finish their initial HR training. They were specifically interested in how to set this up for KnowBe4 training campaigns. The analyst wanted to ensure that they stay informed about employee progress in training, which is crucial for onboarding."
+}

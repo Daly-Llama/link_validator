@@ -1,0 +1,20 @@
+{
+  "number": "INC0001656",
+  "category": "Technology",
+  "subcategory": "Computers, Peripherals and Hardware",
+  "correct_kb": "KB01527",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have very limited detail and show moderate technical familiarity. There should be no spelling errors and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request for loaner laptop at Sanford School of Medicine\n\nfull_description_text:  \nAn individual submitted a request for a loaner laptop while on the Sanford School of Medicine campus. They inquired specifically about the availability of such devices in Sioux Falls. The request was made through a self-service form, indicating a need for assistance with technology.",
+  "short_description": "Request for loaner laptop at Sanford School of Medicine",
+  "description": "An individual submitted a request for a loaner laptop while on the Sanford School of Medicine campus. They inquired specifically about the availability of such devices in Sioux Falls. The request was made through a self-service form, indicating a need for assistance with technology."
+}

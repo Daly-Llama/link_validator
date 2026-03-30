@@ -1,0 +1,20 @@
+{
+  "number": "INC0001149",
+  "category": "Technology",
+  "subcategory": "Experience portal (Formerly SNAP)",
+  "correct_kb": "KB00295",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be no spelling errors and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "1",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to access SNAP using Internet Explorer 9\n\nfull_description_text:\n- The user is trying to log into SNAP but is facing issues.  \n- This problem occurs specifically when using Internet Explorer 9.  \n- No error messages were provided, making it unclear what the exact issue might be.",
+  "short_description": "Unable to access SNAP using Internet Explorer 9",
+  "description": "- The user is trying to log into SNAP but is facing issues.  \n- This problem occurs specifically when using Internet Explorer 9.  \n- No error messages were provided, making it unclear what the exact issue might be."
+}

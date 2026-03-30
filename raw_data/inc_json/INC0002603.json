@@ -1,0 +1,20 @@
+{
+  "number": "INC0002603",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04318",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Error loading DegreeWorks Dashboard due to invalid school or degree.\n\nfull_description_text:  \nSo, when trying to access a degree audit in the DegreeWorks Dashboard, there's this error popping up. It says something like \"the school or degree is not valid in the UCX.\" It's kinda frustrating because it also mentions no requirements were found for the curriculum, which makes it hard to figure out what's going on.",
+  "short_description": "Error loading DegreeWorks Dashboard due to invalid school or degree.",
+  "description": "So, when trying to access a degree audit in the DegreeWorks Dashboard, there's this error popping up. It says something like \"the school or degree is not valid in the UCX.\" It's kinda frustrating because it also mentions no requirements were found for the curriculum, which makes it hard to figure out what's going on."
+}

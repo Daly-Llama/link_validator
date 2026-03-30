@@ -1,0 +1,20 @@
+{
+  "number": "INC0002817",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB04949",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a formal and professional tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Request to add administrator user for NMM website\n\nfull_description_text:  \nUser is requesting to add a new administrator for the National Music Museum's website.  \nThe website in question is nmmusd.org.  \nThis request was submitted through the self-service form.  \nThe user expects prompt action on this permission change.",
+  "short_description": "Request to add administrator user for NMM website",
+  "description": "User is requesting to add a new administrator for the National Music Museum's website.  \nThe website in question is nmmusd.org.  \nThis request was submitted through the self-service form.  \nThe user expects prompt action on this permission change."
+}

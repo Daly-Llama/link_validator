@@ -1,0 +1,20 @@
+{
+  "number": "INC0003772",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB07902",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Unable to confirm if folder was deleted from shared drive.\n\nfull_description_text:\n- User copied their whole desktop to the shared drive.  \n- They tried to delete it but got a message about needing admin rights.  \n- Then it said it was deleted, but they want to check if it really is gone.  \n- Is there a way to verify if the folder is still there or not?",
+  "short_description": "Unable to confirm if folder was deleted from shared drive.",
+  "description": "- User copied their whole desktop to the shared drive.  \n- They tried to delete it but got a message about needing admin rights.  \n- Then it said it was deleted, but they want to check if it really is gone.  \n- Is there a way to verify if the folder is still there or not?"
+}

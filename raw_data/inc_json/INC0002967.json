@@ -1,0 +1,20 @@
+{
+  "number": "INC0002967",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB05419",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a short and minimal tone. The writing should have excessive unnecessary detail and show moderate technical familiarity. There should be a few minor typos and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "3",
+    "detail_level": "3",
+    "structure_style": "1",
+    "writing_style": "3",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Students unable to view D2L Attendance log or Progress Summary\n\nfull_description_text:\n- Students need to login every 48 hours for course standing.  \n- They want to see their progress info in Desire2Learn.  \n- Is there a way to check attendance logs?  \n- This is important to avoid falling out of good standing.",
+  "short_description": "Students unable to view D2L Attendance log or Progress Summary",
+  "description": "- Students need to login every 48 hours for course standing.  \n- They want to see their progress info in Desire2Learn.  \n- Is there a way to check attendance logs?  \n- This is important to avoid falling out of good standing."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003536",
+  "category": "Technology",
+  "subcategory": "Accounts and User Access",
+  "correct_kb": "KB07367",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be distracting grammar usage and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "4",
+    "contextual_noise": "4",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: New employee needs USD account and door access card.\n\nfull_description_text: New staff member hired, but no USD account or door card. Need help to set up these access things. Please assist with this process quickly.",
+  "short_description": "New employee needs USD account and door access card.",
+  "description": "New staff member hired, but no USD account or door card. Need help to set up these access things. Please assist with this process quickly."
+}

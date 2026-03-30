@@ -1,0 +1,20 @@
+{
+  "number": "INC0003757",
+  "category": "Technology",
+  "subcategory": "Excel",
+  "correct_kb": "KB07882",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a warm and approachable tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be no spelling errors and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "5",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Difficulty resizing rows and columns in Excel worksheets.\n\nfull_description_text: During a live phone call, the user expressed frustration while trying to resize the rows and columns in their Excel worksheet. They were attempting to adjust the dimensions to better fit their data but encountered challenges that hindered their progress. The user described their experience in detail, highlighting the importance of having a well-organized worksheet for their ongoing project. Despite their familiarity with Excel, they found themselves stuck and in need of assistance to resolve this issue effectively.",
+  "short_description": "Difficulty resizing rows and columns in Excel worksheets.",
+  "description": "During a live phone call, the user expressed frustration while trying to resize the rows and columns in their Excel worksheet. They were attempting to adjust the dimensions to better fit their data but encountered challenges that hindered their progress. The user described their experience in detail, highlighting the importance of having a well-organized worksheet for their ongoing project. Despite their familiarity with Excel, they found themselves stuck and in need of assistance to resolve this issue effectively."
+}

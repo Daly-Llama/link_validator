@@ -1,0 +1,20 @@
+{
+  "number": "INC0002098",
+  "category": "Technology",
+  "subcategory": "Email",
+  "correct_kb": "KB02823",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in bullet points and use a formal and professional tone. The writing should have very limited detail and show strong technical proficiency. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "1",
+    "structure_style": "1",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Unable to log into Office 365 WebMail account\n\nfull_description_text:\n- User is trying to log into their Office 365 WebMail account.  \n- When entering username and password, the page refreshes without any error message.  \n- User is unable to access Outlook e-mail and sees a message about no mailbox and no license assigned.",
+  "short_description": "Unable to log into Office 365 WebMail account",
+  "description": "- User is trying to log into their Office 365 WebMail account.  \n- When entering username and password, the page refreshes without any error message.  \n- User is unable to access Outlook e-mail and sees a message about no mailbox and no license assigned."
+}

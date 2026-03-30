@@ -1,0 +1,20 @@
+{
+  "number": "INC0002565",
+  "category": "Technology",
+  "subcategory": "Email, Calendars and Collaboration Tools",
+  "correct_kb": "KB04192",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks English as their first language.\nYou should write the description in a mixed and uneven structure and use a short and minimally polite tone. The writing should have very limited detail and show limited technical understanding. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "5",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Phish Alert Button is missing in the shared mailbox.\n\nfull_description_text: I was trying to report a phishing email but couldn't find the button. It just wasn't there in the shared mailbox. This is really frustrating because I wanted to do my part.",
+  "short_description": "Phish Alert Button is missing in the shared mailbox.",
+  "description": "I was trying to report a phishing email but couldn't find the button. It just wasn't there in the shared mailbox. This is really frustrating because I wanted to do my part."
+}

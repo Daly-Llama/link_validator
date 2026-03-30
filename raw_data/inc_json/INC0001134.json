@@ -1,0 +1,20 @@
+{
+  "number": "INC0001134",
+  "category": "Technology",
+  "subcategory": "Multifunction Copier",
+  "correct_kb": "KB00265",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks non-English as their first language.\nYou should write the description in short fragmented statements and use an even and factual tone. The writing should have excessive unnecessary detail and show strong technical proficiency. There should be several noticeable typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "3",
+    "spelling_grammar": "3",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "3",
+    "writing_style": "4",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Need IP address for new multi-function copier/printer installation.\n\nfull_description_text: \nUser is trying to install a new multi-function device.  \nThey require the IP address for this device.  \nThe device is connected to the USD Network.  \nUser is not fluent in English, may have difficulty understanding.",
+  "short_description": "Need IP address for new multi-function copier/printer installation.",
+  "description": "User is trying to install a new multi-function device.  \nThey require the IP address for this device.  \nThe device is connected to the USD Network.  \nUser is not fluent in English, may have difficulty understanding."
+}

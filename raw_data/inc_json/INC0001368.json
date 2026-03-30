@@ -1,0 +1,20 @@
+{
+  "number": "INC0001368",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB00694",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Problem with setting up shared email account in macOS Outlook\n\nfull_description_text:  \nI am trying to set up a shared email account in Outlook on my macOS. It’s not working and I don’t know why. I need help with this shared email account setup. Please assist me with this issue.",
+  "short_description": "Problem with setting up shared email account in macOS Outlook",
+  "description": "I am trying to set up a shared email account in Outlook on my macOS. It’s not working and I don’t know why. I need help with this shared email account setup. Please assist me with this issue."
+}

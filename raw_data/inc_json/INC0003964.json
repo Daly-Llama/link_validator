@@ -1,0 +1,20 @@
+{
+  "number": "INC0003964",
+  "category": "Technology",
+  "subcategory": "Qualtrics",
+  "correct_kb": "KB08117",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show limited technical understanding. There should be poor spelling and grammar and some contradictory ordering.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "5",
+    "contextual_noise": "3",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Need help with formatting a Qualtrics survey.\n\nfull_description_text: So, I got this email asking about how to format a Qualtrics survey. They wanna know the different ways to do it, but it’s kinda unclear what exactly they need. Just looking for some tips or something on that.",
+  "short_description": "Need help with formatting a Qualtrics survey.",
+  "description": "So, I got this email asking about how to format a Qualtrics survey. They wanna know the different ways to do it, but it’s kinda unclear what exactly they need. Just looking for some tips or something on that."
+}

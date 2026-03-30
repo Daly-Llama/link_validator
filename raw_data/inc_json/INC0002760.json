@@ -1,0 +1,20 @@
+{
+  "number": "INC0002760",
+  "category": "Technology",
+  "subcategory": "Self Service Banner",
+  "correct_kb": "KB04810",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst in response to an email and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be a few minor typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "4"
+  },
+  "raw_text": "short_description_text: Error 404 when accepting Financial Aid in Banner Self Service\n\nfull_description_text:  \nSo, it looks like the customer is trying to accept their Financial Aid in Banner Self Service, but they keep hitting a 404 server not found error. This is super frustrating, especially when they just want to get their aid sorted out. It’s unclear if it’s a temporary glitch or something more serious, but they definitely need help getting past this issue.",
+  "short_description": "Error 404 when accepting Financial Aid in Banner Self Service",
+  "description": "So, it looks like the customer is trying to accept their Financial Aid in Banner Self Service, but they keep hitting a 404 server not found error. This is super frustrating, especially when they just want to get their aid sorted out. It’s unclear if it’s a temporary glitch or something more serious, but they definitely need help getting past this issue."
+}

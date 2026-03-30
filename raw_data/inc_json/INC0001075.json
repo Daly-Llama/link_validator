@@ -1,0 +1,20 @@
+{
+  "number": "INC0001075",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB00135",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in bullet points and use a casual conversational tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "2",
+    "structure_style": "1",
+    "writing_style": "2",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Issues with syncing on DVSport using Microsoft Surface\n\nfull_description_text:\n- So, I'm trying to sync DVSport on my Microsoft Surface, but it just won't work.  \n- I've checked everything, and it keeps saying it won't sync.  \n- It's super frustrating because I need it to work for my job, and I can't figure out why it's not syncing at all.",
+  "short_description": "Issues with syncing on DVSport using Microsoft Surface",
+  "description": "- So, I'm trying to sync DVSport on my Microsoft Surface, but it just won't work.  \n- I've checked everything, and it keeps saying it won't sync.  \n- It's super frustrating because I need it to work for my job, and I can't figure out why it's not syncing at all."
+}

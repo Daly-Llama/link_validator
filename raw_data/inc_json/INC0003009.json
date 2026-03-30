@@ -1,0 +1,20 @@
+{
+  "number": "INC0003009",
+  "category": "Technology",
+  "subcategory": "Network & WiFi",
+  "correct_kb": "KB05520",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: PS4 is causing Wi-Fi interference by broadcasting as a hotspot.\n\nfull_description_text: \nSo, the user was just trying to use their PS4, but it’s acting up. It’s broadcasting itself as a Wi-Fi hotspot, and that’s messing with the dorm Wi-Fi. They’re really frustrated because it’s causing issues for everyone around.",
+  "short_description": "PS4 is causing Wi-Fi interference by broadcasting as a hotspot.",
+  "description": "So, the user was just trying to use their PS4, but it’s acting up. It’s broadcasting itself as a Wi-Fi hotspot, and that’s messing with the dorm Wi-Fi. They’re really frustrated because it’s causing issues for everyone around."
+}

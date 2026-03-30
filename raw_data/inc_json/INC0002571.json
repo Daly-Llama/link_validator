@@ -1,0 +1,20 @@
+{
+  "number": "INC0002571",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB04209",
+  "modifier_text": "Assume that the ticket was created by an end user through a self-service form submission and that the person who created it speaks Spanish as their first language.\nYou should write the description in a narrative style and use a formal and professional tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be a few minor typos and some repeated wording or phrases.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "1",
+    "spelling_grammar": "2",
+    "contextual_noise": "2",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "1",
+    "entry_method": "2"
+  },
+  "raw_text": "short_description_text: Stylus pen for interactive monitor is missing or not functioning.\n\nfull_description_text:  \nIn the classroom, the stylus pen that is used for the interactive monitor is currently missing, which is causing a significant issue. The stylus pen is essential for interacting with the monitor, and without it, the functionality of the equipment is greatly reduced. Additionally, there are concerns that the stylus pen may also be broken or not working properly, which adds to the confusion and difficulty in using the smart classroom technology. It is important to address this matter promptly to ensure that the classroom can operate effectively.",
+  "short_description": "Stylus pen for interactive monitor is missing or not functioning.",
+  "description": "In the classroom, the stylus pen that is used for the interactive monitor is currently missing, which is causing a significant issue. The stylus pen is essential for interacting with the monitor, and without it, the functionality of the equipment is greatly reduced. Additionally, there are concerns that the stylus pen may also be broken or not working properly, which adds to the confusion and difficulty in using the smart classroom technology. It is important to address this matter promptly to ensure that the classroom can operate effectively."
+}

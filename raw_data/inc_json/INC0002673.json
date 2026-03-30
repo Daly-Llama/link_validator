@@ -1,0 +1,20 @@
+{
+  "number": "INC0002673",
+  "category": "Technology",
+  "subcategory": "Outlook",
+  "correct_kb": "KB04568",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks Spanish as their first language.\nYou should write the description in symptom-first manner and use a short and minimally polite tone. The writing should have very limited detail and show strong technical proficiency. There should be no spelling errors and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "2",
+    "technical_proficiency": "3",
+    "spelling_grammar": "1",
+    "contextual_noise": "1",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "6",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Changing default email account in Outlook to a shared address\n\nfull_description_text:  \nUser is trying to set a Department email account as the default in Outlook. Currently, their personal email address is set as the default. They need assistance with this change.",
+  "short_description": "Changing default email account in Outlook to a shared address",
+  "description": "User is trying to set a Department email account as the default in Outlook. Currently, their personal email address is set as the default. They need assistance with this change."
+}

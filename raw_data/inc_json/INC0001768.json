@@ -1,0 +1,20 @@
+{
+  "number": "INC0001768",
+  "category": "Technology",
+  "subcategory": "Coyote Card",
+  "correct_kb": "KB01827",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in symptom-first manner and use a formal and professional tone. The writing should have reasonable amount of detail and show limited technical understanding. There should be distracting grammar usage and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "4",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "2",
+    "writing_style": "1",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Difficulty activating ID card for building access on campus.\n\nfull_description_text: A field technician is experiencing issues with activating their ID card to gain entry into a campus building. They are also exploring options for electronic door access, including potential changes to their access plan. Additionally, there is a concern about accessing a specific door to either retrieve items or facilitate a move. The technician is seeking guidance on how to resolve these access issues effectively.",
+  "short_description": "Difficulty activating ID card for building access on campus.",
+  "description": "A field technician is experiencing issues with activating their ID card to gain entry into a campus building. They are also exploring options for electronic door access, including potential changes to their access plan. Additionally, there is a concern about accessing a specific door to either retrieve items or facilitate a move. The technician is seeking guidance on how to resolve these access issues effectively."
+}

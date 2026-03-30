@@ -1,0 +1,20 @@
+{
+  "number": "INC0004746",
+  "category": "Technology",
+  "subcategory": "Software and Applications",
+  "correct_kb": "KB09916",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks non-English as their first language.\nYou should write the description in a mixed and uneven structure and use an even and factual tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some uncertain technical terminology.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "4",
+    "detail_level": "2",
+    "structure_style": "5",
+    "writing_style": "4",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Fiery Command WorkStation update fails with error -5006 : 0x800700005\n\nfull_description_text: \nUser was trying to update Fiery Command WorkStation on Windows 11. They got an error message saying \"An error (-5006 : 0x800700005) has occured.\" It suggests to finish any previous setup and close other applications, but user not sure what to do next. They need help because the update is not working and they are confused about the error.",
+  "short_description": "Fiery Command WorkStation update fails with error -5006 : 0x800700005",
+  "description": "User was trying to update Fiery Command WorkStation on Windows 11. They got an error message saying \"An error (-5006 : 0x800700005) has occured.\" It suggests to finish any previous setup and close other applications, but user not sure what to do next. They need help because the update is not working and they are confused about the error."
+}

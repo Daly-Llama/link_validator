@@ -1,0 +1,20 @@
+{
+  "number": "INC0002080",
+  "category": "Technology",
+  "subcategory": "Classroom and Computer Lab Support",
+  "correct_kb": "KB02773",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live phone call and that the person who created it speaks non-English as their first language.\nYou should write the description in symptom-first manner and use a casual conversational tone. The writing should have very limited detail and show moderate technical familiarity. There should be a few minor typos and some redundant repeated information.",
+  "modifier_choices": {
+    "native_language": "3",
+    "technical_proficiency": "2",
+    "spelling_grammar": "2",
+    "contextual_noise": "5",
+    "detail_level": "1",
+    "structure_style": "2",
+    "writing_style": "2",
+    "entry_method": "1"
+  },
+  "raw_text": "short_description_text: Video conference scheduling issue with Cisco TMS in conference room.\n\nfull_description_text: So, there’s a problem with scheduling a video conference using TMS. The person on the call said they can’t get it to work right in the conference room. They were trying to set it up but it’s just not happening.",
+  "short_description": "Video conference scheduling issue with Cisco TMS in conference room.",
+  "description": "So, there’s a problem with scheduling a video conference using TMS. The person on the call said they can’t get it to work right in the conference room. They were trying to set it up but it’s just not happening."
+}

@@ -1,0 +1,20 @@
+{
+  "number": "INC0003579",
+  "category": "Technology",
+  "subcategory": "Desire2Learn",
+  "correct_kb": "KB07552",
+  "modifier_text": "Assume that the ticket was created by a help desk analyst during a live chat session and that the person who created it speaks English as their first language.\nYou should write the description in a narrative style and use a casual conversational tone. The writing should have excessive unnecessary detail and show limited technical understanding. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "1",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "3",
+    "structure_style": "4",
+    "writing_style": "2",
+    "entry_method": "3"
+  },
+  "raw_text": "short_description_text: Confusion about the Course Schedule tab in D2L\n\nfull_description_text: So, during our chat, the user was asking about this thing called the Course Schedule tab in D2L, which I guess is like a part of the online learning platform. They seemed a bit lost and wanted to know what it actually does, like if it shows all the classes or just some of them. I remember them mentioning something about trying to find their classes for the semester, but it was kinda hard to follow because they kept talking about other stuff too, like how they were having coffee while trying to figure it out.",
+  "short_description": "Confusion about the Course Schedule tab in D2L",
+  "description": "So, during our chat, the user was asking about this thing called the Course Schedule tab in D2L, which I guess is like a part of the online learning platform. They seemed a bit lost and wanted to know what it actually does, like if it shows all the classes or just some of them. I remember them mentioning something about trying to find their classes for the semester, but it was kinda hard to follow because they kept talking about other stuff too, like how they were having coffee while trying to figure it out."
+}

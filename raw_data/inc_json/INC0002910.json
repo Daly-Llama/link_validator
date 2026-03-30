@@ -1,0 +1,20 @@
+{
+  "number": "INC0002910",
+  "category": "Library",
+  "subcategory": "Library",
+  "correct_kb": "KB05284",
+  "modifier_text": "Assume that the ticket was created by a field technician and that the person who created it speaks English as their first language.\nYou should write the description in short fragmented statements and use a short and minimal tone. The writing should have reasonable amount of detail and show moderate technical familiarity. There should be several noticeable typos and some irrelevant details included.",
+  "modifier_choices": {
+    "native_language": "1",
+    "technical_proficiency": "2",
+    "spelling_grammar": "3",
+    "contextual_noise": "1",
+    "detail_level": "2",
+    "structure_style": "3",
+    "writing_style": "3",
+    "entry_method": "5"
+  },
+  "raw_text": "short_description_text: Unable to access books and articles not available at USD Library\n\nfull_description_text:  \nTrying to access an article.  \nIt's not available at USD Library.  \nWegner Library and interlibrary loan options are not working.  \nNeed help getting this article.",
+  "short_description": "Unable to access books and articles not available at USD Library",
+  "description": "Trying to access an article.  \nIt's not available at USD Library.  \nWegner Library and interlibrary loan options are not working.  \nNeed help getting this article."
+}
