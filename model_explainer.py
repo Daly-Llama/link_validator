@@ -1,13 +1,11 @@
 import joblib
 import shap
 from pathlib import Path
-from text_classifier import load_link_data
-from text_classifier import load_article_data
-from text_classifier import load_incident_data
-from text_classifier import merge_dataframes
-from text_classifier import build_features
 from matplotlib import pyplot as plt
-
+from text_classifier import (
+    load_link_data, load_article_data, load_incident_data,
+    merge_dataframes, build_features
+)
 
 #---------------------
 # Set global variables
