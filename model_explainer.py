@@ -33,6 +33,7 @@ def get_explainer(model, X_background):
 
     return EXPLAINER
 
+
 def explain_model(explainer, X_sample, feature_names):
     """
     #     Creates SHAP plots to summarize the model
@@ -74,7 +75,6 @@ def explain_local(explainer, feature_vector, feature_names):
         matplotlib=True
     )
     plt.show()
-
 
 
 #------------------
