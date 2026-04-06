@@ -293,3 +293,8 @@ It balances:
 - Practicality  
 - Interpretability  
 - Real‑world applicability
+
+---
+
+### **Acknowledgements**
+Portions of this project’s documentation, pipeline design, and code review were assisted by Microsoft Copilot.
