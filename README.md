@@ -1,7 +1,7 @@
 # **Link Validator — End‑to‑End Machine Learning Pipeline**
 
 A complete, modular machine‑learning system that predicts whether a Help Desk analyst attached the correct knowledge article to a support ticket.  
-Designed for organizations practicing **Knowledge‑Centered Service (KCS)** and built as part of DSC 680 – Applied Data Science at Bellevue University.
+The model is designed and optimized for organizations that use the **Knowledge‑Centered Service (KCS)** methodology, but may have applications for other organizations as well.
 
 This project demonstrates:
 
@@ -90,9 +90,6 @@ That’s it — you now have:
 ---
 
 # **Project Overview**
-
-Help Desk analysts often struggle to find the correct knowledge article for a customer issue.  
-This project builds a **Link Validator** model that predicts whether an incident is linked to the correct article.
 
 The pipeline:
 
@@ -297,4 +294,4 @@ It balances:
 ---
 
 ### **Acknowledgements**
-Portions of this project’s documentation, pipeline design, and code review were assisted by Microsoft Copilot.
+I utilized Microsoft Copilot to assist with designing the project pipeline, reviewing the code, and creating this README documentation.
